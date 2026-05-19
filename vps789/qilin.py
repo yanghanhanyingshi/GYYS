@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+import re
 import time
 import os
 
@@ -15,72 +16,42 @@ def run():
         )
 
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            viewport={"width": 1920, "height": 1080}
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
         )
 
         page = context.new_page()
 
         try:
             print("正在打开：api.uouin.com/cloudflare.html")
+            page.goto("https://api.uouin.com/cloudflare.html", timeout=60000)
+            time.sleep(12)  # 强制等页面加载完所有IP
 
-            page.goto(
-                "https://api.uouin.com/cloudflare.html",
-                wait_until="load",
-                timeout=60000
-            )
+            # ==============================================
+            # 终极方案：直接提取页面里所有 IPv4 地址
+            # ==============================================
+            page_text = page.inner_text("body")
+            ip_pattern = re.compile(r'\b(?:\d{1,3}\.){3}\d{1,3}\b')
+            all_ips = ip_pattern.findall(page_text)
 
-            print("等待IP数据加载...")
-            time.sleep(10)  # 足够加载动态数据
+            # 简单过滤合法IP
+            valid_ips = []
+            for ip in all_ips:
+                parts = ip.split(".")
+                if len(parts) == 4 and all(0 <= int(p) <= 255 for p in parts):
+                    valid_ips.append(ip)
 
-            ip_data = []
-            
-            # 正确、稳定、无错误的CSS选择器
-            rows = page.query_selector_all("#ipTable tbody tr")
-            
-            # 备用方案：如果上面没找到，用这个
-            if len(rows) == 0:
-                rows = page.query_selector_all("table tbody tr")
+            # 去重
+            unique_ips = list(set(valid_ips))
+            unique_ips.sort()  # 排序
 
-            print(f"找到 {len(rows)} 行数据")
-
-            for row in rows:
-                tds = row.query_selector_all("td")
-                if len(tds) < 4:
-                    continue
-
-                ip = tds[0].inner_text().strip()
-                ping_str = tds[3].inner_text().strip()
-
-                if not ip or "." not in ip:
-                    continue
-
-                # 提取延迟数字
-                try:
-                    ping = int(''.join(filter(str.isdigit, ping_str)))
-                except:
-                    ping = 9999
-
-                # 只保留延迟 ≤ 300ms 的优质IP
-                if ping <= 300:
-                    ip_data.append((ip, ping))
-
-            # 去重 + 按延迟从小到大排序
-            ip_dict = {}
-            for ip, ping in ip_data:
-                if ip not in ip_dict:
-                    ip_dict[ip] = ping
-
-            sorted_ips = sorted(ip_dict.keys(), key=lambda x: ip_dict[x])
-
-            # 保存文件
+            # 保存
             current_dir = os.path.dirname(os.path.abspath(__file__))
             save_path = os.path.join(current_dir, "qilin_ip.txt")
 
             with open(save_path, "w", encoding="utf-8") as f:
-                f.write("\n".join(sorted_ips))
+                f.write("\n".join(unique_ips))
 
-            print(f"✅ 抓取完成！有效优质IP：{len(sorted_ips)} 个")
+            print(f"✅ 抓取完成！共获取 {len(unique_ips)} 个优选IP")
 
         except Exception as e:
             print(f"❌ 错误：{str(e)}")

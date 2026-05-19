@@ -11,8 +11,6 @@ def run():
                 "--disable-dev-shm-usage",
                 "--disable-gpu",
                 "--disable-images",
-                "--disable-web-security",
-                "--disable-features=IsolateOrigins",
             ]
         )
 
@@ -32,15 +30,17 @@ def run():
                 timeout=60000
             )
 
-            # 等待页面动态加载IP数据（关键修复）
             print("等待IP数据加载...")
-            time.sleep(8)
+            time.sleep(10)  # 足够加载动态数据
 
             ip_data = []
-            rows = page.query_selector_all("div#ipTable table tbody tr")
-
-            if not rows:
-                rows = page.query_selector_all("div[contains(@class,'container')] table tbody tr")
+            
+            # 正确、稳定、无错误的CSS选择器
+            rows = page.query_selector_all("#ipTable tbody tr")
+            
+            # 备用方案：如果上面没找到，用这个
+            if len(rows) == 0:
+                rows = page.query_selector_all("table tbody tr")
 
             print(f"找到 {len(rows)} 行数据")
 
@@ -55,17 +55,17 @@ def run():
                 if not ip or "." not in ip:
                     continue
 
-                # 提取延迟
+                # 提取延迟数字
                 try:
                     ping = int(''.join(filter(str.isdigit, ping_str)))
                 except:
                     ping = 9999
 
-                # 只保留优质IP（延迟 ≤ 300ms）
+                # 只保留延迟 ≤ 300ms 的优质IP
                 if ping <= 300:
                     ip_data.append((ip, ping))
 
-            # 去重 + 排序（延迟低 → 高）
+            # 去重 + 按延迟从小到大排序
             ip_dict = {}
             for ip, ping in ip_data:
                 if ip not in ip_dict:
@@ -73,7 +73,7 @@ def run():
 
             sorted_ips = sorted(ip_dict.keys(), key=lambda x: ip_dict[x])
 
-            # 保存
+            # 保存文件
             current_dir = os.path.dirname(os.path.abspath(__file__))
             save_path = os.path.join(current_dir, "qilin_ip.txt")
 

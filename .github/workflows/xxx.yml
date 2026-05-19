@@ -1,0 +1,71 @@
+name: qilin-ip
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时自动采集一次
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 安装 Playwright 环境
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: 麒麟IP优选采集（测速+去重）
+        run: python vps789/qilin.py
+
+      - name: 生成TOP文件并自动提交更新
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+          # 获取北京时间
+          BEIJING_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
+          echo "⏰ 当前北京时间：$BEIJING_TIME"
+
+          cd vps789/
+          git add qilin_ip.txt
+
+          # 判断IP是否有变化
+          if git diff --cached --quiet qilin_ip.txt; then
+            echo "✅ IP无变化，无需更新"
+          else
+            echo "🔄 检测到优质IP更新，生成麒麟TOP文件..."
+
+            # 生成麒麟TOP格式文件
+            generate_qilin() {
+              local count=$1
+              local file="qilin${count}_ip.txt"
+              echo "saas.sin.fan:443#▼ 麒麟优选IP TOP${count} | ${BEIJING_TIME} | 灵鹿优选" > "$file"
+              head -n $count qilin_ip.txt | sed 's/.*/&:443#&/' >> "$file"
+              echo "bestcf.030101.xyz:443#▲ 麒麟优选IP | 灵鹿优选 | 自动采集" >> "$file"
+              echo "✅ 生成：$file"
+            }
+
+            generate_qilin 100
+            generate_qilin 50
+            generate_qilin 20
+            generate_qilin 10
+
+            git add *.txt
+            git commit -m "麒麟优选IP ${BEIJING_TIME}"
+            git pull --rebase origin main
+            git push origin main
+          fi

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-21 01:50 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-21 04:03 | 灵鹿优选
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
+us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
+markmonitor.com:443#markmonitor.com
 yyurl.cc:443#yyurl.cc
 mskcc.org:443#mskcc.org
-www.5199dy.com:443#www.5199dy.com
-store.epicgames.com:443#store.epicgames.com
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
+www.mc.js.cool:443#www.mc.js.cool
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

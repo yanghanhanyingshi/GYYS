@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-21 06:20 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-21 08:02 | 灵鹿优选
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 markmonitor.com:443#markmonitor.com
-yyurl.cc:443#yyurl.cc
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 www.mc.js.cool:443#www.mc.js.cool
 store.epicgames.com:443#store.epicgames.com
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-visa.com.tw:443#visa.com.tw
 investor.apple.com:443#investor.apple.com
 d.lma.de5.net:443#d.lma.de5.net
 zeas.top:443#zeas.top
 vps.cheng2001.top:443#vps.cheng2001.top
 www.visa.com.hk:443#www.visa.com.hk
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 store.ubi.com:443#store.ubi.com
+mogas.com:443#mogas.com
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

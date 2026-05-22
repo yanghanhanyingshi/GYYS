@@ -1,7 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-23 06:00 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-23 07:05 | 灵鹿优选
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-store.ubi.com:443#store.ubi.com
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
@@ -10,8 +9,10 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cmcc.cc.cd:443#cmcc.cc.cd
-cdn.2158.cc:443#cdn.2158.cc
+cf.v8.longsays.com:443#cf.v8.longsays.com
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 baka.fun:443#baka.fun
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 stlouiscountymo.gov:443#stlouiscountymo.gov
 ys2046.cv:443#ys2046.cv
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -25,28 +26,27 @@ cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 www.swowd.com:443#www.swowd.com
+www.mfyx.cn:443#www.mfyx.cn
+laitemi.com:443#laitemi.com
 www.visa.com.sg:443#www.visa.com.sg
+openai.com:443#openai.com
+store.ubi.com:443#store.ubi.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cf.mubaiovo.top:443#cf.mubaiovo.top
 cdns.doon.eu.org:443#cdns.doon.eu.org
 i.111666.best:443#i.111666.best
-openai.com:443#openai.com
 cf.godns.cc:443#cf.godns.cc
 nexusmods.com:443#nexusmods.com
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-www.mfyx.cn:443#www.mfyx.cn
 api.gzcrtw.com:443#api.gzcrtw.com
 test2.509666.xyz:443#test2.509666.xyz
 cdn.204910.best:443#cdn.204910.best
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 eii.at:443#eii.at
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-www.fastsoso.cn:443#www.fastsoso.cn
-cdn.262832.xyz:443#cdn.262832.xyz
-www.mc.js.cool:443#www.mc.js.cool
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

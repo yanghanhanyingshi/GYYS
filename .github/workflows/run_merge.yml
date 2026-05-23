@@ -3,7 +3,7 @@ name: 节点采集
   push:
     分支: [ main, master ]
   schedule:
-    - cron: '0 * * * *'  # 每日早8点自动运行
+    - cron: '0 */6 * * *'  # 每日早8点自动运行
   workflow_dispatch: # 支持手动点击运行
 
 jobs:

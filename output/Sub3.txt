@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 3736
 vless://73027324-8840-45fb-9880-b01699c81d5d@nobat.ir:2052?encryption=none&security=none&type=ws&host=test.ifnot.ir&path=/#@canfigiop
 vless://734d37dd-f0f3-4786-af4c-561d124463cd@194.59.215.153:13276?mode=gun&security=reality&encryption=none&authority=www.speedtest.net&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&fp=chrome&spx=/&type=grpc&serviceName=xyz&sni=www.speedtest.net&sid=fb8e0edb66000f28#@Pirimod
 vless://734d37dd-f0f3-4786-af4c-561d124463cd@194.59.215.153:13276?mode=gun&security=reality&encryption=none&authority=www.speedtest.net&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&fp=chrome&spx=/&type=grpc&serviceName=xyz&sni=www.speedtest.net&sid=fb8e0edb66000f28#🇧🇬 reality
@@ -502,4 +503,3 @@ vless://da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?mode=auto&p
 vless://da8ce5dd-fed5-4a4a-87ff-fd80ac917ef2@vip1.play.parsvbs.ir:2082?path=/&security=none&encryption=none&type=ws#🇮🇷26640 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dabf1935-1ccd-41ca-b411-341ea674d8ef@jolbon4.mojtabajeab.ir:443?mode=auto&path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=oin.jahan-store.ir#Telegram : @V2ynpv
 vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
-vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#⏳@Proxy_Vpney (4)

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://27c106fc-518c-42b0-8529-ba29b7bb8667@185.143.232.201:2082?path=/&security=none&encryption=none&host=vip.singbox2.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://27c106fc-518c-42b0-8529-ba29b7bb8667@snapp.ir:2095?path=/&security=none&encryption=none&host=vip.singbox2.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://2877414f-d5bc-4bcf-8d82-470d92594504@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@vpnbaz | ترکیبی
 vless://28a75dcb-acba-4fc3-bc25-97b8854075ec@snapp.ir:8080?encryption=none&type=ws&path=/login&host=SL.amirux.shop#@electvpn0
@@ -503,3 +502,4 @@ vless://7eac8a88-fea3-40d2-8a6a-e0dd4e8ac6e6@varzesh3.com:8080?path=/cdn&securit
 vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=&encryption=none&headerType=&type=tcp#
 vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#@NetZone_ir
 vless://7f089934-6e4a-737f-7244-b4cfc3ecdf60@varzesh3.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-reb-aaa.fasrgobar.ir#⏳@Proxy_Vpney (1)
+vless://7f54873f-f0be-4b69-8e13-0ea67e817281@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#🇮🇷28451 | ⚡️Telegram = t.me/SOSkeyNET

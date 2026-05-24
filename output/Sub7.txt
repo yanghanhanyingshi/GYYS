@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAT
 vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?allowInsecure=1&encryption=none&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&path=ws&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&host=germany.xydcqd.workers.dev&path=%2F%40WireXnet&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@144.31.4.166:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL

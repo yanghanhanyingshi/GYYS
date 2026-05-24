@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e546452d-9b01-409f-91c2-b3ffbcc4973f@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#🇮🇷28532 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e58b2f9c-894f-4a0c-a345-76748443f850@snapp.ir:8080?path=/&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#برای+اتصال+دائمی+جوین+شو🗾+prrofile_purple@
 vless://e5a1d397-cdfa-443c-b972-56dc2276d851@snapp.ir:2087?mode=auto&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=1&host=v1.pariroo.store&fp=chrome&type=xhttp&allowInsecure=1&sni=v1.pariroo.store#تلگرام  @irconfi روبیکا  @wizardxray
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
@@ -503,3 +502,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%3E%3E%40configshub2%3A%3
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%3E%3E%40configshub2%3A%3AJP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3E%40free4allVPN%3A%3AGB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%3E%3E%40configshub2%3A%3AGB
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%3E%3E%40OutlineVpnOfficial%3A%3ASG

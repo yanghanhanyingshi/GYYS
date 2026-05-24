@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e3d486fb-d9bf-47b6-817d-e67211f30d00@185.143.234.115:443?encryption=none&security=tls&type=ws&sni=rest.parhamm2.ir&host=rest.parhamm2.ir#@icv2ray
+vless://e3d486fb-d9bf-47b6-817d-e67211f30d00@185.143.234.115:443?encryption=none&security=tls&type=ws&sni=rest.parhamm2.ir&host=speedtunnel
 vless://e40104a1-2017-4819-8299-2d56fa288f92@pg.nexorainnovationhub.ir:80?path=/&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#@hi_proxy_iran :👈کانال تلگرام
 vless://e41b8db0-d98d-4651-8c6d-335120a9eadc@185.143.234.235:2086?path=/ws&security=none&encryption=none&host=mobo.imobotouch.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://e41b8db0-d98d-4651-8c6d-335120a9eadc@185.143.234.235:2086?security=none&allowInsecure=0&encryption=none&type=ws&host=mobo.imobotouch.ir&path=/ws#🇮🇷26630 | ⚡️Telegram = t.me/SOSkeyNET
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#%3E%3E%40v2ray_configs_pool%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWnBkbzc2RjExRlNVUldES214UXdB@130.51.22.40:2096#%3E%3E%40v2nodes%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#%3E%3E%40oneclickvpnkeys%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%3E%3E%40v2ray_configs_pool%3A%3ANL

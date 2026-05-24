@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-25 02:01 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-25 04:00 | 灵鹿优选
 cu.877774.xyz:443#cu.877774.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-www.nexusmods.com:443#www.nexusmods.com
 zeas.top:443#zeas.top
+bbs.alipansou.com:443#bbs.alipansou.com
+cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
+www.nexusmods.com:443#www.nexusmods.com
 api.gzcrtw.com:443#api.gzcrtw.com
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

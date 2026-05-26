@@ -1,15 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-27 05:44 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-27 07:02 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
-www.cdzxdz.com:443#www.cdzxdz.com
 baka.fun:443#baka.fun
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-nexusmods.com:443#nexusmods.com
-zeas.top:443#zeas.top
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
+yidong.19931101.xyz:443#yidong.19931101.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf.godns.cc:443#cf.godns.cc
 ys2046.cv:443#ys2046.cv
@@ -18,5 +13,10 @@ cf.92555.xyz:443#cf.92555.xyz
 store.ubi.com:443#store.ubi.com
 www.jimdo.com:443#www.jimdo.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+www.swowd.com:443#www.swowd.com
+cdn.091224.xyz:443#cdn.091224.xyz
+01-qq.com:443#01-qq.com
+cu.877774.xyz:443#cu.877774.xyz
+www.fastsoso.cn:443#www.fastsoso.cn
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

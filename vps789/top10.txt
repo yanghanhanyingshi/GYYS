@@ -1,11 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-29 06:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-29 08:04 | 灵鹿优选
 www.mc.js.cool:443#www.mc.js.cool
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.ntu.edu.sg:443#www.ntu.edu.sg
 bbs.alipansou.com:443#bbs.alipansou.com
 cf.3666888.xyz:443#cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 cf.92555.xyz:443#cf.92555.xyz
 101yaoye.com:443#101yaoye.com
 mskcc.org:443#mskcc.org

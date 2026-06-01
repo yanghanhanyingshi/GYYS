@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#Tel;Father_vpn³
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?path=/item&security=tls&encryption=none&insecure=1&host=pagescm.freen20.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen20.cc.cd#TEL;FATHER_VPN¹
+vless://ae1c381b-3e66-42bf-a1d0-d2df816ad522@real.overdoes.site:43445?type=tcp&security=reality&fp=chrome&pbk=adeDTnUssyQ8VrL1MS5iOdPzTXEwk8XlBnPGPG_5DTk&sni=www.speedtest.net&sid=204cb7fc&spx=/#OverdoseVPN🇩🇪Reality4️⃣-fiuxoye4 ❌
 vless://ae36571f-f66d-4f0a-b92e-eaeb6e94ae5c@185.143.233.5:2083?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#t.me/ConfigFori  -  Config 73743
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#[🇨🇿] @Iranvasll
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@45.82.122.112:9443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&sni=bero-1.bexum.fun&fp=chrome&flow=xtls-rprx-vision&encryption=none#@GozargahAzad|🇩🇪
@@ -499,7 +503,3 @@ vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2rayconfigamir 4541
 vless://f68850ec-db80-4e3f-ada3-58e17e43f2bb@65.109.186.7:53960?security=none&encryption=none&headerType=none&type=tcp#@outline_ir
 vless://f7040199-3768-4c1b-ae1b-78d904fc2412@2.24.13.118:443?encryption=none&path=/&security=none&type=ws#@APPXA-shirin
-vless://f8218ac8-0a9b-5d70-a6c8-31936767c357@145.239.173.163:443?encryption=none&security=none&type=tcp#🔵 @config_free2
-vless://f8350fad-7a29-46d6-bd24-05ea87e7dee0@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#@SayanStoree
-vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@ipbaz.ping-box.com:8443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#@KAFING_2
-vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@64.188.77.219:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&security=reality&sid=054602d818379876&sni=nid.hatvpn.org&type=tcp#🐤66@oneclickvpnkeys

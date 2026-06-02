@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-02 06:57 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-02 08:11 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
 gh-proxy.com:443#gh-proxy.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
@@ -8,5 +8,5 @@ test.509666.xyz:443#test.509666.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 baka.fun:443#baka.fun
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-101yaoye.com:443#101yaoye.com
+cmcc.cc.cd:443#cmcc.cc.cd
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

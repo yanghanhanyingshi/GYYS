@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@pl-1.omuvpn.tech:42346?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0xOy6LYcvRIbgXBDMSV0ZiuJPi_hf2e7FV4icmsQYQY&security=reality&sid=8b5017a8&sni=www.tradingview.com&type=tcp#🐤71@oneclickvpnkeys
-vless://6deef405-aad5-422e-9742-878aa6e7a1c5@104.167.196.169:11009?encryption=none&fp=chrome&pbk=M0wZikKBQfPaEFAkwMwyilDChmP0w6b-k3CvFvQZeXg&security=reality&sid=90946481&sni=www.yahoo.com&type=tcp#@meliproxyy
-vless://6deef405-aad5-422e-9742-878aa6e7a1c5@104.167.196.169:11009?security=reality&encryption=none&pbk=M0wZikKBQfPaEFAkwMwyilDChmP0w6b-k3CvFvQZeXg&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=90946481#@hi_proxy_iran :👈کانال تلگرام
-vless://6e3046df-37d2-40e2-af24-281ec3a6ec9f@188.114.98.0:443?mode=auto&path=/SoonTeam&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=xso.u3er1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=xso.u3er1.ir#@Evay_vpn
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@103.18.49.100:443?alpn=http/1.1&encryption=none&fp=chrome&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&path=/id-pusat&security=tls&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&type=ws#🚘25@oneclickvpnkeys
 vless://6f122bf8-65b5-43c5-a0be-5719cd842ff3@vip.starservices.lol:3082?encryption=none&type=tcp&security=reality&headerType=none&sni=www.nvidia.com&fp=chrome&allowInsecure=1&pbk=QKTZSC0lg00iBLqnvSSmU8m5KaoOIcIsbMQtWwfTvkE&sid=b0725c69&spx=/FikspM18hB4tQPG#@VPN_PASARGAD
 vless://6f122bf8-65b5-43c5-a0be-5719cd842ff3@vip.starservices.lol:3082?encryption=none&type=tcp&security=reality&headerType=none&sni=www.nvidia.com&fp=chrome&allowInsecure=1&pbk=QKTZSC0lg00iBLqnvSSmU8m5KaoOIcIsbMQtWwfTvkE&sid=b0725c69&spx=/FikspM18hB4tQPG#@armindone👈چنل تلگراممون
@@ -503,3 +499,7 @@ vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@ads03.vxmaxpro.online:443?encryptio
 vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@ads04.vxmaxpro.online:443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#@v2raybaaz
 vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@ads04.vxmaxpro.online:443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#@vpnbaz
 vless://a47c49ec-6eaa-44ce-9108-8427426a1123@162.159.253.41:8443?path=/admin.php&security=tls&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#@v2rayngsupbot @ai_duet
+vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?Telegram=@armindone,@armindone,@armindone,@armindone&encryption=none&security=none&type=tcp#@armindone👈چنل تلگراممون
+vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?encryption=none&security=none&type=tcp#@VPN_PASARGAD
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#🇳🇱TM (@AZARBAYJAB1)
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#🇳🇱TM (@AZARBAYJAB1)

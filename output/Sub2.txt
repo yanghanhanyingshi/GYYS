@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?type=tcp&security=tls&headerType=none&sni=fra34.tracker-ws.click&allowInsecure=0#4https://t.me/ConfigX2ray
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?type=tcp&security=tls&headerType=none&sni=www.static-cast.click&fp=chrome&allowInsecure=1#@v2rayconfigamir 6504
 trojan://JPZp5yhQpQ@188.114.97.6:443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#@VPN_PASARGAD
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@HajmVPN_Config 💣
@@ -502,4 +503,3 @@ vless://100fc429-4824-482e-ad2c-ce70d25e11cc@snapp.ir:8080?path=/&security=none&
 vless://10484bee-8516-400a-9b1e-efb5144ad324@194.58.41.158:44444?mode=auto&security=reality&encryption=none&pbk=t7zppcy4X6f3INaKOTOX6hsc84UoykNlRiKYKkA-TXo&fp=chrome&type=xhttp&sni=apple.com#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
 vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=s646.okgg.top#🇯🇵49627 | ⚡️Telegram = t.me/SOSkeyNET
 vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=s646.okgg.top#🇳🇱NL-🚀@VPNine1
-vless://1066d253-ee38-47d8-a599-a431c7f658ee@fast1.mrsf.ir:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=1&host=netUuuu.gLobAl.sSl.Fastly.nEt.&fp=chrome&type=xhttp&allowInsecure=1&sni=digikala.com.#@KAFING_2

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-06 00:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-06 02:55 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
-www.shopify.com:443#www.shopify.com
+dnew.cc:443#dnew.cc
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-www.cdzxdz.com:443#www.cdzxdz.com
-cdns.doon.eu.org:443#cdns.doon.eu.org
 eii.at:443#eii.at
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
+cdns.doon.eu.org:443#cdns.doon.eu.org
+www.shopify.com:443#www.shopify.com
+gh-proxy.com:443#gh-proxy.com
+nexusmods.com:443#nexusmods.com
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+www.swowd.com:443#www.swowd.com
+www.cdzxdz.com:443#www.cdzxdz.com
+api.gzcrtw.com:443#api.gzcrtw.com
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cdn.262832.xyz:443#cdn.262832.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-cdn.2020111.xyz:443#cdn.2020111.xyz
-cf.v8.longsays.com:443#cf.v8.longsays.com
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

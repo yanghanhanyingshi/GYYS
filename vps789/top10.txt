@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-06 19:18 | 灵鹿优选
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-06 21:10 | 灵鹿优选
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 www.mc.js.cool:443#www.mc.js.cool
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
 www.swowd.com:443#www.swowd.com
-www.cdzxdz.com:443#www.cdzxdz.com
+101yaoye.com:443#101yaoye.com
+www.mlkj888.com:443#www.mlkj888.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+01-qq.com:443#01-qq.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

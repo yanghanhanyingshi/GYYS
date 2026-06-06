@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 06-07 04:55 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 06-07 05:58 | 灵鹿优选
 nexusmods.com:443#nexusmods.com
 www.mc.js.cool:443#www.mc.js.cool
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
@@ -32,6 +32,7 @@ cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 www.mlkj888.com:443#www.mlkj888.com
 dongbanghong.com:443#dongbanghong.com
+play.mc.js.cool:443#play.mc.js.cool
 www.shopify.com:443#www.shopify.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cu.877774.xyz:443#cu.877774.xyz
@@ -39,6 +40,7 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cf.mubaiovo.top:443#cf.mubaiovo.top
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 hzytjy.cn:443#hzytjy.cn
@@ -46,19 +48,17 @@ hzytjy.cn:443#hzytjy.cn
 zeas.top:443#zeas.top
 www.vastnovel.com:443#www.vastnovel.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-play.mc.js.cool:443#play.mc.js.cool
 mskcc.org:443#mskcc.org
 bestcf.top:443#bestcf.top
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 store.ubi.com:443#store.ubi.com
 networksolutions.com:443#networksolutions.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
-baka.fun:443#baka.fun
 cnllm.com:443#cnllm.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
+cdn.31514926.xyz:443#cdn.31514926.xyz
 athome.com:443#athome.com
 www.visa.com.tw:443#www.visa.com.tw
 cdn.2020111.xyz:443#cdn.2020111.xyz
@@ -71,15 +71,13 @@ yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.swowd.com:443#www.swowd.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-ct.721660.xyz:443#ct.721660.xyz
-cdn.31514926.xyz:443#cdn.31514926.xyz
-mfa.gov.ua:443#mfa.gov.ua
 www.fastsoso.cn:443#www.fastsoso.cn
 gh-proxy.com:443#gh-proxy.com
 www.sage.com:443#www.sage.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 eii.at:443#eii.at
+baka.fun:443#baka.fun
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 a.lma.de5.net:443#a.lma.de5.net
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
@@ -89,14 +87,16 @@ cdn.555586.xyz:443#cdn.555586.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
-markmonitor.com:443#markmonitor.com
 www.5199dy.com:443#www.5199dy.com
-envato.com:443#envato.com
 www.leics.police.uk:443#www.leics.police.uk
 spirol.com:443#spirol.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+markmonitor.com:443#markmonitor.com
 www.sloomb.com:443#www.sloomb.com
+api.gzcrtw.com:443#api.gzcrtw.com
+envato.com:443#envato.com
+www.akasantech.com:443#www.akasantech.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

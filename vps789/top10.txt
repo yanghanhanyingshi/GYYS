@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-07 18:07 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-07 20:17 | 灵鹿优选
 cu.877774.xyz:443#cu.877774.xyz
+store.ubi.com:443#store.ubi.com
 nexusmods.com:443#nexusmods.com
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
-store.ubi.com:443#store.ubi.com
-dnew.cc:443#dnew.cc
-test.509666.xyz:443#test.509666.xyz
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

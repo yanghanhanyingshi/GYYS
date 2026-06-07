@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#3https://t.me/fastkanfig
 trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@Proxy_Vpney (5)
 trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@V2raySup0 | 🚀
 trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@bored_vpn
@@ -503,3 +502,4 @@ vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality
 vless://09ea0947-06f4-42df-9ea6-d1727a79a240@185.143.235.253:2095?path=/TV&security=&encryption=none&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR&type=ws#@on_proxy1
 vless://09ea0947-06f4-42df-9ea6-d1727a79a240@blit111.hamrahcore.ir:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#@hi_proxy_iran :👈کانال تلگرام
 vless://09ea0947-06f4-42df-9ea6-d1727a79a240@blit111.hamrahcore.ir:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
+vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?ed=80&security=tls&encryption=none&insecure=0&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssj.new-persian-song.ir#@GozargahAzad|🇸🇨

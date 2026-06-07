@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.new-persian-song.ir#@tootffarangi🍓 hamrah ¹
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.new-persian-song.ir#@v2raybaaz 🎩
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.new-persian-song.ir#🔵@chillguy_vpn
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.new-persian-song.ir#🛰️ Channel : @NitruStore 102
@@ -503,3 +502,4 @@ vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?path=/&secur
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bastani.purplrose.ir&fp=chrome&type=ws&allowInsecure=0&sni=bastani.purplrose.ir#🔵@chillguy_vpn
 vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@45.89.106.4:443?security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#🇮🇳53704 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5e240a97-08d5-45ce-845b-6f84bedfe991@57.131.16.203:80?security=&encryption=none&headerType=none&type=tcp#🛰️ Channel : @NitruStore 31
+vless://5e240a97-08d5-45ce-845b-6f84bedfe991@57.131.16.203:80?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#https://t.me/v2raynplus |🇮🇹14

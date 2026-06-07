@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
 vless://9d21c63f-a121-4411-cd51-1d6782157c0f@151.101.129.203:443?security=tls&sni=video.nordkapp-boats.no&type=ws&host=ViraV2ray-OusMMD.com&path=/@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray/?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://9d21c63f-a121-4411-cd51-1d6782157c0f@151.101.129.203:443?security=tls&sni=video.nordkapp-boats.no&type=ws&host=ViraV2ray-OusMMD.com&path=/@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray/?ed=2560#[73052] - Telegram : @V2All
 vless://9e586f14-ae99-4ad6-8b20-ca8965614173@104.239.72.141:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=0&host=mainsub.m4network-f4c.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mainsub.m4network-f4c.workers.dev#@GozargahAzad|🏁
@@ -503,3 +502,4 @@ vless://bf19d5c2-d644-4524-8c75-76715109fe9e@95.179.166.190:47179?security=none&
 vless://bf4f7317-4ea1-d9b0-4538-9622f9af1f0d@tun.maf-fars.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://bf5d8d52-7998-4a47-8fca-f4a57d193625@5.175.141.113:80?path=/V2RayyNGvpn&security=none&encryption=none&host=MeTa.GaMEreDzOnE.tOP&type=httpupgrade#@appsooner کانال تلگرام 🕊️
 vless://bfccdd5a-824b-4fe8-8163-9ab81c7bc0a4@SnaPp.ir:2082?path=/&security=none&encryption=none&host=aLiReza.mobilesubasa.com&type=ws#@konfig_zub
+vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#@KAFING_2

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#@KAFING_2
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
 vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.136.235.101:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#@hi_proxy_iran :👈کانال تلگرام
@@ -503,3 +502,4 @@ vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@pl.riotvpn.eu:443?security=reality&
 vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#🇵🇱PL-🚀@VPNine1
 vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@se.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇸🇪53626 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@se.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇸🇪SE-🚀@VPNine1
+vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@uk.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇬🇧53614 | ⚡️Telegram = t.me/SOSkeyNET

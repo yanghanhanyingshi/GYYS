@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 03:23 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 05:02 | 灵鹿优选
 store.ubi.com:443#store.ubi.com
 www.jimdo.com:443#www.jimdo.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -6,17 +6,17 @@ cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 test.509666.xyz:443#test.509666.xyz
+yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
-cf.3666888.xyz:443#cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 01-cctv.com:443#01-cctv.com
 www.5199dy.com:443#www.5199dy.com
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 saas.sin.fan:443#saas.sin.fan
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+api.gzcrtw.com:443#api.gzcrtw.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 01:59 | 灵鹿优选
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-www.nexusmods.com:443#www.nexusmods.com
-www.akasantech.com:443#www.akasantech.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 03:23 | 灵鹿优选
+store.ubi.com:443#store.ubi.com
+www.jimdo.com:443#www.jimdo.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-store.ubi.com:443#store.ubi.com
 nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-www.mc.js.cool:443#www.mc.js.cool
 test.509666.xyz:443#test.509666.xyz
+www.nexusmods.com:443#www.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 01-cctv.com:443#01-cctv.com
-www.vastnovel.com:443#www.vastnovel.com
 www.5199dy.com:443#www.5199dy.com
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
+saas.sin.fan:443#saas.sin.fan
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

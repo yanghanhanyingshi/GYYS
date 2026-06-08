@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://SoftNetConnect@178.104.213.121:443?fp=&pbk=bVGtj0cRMfC-VapbrAa97IjYqjMoxODMOqsN0eGBDmI&security=reality&sid=e0c7dbaa7dc2&sni=www.yahoo.com#🫒80@oneclickvpnkeys
-trojan://SoftNetConnect@213.165.45.14:2087?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=aw1V5pDSuLXeh6pbZ76eEJlSSNhuZzvnQuJGFOJFyh8&sid=7f&spx=/#@MoOon_proxy ( 2️⃣USA
-trojan://SoftNetConnect@213.165.45.14:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=ec166292d30c9301#[74406] - Telegram : @V2All
 trojan://SoftNetConnect@213.165.45.14:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&sid=ec166292d30c9301&spx=/#@MoOon_proxy ( 1️⃣USA
 trojan://SoftNetConnect@213.165.45.14:8443?security=reality&pbk=is6qOkhScQVyCdEAAfj2tqa_VLSLOEkVn2-D8ogWxBc&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=d6d0ee80cb096d21#@outline_ir
 trojan://SoftNetConnect@213.165.45.14:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=is6qOkhScQVyCdEAAfj2tqa_VLSLOEkVn2-D8ogWxBc&sid=d6d0ee80cb096d21&spx=/#@MoOon_proxy ( 3️⃣USA
@@ -503,3 +500,6 @@ vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=/@Javidnama
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@188.114.97.6:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@66.81.247.155:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
 vless://1798b14b-aee0-4008-ba9a-2e53877761b4@104.21.87.19:80/?type=ws&host=bbbnmki.kk7.ccwu.cc&path=/Ay6844iXSu2BDycyrxcJWNVFC21&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
+vless://179f8884-44ed-4cc1-b7c8-fc7dfec83145@46.224.213.206:11332?security=reality&encryption=none&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=74bc0da65781e5dd#@icv2ray
+vless://18af1c9f-dba6-4d77-a732-cf6790214d10@www.speedtest.net:2086?encryption=none&type=httpupgrade&path=/&host=beh2.salonemojallal.ir#@VPsave
+vless://18af1c9f-dba6-4d77-a732-cf6790214d10@www.speedtest.net:2086?path=/&security=&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#🛰️ Channel : @NitruStore 13

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://179f8884-44ed-4cc1-b7c8-fc7dfec83145@46.224.213.206:11332?security=reality&encryption=none&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=74bc0da65781e5dd#@icv2ray
-vless://18af1c9f-dba6-4d77-a732-cf6790214d10@www.speedtest.net:2086?encryption=none&type=httpupgrade&path=/&host=beh2.salonemojallal.ir#@VPsave
-vless://18af1c9f-dba6-4d77-a732-cf6790214d10@www.speedtest.net:2086?path=/&security=&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#🛰️ Channel : @NitruStore 13
 vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&sni=graph.instagram.com.cyylr.eu.cc#@HiByeVPNN ❤️‍🔥🧧🔥 75
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
@@ -503,3 +500,6 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&e
 vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?security=reality&encryption=none&pbk=kATzSBDyNkm6Ee7p8Ad8iPD5CrJmkJ5n1T-l-LCRmXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b7ca855a4763a7ac#TEL;Father_vpn
 vless://43d57235-024e-43b3-a625-10657e5140f7@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-150.00GB📊-3D⏳
 vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#@HiByeVPNN ❤️‍🔥🧧🔥 34
+vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#@VPsave
+vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#🛰️ Channel : @NitruStore 92
+vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@us.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.healthy-connected.com&sid=30e570274c0c72cc#@HiByeVPNN ❤️‍🔥🧧🔥 41

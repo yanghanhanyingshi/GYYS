@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-09 01:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-09 04:03 | 灵鹿优选
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-www.shopify.com:443#www.shopify.com
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+play.mc.js.cool:443#play.mc.js.cool
 cu.877774.xyz:443#cu.877774.xyz
 www.leics.police.uk:443#www.leics.police.uk
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz

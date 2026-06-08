@@ -1,9 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 06-09 06:19 | 灵鹿优选
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+saas.sin.fan:443#▼ 优选域名 TOP50 | 06-09 07:58 | 灵鹿优选
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 www.vastnovel.com:443#www.vastnovel.com
-play.mc.js.cool:443#play.mc.js.cool
 www.shopify.com:443#www.shopify.com
 cu.877774.xyz:443#cu.877774.xyz
 www.leics.police.uk:443#www.leics.police.uk
@@ -11,30 +9,24 @@ cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
-www.5199dy.com:443#www.5199dy.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
 www.ntu.edu.sg:443#www.ntu.edu.sg
+test.509666.xyz:443#test.509666.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
+dianxin.19931101.xyz:443#dianxin.19931101.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-www.nexusmods.com:443#www.nexusmods.com
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-cdn.2158.cc:443#cdn.2158.cc
-y508.com:443#y508.com
-cdn.31514926.xyz:443#cdn.31514926.xyz
-dongbanghong.com:443#dongbanghong.com
 www.visa.com.sg:443#www.visa.com.sg
 cdn.262832.xyz:443#cdn.262832.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 store.epicgames.com:443#store.epicgames.com
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
-athome.com:443#athome.com
+cdn.31514926.xyz:443#cdn.31514926.xyz
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 store.ubi.com:443#store.ubi.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 markmonitor.com:443#markmonitor.com
@@ -45,8 +37,16 @@ openai.com:443#openai.com
 saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
+a.lma.de5.net:443#a.lma.de5.net
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.swowd.com:443#www.swowd.com
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+investor.apple.com:443#investor.apple.com
+cdn.091224.xyz:443#cdn.091224.xyz
+www.trumpinternationalrealty.com:443#www.trumpinternationalrealty.com
+www.akasantech.com:443#www.akasantech.com
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

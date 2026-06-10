@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-10 07:13 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-10 10:36 | 灵鹿优选
 gh-proxy.com:443#gh-proxy.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
-www.sloomb.com:443#www.sloomb.com
-play.mc.js.cool:443#play.mc.js.cool
-cdn.2020111.xyz:443#cdn.2020111.xyz
 cdn.204910.best:443#cdn.204910.best
 cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+cmcc.cc.cd:443#cmcc.cc.cd
+coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

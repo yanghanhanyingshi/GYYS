@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hkg1.fromblancwithlove.com#Mix--@V2rayAlpha--26
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=buh-ro-01.fromblancwithlove.com&allowInsecure=0#8https://t.me/ConfigX2ray
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#@FarazV2ray
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#@fastkanfig
@@ -503,3 +502,4 @@ vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?path=/22115/a
 vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?path=/22115/api&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🔵@chillguy_vpn
 vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=/22115/api&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#🇸🇬66302 | ⚡️Telegram = t.me/SOSkeyNET
 vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=/22115/api&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#🇸🇬SG-🚀@VPNine1
+vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?path=/22115/api&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#@Ap_Ir6

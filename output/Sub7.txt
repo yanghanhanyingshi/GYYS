@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Telegram-Parsashonam-12@45.131.6.203:443?mode=auto&path=/p4r34m&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#پر سرعت رایگان : @fastkanfig
 vless://Telegram-Parsashonam-12@79.175.189.145:443?mode=auto&path=/p4r34m&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#@Parsashonam
 vless://Telegram-Parsashonam-12@www.speedtest.net:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#@Parsashonam-8Jun
 vless://Telegram-Parsashonam-12@www.speedtest.net:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#@Parsashonam-8Jun برای خودم وصله، شما هم داشته باشید.💙
@@ -503,3 +502,4 @@ vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=real
 vless://ca11af6c-ee77-4175-8ac9-c802ef9ee3ce@snapp.ir:2082?path=/API/superip&security=none&encryption=none&host=brand.bi6x.ir&type=ws#NormanV2ray-225
 vless://ca11af6c-ee77-4175-8ac9-c802ef9ee3ce@snapp.ir:2082?path=/API/superip&security=none&encryption=none&host=brand.bi6x.ir&type=ws#🇮🇷66337 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
+vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)  ایرانسل:

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)  ایرانسل:
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
 vless://cabbaac-abac-abac-bacd-cabbbccbacaa@127.0.0.1:1080?security=tls&type=tcp#@v2ray_configs_pools-join-us-on-Telegram
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:443?encryption=none&fp=chrome&host=tr-cd.sublink-vip2.com&path=/&security=tls&sni=tr-cd.sublink-vip2.com&type=ws#🪬58@oneclickvpnkeys
@@ -503,3 +502,4 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?path=/tsghdws&se
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=octopusss4.com&path=/tsghdws#🇺🇸US_2871_@Surfboardv2ray
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#@fastkanfig
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&allowInsecure=1#6https://t.me/ConfigX2ray
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=/tsghdws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@FarazV2ray

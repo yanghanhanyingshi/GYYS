@@ -1,6 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-15 03:11 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-15 05:00 | 灵鹿优选
 www.vastnovel.com:443#www.vastnovel.com
-www.galgamex.net:443#www.galgamex.net
 bbs.alipansou.com:443#bbs.alipansou.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
@@ -9,4 +8,5 @@ gh-proxy.com:443#gh-proxy.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+www.swowd.com:443#www.swowd.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

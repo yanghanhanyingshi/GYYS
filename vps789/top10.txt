@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-14 16:37 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-14 19:25 | 灵鹿优选
 cdn.2020111.xyz:443#cdn.2020111.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 play.mc.js.cool:443#play.mc.js.cool
-cdn.31514926.xyz:443#cdn.31514926.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-cf.v8.longsays.com:443#cf.v8.longsays.com
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

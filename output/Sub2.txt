@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://899205001001bba@ip2.feywebsite.ir:8443?mode=auto&path=/&security=tls&alpn=h2&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sni3.asukasimp.com&fp=chrome&type=xhttp&allowInsecure=0&sni=sni3.asukasimp.com#@V2raySup0 | 🚀
 trojan://899205001001bba@ip2.feywebsite.ir:8443?mode=auto&path=/&security=tls&alpn=h2&insecure=0&host=sni3.asukasimp.com&fp=chrome&type=xhttp&allowInsecure=0&sni=sni3.asukasimp.com#@V2raySup0 | 🚀
 trojan://8e107680-6844-11f1-a5dc-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=uk1.test3.net&type=ws&allowInsecure=0&sni=uk1.test3.net#@  ♥️👈 تلگرام
 trojan://8e107680-6844-11f1-a5dc-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=uk1.test3.net&type=ws&allowInsecure=0&sni=uk1.test3.net#@prrofile_purple  ♥️👈 تلگرام
@@ -503,3 +502,4 @@ vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443?security=realit
 vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443?security=reality&encryption=none&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl3.panel11.ru&sid=e069bfaf9ba2069c#@FarazV2ray
 vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&security=reality&sid=c64556c616970b14&sni=nl2.panel11.ru&type=tcp#⚕️7@oneclickvpnkeys
 vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=nl2.panel11.ru&sid=c64556c616970b14&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&headerType=none#@Ap_Ir6
+vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?security=reality&encryption=none&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl2.panel11.ru&sid=c64556c616970b14#MiX--@V2rayAlpha--15

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?security=reality&encryption=none&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl2.panel11.ru&sid=c64556c616970b14#MiX--@V2rayAlpha--15
 vless://039a1658-e86e-475f-a3a4-67cc249acada@45.150.111.174:443?flow=xtls-rprx-vision&fp=chrome&pbk=2EoMRBfJ9hxldXLTGih0gIk5dF38qjqHAqTzzKiSWQw&security=reality&sid=370796f491f38876&sni=bg1.panel11.ru&type=tcp#@v2rayconfigamir 4245
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#Mix--@V2rayAlpha--15
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#🇸🇪 Join+Telegram:@Farah_VPN 🇸🇪
@@ -503,3 +502,4 @@ vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?path=/&security=t
 vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?path=/&security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#@meliproxyy
 vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?path=/&security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#kurdconfig
 vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?path=/&security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#telegram @mtmvpn
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#canfingV2rayNG-125

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-15 08:17 | 灵鹿优选
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-www.vastnovel.com:443#www.vastnovel.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-15 14:16 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
-cdn.2020111.xyz:443#cdn.2020111.xyz
-kuaidianlian.com.cn:443#kuaidianlian.com.cn
-bbs.alipansou.com:443#bbs.alipansou.com
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+kuaidianlian.com.cn:443#kuaidianlian.com.cn
+gh-proxy.com:443#gh-proxy.com
+nexusmods.com:443#nexusmods.com
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
+youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-19 03:22 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-19 06:15 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
-eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-cf.nyanya.moe:443#cf.nyanya.moe
 saas.sin.fan:443#saas.sin.fan
-gh-proxy.com:443#gh-proxy.com
-www.leics.police.uk:443#www.leics.police.uk
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

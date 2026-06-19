@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.12:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧢63@oneclickvpnkeys
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.48:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧢19@NetFlowTools
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#✈️60@NetFlowTools
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#✈️60@oneclickvpnkeys
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆³
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.198:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁹
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆¹⁰
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.202:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁴
@@ -503,3 +498,8 @@ vless://61f37706-1b93-4971-88d5-9f7c2231c73c@45.130.125.126:2053?path=/ws-vlees&
 vless://61f37706-1b93-4971-88d5-9f7c2231c73c@45.130.125.126:2053?path=/ws-vlees&security=tls&alpn=h2,http/1.1&encryption=none&host=gm.PoRLuMa.IR&fp=chrome&type=ws&sni=gm.PoRLuMa.IR#@meliproxyy
 vless://61f37706-1b93-4971-88d5-9f7c2231c73c@45.130.125.126:2053?path=/ws-vlees&security=tls&alpn=h2,http/1.1&encryption=none&host=gm.PoRLuMa.IR&fp=chrome&type=ws&sni=gm.PoRLuMa.IR#@outline_ir
 vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@fr1-global.mikro-host.com:443?path=/assets&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fr1-global.mikro-host.com#@prrofile_purple  ♥️👈 تلگرام
+vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?path=/assets&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl1-global.mikro-host.com#@prrofile_purple  ♥️👈 تلگرام
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?Telegram🇨🇳@WangCai2=#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?telegram🇨🇳+@wangcai2=#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#@GrizzlyVPN

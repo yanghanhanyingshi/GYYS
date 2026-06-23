@@ -1,14 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-24 05:25 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-24 07:00 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-gh-proxy.com:443#gh-proxy.com
 zeas.top:443#zeas.top
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
+play.mc.js.cool:443#play.mc.js.cool
 www.sage.com:443#www.sage.com
 hzytjy.cn:443#hzytjy.cn
 fk.hshwk.org:443#fk.hshwk.org
@@ -18,5 +18,5 @@ www.mc.js.cool:443#www.mc.js.cool
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 www.6i5.com:443#www.6i5.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
-www.nexusmods.com:443#www.nexusmods.com
+youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

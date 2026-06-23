@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=fi.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=ProxyVPN11.dns.xn--q9jyb4c#🇫🇮 @ProxyVPN11
-vless://1cd30bda-e748-4c4c-a24e-3d827db13034@m.datammr.ir:80?path=/&security=&encryption=none&host=play.google.com&type=ws#Proxy_Se7en
-vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
-vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️404🌐🆕️
-vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-pro3.postshup.ir&type=httpupgrade#@prrofile_purple  ♥️👈 تلگرام
-vless://1d8ea188-60fa-4c02-b755-69f2b5682a43@tun3.lesss.ir:8444?security=reality&encryption=none&pbk=1EPU1FtapRbV8ZR9e7AU0nahyWYM8L0zuYHD8F1GJAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=491c54cd0cf5e22d#@V2dogs_n
-vless://1dba92e0-8fc0-4d27-a72d-e31a630afde2@pnl.elikai.ir:80?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple  ♥️👈 تلگرام
-vless://1dcf4ce9-a7c7-4f14-ba87-a93e46221d18@undef.network:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#🔵@chillguy_vpn
-vless://1dd5f2be-f124-4f35-9239-8abc042829c2@85.192.61.67:14302?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://1de177e1-2ea8-4553-7198-24d0b58f4085@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.rorvex.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.rorvex.ir#@confiig_hub
 vless://1de37726-744b-46e1-9101-c926b3402e82@104.17.72.206:80?type=ws&host=v2.v2configlab.workers.dev&path=/#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80/?encryption=none&host=play.google.com&type=tcp&headerType=http#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
@@ -503,3 +494,12 @@ vless://3bfcfd60-11b7-4ffe-9b39-6df99981e8a3@178.83.45.83:443?security=&encrypti
 vless://3bfcfd60-11b7-4ffe-9b39-6df99981e8a3@82.47.63.125:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱PL-🚀@VPNine1
 vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=/?u=73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#@ReleaseNet
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=/ws&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#@SylphNet | 2026-06-22 11:39
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&path=/ws&host=aIs.SpEeDtEsT.nEt&sni=v2ray.simspeedup.com#@v2rayconfigamir 7204
+vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#TEL;Father_vpn
+vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
+vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@KAFING_2
+vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#🔥 @free_conf_iran 🔥 11
+vless://3d8b5191-7ff5-4fac-ac6e-1d6bedefff4e@sub.ashii.ir:8080?path=/fK0IrRsJlxCFK0xGQ7&security=&alpn=http/1.1&encryption=none&host=sub.ashii.ir&fp=chrome&type=httpupgrade&sni=sub.ashii.ir#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #20
+vless://3d8b5191-7ff5-4fac-ac6e-1d6bedefff4e@sub.ashii.ir:8080?path=/fK0IrRsJlxCFK0xGQ7&security=&alpn=http/1.1&encryption=none&host=sub.ashii.ir&fp=chrome&type=httpupgrade&sni=sub.ashii.ir#@icv2ray
+vless://3dc845e5-18b0-4401-8423-0f4441f4b973@46.4.162.63:443?security=none&encryption=none&headerType=none&type=tcp#@Ap_Ir6

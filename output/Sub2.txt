@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFpqa3dNalJqWXkxak56Y3dMVFExTnpNdE9USTNNUzA0TTJSa01XUmtObVpoWkdN@free.2weradf.xyz:36213#Proxy_Se7en
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwa05ESTVPRGxtTnkwNE1HSTFMVFJoT1RndFltUTBZaTAxTXpVNVlXTmxaak13WkdR@free.2weradf.xyz:36441#@Hope_Net
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwalpEYzRPVEE0TmkwMVl6UTBMVFF4T1dFdFlUUmhZaTFrTnpsbE9HSXpaV1JoWlRB@free.2apzhfa.xyz:31115#Proxy_Se7en
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVpqUmlOVFZoTlMwMk5qbGhMVFJoWWpjdE9HTm1ZUzB5TkdNd056ZGlNell4TXpV@free.2apzhfa.xyz:31671#@Hope_Net
-ss://voidglitch@snapp.ir:2086?path=/&security=none&encryption=none&host=fast.sheeplow.ir&type=ws#🇮🇷IR-🚀@VPNine1
-trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#📅 Expiry: Never Expire (Never Expire)
-trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#📊 Used: 0.08 GB / 3.00 GB
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
-trojan://0976zst1ewvyknz5@91.107.165.205:26?security=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 trojan://0e681470-6845-11f1-8364-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=usa.test3.net&type=ws&allowInsecure=0&sni=usa.test3.net#@prrofile_purple  ♥️👈 تلگرام
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#@KAFING_2
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#@NormanV2ray
@@ -503,3 +494,12 @@ trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#Channel id: @internet_azad_2026 🇨🇦
+trojan://iKmZWib7Mb@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=a2.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.aananas.ir#@FarazV2ray
+trojan://iKmZWib7Mb@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=a2.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.aananas.ir#@NETMelliAnti
+trojan://iKmZWib7Mb@104.17.108.1:443?path=/?ed=2048&security=tls&insecure=0&host=a2.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.aananas.ir#@tootffarangi🍓-3
+trojan://iKmZWib7Mb@104.17.108.1:443?security=tls&sni=a2.aananas.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=a2.aananas.ir&path=/?ed=2048#Tel: @Daily_Configs
+trojan://iKmZWib7Mb@104.17.108.1:443?type=ws&security=tls&path=/?ed=2048&host=a2.aananas.ir&sni=a2.aananas.ir&fp=chrome&insecure=0&allowInsecure=0#@v2rayNGcloud
+trojan://k2CQ2JboS7@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&host=s6.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=s6.aananas.ir#https://t.me/v2raynplus |🇹🇼
+trojan://k6k5upv0ykegulq0@37.156.43.207:2095?fp=chrome&headerType=http&host=www.yahoo.com&path=/RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS&pbk=5bA51RXH3XH1iGSWzG0j1sExIm9qGMIBGEb6S76A1jI&security=reality&sid=9f129b8255&sni=yahoo.com&spx=/Z1UeKcwMj6Lamva&type=tcp#🇨🇭¹ALL👉@RK_VPS
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇺🇸US-🚀@VPNine1

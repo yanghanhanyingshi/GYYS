@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.73:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@v2rayNplus
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com#kurdconfig
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#2 @fastkanfig
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.94:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#@appsooner کانال تلگرام 🕊️
@@ -503,3 +502,4 @@ vless://aaac923e-df0e-4928-aaec-b77cb68f91fc@ipadvpn.dpdns.org:2083?encryption=n
 vless://aaac923e-df0e-4928-aaec-b77cb68f91fc@ipadvpn.dpdns.org:2083?security=reality&encryption=none&pbk=dAyGv5mA1pNYS6amZ4I68rcL7dgOlqJT5y8GuB-2_UA&host=paly.google.com&headerType=http&fp=chrome&spx=/hOA6CYSNeSlRYn8&type=tcp&sni=www.yahoo.com&sid=9e85f18d29809f14#@TEHRANARGO
 vless://aaac923e-df0e-4928-aaec-b77cb68f91fc@ipadvpn.dpdns.org:2083?security=reality&encryption=none&pbk=dAyGv5mA1pNYS6amZ4I68rcL7dgOlqJT5y8GuB-2_UA&host=paly.google.com&headerType=http&fp=chrome&spx=/hOA6CYSNeSlRYn8&type=tcp&sni=www.yahoo.com&sid=9e85f18d29809f14#@configprxy
 vless://aaac923e-df0e-4928-aaec-b77cb68f91fc@ipadvpn.dpdns.org:2083?security=reality&encryption=none&pbk=dAyGv5mA1pNYS6amZ4I68rcL7dgOlqJT5y8GuB-2_UA&host=paly.google.com&headerType=http&fp=chrome&spx=/hOA6CYSNeSlRYn8&type=tcp&sni=www.yahoo.com&sid=9e85f18d29809f14#@tootffarangi🍓-15
+vless://aaac923e-df0e-4928-aaec-b77cb68f91fc@ipadvpn.dpdns.org:2083?security=reality&encryption=none&pbk=dAyGv5mA1pNYS6amZ4I68rcL7dgOlqJT5y8GuB-2_UA&host=play.google.com&headerType=http&fp=chrome&spx=/8cPR93fXowy5NBR&type=tcp&sni=www.yahoo.com&sid=cd72813a88#@FarazV2ray

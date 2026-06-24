@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#@Vpn_jet7(100gig)
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@ProxyMtAlpha🧑‍🚒 4
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org#⚡@V2ray_official
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#@meliproxyy
@@ -503,3 +502,4 @@ vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?
 vless://12d8b109-394d-4d0c-a208-2b9a41f09f36@188.114.97.6:443?path=/my-wbv&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
 vless://12db7fe7-d705-4b6e-ab30-7a758e0bcd3f@java.cdnforge.top:8080?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=uJsZX-if1IP9EJsNfq2wnTSAFCvnFawwMW6ZdoXfvQE&security=reality&sid=8a2e23bd40418b7e&sni=Zarebin.ir&spx=/G2ZG31nD8t9qYwY&type=xhttp&x_padding_bytes=100-1000#irconfiig
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?path=/&security=&encryption=none&type=ws#Proxy_Se7en
+vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@s1.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️

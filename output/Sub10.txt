@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@206.82.3.134:443/?type=tcp&encryption=none&flow=👉🆔freenettir📡🇺🇸®️United States©️Los Angeles (Downtown Los Angeles)🅿️ping:274.12ms
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=newip.global.ssl.fastly.neT.&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🇺🇸US-🚀@VPNine1
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=newip.global.ssl.fastly.neT.&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🔵@chillguy_vpn
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=1&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@erfanandroid
@@ -503,3 +502,4 @@ vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@104.18.32.47:2087?mode=auto&path=/p
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@188.114.97.6:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=dl-pack.motionbetter.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl-pack.motionbetter.ir#xhttp-@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@188.114.97.6:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL
+vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=dl-pack.motionbetter.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl-pack.motionbetter.ir#xhttp-@MIMITDL

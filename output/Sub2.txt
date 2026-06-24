@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@47.129.143.46:80#Singapore, Singapore
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@54.169.219.98:80#Channel id: @ShadowProxy66 🇸🇬
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@54.169.219.98:80#Tel-@Alpha_V2rayip😝 1
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDNAMy44LjQ4LjIyMjo4MA==#@bored_vpn
@@ -503,3 +502,4 @@ trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[81683] - Telegram : @V2All
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Tel-@NapsterNetvIrani😌 1
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Tel-@NapsterNetvIrani🫩 1
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#@Vpn_jet7(100gig)

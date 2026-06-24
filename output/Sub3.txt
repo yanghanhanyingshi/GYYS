@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#@NormanV2ray
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#@meliproxyy
-trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Proxy_Se7en
 trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🇦🇹 اتریش | https://t.me/FREECONFIGSPLUS ✨
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@RzChanel1
 trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#@Leecher56
@@ -503,3 +500,6 @@ vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.141.220:80/?type=ws&encrypti
 vless://13bdb27c-d773-4bb9-a15b-587eac2ba975@26000.accuratenetworkchecker.ir:443?encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&type=tcp&headerType=none#@Ap_Ir6
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:4050?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:7080?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
+vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:8090?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
+vless://13eca667-1903-4afd-b1e7-9f2608732e8a@ukr.arain-gogamecenter.ir:16005?security=reality&encryption=none&pbk=jFzJOAfxCMzSGXqfwwQeoUazA_9KYnypFoIblqQEhzY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e222b3afe4e26060#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
+vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?encryption=none&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=dl-pack.motionbetter.ir&path=/#freee

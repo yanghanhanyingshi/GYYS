@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech
-vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech   ⚠️ * آموزش اتصال به کانفیگ
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@prrofile_purple  ♥️👈 تلگرام
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@162.159.253.41:2087?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@hopev2ray🩵
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🕊 @Fear_Config
 vless://cfa9b4ac-eea5-4872-8189-867bf602a984@188.121.117.48:443?security=reality&encryption=none&pbk=5U7vDJyxuDbbn38pLhKeaCSU8D3XnWE58XJydRHn1AA&headerType=none&fp=chrome&spx=/Paqmzy0fhrOfRgj&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=3e&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
@@ -503,3 +500,6 @@ vless://f0750b15-37dd-44e4-803a-c62d3237f2fa@104.17.121.3:443?path=/eyJqdW5rIjoi
 vless://f07a3816-f527-4ce8-8d21-ada012618695@fin-jd.jdvpn.shakhle.ir:22000?security=reality&encryption=none&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&headerType=none&fp=chrome&type=tcp&sni=fontawesome.com&sid=6ba85179e30d4fc2#@MTMVPN
 vless://f07d5ce6-0de7-4be8-905b-de676c3138ae@2.27.59.62:42766?security=reality&encryption=none&pbk=T81_TmJlIrTaQcWqUd_QPR56ERmSzVna8JJra1Ki5QQ&headerType=&fp=chrome&spx=/RTOfA8zRCOYz6e9&type=tcp&sni=www.sourceforge.net&sid=c1d69bfee126bb#@Leecher56
 vless://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@104.16.219.215:443?path=/vlws?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=cdir-0304.wlfvip.shop&type=ws&sni=cdir-0304.wlfvip.shop#🚀@VPNine1
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#🇩🇪All¹⁶ | @Leecher56
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#🇩🇪All¹⁶ | @TEHRANARGO
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#🕊️Tel: @Proxy_Vpney (6)

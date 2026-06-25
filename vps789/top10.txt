@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-25 15:35 | 灵鹿优选
-gh-proxy.com:443#gh-proxy.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-25 18:35 | 灵鹿优选
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
+cf.nyanya.moe:443#cf.nyanya.moe
+coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 markmonitor.com:443#markmonitor.com
+run.254301.xyz:443#run.254301.xyz
+www.mlkj888.com:443#www.mlkj888.com
 www.ntu.edu.sg:443#www.ntu.edu.sg
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
-www.ox.ac.uk:443#www.ox.ac.uk
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-www.sloomb.com:443#www.sloomb.com
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

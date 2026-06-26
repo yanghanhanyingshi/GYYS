@@ -1,10 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 06-27 04:28 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 06-27 06:04 | 灵鹿优选
 dnew.cc:443#dnew.cc
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 zeas.top:443#zeas.top
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-saas.sin.fan:443#saas.sin.fan
-gh-proxy.com:443#gh-proxy.com
 ct.090227.xyz:443#ct.090227.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -12,12 +9,14 @@ snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 01-cctv.com:443#01-cctv.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 baka.fun:443#baka.fun
+cdn.2020111.xyz:443#cdn.2020111.xyz
 stlouiscountymo.gov:443#stlouiscountymo.gov
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 api.gzcrtw.com:443#api.gzcrtw.com
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+gh-proxy.com:443#gh-proxy.com
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-www.shopify.com:443#www.shopify.com
 cmcc.877774.xyz:443#cmcc.877774.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf.553314.xyz:443#cf.553314.xyz
 cdn.ddeed.de:443#cdn.ddeed.de
@@ -35,18 +34,19 @@ eii.at:443#eii.at
 www.sloomb.com:443#www.sloomb.com
 dongbanghong.com:443#dongbanghong.com
 www.xflash.vip:443#www.xflash.vip
+cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
-1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
+www.shopify.com:443#www.shopify.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
 cf.nyanya.moe:443#cf.nyanya.moe
+saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
-cf.godns.cc:443#cf.godns.cc
-cf.3666888.xyz:443#cf.3666888.xyz
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-27 14:23 | 灵鹿优选
-cf.mubaiovo.top:443#cf.mubaiovo.top
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-27 17:24 | 灵鹿优选
 cf.nyanya.moe:443#cf.nyanya.moe
+cdns.doon.eu.org:443#cdns.doon.eu.org
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+saas.sin.fan:443#saas.sin.fan
+cf.godns.cc:443#cf.godns.cc
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 baka.fun:443#baka.fun
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.duun.eu.cc:443#cf.duun.eu.cc
-coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-api.gzcrtw.com:443#api.gzcrtw.com
-play.mc.js.cool:443#play.mc.js.cool
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-www.5199dy.com:443#www.5199dy.com
-cdn.ddeed.de:443#cdn.ddeed.de
 aistudio.zabc.net:443#aistudio.zabc.net
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
+coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+play.mc.js.cool:443#play.mc.js.cool
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cf.3666888.xyz:443#cf.3666888.xyz
 www.jimdo.com:443#www.jimdo.com
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+www.shopify.com:443#www.shopify.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

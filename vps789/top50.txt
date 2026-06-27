@@ -1,9 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 06-28 05:55 | 灵鹿优选
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP50 | 06-28 06:56 | 灵鹿优选
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.mc.js.cool:443#www.mc.js.cool
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 www.nexusmods.com:443#www.nexusmods.com
 zeas.top:443#zeas.top
@@ -20,7 +17,6 @@ api.gzcrtw.com:443#api.gzcrtw.com
 play.mc.js.cool:443#play.mc.js.cool
 cf.godns.cc:443#cf.godns.cc
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
@@ -29,17 +25,13 @@ cnllm.com:443#cnllm.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 cf.mubaiovo.top:443#cf.mubaiovo.top
 cdn.555586.xyz:443#cdn.555586.xyz
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
 idc.urkeji.com:443#idc.urkeji.com
 aistudio.zabc.net:443#aistudio.zabc.net
 bbs.alipansou.com:443#bbs.alipansou.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-www.mlkj888.com:443#www.mlkj888.com
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 run.254301.xyz:443#run.254301.xyz
-www.ox.ac.uk:443#www.ox.ac.uk
 cdn.2158.cc:443#cdn.2158.cc
 hzytjy.cn:443#hzytjy.cn
 www.5199dy.com:443#www.5199dy.com
@@ -49,4 +41,12 @@ isp.254301.xyz:443#isp.254301.xyz
 cf.itv888.cn:443#cf.itv888.cn
 gh-proxy.com:443#gh-proxy.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cdns.doon.eu.org:443#cdns.doon.eu.org
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
+my.dnshe.com:443#my.dnshe.com
+cf.553314.xyz:443#cf.553314.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+www.sloomb.com:443#www.sloomb.com
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

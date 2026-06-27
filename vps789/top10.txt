@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-28 06:56 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-28 07:57 | 灵鹿优选
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.mc.js.cool:443#www.mc.js.cool
-test.509666.xyz:443#test.509666.xyz
 www.nexusmods.com:443#www.nexusmods.com
 zeas.top:443#zeas.top
 www.giannidelprete.it:443#www.giannidelprete.it
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
+cmcc.cc.cd:443#cmcc.cc.cd
+dongbanghong.com:443#dongbanghong.com
+www.vastnovel.com:443#www.vastnovel.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://@IR_NETLIFY@194.59.183.234:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
-vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
 vless://@Net2ray@109.122.251.182:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
 vless://@Net2ray@109.95.70.20:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
 vless://@Net2ray@171.22.26.160:6666?encryption=none&security=none&type=tcp&headerType=none#@Net2ray Turkey
@@ -503,3 +501,5 @@ vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.16.72.70:443?path=/ws&security=
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.16.72.70:443?path=/ws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#@V2ray_confiig
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=/ws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#@bored_vpn
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=/ws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#https://t.me/v2rayNplus |🇹🇷
+vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@45.130.125.158:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#@ReleaseNet
+vless://c2f39bad-4213-42bc-bdd4-915739acf015@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=ggghtrubngjbngibvn.com&path=ws/?ed=2048#@Hope_Net-join-us-on-Telegram

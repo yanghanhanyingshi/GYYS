@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🏇39@oneclickvpnkeys
 trojan://humanity@104.26.14.137:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@Vpn_jet7(100gig)
 trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Maznet-Spoof13
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Maznet-Spoof8
@@ -503,3 +501,5 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?path=/download.php
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@erfanandroid
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=/xhttp&mode=auto#🇨🇦CA_452_@Surfboardv2ray
 vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?encryption=none&fp=chrome&host=freetools-h2s.pages.dev&path=/&security=tls&sni=freetools-h2s.pages.dev&type=ws#🏇13@oneclickvpnkeys
+vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#کانفیگ متصل موجود🔥👇🏻@Outline_one_clickbot

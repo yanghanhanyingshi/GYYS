@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@45.130.125.158:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#@ReleaseNet
-vless://c2f39bad-4213-42bc-bdd4-915739acf015@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=ggghtrubngjbngibvn.com&path=ws/?ed=2048#@Hope_Net-join-us-on-Telegram
 vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-1.00TB📊-31D⏳
 vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-1.00TB📊-31D⏳  اینم لینک ساب کا نگید دروغ❤😂👇 https:
 vless://c32c00e4-16ac-4659-be71-ce4d0dd50fbf@91.107.175.159:18750?security=reality&encryption=none&pbk=rWoi0aP39aXZVXaMjvRGnS5N969dyphMQLpEyfCk6Hs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=f6d46789914d7d64#@bored_vpn
@@ -503,3 +501,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=n
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?encryption=none&security=tls&sni=noloz.dtvialon.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&path=/clud?ed=2048&mode=auto&extra={"xPaddingBytes":"100-1000"}#hope of freedom - @anotherme_night
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?encryption=none&type=xhttp&security=tls&path=/clud/?@MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=gzz.dtvialon.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud/?@MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=gzz.dtvialon.com#@V2dogs_n 🐺
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud/?@MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=gzz.dtvialon.com#@meliproxyy
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&type=xhttp&sni=franceix.dtvialon.com#kurdconfig

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-28 22:43 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-29 00:03 | 灵鹿优选
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
-cf.godns.cc:443#cf.godns.cc
 www.jimdo.com:443#www.jimdo.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 baka.fun:443#baka.fun
-zeas.top:443#zeas.top
-cf.nyanya.moe:443#cf.nyanya.moe
-dnew.cc:443#dnew.cc
-www.mc.js.cool:443#www.mc.js.cool
+china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+www.leics.police.uk:443#www.leics.police.uk
+youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

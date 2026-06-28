@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-29 03:22 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-29 04:52 | 灵鹿优选
+www.akasantech.com:443#www.akasantech.com
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
-china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
-cf.godns.cc:443#cf.godns.cc
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
-www.mc.js.cool:443#www.mc.js.cool
+cdn.555586.xyz:443#cdn.555586.xyz
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+cf.itv888.cn:443#cf.itv888.cn
+cf1.v8.longsays.com:443#cf1.v8.longsays.com
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cf.553314.xyz:443#cf.553314.xyz
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 visa.com:443#visa.com
 cf.v8.longsays.com:443#cf.v8.longsays.com
-fk.hshwk.org:443#fk.hshwk.org
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+cdn.091224.xyz:443#cdn.091224.xyz
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 gh-proxy.com:443#gh-proxy.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-cf.mubaiovo.top:443#cf.mubaiovo.top
-eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+fk.hshwk.org:443#fk.hshwk.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

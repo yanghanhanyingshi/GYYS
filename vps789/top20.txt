@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-30 05:18 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-30 06:48 | 灵鹿优选
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 zeas.top:443#zeas.top
 ct.090227.xyz:443#ct.090227.xyz
 cf.godns.cc:443#cf.godns.cc
@@ -7,16 +8,15 @@ gh-proxy.com:443#gh-proxy.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.sage.com:443#www.sage.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+dongbanghong.com:443#dongbanghong.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 cf.nyanya.moe:443#cf.nyanya.moe
 cu.877774.xyz:443#cu.877774.xyz
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+cmcc.cc.cd:443#cmcc.cc.cd
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
+www.ox.ac.uk:443#www.ox.ac.uk
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 101yaoye.com:443#101yaoye.com
-dnew.cc:443#dnew.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

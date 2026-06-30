@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.64.105:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=/RoBeRt#@electvpn0
-vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://af1c3159-0b74-4218-abda-24cc83a8c1ca@fanlandv3.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=877521a51c7dad43#@fastkanfig 2
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=none&type=tcp#🦖5@NetFlowTools
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁰⁰
 vless://afc296b9-96be-4253-8268-5c9ecc8262d9@5.75.207.247:44004?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&sid=77b0689f&spx=/&type=tcp&headerType=none#@meliproxyy
@@ -503,3 +500,6 @@ vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@fra.edgeptr.org:443?mode=auto&path=
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@lon.edgeptr.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE&fp=chrome&spx=/assets/img?v=2&type=xhttp&sni=ajax.aspnetcdn.com&sid=b00bface11223344#🇬🇧 London
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@nbg.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=0a1b2c3d4e5f6071#🇩🇪 Nuremberg
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=fedcba9876543210#🇧🇬 Sofia
+vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@sto.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=0a1b2c3d4e5f6071#🇸🇪 Stockholm
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#🔥 @free_conf_iran 🔥 3
+vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&host=sy.syragame.com&path=/&mode=auto&security=tls&sni=sy.syragame.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@CxrolVPN

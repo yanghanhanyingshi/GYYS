@@ -1,7 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-01 02:30 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-01 04:52 | 灵鹿优选
 www.nexusmods.com:443#www.nexusmods.com
-cdn.555586.xyz:443#cdn.555586.xyz
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 cf.727672.xyz:443#cf.727672.xyz
@@ -9,4 +7,6 @@ ct.hw.090227.xyz:443#ct.hw.090227.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

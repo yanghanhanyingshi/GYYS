@@ -1,7 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-01 02:30 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-01 04:52 | 灵鹿优选
 www.nexusmods.com:443#www.nexusmods.com
-cdn.555586.xyz:443#cdn.555586.xyz
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 cf.727672.xyz:443#cf.727672.xyz
@@ -12,11 +10,13 @@ prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
-www.galgamex.net:443#www.galgamex.net
+www.leics.police.uk:443#www.leics.police.uk
 saas.sin.fan:443#saas.sin.fan
 cf.mubaiovo.top:443#cf.mubaiovo.top
+cdn.ddeed.de:443#cdn.ddeed.de
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.2158.cc:443#cdn.2158.cc
 www.swowd.com:443#www.swowd.com
-cdn.ddeed.de:443#cdn.ddeed.de
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

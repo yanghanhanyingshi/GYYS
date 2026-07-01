@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-01 22:11 | 灵鹿优选
-www.nexusmods.com:443#www.nexusmods.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-02 01:08 | 灵鹿优选
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-kuaidianlian.com.cn:443#kuaidianlian.com.cn
+cf.nyanya.moe:443#cf.nyanya.moe
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 store.ubi.com:443#store.ubi.com
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+chrono24.com:443#chrono24.com
+kuaidianlian.com.cn:443#kuaidianlian.com.cn
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-run.254301.xyz:443#run.254301.xyz
+api.gzcrtw.com:443#api.gzcrtw.com
+www.whoer.net:443#www.whoer.net
+www.sloomb.com:443#www.sloomb.com
+cdn.ddeed.de:443#cdn.ddeed.de
 eii.at:443#eii.at
 gh-proxy.com:443#gh-proxy.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-cf.nyanya.moe:443#cf.nyanya.moe
-cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
-1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-01 16:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-01 19:53 | 灵鹿优选
 www.nexusmods.com:443#www.nexusmods.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
-bbs.alipansou.com:443#bbs.alipansou.com
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
 store.ubi.com:443#store.ubi.com
 gh-proxy.com:443#gh-proxy.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
+run.254301.xyz:443#run.254301.xyz
+eii.at:443#eii.at
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

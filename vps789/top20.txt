@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-01 12:10 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-01 16:45 | 灵鹿优选
 www.nexusmods.com:443#www.nexusmods.com
-eii.at:443#eii.at
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-baka.fun:443#baka.fun
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-store.ubi.com:443#store.ubi.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
-cf.mubaiovo.top:443#cf.mubaiovo.top
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
-www.swowd.com:443#www.swowd.com
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-ping.pe:443#ping.pe
-cu.877774.xyz:443#cu.877774.xyz
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
+store.ubi.com:443#store.ubi.com
+gh-proxy.com:443#gh-proxy.com
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
+ping.pe:443#ping.pe
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+eii.at:443#eii.at
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+play.mc.js.cool:443#play.mc.js.cool
+cf.nyanya.moe:443#cf.nyanya.moe
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

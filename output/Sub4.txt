@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=a12.crowsvpn.shop&type=xhttp#@Ap_Ir6
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=a12.crowsvpn.shop&type=xhttp#@prrofile_purple  ♥️👈 تلگرام
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=a12.crowsvpn.shop&type=xhttp#✅  @vistav2ray  👈👈کانال ما ✅
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#🇩🇪@FreakConfig
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#🇩🇪@irconfiig
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl#Unlimited @pythash 2
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl#TELEGRAM-ICV2RAY?ed=512&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#[🇨🇦]t.me/ConfigsHub
@@ -499,7 +503,3 @@ vless://311ed715-11a6-48ff-b8a0-a922e326cdad@185.147.27.105:80?path=/&security=n
 vless://315e45a6-9745-4213-b59d-546b22f3232a@91.98.101.62:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#@V2ray_confiig
 vless://315e45a6-9745-4213-b59d-546b22f3232a@91.98.101.62:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#@icv2ray
 vless://315e45a6-9745-4213-b59d-546b22f3232a@91.98.101.62:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#Channel : @Daily_Configs
-vless://315e45a6-9745-4213-b59d-546b22f3232a@ip3.sav-savteam.ir:2096?security=tls&type=ws&headerType=&path=/&host=SiOpj.mobiletanaz.coM&sni=SiOpj.mobiletanaz.coM&fp=#@v2rayconfigamir 1261
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@CUSTOMVPNSERVER
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@KAFING_2
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#Telegram : @V2ynpv

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-01 19:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-01 22:11 | 灵鹿优选
 www.nexusmods.com:443#www.nexusmods.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
 store.ubi.com:443#store.ubi.com
-gh-proxy.com:443#gh-proxy.com
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 run.254301.xyz:443#run.254301.xyz
 eii.at:443#eii.at
+gh-proxy.com:443#gh-proxy.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-www.swowd.com:443#www.swowd.com
 cf.nyanya.moe:443#cf.nyanya.moe
-a.lma.de5.net:443#a.lma.de5.net
+cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
+1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

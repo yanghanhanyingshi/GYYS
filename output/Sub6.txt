@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#@vmess_ir
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#@vpnbaz 🌊
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#@vpnbaz 🕊️
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#FREE_VPN02
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Tel-@Alpha_V2rayip😘 2
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Tel-@Alpha_V2rayip😟 2
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Tel-@NapsterNetvIrani😩 2
@@ -499,7 +503,3 @@ vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@89.116.250.135:8443?encryption=none
 vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@91.193.58.201:2096?encryption=none&security=tls&type=ws&headerType=none&path=/&sni=cache-h2.persia.my&fp=chrome&alpn=h3,h2,http/1.1#8. @NewsDarya
 vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@91.193.58.201:80?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=fi-hel-2.chapjavan.ir&mode=auto#3. @NewsDarya
 vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@de.linuxbase.ir:1152?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&sid=e5115b6a2127146d&spx=/#15. @NewsDarya
-vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@fi.linuxbase.ir:1152?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&sid=e5115b6a2127146d&spx=/#14. @NewsDarya
-vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@fr.linuxbase.ir:1152?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&sid=e5115b6a2127146d&spx=/#11. @NewsDarya
-vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@fr.linuxbase.ir:1152?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&sid=e5115b6a2127146d&spx=/#🇫🇷FR-🚀@VPNine1
-vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@it.linuxbase.ir:1152?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&sid=e5115b6a2127146d&spx=/#10. @NewsDarya

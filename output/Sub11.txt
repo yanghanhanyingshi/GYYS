@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?encryption=none&type=ws&security=tls&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&insecure=0&allowInsecure=0#@configprxy
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?encryption=none&type=ws&security=tls&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&insecure=0&allowInsecure=0#@meliproxyy
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?encryption=none&type=ws&security=tls&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&insecure=0&allowInsecure=0#https://t.me/AarazV2ray
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@MARAMBASHI 💚
@@ -503,3 +502,4 @@ vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/me
 vless://e286cebe-7473-44e9-8c30-273ac36ac83b@niga.mohammadaz2sub.ir:62803?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_Alpha🐇 1
 vless://e286cebe-7473-44e9-8c30-273ac36ac83b@niga.mohammadaz2sub.ir:62803?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@dy_gt
 vless://e286cebe-7473-44e9-8c30-273ac36ac83b@niga.mohammadaz2sub.ir:62803?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
+vless://e2b9c9a1-f380-45b1-ad80-3ca16aebbc83@nodejs.org:443?path=/eyJqdW5rIjoiZ0VHeXpWVlBNUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-568153.manochehr.workers.dev&fp=chrome&type=ws&sni=Ez-568153.MaNOCHehR.wOrkeRs.deV#🇩🇪 @V2ngFast

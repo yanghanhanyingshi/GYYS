@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#FREE_VPN02
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#🕊️Tel: @Proxy_Vpney (2)
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.18.153.10:443?path=/proxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&type=ws&sni=nbhhh.mrcool.kdns.fr#🇹🇼
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#Proxy_Se7en
@@ -503,3 +502,4 @@ vless://86442a2b-417d-426d-9b42-955573b5c6e4@172.67.215.44:2052?type=ws&host=ez-
 vless://8658fe29-466b-41d9-b1f9-05c268054f87@de-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#@irconfiig
 vless://8664d5b6-3316-a334-5163-dffb9dea4c3f@rvg-production-2030.up.railway.app:443?encryption=none&security=tls&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-2030.up.railway.app&path=/ws/8664d5b6-3316-a334-5163-dffb9dea4c3f#Channel : @Daily_Configs
 vless://8664d5b6-3316-a334-5163-dffb9dea4c3f@rvg-production-2030.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-2030.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-2030.up.railway.app&path=/ws/8664d5b6-3316-a334-5163-dffb9dea4c3f#Channel : @Daily_Configs
+vless://8664d5b6-3316-a334-5163-dffb9dea4c3f@rvg-production-2030.up.railway.app:443?path=/ws/8664d5b6-3316-a334-5163-dffb9dea4c3f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-2030.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-2030.up.railway.app#@Ap_Ir6

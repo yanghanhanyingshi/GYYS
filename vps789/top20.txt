@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-04 04:54 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-04 05:58 | 灵鹿优选
+kuaidianlian.com.cn:443#kuaidianlian.com.cn
 cf.nyanya.moe:443#cf.nyanya.moe
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cdns.doon.eu.org:443#cdns.doon.eu.org
 baka.fun:443#baka.fun
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cdn.091224.xyz:443#cdn.091224.xyz
 www.giannidelprete.it:443#www.giannidelprete.it
-cf.v8.longsays.com:443#cf.v8.longsays.com
 cdn.204910.best:443#cdn.204910.best
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 www.sloomb.com:443#www.sloomb.com
 ct.090227.xyz:443#ct.090227.xyz
-dongbanghong.com:443#dongbanghong.com
 cdn.555586.xyz:443#cdn.555586.xyz
-www.ntu.edu.sg:443#www.ntu.edu.sg
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cf.mubaiovo.top:443#cf.mubaiovo.top
+test.509666.xyz:443#test.509666.xyz
+y508.com:443#y508.com
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

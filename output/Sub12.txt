@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?path=/&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@www.speedtest.net:80?path=/&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#@MIMITDL
 vless://ef22e0d1-e901-4a10-b043-65e818f1298f@46.8.69.229:21474?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁸
@@ -503,3 +502,4 @@ vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?path=%2Fproxyip&
 vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?path=%2FeyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=weathered-math-1f8b.amiralighasempor010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://06462f62-5f9c-4632-9041-d35fedd0df97@fast.motorbazan.com:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%3E%3E%40freeland8%3A%3AXX
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&path=%2f#%3E%3E%40configshub2%3A%3AUS
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@156.154.245.83:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

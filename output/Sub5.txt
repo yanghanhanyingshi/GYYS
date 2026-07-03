@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬 سنگاپور | https://t.me/FREECONFIGSPLUS ✨
 vless://2c9af5d8-8e1c-40e7-8b6b-c200fc5488e8@199.232.78.159:80?type=xhttp&encryption=none&path=/xhttp&host=kabotar.global.ssl.fastly.net&mode=auto&x_padding_bytes=0&extra={"xPaddingBytes":"0"}&security=none#@ehsawn8
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=/tg@zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram
 vless://2cfdb119-5db3-45c4-b026-76227324f2ab@albanyao.consolgame.ir:1002?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#🇦🇱[@v2raybaaz]
@@ -503,3 +502,4 @@ vless://4d470e90-f0df-42ca-b49d-42a900d3e03e@104.21.51.16:8443?path=/In_Panel_Ra
 vless://4d470e90-f0df-42ca-b49d-42a900d3e03e@108.162.193.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev#@GozargahAzad|🏁
 vless://4d470e90-f0df-42ca-b49d-42a900d3e03e@108.162.193.0:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev#@filembad
 vless://4d470e90-f0df-42ca-b49d-42a900d3e03e@108.162.193.0:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev#🔵@chillguy_vpn
+vless://4d470e90-f0df-42ca-b49d-42a900d3e03e@172.67.177.134:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev#@filembad

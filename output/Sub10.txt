@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://aa9453dc-0e52-4628-8911-933c5286a9da@fanlandv2.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=877521a51c7dad43#@fastkanfig 1
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#@v2rayngzendegimamad🕊️
@@ -503,3 +502,4 @@ vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&secu
 vless://d136cf56-5fe0-4c3e-b1af-915e738d2320@gr.teraideri.sbs:38733?sni=play.google.com&security=reality&encryption=none&type=grpc&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed&mode=gun#@NewsDarya
 vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?path=/&security=tls&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net&#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://d1b9e7e9-9dc6-46b1-a1fb-85832cb23437@www.team-pluss.ir:10000?mode=auto&path=/events/user/dashboard&security=&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true,"uplinkHTTPMethod":"POST"}&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=xhttp#Proxy_Se7en
+vless://d1b9e7e9-9dc6-46b1-a1fb-85832cb23437@www.team-pluss.ir:10000?mode=auto&path=/events/user/dashboard&security=none&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true,"uplinkHTTPMethod":"POST"}&host=skyroom.online&type=xhttp#@V2ray_confiig

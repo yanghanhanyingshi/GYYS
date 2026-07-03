@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d1b9e7e9-9dc6-46b1-a1fb-85832cb23437@www.team-pluss.ir:10000?mode=auto&path=/events/user/dashboard&security=none&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true,"uplinkHTTPMethod":"POST"}&host=skyroom.online&type=xhttp#@V2ray_confiig
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cars.morro-settings.ru&fp=chrome&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&sid=dd&type=tcp&headerType=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy#@one_shop_official
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#@V2raySup0🚀
 vless://d209c7db-c0cc-4115-8f54-7d1f5e7d983c@de.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#3. @NewsDarya
@@ -503,3 +502,4 @@ vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@188.114.97.6:2087?mode=auto&path=/p
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@188.114.97.6:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=dl-pack.motionbetter.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl-pack.motionbetter.ir#xhttp-@MIMITDL
+vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#multi 2-@MIMITDL

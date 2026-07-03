@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-03 23:02 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-04 01:14 | 灵鹿优选
+cf.nyanya.moe:443#cf.nyanya.moe
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cdns.doon.eu.org:443#cdns.doon.eu.org
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+cdn.091224.xyz:443#cdn.091224.xyz
+cdn.204910.best:443#cdn.204910.best
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-cdn.091224.xyz:443#cdn.091224.xyz
-cdn.555586.xyz:443#cdn.555586.xyz
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-kuaidianlian.com.cn:443#kuaidianlian.com.cn
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-cdn.204910.best:443#cdn.204910.best
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+www.sloomb.com:443#www.sloomb.com
+cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

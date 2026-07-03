@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.250.119:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@V2ray_confiig
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.250.119:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#FREE_VPN02
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.119:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭94933 | ⚡️Telegram = t.me%2NetFlowTools
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#kurdconfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱95573 | ⚡️Telegram = t.me%2NetFlowTools
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@FreakConfig
@@ -503,3 +500,6 @@ vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?security=reality
 vless://9bc727d8-be3e-4bf7-9914-fabb5c59da5c@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#@meliproxyy
 vless://9bc727d8-be3e-4bf7-9914-fabb5c59da5c@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#Channel : @Daily_Configs
 vless://9c521e24-7326-acd3-acec-d0af00000008@104.21.34.58:8080?path=/netstat&security=none&encryption=none&host=red-cell-47f9.milaniomilan9.workers.dev&fp=chrome&type=ws&sni=red-cell-47f9.milaniomilan9.workers.dev#kurdconfig
+vless://9c521e24-7326-acd3-acec-d0af00000008@104.21.34.58:8080?path=/netstat&security=none&encryption=none&host=red-cell-47f9.milaniomilan9.workers.dev&fp=chrome&type=ws&sni=red-cell-47f9.milaniomilan9.workers.dev#🇨🇦@FreakConfig
+vless://9c521e24-7326-acd3-acec-d0af00000008@104.21.34.58:8080?path=/netstat&security=none&encryption=none&host=red-cell-47f9.milaniomilan9.workers.dev&fp=chrome&type=ws&sni=red-cell-47f9.milaniomilan9.workers.dev#🇨🇦@irconfiig
+vless://9c521e24-7326-acd3-acec-d0af00000008@104.21.34.58:8080?path=/netstat&security=none&encryption=none&host=red-cell-47f9.milaniomilan9.workers.dev&fp=chrome&type=ws&sni=red-cell-47f9.milaniomilan9.workers.dev#🇨🇦@irconfiig✨تو جنگم وصلیم✨

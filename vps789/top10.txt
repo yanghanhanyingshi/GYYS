@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-04 19:19 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-04 21:02 | 灵鹿优选
 baka.fun:443#baka.fun
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
-cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 cf.090227.xyz:443#cf.090227.xyz
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
-my.dnshe.com:443#my.dnshe.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-www.visa.com.tw:443#www.visa.com.tw
+redis.io:443#redis.io
+my.dnshe.com:443#my.dnshe.com
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://PI36027154@pumped-eft.rooster465.autos:443#🏠46@NetFlowTools
-trojan://SoftNetConnect@147.45.70.129:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=/#@MoOon_proxy (3🇩🇪⚡)
 trojan://SoftNetConnect@147.45.70.129:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#@MoOon_proxy (4🇩🇪⚡)
 trojan://SoftNetConnect@147.45.70.129:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=/#@MoOon_proxy (2🇩🇪⚡)
 trojan://SoftNetConnect@147.45.70.129:8443?type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#@meliproxyy
@@ -503,3 +501,5 @@ vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&sec
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.50:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🏠12@NetFlowTools
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🏠6@NetFlowTools
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&type=tcp&headerType=none#@Daily_Configs
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.52:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🪼7@oneclickvpnkeys

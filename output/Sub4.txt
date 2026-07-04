@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&type=tcp&headerType=none#@Daily_Configs
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.52:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🪼7@oneclickvpnkeys
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.53:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🪼10@oneclickvpnkeys
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#@hex_proxy ¹
 vless://05bf717c-c51f-498f-8655-cd61e5d4d8d3@45.80.111.1:2083?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=Sa.sorixset.ir&mode=auto&path=/@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-&security=tls&sni=Sa.sorixset.ir&type=xhttp&x_padding_bytes=100-1000#V2RAYNG_IP-ALLNET4-800.00GB📊
@@ -503,3 +501,5 @@ vless://1b969107-0c23-4735-bab0-b66d29dcdd92@2.144.23.70:443?security=tls&alpn=h
 vless://1b969107-0c23-4735-bab0-b66d29dcdd92@2.144.23.70:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#🇩🇪 @FreakConfig
 vless://1b969107-0c23-4735-bab0-b66d29dcdd92@2.144.23.70:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#🇩🇪 @V2rayng_Fast
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tls&encryption=none&host=c.downloadphysics.ir&fp=chrome&type=ws&sni=c.downloadphysics.ir#🇹🇷
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#@FarazV2ray

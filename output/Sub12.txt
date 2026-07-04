@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e1da4e62-38ad-4481-8330-fc47ace8bd3a@line2.gymplusplus.com:80?path=/&security=none&encryption=none&type=ws#@NetZone_ir
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?type=tcp&encryption=none&security=none#🇺🇸US-🚀@VPNine1
-vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality&encryption=none&pbk=VwWuZIAZf4msfvsDZQjQHY6hZPK5r0O-s7yStyjOqhk&headerType=none&fp=chrome&spx=/U575ktM2xSCSQeZ&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=fc87828b94144d#TEL;Father_vpn
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@162.159.38.119:443?path=/media14#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&type
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@162.159.38.119:443?path=/media14#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@MARAMBASHI 🩵
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@162.159.38.119:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@FarazV2ray
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@172.64.34.119:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#Proxy_Se7en
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#Proxy_Se7en
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@FarazV2ray
@@ -503,3 +497,9 @@ vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?security=reality&e
 vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.9NVAPtxIeWBxT57YsITxZZN-jeed3yryEi4DB0waohQ&pbk=jWNzEE0kjuK_3n0XQHdG_eEime9kSQt-O01XK5C68Fo&headerType=none&fp=chrome&spx=/h8pAQnz5A3iforX&type=tcp&sni=google.com&sid=201f2fa0#@bored_vpn
 vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.9NVAPtxIeWBxT57YsITxZZN-jeed3yryEi4DB0waohQ&pbk=jWNzEE0kjuK_3n0XQHdG_eEime9kSQt-O01XK5C68Fo&headerType=none&fp=chrome&spx=/h8pAQnz5A3iforX&type=tcp&sni=google.com&sid=201f2fa0#@mehrosaboran
 vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.9NVAPtxIeWBxT57YsITxZZN-jeed3yryEi4DB0waohQ&pbk=jWNzEE0kjuK_3n0XQHdG_eEime9kSQt-O01XK5C68Fo&headerType=none&fp=chrome&spx=/h8pAQnz5A3iforX&type=tcp&sni=google.com&sid=201f2fa0#telegram @mtmvpn
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#🚀@VPNine1
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv

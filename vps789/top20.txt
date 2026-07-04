@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-05 05:50 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-05 06:49 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
 nexusmods.com:443#nexusmods.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
@@ -13,10 +13,10 @@ ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 cmcc.cc.cd:443#cmcc.cc.cd
 cdn.091224.xyz:443#cdn.091224.xyz
-cdns.doon.eu.org:443#cdns.doon.eu.org
 dongbanghong.com:443#dongbanghong.com
 api.gzcrtw.com:443#api.gzcrtw.com
 f.lma.de5.net:443#f.lma.de5.net
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 ct.090227.xyz:443#ct.090227.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

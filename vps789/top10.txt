@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-06 03:22 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-06 04:49 | 灵鹿优选
 d.lma.de5.net:443#d.lma.de5.net
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+cf.nyanya.moe:443#cf.nyanya.moe
 saas.sin.fan:443#saas.sin.fan
-nexusmods.com:443#nexusmods.com
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+a.lma.de5.net:443#a.lma.de5.net
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

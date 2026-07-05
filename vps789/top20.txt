@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-06 06:54 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-06 07:58 | 灵鹿优选
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cf.nyanya.moe:443#cf.nyanya.moe
 saas.sin.fan:443#saas.sin.fan
@@ -14,9 +14,9 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-ct.090227.xyz:443#ct.090227.xyz
 auto.dolby.dpdns.org:443#auto.dolby.dpdns.org
-dnew.cc:443#dnew.cc
-www.visa.com.tw:443#www.visa.com.tw
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+cf.mubaiovo.top:443#cf.mubaiovo.top
+cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

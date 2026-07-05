@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#@iguanaVPN4
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#@iguanaVPN7
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#Telegram : @V2ynpv
 vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
 vless://05fa7b41-f82d-44ac-9359-f9ad0351d331@gambron.badangellll.tr:50220?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=gambron.badangellll.tr&mode=auto&path=/Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--Tel-Badangellll--&pbk=UOCKy353OgjIrbc-K7L6I4sj2wx6mamxRS5-iowE5Sw&security=reality&sid=af1d&sni=play.google.com&spx=/DRuyWDg9eZS7Cre&type=xhttp&x_padding_bytes=100-1000#@Badangellll-❤️‍🔥
@@ -503,3 +501,5 @@ vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.95.197:8686?encryption=none&
 vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?encryption=none&security=none&type=ws&host=play.google.com&path=/store#@meliproxyy
 vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?encryption=none&security=none&type=ws&host=play.google.com&path=/store#Channel : @Daily_Configs
 vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?path=/store&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
+vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?path=/store&security=none&encryption=none&host=play.google.com&type=ws#Channel : MTMVPN
+vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?path=/store&security=none&encryption=none&host=play.google.com&type=ws#🇳🇱@FreakConfig

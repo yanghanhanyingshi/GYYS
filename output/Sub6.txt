@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://42a1c069-9dc9-4181-86b8-13bf28632851@178.105.214.65:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#telegram @mtmvpn
-vless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
 vless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&headerType=http&type=tcp#@Soul737
 vless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #5
 vless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
@@ -503,3 +501,5 @@ vless://5c6c1e0f-de3e-4f18-9d6c-c09405e51dd8@199.181.197.73:8443?path=/In_Panel_
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@prrofile_purple  ♥️👈 تلگرام
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@uk-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@prrofile_purple  ♥️👈 تلگرام
 vless://5cbc3beb-61f1-45eb-b365-9555353cdf96@91.107.150.147:26191?security=&encryption=none&headerType=none&type=tcp#🚀 t.me/iProxyChannel 6
+vless://5d4e7f4f-dd35-4a4e-9121-813377ec79f9@193.228.168.106:11011?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://5d57655f-7cec-4ab4-8ef8-5e63cdf7b263@it.feywebsite.ir:8080?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=BEEBOHYCVzYWri5NZuTcoM2RUlRkosefZHaw0u-OJiI&sid=79aac70f6456d7f8&type=xhttp&path=/&mode=packet-up#hope of freedom - @anotherme_night

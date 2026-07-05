@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5d4e7f4f-dd35-4a4e-9121-813377ec79f9@193.228.168.106:11011?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://5d57655f-7cec-4ab4-8ef8-5e63cdf7b263@it.feywebsite.ir:8080?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=BEEBOHYCVzYWri5NZuTcoM2RUlRkosefZHaw0u-OJiI&sid=79aac70f6456d7f8&type=xhttp&path=/&mode=packet-up#hope of freedom - @anotherme_night
 vless://5d57655f-7cec-4ab4-8ef8-5e63cdf7b263@it.feywebsite.ir:8080?mode=packet-up&path=/&security=reality&encryption=none&pbk=BEEBOHYCVzYWri5NZuTcoM2RUlRkosefZHaw0u-OJiI&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=79aac70f6456d7f8#@Ap_Ir6
 vless://5d57655f-7cec-4ab4-8ef8-5e63cdf7b263@usa.feywebsite.ir:8080?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=BEEBOHYCVzYWri5NZuTcoM2RUlRkosefZHaw0u-OJiI&sid=79aac70f6456d7f8&type=xhttp&path=/&mode=packet-up#hope of freedom - @anotherme_night
 vless://5d57655f-7cec-4ab4-8ef8-5e63cdf7b263@usa.feywebsite.ir:8080?mode=packet-up&path=/&security=reality&encryption=none&pbk=BEEBOHYCVzYWri5NZuTcoM2RUlRkosefZHaw0u-OJiI&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=79aac70f6456d7f8#@Ap_Ir6
@@ -503,3 +501,5 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&secu
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@filembad
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@hex_proxy ⁴
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@hi_proxy_iran :👈کانال تلگرام
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@outline_ir
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Tel-@Alpha_V2rayip☠️ 2

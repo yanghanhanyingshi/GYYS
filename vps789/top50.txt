@@ -1,11 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-06 05:53 | 灵鹿优选
-d.lma.de5.net:443#d.lma.de5.net
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-06 06:54 | 灵鹿优选
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cf.nyanya.moe:443#cf.nyanya.moe
 saas.sin.fan:443#saas.sin.fan
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
@@ -15,22 +13,21 @@ yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 ct.090227.xyz:443#ct.090227.xyz
 auto.dolby.dpdns.org:443#auto.dolby.dpdns.org
 dnew.cc:443#dnew.cc
-www.galgamex.net:443#www.galgamex.net
 www.visa.com.tw:443#www.visa.com.tw
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
+bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 cf.mubaiovo.top:443#cf.mubaiovo.top
-china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
-zeas.top:443#zeas.top
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 gh-proxy.com:443#gh-proxy.com
-hzytjy.cn:443#hzytjy.cn
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 www.speedtest.net:443#www.speedtest.net
 www.5199dy.com:443#www.5199dy.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cdn.555586.xyz:443#cdn.555586.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
 cmcc.cc.cd:443#cmcc.cc.cd
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
@@ -40,13 +37,16 @@ bbs.alipansou.com:443#bbs.alipansou.com
 stlouiscountymo.gov:443#stlouiscountymo.gov
 www.mc.js.cool:443#www.mc.js.cool
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
+d.lma.de5.net:443#d.lma.de5.net
 investor.apple.com:443#investor.apple.com
 www.sloomb.com:443#www.sloomb.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-www.epicgames.com:443#www.epicgames.com
 cu.877774.xyz:443#cu.877774.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
-www.swowd.com:443#www.swowd.com
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
 www.akasantech.com:443#www.akasantech.com
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cdn.204910.best:443#cdn.204910.best
+www.sage.com:443#www.sage.com
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

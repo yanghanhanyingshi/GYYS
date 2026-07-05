@@ -1,11 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-06 05:53 | 灵鹿优选
-d.lma.de5.net:443#d.lma.de5.net
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-06 06:54 | 灵鹿优选
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cf.nyanya.moe:443#cf.nyanya.moe
 saas.sin.fan:443#saas.sin.fan
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
@@ -15,8 +13,10 @@ yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 ct.090227.xyz:443#ct.090227.xyz
 auto.dolby.dpdns.org:443#auto.dolby.dpdns.org
 dnew.cc:443#dnew.cc
-www.galgamex.net:443#www.galgamex.net
+www.visa.com.tw:443#www.visa.com.tw
+bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#@confiig_hub
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#@erfanandroid
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#@prrofile_purple  ♥️👈 تلگرام
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#تلگرام : MTMVPN
@@ -502,4 +503,3 @@ vless://c9ddce25-8dc7-4d01-af0a-cca144c9e42c@91.193.58.50:443?ed=2560&eh=Sec-Web
 vless://c9ddce25-8dc7-4d01-af0a-cca144c9e42c@91.193.58.53:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=freedom.dogegg.online&path=/freedom#Telegram-WangCai2🇨🇳&security=tls&sni=freedom.dogegg.online&type=ws#🇬🇧GB-🚀@VPNine1
 vless://c9ddce25-8dc7-4d01-af0a-cca144c9e42c@91.193.58.60:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=freedom.dogegg.online&path=/freedom#Telegram-WangCai2🇨🇳&security=tls&sni=freedom.dogegg.online&type=ws#🇬🇧GB-🚀@VPNine1
 vless://c9ddce25-8dc7-4d01-af0a-cca144c9e42c@91.193.58.63:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=freedom.dogegg.online&path=/freedom#Telegram-WangCai2🇨🇳&security=tls&sni=freedom.dogegg.online&type=ws#🇬🇧GB-🚀@VPNine1
-vless://c9ddce25-8dc7-4d01-af0a-cca144c9e42c@91.193.58.69:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=freedom.dogegg.online&path=/freedom#Telegram-WangCai2🇨🇳&security=tls&sni=freedom.dogegg.online&type=ws#🇬🇧GB-🚀@VPNine1

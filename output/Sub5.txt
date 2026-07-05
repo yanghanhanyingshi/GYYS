@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@104.18.134.56:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=cp.kermanshahi.org#Proxy_Se7en
 vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@213.67.213.166:1005?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#hope of freedom - @anotherme_night
 vless://1a0be96d-7953-4994-8532-43640268e756@nodejs.org:443?path=/eyJqdW5rIjoiN2lzNjh0STgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.masoumkkl.workers.dev&fp=chrome&type=ws&sni=v2nGFASt.masOUMKkl.wORkeRS.DEv#🇩🇪 @V2ngFast
 vless://1a0cefad-99be-486a-a062-2ceee14849fa@104.17.121.70:80?encryption=none&security=none&type=ws&host=zeus-panel-n4i8us.zeus-ri73nu.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#t.me/ConfigFori  -  Config 88279
@@ -503,3 +502,4 @@ vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?encryption=n
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=/&security=&encryption=none&host=chek.carefreemob2.com.&type=httpupgrade#@V2ray_confiig
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=/&security=&encryption=none&host=chek.carefreemob2.com.&type=httpupgrade#@icv2ray
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=/&security=&encryption=none&host=chek.carefreemob2.com.&type=httpupgrade#🇨🇦 @rayhub_ir 0704-10
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=/&security=&encryption=none&host=fr.carefreemob2.com.&type=httpupgrade#🔵@chillguy_vpn

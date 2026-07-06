@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-06 11:24 | 灵鹿优选
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-cf.nyanya.moe:443#cf.nyanya.moe
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-06 16:11 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
-coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-a.lma.de5.net:443#a.lma.de5.net
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 fk.hshwk.org:443#fk.hshwk.org
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+dongbanghong.com:443#dongbanghong.com
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+ys2046.cv:443#ys2046.cv
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-06 16:11 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-06 20:38 | 灵鹿优选
+nexusmods.com:443#nexusmods.com
 saas.sin.fan:443#saas.sin.fan
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-fk.hshwk.org:443#fk.hshwk.org
-dongbanghong.com:443#dongbanghong.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+cf.v8.longsays.com:443#cf.v8.longsays.com
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-ys2046.cv:443#ys2046.cv
-china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-investor.apple.com:443#investor.apple.com
-www.sloomb.com:443#www.sloomb.com
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-cdn.091224.xyz:443#cdn.091224.xyz
-cu.877774.xyz:443#cu.877774.xyz
-d.lma.de5.net:443#d.lma.de5.net
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
-www.vastnovel.com:443#www.vastnovel.com
-store.ubi.com:443#store.ubi.com
+dongbanghong.com:443#dongbanghong.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+ct.hw.090227.xyz:443#ct.hw.090227.xyz
+www.akasantech.com:443#www.akasantech.com
 www.jimdo.com:443#www.jimdo.com
+store.epicgames.com:443#store.epicgames.com
+a.lma.de5.net:443#a.lma.de5.net
+cdn.2158.cc:443#cdn.2158.cc
+www.vastnovel.com:443#www.vastnovel.com
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+bbs.alipansou.com:443#bbs.alipansou.com
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

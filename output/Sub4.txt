@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@209.38.221.121:2096?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@v2rayNplus |🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@209.38.46.202:8443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Netherlands 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@23.173.104.222:2053?path=/fp&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@hopev2ray❤️‍🩹
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@23.173.104.222:2053?sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
@@ -502,4 +503,3 @@ vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls
 vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?security=reality&encryption=none&pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&headerType=&fp=chrome&spx=/t96P95TZesLmGVR&type=tcp&sni=www.yahoo.com&sid=aae1a7abe47db23f#@icv2ray
 vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?security=reality&encryption=none&pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&headerType=none&fp=chrome&spx=/t96P95TZesLmGVR&type=tcp&sni=www.yahoo.com&sid=aae1a7abe47db23f#@icv2ray
 vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?path=/eyJqdW5rIjoicG9pMkt4TDY2TVNtRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ezaccess-project-9138d4.5f6on.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=eZaccESs-PROjeCT-9138d4.5f6ON.WORkerS.DeV#🔵@chillguy_vpn
-vless://2766fda3-bb08-438a-94d7-0022e188ca31@195.208.65.192:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=s46270.cdn.ngenix.net#@v2rayconfigamir 6692

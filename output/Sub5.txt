@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2766fda3-bb08-438a-94d7-0022e188ca31@195.208.65.192:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=s46270.cdn.ngenix.net#@v2rayconfigamir 6692
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁷
 vless://2784597c-ef5b-45b2-bdb5-1b046fb9c461@172.67.193.38:443?encryption=none&security=tls&sni=zeus-panel-2x50i7.zeus-z3vu4r.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zeus-panel-2x50i7.zeus-z3vu4r.workers.dev&path=/#🚀@VPNine1
 vless://278e9846-e9e0-44cb-96cc-325caba418c5@93.115.240.146:20988?encryption=none&security=reality&type=tcp&headerType=none&sni=www.sony.com&fp=chrome&pbk=-rmqknRjdp03SnEn_EPwRa2zRAc4AEONutHVDu1opng&sid=66eb3e433fdf8ac3#🔵@chillguy_vpn
@@ -502,4 +503,3 @@ vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?path=/?ed=20
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?path=/?ed=TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&security=none&encryption=none&host=Ccdn7-pro.postshup.ir&type=httpupgrade#@V2dogs_n 💚
 vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@OV2.liiliil.ir:40301?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#@V2raySup0 | 🚀
-vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#TEL:Father_vpn

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#TELEGRAM-ICV2RAY?ed=512&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@Soul737
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#TELEGRAM-ICV2RAY?ed=512&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@erfanandroid
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@Soul737
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@erfanandroid
@@ -502,4 +503,3 @@ vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.127.218.13:443?security=none&encr
 vless://cccdb266-e17a-4411-9017-6935bd2a5fbf@hollowcon-6ogo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-6ogo.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-6ogo.onrender.com&path=/ws/cccdb266-e17a-4411-9017-6935bd2a5fbf#@hollowcon
 vless://ccd48d1b-63a8-436c-f62f-d6bf59fa7d1c@104.16.174.78:443?path=/@Alfred_Config&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#🇫🇮
 vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn8-03.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&flow=xtls-rprx-vision#@vpng3 [24]
-vless://cd7365e1-5397-411c-9979-fc81d3a5ccbf@193.111.236.227:8443?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.u11XaDVDY8NRKpRGCtbksuhnefKg6RZBQfg5m2OepyI&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=gb.jonghafteh.ir#🇩🇪 @FreakConfig

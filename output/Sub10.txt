@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@69.84.182.44:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#telegram @mtmvpn 1
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@77.110.101.130:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🚀 t.me/iProxyChannel 2
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@chatgpt.com:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpnLiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@confiig_hub
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@chatgpt.com:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpnLiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#telegram @mtmvpn 7
@@ -503,3 +502,4 @@ vless://cec41916-d6e0-40e9-b8eb-149e2342e94c@webmail.sunflowervista.ir:443?path=
 vless://cec41916-d6e0-40e9-b8eb-149e2342e94c@webmail.sunflowervista.ir:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-z42fxc.mahyarazad7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-z42fxc.mahyarazad7.workers.dev#🔵@chillguy_vpn
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@hyperon.site:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#🇨🇦@FreakConfig
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@hyperon.site:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#🇨🇦@V2rayng_Fast
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#🇨🇦@FreakConfig

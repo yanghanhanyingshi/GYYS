@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-08 20:15 | 灵鹿优选
-bbs.alipansou.com:443#bbs.alipansou.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-08 23:11 | 灵鹿优选
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-cdn.555586.xyz:443#cdn.555586.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
 www.swowd.com:443#www.swowd.com
+kniu.cc:443#kniu.cc
+prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cnllm.com:443#cnllm.com
-cf.itv888.cn:443#cf.itv888.cn
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

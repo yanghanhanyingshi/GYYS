@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-09 16:20 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-09 19:47 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cf.3666888.xyz:443#cf.3666888.xyz
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-ct.090227.xyz:443#ct.090227.xyz
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
-cdn.2158.cc:443#cdn.2158.cc
 www.vastnovel.com:443#www.vastnovel.com
-01-cctv.com:443#01-cctv.com
-yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
-www.5199dy.com:443#www.5199dy.com
-d.lma.de5.net:443#d.lma.de5.net
+cu.877774.xyz:443#cu.877774.xyz
+cdn.2158.cc:443#cdn.2158.cc
 hzytjy.cn:443#hzytjy.cn
-www.giannidelprete.it:443#www.giannidelprete.it
-www.jimdo.com:443#www.jimdo.com
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
+yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+baka.fun:443#baka.fun
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
+101yaoye.com:443#101yaoye.com
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+www.galgamex.net:443#www.galgamex.net
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

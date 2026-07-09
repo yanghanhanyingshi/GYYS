@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-09 19:47 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-09 22:33 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
-cf.3666888.xyz:443#cf.3666888.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+cf.3666888.xyz:443#cf.3666888.xyz
+baka.fun:443#baka.fun
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-www.vastnovel.com:443#www.vastnovel.com
-cu.877774.xyz:443#cu.877774.xyz
-cdn.2158.cc:443#cdn.2158.cc
-hzytjy.cn:443#hzytjy.cn
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

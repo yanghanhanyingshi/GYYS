@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@104.21.90.210:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=/QiangLieTuiJian&security=tls&sni=cfoo-146.pages.dev&type=ws#🐞42@v2ray_configs_pools
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.227:443?path=/QiangLieTuiJian?ed&security=tls&encryption=none&insecure=0&host=cfoo-146.pages.dev&type=ws&allowInsecure=0&sni=cfoo-146.pages.dev#🚀 t.me/iProxyChannel 8
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.79:443?encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed&security=tls&sni=cfoo-146.pages.dev&type=ws#🐞47@oneclickvpnkeys
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.79:443?path=/QiangLieTuiJian?ed&security=tls&encryption=none&insecure=0&host=cfoo-146.pages.dev&type=ws&allowInsecure=0&sni=cfoo-146.pages.dev#🚀 t.me/iProxyChannel 19
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560fp=chrome&security=tls#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#@NETMelliAnti
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#@V2raySup0🚀
@@ -498,8 +503,3 @@ vless://cf875231-a636-4939-a584-625312fc78dd@ch-fardad.oorluma.ir:6800?security=
 vless://cf875231-a636-4939-a584-625312fc78dd@ch-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@bored_vpn
 vless://cf875231-a636-4939-a584-625312fc78dd@ch-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@confiig_hub
 vless://cf875231-a636-4939-a584-625312fc78dd@ch-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@mehrosaboran
-vless://cf875231-a636-4939-a584-625312fc78dd@ch-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#telegram @mtmvpn
-vless://cf875231-a636-4939-a584-625312fc78dd@fardad-uk.lorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
-vless://cf875231-a636-4939-a584-625312fc78dd@no-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@Leecher56
-vless://cf875231-a636-4939-a584-625312fc78dd@no-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@bored_vpn
-vless://cf875231-a636-4939-a584-625312fc78dd@no-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@confiig_hub

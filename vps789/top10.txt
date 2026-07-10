@@ -1,6 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-11 05:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-11 06:52 | 灵鹿优选
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-run.254301.xyz:443#run.254301.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
@@ -9,4 +8,5 @@ ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 bbs.alipansou.com:443#bbs.alipansou.com
 www.mc.js.cool:443#www.mc.js.cool
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

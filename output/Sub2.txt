@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DEE&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-ms.Maqror.ir#@V2ray_confiig
-trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&security=tls&alpn=http/1.1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&sni=de-jodo.App-Cloud.ir#@filembad
-trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&security=tls&alpn=http/1.1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&sni=de-jodo.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-jodo.App-Cloud.ir#@prrofile_purple  ♥️👈 تلگرام
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-jodo.App-Cloud.ir#@tootffarangi🍓-7
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&security=tls&alpn=http/1.1&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&sni=Win-De-C-o.Maqror.ir#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&security=tls&alpn=http/1.1&insecure=0&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-De-C-o.Maqror.ir#@prrofile_purple  ♥️👈 تلگرام
@@ -503,3 +499,7 @@ trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@162.159.38.119:443?path=/assignment&host=www.creationlong.org&insecure=1&sni=www.creationlong.org&type=ws&allowInsecure=1&security=tls#@filembad
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@vmesskhodam
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#𝗝𝗼𝗶𝗻 ➠ @Generalconfiig
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#𝗝𝗼𝗶𝗻 ➠ @sil3nt_network
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸@FreakConfig
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Mix--@V2rayAlpha-11

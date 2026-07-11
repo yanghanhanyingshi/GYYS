@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://1N2o5bPwwA@151.101.34.144:443?type=xhttp&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
-trojan://2TzqY10FJL@179.237.75.28:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=yahoo.com#🦉@FreeConfigForYou
-trojan://2TzqY10FJL@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=yahoo.com#@confiig_hub
 trojan://2TzqY10FJL@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=yahoo.com#@hi_proxy_iran :👈کانال تلگرام
 trojan://2TzqY10FJL@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=yahoo.com#@mehrosaboran
 trojan://2TzqY10FJL@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=yahoo.com#Tel-@Alpha_V2rayip🙊 2
@@ -503,3 +500,6 @@ trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Maznet -SOS464
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Maznet -SOS467
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Maznet -SOS469
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Maznet -SOS460
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Maznet -SOS461
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Maznet -SOS463

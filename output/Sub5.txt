@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://475823b6-71f6-4a63-a7de-0ecf0958f8db@104.21.52.100:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-011.signalo3gjj.site&fp=chrome&type=ws&allowInsecure=0&sni=ad-011.signalo3gjj.site#@Shh_Proxy-New³
-vless://4760f592-045d-4f13-a49f-7984eae1a9a8@37.49.224.93:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#@routel1🦋
-vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=&encryption=none&type=httpupgrade#Hayacan Yok 🎯-cox8ewjy-9.99GB📊
 vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#🇬🇧[@OpenVpnUser] vless-GB
@@ -503,3 +500,6 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=/proxyip=d
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@v2raySup0🚀🤍
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://65bed288-9602-d3aa-f7ef-752da3683677@x4g-production-1e7a.up.railway.app:443?path=/ws/65bed288-9602-d3aa-f7ef-752da3683677&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-1e7a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-1e7a.up.railway.app#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=/sg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🇹🇷
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@FarazV2ray
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇹🇷Telegram . @V2raySaman

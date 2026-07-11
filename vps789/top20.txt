@@ -1,12 +1,16 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-12 06:39 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-12 07:45 | 灵鹿优选
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+cf.godns.cc:443#cf.godns.cc
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+www.xflash.vip:443#www.xflash.vip
 fk.hshwk.org:443#fk.hshwk.org
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+www.shopify.com:443#www.shopify.com
 cdn.204910.best:443#cdn.204910.best
 cf.3666888.xyz:443#cf.3666888.xyz
 www.leics.police.uk:443#www.leics.police.uk
@@ -14,9 +18,5 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-cfgo.timelate.com:443#cfgo.timelate.com
-ys2046.cv:443#ys2046.cv
-dongbanghong.com:443#dongbanghong.com
-www.akasantech.com:443#www.akasantech.com
+eii.at:443#eii.at
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

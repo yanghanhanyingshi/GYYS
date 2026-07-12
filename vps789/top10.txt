@@ -1,11 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-12 23:52 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-13 00:48 | 灵鹿优选
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
-cu.877774.xyz:443#cu.877774.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 store.ubi.com:443#store.ubi.com
+cu.877774.xyz:443#cu.877774.xyz
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 www.shopify.com:443#www.shopify.com
 cdn.204910.best:443#cdn.204910.best
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz

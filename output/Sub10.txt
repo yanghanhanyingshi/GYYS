@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22222?encryption=none&security=none&type=tcp#🪯2@oneclickvpnkeys
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22222?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22222?encryption=none&security=none&type=tcp&headerType=none#Tel: @Daily_Configs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22222?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22224?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
@@ -503,3 +499,7 @@ vless://f0d0d826-3cf9-4f5a-982a-3c4600000000@www.speedtest.net:443?path=/NetliVP
 vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#@FarazV2ray
 vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#@V2raySaman
 vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#@meliproxyy
+vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#🇺🇸
+vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#🇺🇸Telegram. @V2raySaman
+vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#🚀 t.me/iProxyChannel 16
+vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#🚀 t.me/v2ray_configs_pools 16

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.127:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://6a467642-9488-405a-96d5-c43dff70d35b@digital.try-me.store:443?encryption
 vless://6aeddf78-bdc7-495f-a44c-be355a73da4e@x1.virgooli.site:443?mode=gun&security=reality&encryption=none&pbk=_Kk5GwRRWH1DInICltj2xRwGvWcGPgg01wVZAZ1QtF0&fp=chrome&spx=/mpfjJPnpwQ9RiJ9&type=grpc&serviceName=@Arshiavpnred_bot&sni=play.google.com&sid=a14c#🇵🇱@V2rayng_Fast
 vless://6b359156-7954-466f-8278-f58c1a2a9de3@ziba.maxic.ir:446?mode=auto&path=/my&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=ndmMYMRqnalEV8Hfy_Dl5AG-2UJKaMjFPlyiDRCdexg&host=bezan.alis1.ir&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=14e9#[🇩🇪]@NetliVPN
 vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
-vless://6bd5c6cc-a154-3110-350e-7ce3e52fb076@gerss.sannest.ir:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&sid=bd&spx=/&type=tcp&headerType=none#Tel: @Daily_Configs

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-13 06:38 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-13 07:44 | 灵鹿优选
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
@@ -7,6 +7,7 @@ keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 eii.at:443#eii.at
+fk.hshwk.org:443#fk.hshwk.org
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 store.ubi.com:443#store.ubi.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
@@ -16,6 +17,7 @@ hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
@@ -24,7 +26,6 @@ cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
 api.gzcrtw.com:443#api.gzcrtw.com
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 baka.fun:443#baka.fun
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cf.553314.xyz:443#cf.553314.xyz
@@ -34,19 +35,18 @@ cf.nyanya.moe:443#cf.nyanya.moe
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 run.254301.xyz:443#run.254301.xyz
 c-power.com.cn:443#c-power.com.cn
-www.6i5.com:443#www.6i5.com
 markmonitor.com:443#markmonitor.com
 www.ox.ac.uk:443#www.ox.ac.uk
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-www.xflash.vip:443#www.xflash.vip
-da.mfa.gov.ua:443#da.mfa.gov.ua
-serviceshub.samsclub.com:443#serviceshub.samsclub.com
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 www.akasantech.com:443#www.akasantech.com
+da.mfa.gov.ua:443#da.mfa.gov.ua
+cdn.ddeed.de:443#cdn.ddeed.de
 cu.877774.xyz:443#cu.877774.xyz
 nexusmods.com:443#nexusmods.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+www.nexusmods.com:443#www.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

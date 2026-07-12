@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-13 06:38 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-13 07:44 | 灵鹿优选
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
@@ -7,6 +7,7 @@ keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 eii.at:443#eii.at
+fk.hshwk.org:443#fk.hshwk.org
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 store.ubi.com:443#store.ubi.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
@@ -16,7 +17,6 @@ hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-cdn.091224.xyz:443#cdn.091224.xyz
-cdns.doon.eu.org:443#cdns.doon.eu.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-12 09:52 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-12 13:19 | 灵鹿优选
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cf.godns.cc:443#cf.godns.cc
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-www.xflash.vip:443#www.xflash.vip
 fk.hshwk.org:443#fk.hshwk.org
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
+www.shopify.com:443#www.shopify.com
+cf.3666888.xyz:443#cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?path=/&security=&encryption=none&host=cnmfangbinxingnmsl.cnmfangbinxing-h.workers.dev&type=ws#@icv2ray
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?path=/fp=chrome&security=&encryption=none&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&type=ws&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#🚀 t.me/iProxyChannel 8
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=/vip1&security=tls&encryption=none&host=hamshahriesfahan.com&type=ws&sni=speedtest.net#✅  @vistav2ray  👈👈کانال ما ✅
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=/vip1&security=tls&encryption=none&host=hamshahriesfahan.com&type=ws&sni=speedtest.net#🇺🇸109212 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://Telegram:X_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&
 vless://Telegram🇨🇳 @WangCai2@162.251.82.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #3
 vless://WANCLOUDFA-FREE@104.16.74.10:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#WANCLOUDFA
 vless://WANCLOUDFA-FREE@104.16.74.10:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#🔥🚀WanCloud🚀🔥
-vless://WANCLOUDFA-FREE@188.114.97.6:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#WANCLOUDFA

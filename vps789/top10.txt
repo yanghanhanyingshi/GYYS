@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-13 16:51 | 灵鹿优选
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
-nexusmods.com:443#nexusmods.com
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-13 19:53 | 灵鹿优选
+gh-proxy.com:443#gh-proxy.com
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-www.swowd.com:443#www.swowd.com
-dnew.cc:443#dnew.cc
-run.254301.xyz:443#run.254301.xyz
-ct.hw.090227.xyz:443#ct.hw.090227.xyz
+nexusmods.com:443#nexusmods.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

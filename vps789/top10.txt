@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-14 09:42 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-14 12:43 | 灵鹿优选
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+www.swowd.com:443#www.swowd.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-cdn.204910.best:443#cdn.204910.best
-nexusmods.com:443#nexusmods.com
+cu.877774.xyz:443#cu.877774.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-store.ubi.com:443#store.ubi.com
-cf.mubaiovo.top:443#cf.mubaiovo.top
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

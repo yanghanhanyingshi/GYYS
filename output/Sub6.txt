@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://665ff5a6-afac-7dfc-e024-b6d100000003@104.18.13.149:443?path=/sync&security=tls&encryption=none&insecure=0&host=nahan-core.ezaccess1745de7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nahan-core.ezaccess1745de7.workers.dev#🚀@VPNine1
 vless://665ff5a6-afac-7dfc-e024-b6d100000008@104.17.147.22:443?path=/sync&security=tls&encryption=none&insecure=0&host=nahan-core.ezaccess1745de7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nahan-core.ezaccess1745de7.workers.dev#🇨🇦110496 | ⚡️Telegram = t.me/SOSkeyNET
 vless://665ff5a6-afac-7dfc-e024-b6d100000008@104.17.147.22:443?path=/sync&security=tls&encryption=none&insecure=0&host=nahan-core.ezaccess1745de7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nahan-core.ezaccess1745de7.workers.dev#🚀@VPNine1
 vless://665ff5a6-afac-7dfc-e024-b6d100000009@104.17.148.22:443?path=/sync&security=tls&encryption=none&insecure=0&host=nahan-core.ezaccess1745de7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nahan-core.ezaccess1745de7.workers.dev#🇨🇦110497 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Channel id: @irconfiig 🇩🇪
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#@icv2ray
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/TvPAJHXEXlFdLMqF?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (8)
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Mlx6nGDhEkXEcBi5?ed=2560#Join Tel: @CxrolVPN (11)

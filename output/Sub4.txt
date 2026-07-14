@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://14dc1390-2efc-724d-9dfa-1bc02bc644bc@x4g-production-06e2.up.railway.app:443?path=/ws/14dc1390-2efc-724d-9dfa-1bc02bc644bc#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-06e2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-06e2.up.railway.app#@MARAMBASHI 🇮🇹
 vless://14e1a612-a523-4a4e-b8fc-64d073006ca8@eer.foot8all.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9b98825681aba023#@confiig_hub
 vless://14e1a612-a523-4a4e-b8fc-64d073006ca8@yout.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=f46de42b38cf0a64#@confiig_hub
 vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?path=/&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws#Proxy_Se7en
@@ -502,4 +503,3 @@ vless://44071682-0e02-49eb-9312-953613aaabbe@fi1.novianft.ir:443?security=realit
 vless://44071682-0e02-49eb-9312-953613aaabbe@fi1.novianft.ir:443?security=reality&encryption=none&pbk=adE4vkAtw-5ugiwo-f7nh-EivURRjYQONDay5q_L4Cc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bfb3682cad08c9c7#🇫🇮FI-🚀@VPNine1
 vless://44071682-0e02-49eb-9312-953613aaabbe@fi1.novianft.ir:443?security=reality&encryption=none&pbk=adE4vkAtw-5ugiwo-f7nh-EivURRjYQONDay5q_L4Cc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bfb3682cad08c9c7#🔵@chillguy_vpn
 vless://44071682-0e02-49eb-9312-953613aaabbe@tr.qelmora.ir:443?security=reality&encryption=none&pbk=adE4vkAtw-5ugiwo-f7nh-EivURRjYQONDay5q_L4Cc&headerType=none&fp=chrome&type=tcp&sni=cdn-apple.com&sid=bfb3682cad08c9c7#@filembad
-vless://44071682-0e02-49eb-9312-953613aaabbe@tr.qelmora.ir:443?security=reality&encryption=none&pbk=adE4vkAtw-5ugiwo-f7nh-EivURRjYQONDay5q_L4Cc&headerType=none&fp=chrome&type=tcp&sni=cdn-apple.com&sid=bfb3682cad08c9c7#@meliproxyy

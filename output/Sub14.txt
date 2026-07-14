@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@am1.foot8all.ir:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=qq&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d22c6bf354720287#%40hi_proxy_iran
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&type=ws&path=%2F#%40hi_proxy_iran
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?security=tls&obfs=salamander&alpn=h3&obfs-password=53cgqwhojoxri5lr&insecure=0&sni=assets.gateway-stream.com#%40v2ray_configs_pools
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?security=&encryption=none&headerType=none&type=tcp#%40v2ray_configs_pools
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#%40Feroxvpn

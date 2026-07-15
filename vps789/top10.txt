@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-16 01:07 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-16 02:57 | 灵鹿优选
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.godns.cc:443#cf.godns.cc
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cdn.204910.best:443#cdn.204910.best
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+cdn.ddeed.de:443#cdn.ddeed.de
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
-www.galgamex.net:443#www.galgamex.net
-cdn.ddeed.de:443#cdn.ddeed.de
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-kuaidianlian.com.cn:443#kuaidianlian.com.cn
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

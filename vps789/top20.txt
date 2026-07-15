@@ -1,7 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-16 02:57 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-16 04:04 | 灵鹿优选
+cdn.091224.xyz:443#cdn.091224.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.godns.cc:443#cf.godns.cc
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cdn.204910.best:443#cdn.204910.best
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
@@ -13,10 +13,10 @@ www.galgamex.net:443#www.galgamex.net
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 www.giannidelprete.it:443#www.giannidelprete.it
 yapuyapu.com:443#yapuyapu.com
 dango.co:443#dango.co
 baka.fun:443#baka.fun
-1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
-www.mc.js.cool:443#www.mc.js.cool
+www.leics.police.uk:443#www.leics.police.uk
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

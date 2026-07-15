@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸111300 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸@FreakConfig
 trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸@V2rayng_Fast
 trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://jZKsbuRpEB@45.130.125.2:443?path=/db&security=tls&alpn=-@Proxy-Se7en&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sl.farxmode.ir#Proxy_Se7en
@@ -501,5 +503,3 @@ vless://26df439d-4d18-400e-9e76-d5f6df6716cd@zeus-panel-ufqzuq.peekconfiggggg1w.
 vless://272f8a4b-f1a3-4040-bf99-bc73e19a0e17@us.mobileemdad.top:42538?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@B2vasl
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#🪁41@oneclickvpnkeys
 vless://27872a81-8c1e-2939-cf5a-0b6a0ef87a22@ansooyefilter-channel-production-9ff9.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-channel-production-9ff9.up.railway.app&path=/ws/27872a81-8c1e-2939-cf5a-0b6a0ef87a22&sni=ansooyefilter-channel-production-9ff9.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸-آنسوی-فیلتر-@ansooyefilter-WS-0B/∞
-vless://279fa557-ca57-4a0a-b9d9-ada4ed34094a@marzban-node-production-2cd6.up.railway.app:443?encryption=none&security=tls&sni=&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=&path=/vless#🇺🇸US-🚀@VPNine1
-vless://279fa557-ca57-4a0a-b9d9-ada4ed34094a@marzban-node-production-2cd6.up.railway.app:443?encryption=none&security=tls&sni=marzban-node-production-2cd6.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=marzban-node-production-2cd6.up.railway.app&path=/vless#Channel : @Daily_Configs

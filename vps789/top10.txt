@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-16 04:04 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-16 05:50 | 灵鹿优选
 cdn.091224.xyz:443#cdn.091224.xyz
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.godns.cc:443#cf.godns.cc
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cdn.204910.best:443#cdn.204910.best
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cdn.ddeed.de:443#cdn.ddeed.de
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz

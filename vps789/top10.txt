@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-15 19:23 | 灵鹿优选
-api.gzcrtw.com:443#api.gzcrtw.com
-saas.sin.fan:443#saas.sin.fan
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-15 21:15 | 灵鹿优选
+cf.godns.cc:443#cf.godns.cc
 cdn.555586.xyz:443#cdn.555586.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+api.gzcrtw.com:443#api.gzcrtw.com
+cdn.ddeed.de:443#cdn.ddeed.de
+cdn.204910.best:443#cdn.204910.best
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 www.galgamex.net:443#www.galgamex.net
-cdn.ddeed.de:443#cdn.ddeed.de
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-15 19:23 | 灵鹿优选
-api.gzcrtw.com:443#api.gzcrtw.com
-saas.sin.fan:443#saas.sin.fan
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-15 21:15 | 灵鹿优选
+cf.godns.cc:443#cf.godns.cc
 cdn.555586.xyz:443#cdn.555586.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+api.gzcrtw.com:443#api.gzcrtw.com
+cdn.ddeed.de:443#cdn.ddeed.de
+cdn.204910.best:443#cdn.204910.best
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 www.galgamex.net:443#www.galgamex.net
-cdn.ddeed.de:443#cdn.ddeed.de
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
-run.254301.xyz:443#run.254301.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-www.sloomb.com:443#www.sloomb.com
-www.giannidelprete.it:443#www.giannidelprete.it
 cf.553314.xyz:443#cf.553314.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-www.mlkj888.com:443#www.mlkj888.com
+www.giannidelprete.it:443#www.giannidelprete.it
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+www.mlkj888.com:443#www.mlkj888.com
+www.sloomb.com:443#www.sloomb.com
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+kuaidianlian.com.cn:443#kuaidianlian.com.cn
+a.lma.de5.net:443#a.lma.de5.net
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

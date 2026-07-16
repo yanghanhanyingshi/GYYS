@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#Channel : @Daily_Configs
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&;encryption=none&;pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&;headerType=none&;fp=chrome&;type=tcp&;flow=xtls-rprx-vision&;sni=deepl.com&;sid=c84f#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@Soul737
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @EXPRESSVPN_420
@@ -502,4 +503,3 @@ vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-on
 vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-one&path=/&security=none&encryption=none&host=nl8.bioritalin.ir&type=xhttp#چنل عضو شو @v2ra_config
 vless://7242eccf-5261-4e31-813e-871bfbde90c2@log.bpminecraft.com:8880?encryption=none&security=none&type=ws&host=long-flower-ac0d.176-17e.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#@meliproxyy
 vless://7242eccf-5261-4e31-813e-871bfbde90c2@log.bpminecraft.com:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=long-flower-ac0d.176-17e.workers.dev&type=ws#@FarazV2ray
-vless://729a43e6-6926-4c27-92f6-b70a67471afc@hub.oneoknews.com:443?encryption=none&security=reality&sni=hub.oneoknews.com&fp=chrome&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&sid=064c2d37308aeeb6&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#🇩🇪https://t.me/FREE_VPN02

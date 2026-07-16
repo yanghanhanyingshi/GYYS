@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@172.64.147.227:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇨🇦@V2rayng_Fast
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @FreakConfig
 trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🪁98@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?security=reali
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@nl.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#@prrofile_purple  ♥️👈 تلگرام
 vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@Fr-namahdod.jorzel.ir:2060?mode=auto&path=/path&security=reality&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=90cecfbf0c0a21ec#@appsooner کانال تلگرام 🕊️
 vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@fr8-namahdod.jorzel.ir:2060?mode=auto&path=/path&security=reality&encryption=none&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=90cecfbf0c0a21ec#@Netshot1   🍁 🚀| با ما متصل بمون⚡ 2
-vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@ge-nn.jorzel.ir:2060?mode=auto&path=/path&security=reality&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=90cecfbf0c0a21ec#@appsooner کانال تلگرام 🕊️

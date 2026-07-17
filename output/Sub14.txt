@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#🔵@chillguy_vpn
+vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.212.138:443?security=reality&sid=43dcff53849b81e6&flow=xtls-rprx-vision&sni=nl.quattro-tech.ru&type=tcp&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none&headerType=none#🔵@chillguy_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.25.44:1080#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy`
 vless://d4d2de4b-2aa0-4a49-8c59-05d83d72af93@81.31.211.108:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#🔵@chillguy_vpn
 vless://f7c0db69-6963-4d7e-9743-8ef52c44c7b8@45.86.159.137:2085?encryption=none&security=none&serviceName=vless&type=grpc#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy`

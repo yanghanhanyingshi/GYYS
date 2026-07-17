@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e34b22ef-23d0-41e7-a9e3-f79c24ce5d8f@khhf2853SHJVs.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪113649 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e34b22ef-23d0-41e7-a9e3-f79c24ce5d8f@khhf2853SHJVs.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪DE-🚀@VPNine1
 vless://e34b22ef-23d0-41e7-a9e3-f79c24ce5d8f@soskeynets.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪113649 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va28.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#channel : @freedomofinfor
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&sid=808a7e8a2e32c697&type=tcp&headerType=none#@Ap_Ir6
@@ -503,3 +501,5 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?allowInsecure=0&s
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.60.167:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@hex_proxy ⁵
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.82.79:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#@v2rayconfigamir 2209
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.82.79:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.84.175:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸

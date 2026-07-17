@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&fp=chrome&type=grpc&serviceName=push.v2.FeedService&sni=api.oneokgames.com&sid=a30b344b5214d62f# @MTMVPN
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?encryption=none&security=reality&sni=dl.onetimeok.com&fp=chrome&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&sid=8ba32e7cefbf524a&type=grpc&authority=&serviceName=api.v2.PushService&mode=gun#@NewsDarya
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?encryption=none&type=grpc&security=reality&sni=dl.onetimeok.com&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&sid=8ba32e7cefbf524a&fp=chrome&serviceName=api.v2.PushService#filembad-242
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a# @MTMVPN
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&serviceName=api.v2.PushService&type=grpc&encryption=none&fp=chrome&sid=8ba32e7cefbf524a&security=reality&sni=dl.onetimeok.com&mode=gun#@Napsternetvirani 🐻
@@ -503,3 +501,5 @@ vless://9928c26a-b3f0-424c-b836-3d6ccfbf7881@91.107.191.72:2026?security=reality
 vless://9928c26a-b3f0-424c-b836-3d6ccfbf7881@91.107.191.72:2026?security=reality&encryption=none&pbk=WlSr90QutGfoi_ysAFI9FEmKtDsw60tZAg9L-KcypmI&headerType=none&fp=chrome&spx=/0fb7d9375174752&type=tcp&flow=xtls-rprx-vision&sni=shop-eu-en.amd.com&sid=383cd5b09d#@vmess_ir
 vless://9928c26a-b3f0-424c-b836-3d6ccfbf7881@91.107.191.72:2026?security=reality&encryption=none&pbk=WlSr90QutGfoi_ysAFI9FEmKtDsw60tZAg9L-KcypmI&headerType=none&fp=chrome&spx=/0fb7d9375174752&type=tcp&flow=xtls-rprx-vision&sni=shop-eu-en.amd.com&sid=383cd5b09d#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://993055af-0b6b-4487-8065-8892d0684f64@naran-de-ow.fizikade.ir:443?security=reality&encryption=none&pbk=V2FVglvB5lw4cSrkhSPRpve27gV2Wp7sO6NUAyxXGQs&headerType=http&fp=chrome&spx=/naranv2ray&type=tcp&sni=play.google.com&sid=68cd#@outline_ir
+vless://993055af-0b6b-4487-8065-8892d0684f64@naran-de-ow.fizikade.ir:443?security=reality&encryption=none&pbk=V2FVglvB5lw4cSrkhSPRpve27gV2Wp7sO6NUAyxXGQs&headerType=http&fp=chrome&spx=/naranv2ray&type=tcp&sni=play.google.com&sid=68cd#telegram @mtmvpn
+vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#⚫ 44 • @spotfyhits ❤

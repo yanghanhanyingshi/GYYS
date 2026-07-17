@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://993055af-0b6b-4487-8065-8892d0684f64@naran-de-ow.fizikade.ir:443?security=reality&encryption=none&pbk=V2FVglvB5lw4cSrkhSPRpve27gV2Wp7sO6NUAyxXGQs&headerType=http&fp=chrome&spx=/naranv2ray&type=tcp&sni=play.google.com&sid=68cd#telegram @mtmvpn
-vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#⚫ 44 • @spotfyhits ❤
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🇩🇪@EXPRESSVPN_420 | All1
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.41.138:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&type=ws&sni=pardazesh-tgws.pages.dev#@v2rayconfigamir 8924
 vless://9a3de3e0-2a6e-4bb2-81bd-1a4e51dfa110@vpn.renshengxuanze.ccwu.cc:443?encryption=none&fp=chrome&host=vpn.renshengxuanze.ccwu.cc&path=/&security=tls&sni=vpn.renshengxuanze.ccwu.cc&type=ws#🪭76@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=real
 vless://bbdab850-9164-43f3-adf9-26f7c5458e9d@cf.narton.ir:8443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@KAFING_2
 vless://bbfa5aff-d10c-ed9e-7351-71461246b77a@rvg-production-2bf4.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/bbfa5aff-d10c-ed9e-7351-71461246b77a&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=rvg-production-2bf4.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-2bf4.up.railway.app#@erfanandroid
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#@Selinc
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-17 09:52 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-17 12:57 | 灵鹿优选
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 saas.sin.fan:443#saas.sin.fan
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
-cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-cf.nyanya.moe:443#cf.nyanya.moe
+www.swowd.com:443#www.swowd.com
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 www.jimdo.com:443#www.jimdo.com
 baka.fun:443#baka.fun
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-api.gzcrtw.com:443#api.gzcrtw.com
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
+cf.nyanya.moe:443#cf.nyanya.moe
 cu.877774.xyz:443#cu.877774.xyz
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+cf.xycf.asia:443#cf.xycf.asia
+bbs.alipansou.com:443#bbs.alipansou.com
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,5 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-18 04:59 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-18 05:54 | 灵鹿优选
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+gh-proxy.com:443#gh-proxy.com
 www.mc.js.cool:443#www.mc.js.cool
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
@@ -7,6 +9,4 @@ yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.giannidelprete.it:443#www.giannidelprete.it
 cf.xycf.asia:443#cf.xycf.asia
-eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

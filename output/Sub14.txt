@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://CF68213490@live-drake.rooster465.autos:443?security=tls&sni=live-drake.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.107.39-0104
+trojan://NQ26071394@real-ewe.rooster465.autos:443?security=tls&sni=real-ewe.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.178.157-0491
+trojan://CF68213490@rested-osprey.rooster465.autos:443?security=tls&sni=rested-osprey.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.207.214-0155
+trojan://NQ26071394@new-eagle.rooster465.autos:443?security=tls&sni=new-eagle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.248.151.227-0502
 trojan://NQ26071394@helped-jennet.rooster465.autos:443?security=tls&sni=helped-jennet.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.254.81-3111
 trojan://NQ26071394@expert-muskrat.rooster465.autos:443?security=tls&sni=expert-muskrat.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.158.56.149-0404
 trojan://NQ26071394@warm-bass.rooster465.autos:443?security=tls&sni=warm-bass.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.169.230-3150

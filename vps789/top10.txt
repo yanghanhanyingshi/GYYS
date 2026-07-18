@@ -1,7 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-19 00:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-19 01:48 | 灵鹿优选
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cu.877774.xyz:443#cu.877774.xyz
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 cf.nyanya.moe:443#cf.nyanya.moe
@@ -9,4 +8,5 @@ ct.721660.xyz:443#ct.721660.xyz
 dnew.cc:443#dnew.cc
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.shopify.com:443#www.shopify.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

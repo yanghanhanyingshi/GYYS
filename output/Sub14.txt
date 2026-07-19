@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-6005
-trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?security=tls&sni=renewed-phoenix.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-79.133.126.190-2298
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?security=tls&sni=sacred-treefrog.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.218.103-0261
 vmess://ewogICAgImFkZCI6ICI0NS43Ni4yMDIuNDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjA3MWE4YTcxLWM2NTYtNGZiNi1hOTA4LTRlNDJlYjcyMjQzZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saWtzdXpjcCIsCiAgICAicG9ydCI6IDQwMTAsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00NS43Ni4yMDIuNDUtNjExOSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-6036
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-6037

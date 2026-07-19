@@ -1,20 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-20 06:42 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-20 07:49 | 灵鹿优选
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 www.shopify.com:443#www.shopify.com
 cu.877774.xyz:443#cu.877774.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 www.sloomb.com:443#www.sloomb.com
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
-yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 eii.at:443#eii.at
@@ -28,17 +22,16 @@ run.254301.xyz:443#run.254301.xyz
 101yaoye.com:443#101yaoye.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 ct.090227.xyz:443#ct.090227.xyz
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 ct.721660.xyz:443#ct.721660.xyz
 www.xflash.vip:443#www.xflash.vip
 cf.92555.xyz:443#cf.92555.xyz
-coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 test.509666.xyz:443#test.509666.xyz
 markmonitor.com:443#markmonitor.com
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-cfgo.timelate.com:443#cfgo.timelate.com
 cdn-1.dogeggo.us.ci:443#cdn-1.dogeggo.us.ci
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -49,4 +42,11 @@ zeas.top:443#zeas.top
 mskcc.org:443#mskcc.org
 www.leics.police.uk:443#www.leics.police.uk
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+cdn.2158.cc:443#cdn.2158.cc
+cf.nyanya.moe:443#cf.nyanya.moe
+cdn.667891.xyz:443#cdn.667891.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
+stlouiscountymo.gov:443#stlouiscountymo.gov
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

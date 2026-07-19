@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@yx.l110.us.ci:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=/&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#⚙️90@oneclickvpnkeys
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Proxy_Se7en
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Proxy_Se7en
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
 vless://4b75a44d-3c91-461e-b5a0-6060ac8aff68@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
@@ -503,3 +501,5 @@ vless://7535a03c-f38c-431c-9ca8-98ee653dcc49@mail.erwinhoda.shop:2083?path=/&sec
 vless://7535a03c-f38c-431c-9ca8-98ee653dcc49@mail.erwinhoda.shop:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=mail.erwinhoda.shop&fp=chrome&type=ws&allowInsecure=0&sni=mail.erwinhoda.shop#5324 | @WetConfig~FREE-TUN🇫🇮
 vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev# @MTMVPN
 vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@Leecher56
+vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@bored_vpn
+vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@confiig_hub

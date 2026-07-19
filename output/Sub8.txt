@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9843fb82-463b-075f-d2c0-86396daaa443@diyakoteam-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=diyakoteam-production.up.railway.app&path=/ws/9843fb82-463b-075f-d2c0-86396daaa443&sni=diyakoteam-production.up.railway.app&fp=chrome&alpn=http/1.1#🔵@chillguy_vpn
-vless://9843fb82-463b-075f-d2c0-86396daaa443@diyakoteam-production.up.railway.app:443?path=/ws/9843fb82-463b-075f-d2c0-86396daaa443&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=diyakoteam-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=diyakoteam-production.up.railway.app#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://9866995e-7225-4919-8de8-19a3f941c4d4@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@custom_config?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#🩵+@Azarakhsh_Proxy+🩷
 vless://9866995e-7225-4919-8de8-19a3f941c4d4@www.speedtest.net:443?path=/@azarakhsh_proxy?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=chrome&type=ws&sni=pages.dev#🩵+@Azarakhsh_Proxy+🩷
 vless://989b5592-c23e-41a9-a419-783a7ca0a1e7@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#Proxy_Se7en
@@ -503,3 +501,5 @@ vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=t
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
 vless://c09d7f00-bac6-4b26-af83-cab341e089aa@holand2.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#kurdconfig
 vless://c09d7f00-bac6-4b26-af83-cab341e089aa@holand2.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#🇳🇱@V2rayng_Fast
+vless://c0f081af-7d91-4c68-84ac-4a36e0034633@chatgpt.com:443?path=/eyJqdW5rIjoiYWwzY3dmZmtmMDNvYnAzNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=636&security=tls&encryption=none&fm={"tcp":[{"settings":{"delay":"8","length":"5","maxSplit":"140","packets":"1-1"},"type":"fragment"}]}&insecure=0&host=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev#@erfanandroid
+vless://c1000175-0b05-46e3-b0f5-1985ffa1ee55@cdn1.portalcode.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=132af752fb1a90a1.rainzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=132af752fb1a90a1.rainzone.ir#@FarazV2ray

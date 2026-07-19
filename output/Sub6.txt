@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@bored_vpn
-vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@confiig_hub
 vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@mtmvpn
 vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#@prrofile_purple  ♥️👈 تلگرام
 vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?security=tls&sni=ez-733129.nova-b6ad66.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/sync&host=ez-733129.nova-b6ad66.workers.dev&encryption=none#@M4DVPN
@@ -503,3 +501,5 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?fp=chrome&ty
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#@Leecher56
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#@M4DVPN
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#@bored_vpn
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#@confiig_hub
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#@filembad

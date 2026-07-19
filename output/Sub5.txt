@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://58ae6add-aa32-4a69-ba8d-5a68b29b9ec8@31.77.156.185:2087?mode=auto&path=/&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#@FarazV2ray
 vless://58ae6add-aa32-4a69-ba8d-5a68b29b9ec8@31.77.156.185:2087?mode=auto&path=/&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#@icv2ray
 vless://58ae6add-aa32-4a69-ba8d-5a68b29b9ec8@31.77.156.185:2087?mode=auto&path=/&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#@vmesskhodam
 vless://58ae6add-aa32-4a69-ba8d-5a68b29b9ec8@31.77.156.185:2087?mode=auto&path=/&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#☑➜چنلمون: Express_freevpn@
@@ -502,4 +503,3 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=/rsedgws&sec
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🟡t.me/iProxyChannel 9
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Proxy_Se7en
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@FarazV2ray
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@icv2ray

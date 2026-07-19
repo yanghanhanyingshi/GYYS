@@ -1,8 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-20 05:43 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-20 06:42 | 灵鹿优选
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 www.shopify.com:443#www.shopify.com
 cu.877774.xyz:443#cu.877774.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
@@ -15,7 +14,6 @@ ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
@@ -27,26 +25,28 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 run.254301.xyz:443#run.254301.xyz
-kniu.cc:443#kniu.cc
 101yaoye.com:443#101yaoye.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 ct.090227.xyz:443#ct.090227.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 ct.721660.xyz:443#ct.721660.xyz
+www.xflash.vip:443#www.xflash.vip
 cf.92555.xyz:443#cf.92555.xyz
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-cf.godns.cc:443#cf.godns.cc
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
-my.dnshe.com:443#my.dnshe.com
-ctlmt.info:443#ctlmt.info
 markmonitor.com:443#markmonitor.com
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
 cdn-1.dogeggo.us.ci:443#cdn-1.dogeggo.us.ci
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-www.jimdo.com:443#www.jimdo.com
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+dnew.cc:443#dnew.cc
+hzytjy.cn:443#hzytjy.cn
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+zeas.top:443#zeas.top
+mskcc.org:443#mskcc.org
+www.leics.police.uk:443#www.leics.police.uk
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

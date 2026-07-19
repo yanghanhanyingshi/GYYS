@@ -1,8 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-19 07:44 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-19 09:50 | 灵鹿优选
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
+www.jimdo.com:443#www.jimdo.com
 www.mc.js.cool:443#www.mc.js.cool
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 play.mc.js.cool:443#play.mc.js.cool
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
@@ -11,12 +10,13 @@ edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 www.leics.police.uk:443#www.leics.police.uk
 nexusmods.com:443#nexusmods.com
-www.jimdo.com:443#www.jimdo.com
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-dongbanghong.com:443#dongbanghong.com
-www.shopify.com:443#www.shopify.com
 www.visa.com:443#www.visa.com
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
+cdn.204910.best:443#cdn.204910.best
+cf.3666888.xyz:443#cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

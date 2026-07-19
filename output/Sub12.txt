@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
+trojan://CF68213490@careful-penguin.rooster465.autos:443?sni=careful-penguin.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
+trojan://CF68213490@caring-wallaby.rooster465.autos:443?sni=caring-wallaby.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
+trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AKR
+trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AKR
 trojan://CF68213490@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
 trojan://CF68213490@clear-heron.rooster465.autos:443?allowInsecure=0&sni=clear-heron.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://CF68213490@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
@@ -498,8 +503,3 @@ vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?encryption=non
 vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.249.110:443?encryption=none&host=pan21.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://893096ae-ed76-4440-bc34-f77c4872540f@188.114.96.3:443?alpn=http%252F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&path=%2FeyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@152.53.200.69:8443?encryption=none&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2F&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?encryption=none&host=square-sea-01d1.339-be3.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8cde6cd0-7903-4aef-8ce8-528fa9677d7b@104.16.106.213:8880?&security=none&type=ws&headerType=&host=steep-glitter-7c3c.367-5c9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%3E%3E%40ShadowsocksM%3A%3AUS

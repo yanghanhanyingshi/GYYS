@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3AFR
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#%3E%3E%40configshub2%3A%3AFR
 trojan://humanity@172.64.147.227:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%3E%3E%40FreakConfig%3A%3AFR
@@ -503,3 +499,7 @@ vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.134.25:2053?encryption=none
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.135.96:8443?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.134.80:2053?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.91.100.159:2053?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.91.40.26:443?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.135.5:443?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://f7ed4770-81f4-47a1-9490-8b8cd684c97e@wangcai.yunzhongzhuan.com:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=silent-cloud-aa63.324-7d8.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@104.20.13.116:443?encryption=none&host=ourfast.ccwu.cc&path=%2F&security=tls&sni=ourfast.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-21 06:48 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-21 07:49 | 灵鹿优选
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
-cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
 www.leics.police.uk:443#www.leics.police.uk
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

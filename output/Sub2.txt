@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#🌐t.me/iProxyChannel 12
-trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#@FarazV2ray
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#@tootffarangi🍓-10hamrah
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#@tootffarangi🍓-2switzerland
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#@vmess_ir
@@ -503,3 +501,5 @@ trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2ray_Alpha🗽 6
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2ray_Alpha🧱 3
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2ray_Alpha🫑 4
+trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
+trojan://humanity@45.130.125.112:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#@M4DVPN

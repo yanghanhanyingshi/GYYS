@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@sv3.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs : کانال تلگرام
-vless://4f6aa10d-9332-4933-8dc8-78c9a42f6082@play.mc.js.cool:8443?encryption=none&fp=chrome&host=lzwnb.ccwu.cc&path=/ws&security=tls&sni=lzwnb.ccwu.cc&type=ws#4⚽@oneclickvpnkeys
 vless://4f6d67e8-7a3b-485a-ae95-e44eb627e7d8@62.60.193.234:33714?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://4f6d67e8-7a3b-485a-ae95-e44eb627e7d8@62.60.193.234:33714?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @FreakConfig
 vless://4f6d67e8-7a3b-485a-ae95-e44eb627e7d8@62.60.193.234:47031?security=reality&encryption=none&pbk=XTFlFm9izFfbprmSekwfSdjmsRCEqQxZ40yEPgieBy8&host=myket.ir&headerType=http&fp=chrome&spx=/k3Ku6WetoYQ00BA&type=tcp&sni=www.sony.com.hn&sid=bc96c8c7925f46#kurdconfig
@@ -503,3 +501,5 @@ vless://76b7834c-75d4-4fce-a90b-2639739e8e3e@s1.streemmovie.shop:8443?mode=auto&
 vless://76b7834c-75d4-4fce-a90b-2639739e8e3e@s1.streemmovie.shop:8443?mode=auto&path=/streem&security=reality&encryption=mlkem768x25519plus.native.0rtt.hotsWvZPbyyNmCfg5BWRkmqwOet9BfmVK2pdUA-jMk0&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=6GfyVeO2GgIndTfBl4mFIgJi6eVSpQv7PDeV5F5RLyo&host=s1.streemmovie.shop&fp=chrome&spx=/b08efb2caca471e&type=xhttp&sni=yt.be&sid=408aded4#@prrofile_purple  ♥️👈 تلگرام
 vless://76ca86e8-6370-45cc-9ad3-04f3bd223b0a@67.230.163.132:11835?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²¹¹
 vless://77941da1-de10-65eb-3f7a-98caa27cca3e@diyakoteam-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=diyakoteam-production.up.railway.app&path=/xhttp-siz10/packet-up/77941da1-de10-65eb-3f7a-98caa27cca3e&sni=diyakoteam-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#@M4DVPN
+vless://77941da1-de10-65eb-3f7a-98caa27cca3e@diyakoteam-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=diyakoteam-production.up.railway.app&path=/xhttp-siz10/packet-up/77941da1-de10-65eb-3f7a-98caa27cca3e&sni=diyakoteam-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#@meliproxyy
+vless://77941da1-de10-65eb-3f7a-98caa27cca3e@diyakoteam-production.up.railway.app:443?mode=packet-up&path=/xhttp-siz10/packet-up/77941da1-de10-65eb-3f7a-98caa27cca3e&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=diyakoteam-production.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=diyakoteam-production.up.railway.app#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn

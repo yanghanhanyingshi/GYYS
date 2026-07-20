@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#@meliproxyy
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#Channel : @Daily_Configs
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&type=grpc&sni=stream.noneok.com&encryption=none&sid=c18304806fa688bd&serviceName=api.v1.StreamService&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks#@NewsDarya
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=reality&sid=c18304806fa688bd&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&encryption=none#@Alpha_v2rayIP
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?sid=c18304806fa688bd&encryption=none&serviceName=api.v1.StreamService&security=reality&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&sni=stream.noneok.com#@Alpha_v2rayIP
@@ -503,3 +501,5 @@ vless://a256bcb1-e3fd-4148-b206-26ccc93a7f9e@87.242.117.101:443?security=reality
 vless://a256bcb1-e3fd-4148-b206-26ccc93a7f9e@91.194.213.150:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#🔵t.me/iProxyChannel 11
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=/?ed=2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@KAFING_2
+vless://a3114afe-ea45-4705-b3c5-4e7162fad687@217.198.5.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf1.o4ka-internet.com&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&type=tcp&headerType=none#@meliproxyy
+vless://a3114afe-ea45-4705-b3c5-4e7162fad687@217.198.5.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf1.o4ka-internet.com&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&type=tcp&headerType=none#Channel : @Daily_Configs

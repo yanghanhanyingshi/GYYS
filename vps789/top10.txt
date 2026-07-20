@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-21 03:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-21 05:02 | 灵鹿优选
 store.ubi.com:443#store.ubi.com
 cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

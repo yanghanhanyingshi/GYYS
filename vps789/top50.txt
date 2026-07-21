@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-22 06:49 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-22 07:50 | 灵鹿优选
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 saas.sin.fan:443#saas.sin.fan
@@ -15,21 +16,27 @@ store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-01-cctv.com:443#01-cctv.com
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+cnllm.com:443#cnllm.com
 www.xflash.vip:443#www.xflash.vip
 www.giannidelprete.it:443#www.giannidelprete.it
 fk.hshwk.org:443#fk.hshwk.org
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 www.leics.police.uk:443#www.leics.police.uk
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
 101yaoye.com:443#101yaoye.com
 cmcc.cc.cd:443#cmcc.cc.cd
+01-cctv.com:443#01-cctv.com
+www.dg22.top:443#www.dg22.top
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 play.mc.js.cool:443#play.mc.js.cool
+www.jimdo.com:443#www.jimdo.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
@@ -39,14 +46,7 @@ nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 a.lma.de5.net:443#a.lma.de5.net
 kniu.cc:443#kniu.cc
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-www.nexusmods.com:443#www.nexusmods.com
-www.akasantech.com:443#www.akasantech.com
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-www.swowd.com:443#www.swowd.com
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
-cmcc.hw.090227.xyz:443#cmcc.hw.090227.xyz
-cmcc.090227.xyz:443#cmcc.090227.xyz
-cf.v8.longsays.com:443#cf.v8.longsays.com
-www.5199dy.com:443#www.5199dy.com
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

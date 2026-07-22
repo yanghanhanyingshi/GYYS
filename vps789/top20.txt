@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-22 20:25 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-22 22:58 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
-kuaidianlian.com.cn:443#kuaidianlian.com.cn
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
-www.jimdo.com:443#www.jimdo.com
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+www.jimdo.com:443#www.jimdo.com
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
-cmcc.cc.cd:443#cmcc.cc.cd
+www.swowd.com:443#www.swowd.com
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.giannidelprete.it:443#www.giannidelprete.it
+api.gzcrtw.com:443#api.gzcrtw.com
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+cf.godns.cc:443#cf.godns.cc
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

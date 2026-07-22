@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-22 20:25 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-22 22:58 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
-kuaidianlian.com.cn:443#kuaidianlian.com.cn
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+www.jimdo.com:443#www.jimdo.com
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+www.swowd.com:443#www.swowd.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

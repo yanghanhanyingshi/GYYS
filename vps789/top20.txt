@@ -1,12 +1,16 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-23 05:58 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-23 07:02 | 灵鹿优选
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.mc.js.cool:443#www.mc.js.cool
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+www.shopify.com:443#www.shopify.com
 cdn.204910.best:443#cdn.204910.best
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 gh-proxy.com:443#gh-proxy.com
 www.jimdo.com:443#www.jimdo.com
+a.lma.de5.net:443#a.lma.de5.net
+cdn.555586.xyz:443#cdn.555586.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -15,8 +19,4 @@ qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cmcc.cc.cd:443#cmcc.cc.cd
 www.sloomb.com:443#www.sloomb.com
-cdn.2020111.xyz:443#cdn.2020111.xyz
-cf.godns.cc:443#cf.godns.cc
-www.sage.com:443#www.sage.com
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

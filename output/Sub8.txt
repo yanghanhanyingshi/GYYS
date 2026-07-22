@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
-vless://aca7d615-8a1e-4f6e-8cb6-72193a44bd3d@188.130.154.75:14408?encryption=none&headerType=http&host=play.google.com&path=/Join-us-@netprotects&security=none&type=tcp#@netprotects
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@try.north-1winter.cv:443?security=reality&encryption=none&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=c0573c8280a0c019#@hex_proxy ³
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.16.121.147:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=9b94d317f693703f.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&fp=chrome&type=ws&sni=f53d749fda28cb85.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=f53d749fda28cb85.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws?ed=2560&security=tls&encryption=none&host=newgen14.hozheen.ir&type=ws&sni=4dcb0d80784f3081.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
@@ -503,3 +499,7 @@ vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=
 vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vip.mojaz-persian-music.ir#🔥 @free_conf_iran 🔥 7
 vless://d40896cb-c5bc-4ae1-8c63-ad2a40ffc861@Snapp.ir:8880?path=/&security=none&encryption=none&host=Appleiranorg.com&type=ws#@Net2ray 🇩🇪
 vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=/free-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#kurdconfig
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=/free-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#🇺🇸@FreakConfig
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=/free-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#🇺🇸@V2rayng_Fast
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#@filembad

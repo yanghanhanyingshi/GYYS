@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=/free-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#🇺🇸@FreakConfig
-vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=/free-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#🇺🇸@V2rayng_Fast
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#@filembad
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.127:2200?path=/v1&security=none&encryption=none&type=ws#@filembad
 vless://d4af8141-98c4-b4c3-3f17-9fd3db982a2d@x4g-production-97f2.up.railway.app:443?path=/ws/d4af8141-98c4-b4c3-3f17-9fd3db982a2d&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-97f2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-97f2.up.railway.app#@FarazV2ray
@@ -503,3 +499,7 @@ vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&en
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#@matinword - کانال تلگرام 🍬
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#Channel id: @ShadowProxy66 🇪🇪
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#Tel-@ProxyMtAlpha⚽ 4
+vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️474🌐🆕️
+vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#✅  @vistav2ray  👈👈کانال ما ✅
+vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#🔵@chillguy_vpn
+vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#@erfanandroid

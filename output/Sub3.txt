@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Ap_Ir6
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Ap_Ir6
-trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@v2raybaaz ⁴
-trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
@@ -503,3 +499,7 @@ vless://1b611f89-c650-492b-89ce-71926f9ff1f8@pl.sv.temas-bor.ir:22021?security=r
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#channel→@networld_vpn
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#♨️38@oneclickvpnkeys
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@ShadowProxy66 🇩🇪
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha🫁 2
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3038?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs :‌ کانال تلگرام
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3038?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel id: @configprxy
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs :‌ کانال تلگرام

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-23 19:01 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-23 21:28 | 灵鹿优选
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-cdns.doon.eu.org:443#cdns.doon.eu.org
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.mc.js.cool:443#www.mc.js.cool
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 zeas.top:443#zeas.top
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+cf.godns.cc:443#cf.godns.cc
+www.leics.police.uk:443#www.leics.police.uk
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

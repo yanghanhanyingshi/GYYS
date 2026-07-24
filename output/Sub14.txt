@@ -3,31 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://NQ26071394@3.75.174.185:443?fp=chrome&sni=certain-prawn.rooster465.autos#%E2%9A%BD4@oneclickvpnkeys
-trojan://NQ26071394@63.178.193.196:443?fp=chrome&sni=quiet-condor.rooster465.autos#%E2%9A%BD5@oneclickvpnkeys
-trojan://PD07395842@golden-fox.rooster465.autos:443?fp=chrome#%E2%9A%BD21@oneclickvpnkeys
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&security=reality&sid=9a4c7d2f8e1b6a3c&sni=www.speedtest.net&type=tcp#%E2%9A%BD12@oneclickvpnkeys
-trojan://KV63147582@hardy-seahorse.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#@GozargahAzad|🇺🇸
-vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&security=reality&sni=speed.cloudflare.com&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&authority=&serviceName=grpc&mode=gun#Channel%20%3A%20%40Daily_Configs
-trojan://JA96378052@careful-cow.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#@GozargahAzad|🇺🇸
-vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&security=reality&serviceName=grpc&sni=speed.cloudflare.com&type=grpc#🔵@chillguy_vpn
-vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?type=grpc&serviceName=grpc&security=reality&sni=speed.cloudflare.com&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&encryption=none#🔵@chillguy_vpn
-vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=reality&encryption=none&authority=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#🔵@chillguy_vpn
-vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@xxl.orbit-escape.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HS4Gr-vMqAOKdxn1Qr2Kwvh3UCIgr3eYWOvUTvuhJh4&security=reality&sid=89965a0c305affd3&sni=xxl.orbit-escape.ru&type=tcp#🔵@chillguy_vpn
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&insecure=0&sni=hy2.123266.xyz#vip%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%40Sgv2ray%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85```
-vless://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=h2&encryption=none&security=tls&serviceName=Ts7kIzm7a8mYEa7OOaBF&sni=ger.wafer.fun&type=grpc#%E2%9A%BD49@oneclickvpnkeys
-trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#%E2%9A%BD54@oneclickvpnkeys
-trojan://PD07395842@present-warthog.rooster465.autos:443?fp=chrome#%E2%9A%BD55@oneclickvpnkeys
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#🔵@chillguy_vpn
-vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&type=grpc&security=reality&serviceName=grpc&mode=gun&sni=speed.cloudflare.com&insecure=1&allowInsecure=1&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI#🔵@chillguy_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.97:8880?security=&encryption=none&type=grpc#🔵@chillguy_vpn
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.edge-9d7c.com&fp=safari&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&type=tcp&headerType=none#%40Zlinkid_US_MCI
-vless://8bba3194-4856-46d1-8319-075817d87eb1@nl16.sodahub.online:443?security=reality&encryption=none&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl16.sodahub.online&sid=c334408a1056aaf8#%F0%9F%8C%90t.me%2FiProxyChannel%201
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=yandex.net&type=tcp#@mtproto_proserver
-vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.ru&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#Channel%20%3A%20%40Daily_Configs
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&type=tcp&headerType=none#Channel%20%3A%20%40Daily_Configs
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&sni=www.intel.com#V2rayByUnknown™```
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.edge-9d7c.com&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&type=tcp&headerType=none#🔵@chillguy_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
@@ -126,6 +101,7 @@ vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?mode=gun&security
 vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@85.208.87.184:9443?security=reality&encryption=none&pbk=6RL8C_2Hi2awKka98Kkx62STPrDXSb25C5u66GIhXRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr-1.converter.darkpn.com&sid=b703abc44e905632#🔵@chillguy_vpn
 hysteria2://76TeSy4hi8@51.159.137.79:55809?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=4d5c3200cd9a371684203fd8bfa29bba7e46777d4599cbc2130e78d9a7f197d2&sni=www.amd.com#%40internet_azad_2026%28hysteria%29
 vless://56b812e4-2d96-4ce5-b365-6c801663a37a@216.158.94.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RBLUab6xZY89_lavlyhc6Wbh6bZCPB1D6UpmBn5UKFw&security=reality&sid=a379aacd5815cb32&sni=us-1.124515.xyz&type=tcp#V2rayByUnknown™```
+vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=f34818a561dfd1fe#🔵@chillguy_vpn
 vless://ac2249c1-75d9-45d6-becc-5d987fbf5d11@rs.sv.temas-bor.ir:22023?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.154.172:22224?encryption=none&type=tcp&headerType=none#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlaB_net`
 vless://f411d02a-fff5-86a4-9f02-cfd75fa76d41@69.46.46.89:443?path=%2Fws%2Ff411d02a-fff5-86a4-9f02-cfd75fa76d41&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-ee29.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ee29.up.railway.app#%40%F0%9D%90%95%F0%9D%9F%90%F0%9D%90%97%F0%9D%90%8D%F0%9D%90%84%F0%9D%90%93
@@ -144,5 +120,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTDJUZXBOVHRjSU5WOURaVnZIaWhB@141.11.187.119:1080#BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#BESTIIVPNBOT
 vless://40a9bfd0-c0e4-4736-a8c3-1ae41ef0fdb3@89.125.48.179:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&security=reality&sid=27d53dfed8185f24&sni=www.mozilla.org&type=tcp#🔵@chillguy_vpn
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🔵@chillguy_vpn
 vless://40a9bfd0-c0e4-4736-a8c3-1ae41ef0fdb3@89.125.48.179:443?security=reality&encryption=none&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=27d53dfed8185f24#🔵@chillguy_vpn

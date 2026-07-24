@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-25 04:12 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-25 05:57 | 灵鹿优选
+cdn.204910.best:443#cdn.204910.best
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.godns.cc:443#cf.godns.cc
 eii.at:443#eii.at
@@ -7,16 +8,15 @@ bbs.alipansou.com:443#bbs.alipansou.com
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.swowd.com:443#www.swowd.com
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+cdn.091224.xyz:443#cdn.091224.xyz
 cf.nyanya.moe:443#cf.nyanya.moe
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+store.ubi.com:443#store.ubi.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-cf.xycf.asia:443#cf.xycf.asia
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-www.shopify.com:443#www.shopify.com
 www.jimdo.com:443#www.jimdo.com
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

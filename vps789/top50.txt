@@ -1,8 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-25 05:57 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-25 06:57 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.godns.cc:443#cf.godns.cc
 eii.at:443#eii.at
+api.gzcrtw.com:443#api.gzcrtw.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 bbs.alipansou.com:443#bbs.alipansou.com
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
@@ -13,10 +14,13 @@ cdn.091224.xyz:443#cdn.091224.xyz
 cf.nyanya.moe:443#cf.nyanya.moe
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.jimdo.com:443#www.jimdo.com
+a.lma.de5.net:443#a.lma.de5.net
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
@@ -39,14 +43,10 @@ www.dg22.top:443#www.dg22.top
 www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 cf.090227.xyz:443#cf.090227.xyz
+cf.v8.longsays.com:443#cf.v8.longsays.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-cf.v8.longsays.com:443#cf.v8.longsays.com
-www.nexusmods.com:443#www.nexusmods.com
-cdn.2158.cc:443#cdn.2158.cc
-markmonitor.com:443#markmonitor.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

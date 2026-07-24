@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-24 22:46 | 灵鹿优选
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-25 02:12 | 灵鹿优选
 eii.at:443#eii.at
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+api.gzcrtw.com:443#api.gzcrtw.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
-store.ubi.com:443#store.ubi.com
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+www.jimdo.com:443#www.jimdo.com
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
 cf.xycf.asia:443#cf.xycf.asia
-cdn.667891.xyz:443#cdn.667891.xyz
-cu.877774.xyz:443#cu.877774.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

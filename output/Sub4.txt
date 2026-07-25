@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
 vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=chrome&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#@RayNetTun
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
@@ -503,3 +502,4 @@ vless://4480161e-2c59-4d37-8736-675c9af32bf1@soskeynets.ru:40443?security=realit
 vless://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&encryption=none&path=/ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray&host=Chess.com&headerType=http&security=none#🇹🇷@ELiV2Ray
 vless://44aed101-147c-4f97-bd46-7e4c301595fa@fr.sorat-fazaei.ir:2092?mode=gun&security=reality&encryption=none&authority=status.play.google.com&pbk=wxRfI536TbT5NzTeFAuvp9PoSzDtyprD9Ybb1PPjxA0&fp=chrome&type=grpc&serviceName=AI-CH&sni=status.play.google.com&sid=f1488fbfd4c7d181#@appsooner کانال تلگرام 🕊️
 vless://44aed101-147c-4f97-bd46-7e4c301595fa@server5.service-vip.ir:39840?mode=gun&security=reality&encryption=none&authority=status.play.google.com&pbk=91mGjh56tQQgDJMplj99KunRsGGVp4p_kx_ZLuslpGs&fp=chrome&type=grpc&serviceName=game&sni=status.play.google.com&sid=d0fc4152311df736#@appsooner کانال تلگرام 🕊️
+vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@1.iranazizm.com:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN

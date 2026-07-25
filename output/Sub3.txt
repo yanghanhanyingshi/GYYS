@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.creationlong.org#Proxy_Se7en
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@prrofile_purple  ♥️👈 تلگرام
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱@FreakConfig
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@EXPRESSVPN_420  👈🏻 کانال تلگرام
@@ -503,3 +502,4 @@ vless://19358f9b-418f-89a6-3900-8ecb182693d2@soskeynets-media.up.railway.app:443
 vless://19358f9b-418f-89a6-3900-8ecb182693d2@uploading-media.up.railway.app:443?encryption=none&security=tls&type=ws&host=uploading-media.up.railway.app&path=/ws/19358f9b-418f-89a6-3900-8ecb182693d2&sni=uploading-media.up.railway.app&fp=chrome&alpn=http/1.1#🇳🇱-آنسوی-فیلتر-@ansooyefilter-WS-0B/∞
 vless://19358f9b-418f-89a6-3900-8ecb182693d2@uploading-media.up.railway.app:443?path=/ws/19358f9b-418f-89a6-3900-8ecb182693d2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uploading-media.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=uploading-media.up.railway.app#Unblocked_ir
 vless://19358f9b-418f-89a6-3900-8ecb182693d2@uploading-media.up.railway.app:443?path=/ws/19358f9b-418f-89a6-3900-8ecb182693d2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uploading-media.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=uploading-media.up.railway.app#[🇳🇱]@NetliVPN
+vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام

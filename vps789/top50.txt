@@ -1,10 +1,13 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-27 03:16 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-27 04:47 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 www.shopify.com:443#www.shopify.com
 cf.godns.cc:443#cf.godns.cc
+cf.3666888.xyz:443#cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
 www.jimdo.com:443#www.jimdo.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -20,6 +23,7 @@ zeas.top:443#zeas.top
 www.vastnovel.com:443#www.vastnovel.com
 www.akasantech.com:443#www.akasantech.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+openai.com:443#openai.com
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
@@ -29,24 +33,20 @@ avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cmcc.cc.cd:443#cmcc.cc.cd
 cdn.ddeed.de:443#cdn.ddeed.de
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.mc.js.cool:443#www.mc.js.cool
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cf.xycf.asia:443#cf.xycf.asia
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 dnew.cc:443#dnew.cc
+f.lma.de5.net:443#f.lma.de5.net
 pwjbl.me:443#pwjbl.me
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-cdn.2158.cc:443#cdn.2158.cc
-eii.at:443#eii.at
-api.gzcrtw.com:443#api.gzcrtw.com
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

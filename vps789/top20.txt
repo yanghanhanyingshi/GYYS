@@ -1,10 +1,13 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-27 03:16 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-27 04:47 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 www.shopify.com:443#www.shopify.com
 cf.godns.cc:443#cf.godns.cc
+cf.3666888.xyz:443#cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
 www.jimdo.com:443#www.jimdo.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -16,7 +19,4 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
-zeas.top:443#zeas.top
-www.vastnovel.com:443#www.vastnovel.com
-www.akasantech.com:443#www.akasantech.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

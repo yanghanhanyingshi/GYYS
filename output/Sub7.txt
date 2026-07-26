@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥 @free_conf_iran 🔥 4
 vless://938e2c26-3d8e-4c1d-9a1a-a9c8d306cf12@45.80.111.1:2083?mode=auto&path=/@Proxy-Se7en-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=xhttp&allowInsecure=0&sni=Sa.sorixset.ir#Proxy_Se7en
 vless://93a7dcd7-9bba-4594-8de8-cc67726f877c@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=hamrah.dgclix.ir#@bird_angry (mci)
@@ -502,4 +503,3 @@ vless://b67fa9f6-e7e5-4689-bcf9-9c933578552c@vip1.grman---1.loriq.site:1443?secu
 vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@tu1-azad.petshopcloud.ir:5676?mode=auto&path=/api/v2/content&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=oyQ3qwkwg06ZCZhI4Gzi4CIHFR2CfXuTysnV25GcPzY&fp=chrome&spx=/wryFHh2hsVXpTbP&type=xhttp&sni=ca.my.yahoo.com&sid=9a1bdcac8565f898#@prrofile_purple  ♥️👈 تلگرام
 vless://b71d03e2-fa61-4206-8354-46b6228ccf5d@api1.hexogate.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&sid=66d6d3d24148fc1f&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://b71d03e2-fa61-4206-8354-46b6228ccf5d@api1.hexogate.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&sid=66d6d3d24148fc1f&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
-vless://b71d03e2-fa61-4206-8354-46b6228ccf5d@api1.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=66d6d3d24148fc1f#telegram @mtmvpn

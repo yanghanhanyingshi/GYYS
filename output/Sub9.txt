@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&sid=a99e&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&sid=a99e&type=tcp&headerType=none#@M4Dvpn
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&sid=a99e&type=tcp&headerType=none#@meliproxyy
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reality&encryption=none&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a99e#@FarazV2ray
@@ -503,3 +502,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?path=/&security=tl
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.15:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@icv2ray
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.15:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#kurdconfig
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.15:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦@FreakConfig
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=/#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬

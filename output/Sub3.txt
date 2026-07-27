@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦@FreakConfig
 trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦@V2rayng_Fast
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.calmloud.com&type=ws&sni=www.calmloud.com#https://t.me/v2ray_Mammad
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@appsooner کانال تلگرام 🕊️
@@ -503,3 +502,4 @@ vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encrypt
 vless://17e30aac-9958-4ae2-b96c-989852d0c0af@167.172.59.180:26698?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://19128d06-dfb1-43d0-b091-19ae46c265ac@marzban-node-production-7a67.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-7a67.up.railway.app&sni=marzban-node-production-7a67.up.railway.app&fp=chrome&alpn=h2#🚀 Marz (peekconfiggg) [VLESS - ws]
+vless://19307550-126a-4b8b-a1a3-115197320370@web-production-6ffd7.up.railway.app:443?encryption=none&security=tls&sni=web-production-6ffd7.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-6ffd7.up.railway.app&path=/ws/19307550-126a-4b8b-a1a3-115197320370#@hollowcon

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-27 07:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-27 10:03 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
@@ -15,7 +15,9 @@ bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
+f.lma.de5.net:443#f.lma.de5.net
 pwjbl.me:443#pwjbl.me
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
@@ -27,6 +29,8 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+www.galgamex.net:443#www.galgamex.net
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cdn.091224.xyz:443#cdn.091224.xyz
 zeas.top:443#zeas.top
@@ -45,8 +49,4 @@ gh-proxy.com:443#gh-proxy.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

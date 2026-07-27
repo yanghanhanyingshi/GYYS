@@ -1,12 +1,13 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 07-28 05:58 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 07-28 06:58 | 灵鹿优选
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 www.shopify.com:443#www.shopify.com
+saas.sin.fan:443#saas.sin.fan
 nexusmods.com:443#nexusmods.com
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 dongbanghong.com:443#dongbanghong.com
-coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -14,6 +15,7 @@ cmcc.vvvv.ee:443#cmcc.vvvv.ee
 bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
@@ -26,7 +28,6 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 eii.at:443#eii.at
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cmcc.cc.cd:443#cmcc.cc.cd
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.xflash.vip:443#www.xflash.vip
@@ -34,19 +35,18 @@ fk.hshwk.org:443#fk.hshwk.org
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 openai.com:443#openai.com
-cdn.204910.best:443#cdn.204910.best
+cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.jimdo.com:443#www.jimdo.com
 www.leics.police.uk:443#www.leics.police.uk
 pwjbl.me:443#pwjbl.me
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

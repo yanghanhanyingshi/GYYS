@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-27 21:33 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-28 00:08 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-www.leics.police.uk:443#www.leics.police.uk
-www.galgamex.net:443#www.galgamex.net
 dongbanghong.com:443#dongbanghong.com
-cdns.doon.eu.org:443#cdns.doon.eu.org
-gh-proxy.com:443#gh-proxy.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
+www.leics.police.uk:443#www.leics.police.uk
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
-cdn.091224.xyz:443#cdn.091224.xyz
-www.vastnovel.com:443#www.vastnovel.com
-cdn.ddeed.de:443#cdn.ddeed.de
+www.galgamex.net:443#www.galgamex.net
+cmcc.cc.cd:443#cmcc.cc.cd
 cf.nyanya.moe:443#cf.nyanya.moe
-test.509666.xyz:443#test.509666.xyz
+www.jimdo.com:443#www.jimdo.com
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.vastnovel.com:443#www.vastnovel.com
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+zeas.top:443#zeas.top
+1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

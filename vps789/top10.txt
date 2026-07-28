@@ -1,4 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-28 16:17 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-28 19:10 | 灵鹿优选
+cf.godns.cc:443#cf.godns.cc
+nexusmods.com:443#nexusmods.com
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 dongbanghong.com:443#dongbanghong.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -6,7 +9,4 @@ www.mc.js.cool:443#www.mc.js.cool
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

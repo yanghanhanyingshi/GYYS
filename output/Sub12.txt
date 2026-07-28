@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@FarazV2ray
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@M4Dvpn
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@Npv_iR 🍑
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@erfanandroid
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@mehrosaboran
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@meliproxyy
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@tootffarangi🍓-18
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@vmesskhodam
@@ -498,8 +503,3 @@ trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos#%3E%3
 trojan://Telegram_healer_config@www.speedtest.net:443?path=%2Ftr%2FmPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=0&sni=moral-dolphin.rooster465.autos#%3E%3E%40v2nodes%3A%3AFR
 trojan://WG39087154@nearby-cod.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://WG39087154@great-krill.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://UZ15382649@15.188.75.92:443?sni=moral-dolphin.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://XG59623478@193.169.239.76:443?fp=chrome&sni=renewed-chigger.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://WG39087154@eternal-gazelle.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASG
-trojan://WG39087154@closing-falcon.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASG

@@ -1,14 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 07-30 01:05 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 07-30 02:59 | 灵鹿优选
+cdns.doon.eu.org:443#cdns.doon.eu.org
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
 zeas.top:443#zeas.top
-cdns.doon.eu.org:443#cdns.doon.eu.org
 pwjbl.me:443#pwjbl.me
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 01-qq.com:443#01-qq.com
 www.dg22.top:443#www.dg22.top
@@ -17,6 +14,9 @@ cmcc.vvvv.ee:443#cmcc.vvvv.ee
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
 www.leics.police.uk:443#www.leics.police.uk
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.galgamex.net:443#www.galgamex.net
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

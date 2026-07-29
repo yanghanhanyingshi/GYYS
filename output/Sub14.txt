@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.164-0227
-trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&sni=optimal-urchin.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.27-0228
 trojan://KV63147582@legible-possum.rooster465.autos:443?security=tls&sni=legible-possum.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.146-0229
 trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-91.199.84.204-0230
 trojan://PI36027154@upright-hamster.rooster465.autos:443?security=tls&sni=upright-hamster.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.210-0231

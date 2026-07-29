@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 07-29 23:45 | 灵鹿优选
-pwjbl.me:443#pwjbl.me
-zeas.top:443#zeas.top
-dnew.cc:443#dnew.cc
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 07-30 01:05 | 灵鹿优选
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
-01-qq.com:443#01-qq.com
-dongbanghong.com:443#dongbanghong.com
-www.dg22.top:443#www.dg22.top
+zeas.top:443#zeas.top
+cdns.doon.eu.org:443#cdns.doon.eu.org
+pwjbl.me:443#pwjbl.me
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

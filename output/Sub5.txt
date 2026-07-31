@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3f176170-afe0-4847-91f9-64e05d004eec@netherland.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@confing_v2rayy کانفینگ بیشتر در چنل 👈
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @GozargahVPN
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#119
 vless://3fe8191f-52ae-4e38-8385-5869ab47fb70@104.16.100.66:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=jolly-violet-a006.10-ae8.workers.dev&type=ws#kurdconfig
@@ -500,6 +503,3 @@ vless://5e81fec9-0000-4397-9a88-23771e096e30@helpoweri.helpower.ir:2053?mode=aut
 vless://5ec01bbd-ffc3-4979-bdba-10cf4a6b3986@gue75.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All⁵ | @BigSmoke_Config
 vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 💟
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@vmess_ir
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#🇹🇷| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#🇧🇬| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)

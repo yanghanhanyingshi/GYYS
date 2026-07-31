@@ -1,7 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-01 06:57 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-01 07:59 | 灵鹿优选
 cdn.7zz.cn:443#cdn.7zz.cn
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.godns.cc:443#cf.godns.cc
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+www.swowd.com:443#www.swowd.com
+api.gzcrtw.com:443#api.gzcrtw.com
 cdn.204910.best:443#cdn.204910.best
 eii.at:443#eii.at
 www.mfyx.cn:443#www.mfyx.cn
@@ -16,7 +19,4 @@ cloudflare.idc.rocks:443#cloudflare.idc.rocks
 01-qq.com:443#01-qq.com
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

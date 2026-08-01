@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://Telegram:@Free_VPN_CH@193.148.59.145:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@193.233.23.204:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@193.53.40.219:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@194.164.235.8:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@194.53.54.30:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@203.18.98.197:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@204.77.1.55:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@206.168.213.248:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
@@ -498,8 +503,3 @@ vless://c8e4856d-be25-4909-a3d6-c4728921cf20@4aem4.pastilbastani.ir:443?encrypti
 vless://c8e4856d-be25-4909-a3d6-c4728921cf20@4aem4.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://c8f85c67-016b-4d12-90a8-036f416592f3@104.194.146.32:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=6x4A8wp1qTHTHr0Ws1zdfjY3YemQrKuQ79zGIYh2dyY&fp=chrome&spx=/JDY7ZXVuKrQ8JEg&type=xhttp&sni=www.intel.com&sid=41208ca9bd7a#🇺🇸@FreakConfig
 vless://c8fe7ac3-b856-43a3-83c6-7add01473004@104.194.148.31:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=Ktlxb7kcAIB9_kWTWqD4EOcSLfwQsNqTrc3xBokhYBo&fp=chrome&spx=/yCXkE90WA3xmofa&type=xhttp&sni=www.nvidia.com&sid=90#V2ray_Alpha🗽 5
-vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80/?type=ws&encryption=none&flow=&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&packetEncoding=xudp#🇫🇮芬兰
-vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?path=/&security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#🚀t.me/iProxyChannel 3
-vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?path=/&security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#@flyv2ray
-vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.56.7:80/?type=ws&encryption=none&flow=&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&packetEncoding=xudp#🇫🇮 FI
-vless://c97b2158-64c9-1f55-8167-72970d347288@157.22.19.5:443?encryption=none&fp=&mode=auto&path=/&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&security=reality&sni=download.nvidia.com&type=xhttp#🎒71@oneclickvpnkeys

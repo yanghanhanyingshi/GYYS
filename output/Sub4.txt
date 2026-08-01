@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@Net2ray USA🇺🇸
+vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
+vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#@B2vasl
+vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@Zula.ir:2082?path=/&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#@Hope_Net-join-us-on-Telegram
+vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@Zula.ir:2082?path=/&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#@v2ray_configs_pools-join-us-on-Telegram
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=k-wk6CQguQMtipx1iMfDyZhyUL4FSS4T4ISLC9YTeh4&headerType=none&fp=chrome&spx=/8a2dvjADssH7mCs&type=tcp&sni=www.nvidia.com&sid=fa#🔴@v2rayngsupbot
 vless://24b38f71-e410-4b29-ac82-5e095adaa122@95.142.46.112:23703?security=reality&encryption=none&pbk=e5FMiZwEwAWoTVUQYe9zoJ4TKsRPqHmOd1gbSbU5sFw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=224eb069dd8cd581#@Begoo_VPN ²³³
 vless://25209e75-6776-420e-9dd3-b7b6a77a3eb4@con.aliceit.ru:58843?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=GiUJxQTMZi8_xtjnAg03V9vo85O1UYYJF8Yel8-PTAk&sid=9ea316fcde370ad7&allowinsecure=0&type=tcp&headerType=none#🇩🇪All² | @BigSmoke_Config
@@ -498,8 +503,3 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🍭
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#⚡@flyv2ray
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🇬🇧
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#TEL;Father_vpn
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.217.244:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.102.137:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram

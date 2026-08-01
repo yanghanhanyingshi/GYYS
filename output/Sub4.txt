@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://22ceed66-6218-4688-9234-9ba29027774b@43bdd4d92502bd60.mbcloudy.ir:23857?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=db418071da7fcb7b#@Shh_Proxy-New³
-vless://2335f653-ab29-46aa-bd8a-9d8e39625d57@al1.vipsite2.top:8088?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alman1.rendai.ir#@Selinc
-vless://2354a767-9500-461f-8b09-9344cb80dabb@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
-vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@Net2ray USA🇺🇸
-vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#@B2vasl
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@Zula.ir:2082?path=/&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#@v2ray_configs_pools-join-us-on-Telegram
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.18.16.56:443?path=/nova-geo-psiphon-se&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo10.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo10.zenvorix.ir#@FarazV2ray
@@ -503,3 +498,8 @@ vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?securi
 vless://41a52590-0ab0-4def-acba-68103da2fbfa@45.74.159.124:443?path=/&security=none&encryption=none&host=45.74.159.124&type=ws#@v2raybaaz¹
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet
+vless://4206a00d-e790-8566-ef63-c20f8eaeed36@69.46.46.6:443?path=/ws/4206a00d-e790-8566-ef63-c20f8eaeed36&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4973.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4973.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#IR-@V2rayAlpha-14
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)

@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.73.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U#🇳🇱NL-🚀@VPNine1
+vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.91.165:8443?encryption=none&type=ws&path=/subscribe/ws&security=none#🇳🇱NL-🚀@VPNine1
+vless://42713553-c2e5-408a-8a1b-651b2facf01e@85.192.49.203:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U#🇫🇮FI-🚀@VPNine1
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@104.21.36.164:2053?path=/api/vote/number/row/n1&security=tls&encryption=none&insecure=0&host=ger-full.deepinsane.com&type=ws&allowInsecure=0&sni=ger-full.deepinsane.com#@Unblocked_ir
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&security=none&type=tcp#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
@@ -495,11 +503,3 @@ vless://6032f206-19e8-48a3-9a3d-cea70fb3518f@107.189.17.98:443?encryption=none&t
 vless://608fd4aa-1af4-a32a-6b12-ad24e21b50dd@x4g-production-a803e.up.railway.app:443?path=/ws/608fd4aa-1af4-a32a-6b12-ad24e21b50dd&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-a803e.up.railway.app&fp=chrome&type=ws&sni=x4g-production-a803e.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?security=none&encryption=none&type=ws&host=y670.0h0.ccwu.cc&path=/gPvZ4oCcNDyuc3szX7xhuvpEm&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://6106b853-50ce-4922-bdce-b9384f137e2c@69.46.46.67:443?path=/ws/vless/6106b853-50ce-4922-bdce-b9384f137e2c?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=luffypanel-production-ff69.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=luffypanel-production-ff69.up.railway.app#kanal mtmvpn 58
-vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?security=reality&encryption=none&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d5c1b9#@prrofile_purple  ♥️👈 تلگرام
-vless://61678bb5-a794-4c0d-b249-f34f9381639c@de.ato.f8r.ir:80?security=reality&encryption=none&pbk=JmJhhnv8eDJWTVpdkvq5-4wCXWgmukmhTw3DW_v_rkk&headerType=none&fp=chrome&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=72544fe6f7169186#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
-vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=/api&security=tls&encryption=mlkem768x25519plus.native.0rtt.TUi7u5UXHqLaEQK2w69XWLPOiKYd5Ded1AwEPgAvphg&insecure=0&host=api.flotaw.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.flotaw.ir#TEL;Father_vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#@GrizzlyVPN
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram @v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@v2rayngzendegimamad🕊️
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.0.79.109:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?telegram🇮🇷+@shadowproxy66=#کانال تلگرام : Free_VPN_CH@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.121.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime42.workers.dev&path=/&packetEncoding=xudp#🇯🇵
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.30:8880?type=ws&host=vms.lifetime36.workers.dev&path=/#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬

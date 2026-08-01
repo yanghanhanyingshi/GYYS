@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.31:7001#@v2ray_configs_pools
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.90:6697#@v2ray_configs_pools
+ss://YWVzLTI1Ni1nY206Vkplc2NWV3VwOFBS@212.192.13.95:8388#香港 HongKong
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🩵+@Azarakhsh_Proxy+🩷
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#🩵+@Azarakhsh_Proxy+🩷
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#@V2rayi_net
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.200:5600#@v2ray_configs_pools
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:5001#@v2ray_configs_pools
@@ -495,11 +503,3 @@ vless://02082a02-50f6-4bae-ac34-5c8ab413c427@cdn.akbarvpn.dpdns.org:48756?securi
 vless://0256a52f-b2ce-4df9-a7bf-1e812f762e89@167.172.173.163:58324?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray&security=none#@Nap_v2ray
 vless://026149af-ee7c-2044-944e-34d522fd6f7e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/026149af-ee7c-2044-944e-34d522fd6f7e#109
 vless://02ea6b0e-21f8-4290-9ecc-854d492705f4@cd3.postshup.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=sSois.6.postshup.ir#💫
-vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@190.93.247.155:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=/PROXY_MTM?ed=2048#@v2ray_configs_pools-join-us-on-Telegram
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@V2rayng_Fast
-vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#🩵+@Azarakhsh_Proxy+🩷
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http/1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?alpn=http/1.1&encryption=none&host=germany-2.ariyuz.org&path=/?/?BIA_TELEGRAM@vless_socks_vless_socks_vless_socks_vless_sosks?ed=2560&security=tls&sni=germany-2.ariyuz.org&type=ws#3🎒@oneclickvpnkeys
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=germany-2.ariyuz.org&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#@MARAMBASHI 🇧🇷

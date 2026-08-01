@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#Telegram: @Configfori
+vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#Telegram: @Configfori
+vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?encryption=none&type=tcp&headerType=http&path=/&host=@GHOFLSHCAN.@GHOFLSHCAN.@GHOFLSHCAN.@GHOFLSHCAN.@GHOFLSHCAN.play.google.com#@GHOFLSHCAN🇫🇮
+vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@TEHRANARGO🦁کانال کانفیگ و پروکسی
+vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@configprxy🦁کانال کانفیگ و پروکسی
+vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
+vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mehrosaboran
+vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 𝗝𝗼𝗶𝗻 ➠ @sil3nt_network
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 𝗝𝗼𝗶𝗻 ➠ @sil3nt_network  📣 @sil3nt_network
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@FreakConfig
@@ -495,11 +503,3 @@ vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?encryption=no
 vless://cf06fc75-f565-43d3-aeb0-44861687e27e@31.56.222.233:8443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=s9Pcb88H6yJFIJKsQhW0JeZyfcJdinD5RTk5Ly9tN1A&fp=chrome&spx=/&type=xhttp&sni=www.samsung.com&sid=cf#@prrofile_purple  ♥️👈 تلگرام
 vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech
 vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech   ⚠️ * آموزش اتصال به کانفیگ
-vless://cf39cbf2-8926-43b5-ba3e-45b975019094@skk.moe:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=snowy-feather-39d3.428.workers.dev&type=ws#@hex_proxy ⁴
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.18.32.47:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#@Daily_Configs
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.18.32.47:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@tootffarangi🍓-4
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #1
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@Ap_Ir6
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #3
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #4
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@Capoit

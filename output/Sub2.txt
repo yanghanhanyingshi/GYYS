@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:20910#🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬 Join+Telegram:@Farah_VPN 🇧🇬
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.87:443#@Hope_Net
-ss://YWVzLTI1Ni1nY206dGw2eW5TdHZpZkxE@103.115.18.71:8388#日本 Japan
-ss://YWVzLTI1Ni1nY206dXFVWkZPRDNmanNX@89.125.244.179:8388#日本
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@172.64.35.70:443#@Hope_Net
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@172.64.35.70:443#@v2ray_configs_pools
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@172.64.35.70:443#🇨🇦131298 | ⚡️Telegram = t.me/SOSkeyNET
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@172.64.35.70:443#🚀@VPNine1
 ss://ZTIyYWNhMDUtODdlYS00OGY5LTgzODktOTBkODhiNGE3MDhkOg==@104.18.27.94:443#@v2ray_configs_pools
@@ -503,3 +496,10 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=Pro
 vless://06ceb304-69b9-4e8a-b7f0-54ff3596ba1d@5.75.196.249:8080?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=2acf8977eb67ea0c#kurdconfig
 vless://06ceb304-69b9-4e8a-b7f0-54ff3596ba1d@5.75.196.249:8080?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=2acf8977eb67ea0c#🇩🇪@FreakConfig
 vless://06ceb304-69b9-4e8a-b7f0-54ff3596ba1d@5.75.196.249:8080?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=2acf8977eb67ea0c#🇩🇪@V2rayng_Fast
+vless://06ceb304-69b9-4e8a-b7f0-54ff3596ba1d@5.75.196.249:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=5e06032a9c448538#kurdconfig
+vless://06ceb304-69b9-4e8a-b7f0-54ff3596ba1d@5.75.196.249:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=5e06032a9c448538#🇩🇪@FreakConfig
+vless://06ceb304-69b9-4e8a-b7f0-54ff3596ba1d@5.75.196.249:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=5e06032a9c448538#🇩🇪@V2rayng_Fast
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&security=reality&sid=19fbc4c7dd3d3d5a&sni=api-endpoint.rest&type=tcp#👁️‍🗨️86@oneclickvpnkeys
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?security=reality&encryption=none&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api-endpoint.rest&sid=19fbc4c7dd3d3d5a#@meliproxyy
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@dev-ops-notes.blog:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5qYuPXdx_1i6bBOUJRKCSv2vBxdWxSZcct_Cxd-W0hc&security=reality&sid=65c55164c5e88da1&sni=dev-ops-notes.blog&type=tcp#👁️‍🗨️94@oneclickvpnkeys
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@log-delivery.cloud:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2p4JMqpDtRw7qmmNZUg8JZ4rbq5Nvm7Xpv_Pw2r5myA&security=reality&sid=26a4015385ec5527&sni=log-delivery.cloud&type=tcp#👁️‍🗨️68@oneclickvpnkeys

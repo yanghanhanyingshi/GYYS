@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-03 20:51 | 灵鹿优选
-cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-03 23:39 | 灵鹿优选
+openai.com:443#openai.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-store.ubi.com:443#store.ubi.com
-cf.3666888.xyz:443#cf.3666888.xyz
-www.mc.js.cool:443#www.mc.js.cool
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+cdn.ddeed.de:443#cdn.ddeed.de
+cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
+cdns.doon.eu.org:443#cdns.doon.eu.org
+store.ubi.com:443#store.ubi.com
+cf.godns.cc:443#cf.godns.cc
+cf.3666888.xyz:443#cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

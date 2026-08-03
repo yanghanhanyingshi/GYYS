@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-04 06:01 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-04 07:06 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 openai.com:443#openai.com
 www.leics.police.uk:443#www.leics.police.uk
@@ -7,7 +7,9 @@ cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
+cdn.7zz.cn:443#cdn.7zz.cn
 cdn.2x.nz:443#cdn.2x.nz
+doro.lol:443#doro.lol
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
@@ -41,6 +43,7 @@ yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 eii.at:443#eii.at
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.mfyx.cn:443#www.mfyx.cn
+zeas.top:443#zeas.top
 www.akasantech.com:443#www.akasantech.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
@@ -85,7 +88,6 @@ cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
-cdn.7zz.cn:443#cdn.7zz.cn
 cfgo.timelate.com:443#cfgo.timelate.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cdn.2158.cc:443#cdn.2158.cc
@@ -97,6 +99,4 @@ cf.090227.xyz:443#cf.090227.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
 saas.sin.fan:443#saas.sin.fan
 www.fastsoso.cn:443#www.fastsoso.cn
-www.sage.com:443#www.sage.com
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

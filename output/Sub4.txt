@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=dark-breeze-a59a.494.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dark-breeze-a59a.494.workers.dev&type=ws#@meliproxyy
 vless://25934f65-801b-13d4-3246-55258dee8fd3@69.46.46.120:443?path=/ws/25934f65-801b-13d4-3246-55258dee8fd3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-56f3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-56f3.up.railway.app#🇺🇸@FreakConfig
 vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?path=/eyJqdW5rIjoiczlRdnZ2OTdrdWFwQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jolly-snowflake-951d.apextunnelnumber3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jOLLY-snOwFlAKE-951d.apExtunNElnumbEr3.WORkERS.deV#TEL;Father_vpn
@@ -503,3 +502,4 @@ vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjo
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@KAFING_2
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@KAFING_2
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.95.190:57785?encryption=none&type=tcp#DE
+vless://39c24c2d-c185-4fc4-8631-3645d46bbb76@213.219.212.14:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#@hex_proxy ⁸

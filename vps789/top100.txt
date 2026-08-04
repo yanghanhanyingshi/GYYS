@@ -1,6 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-04 07:06 | 灵鹿优选
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-04 09:43 | 灵鹿优选
 openai.com:443#openai.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.leics.police.uk:443#www.leics.police.uk
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
@@ -9,7 +9,6 @@ cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 www.nexusmods.com:443#www.nexusmods.com
 cdn.7zz.cn:443#cdn.7zz.cn
 cdn.2x.nz:443#cdn.2x.nz
-doro.lol:443#doro.lol
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
@@ -18,7 +17,9 @@ cdn.204910.best:443#cdn.204910.best
 store.ubi.com:443#store.ubi.com
 cf.3666888.xyz:443#cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
+gh-proxy.com:443#gh-proxy.com
 nexusmods.com:443#nexusmods.com
+www.jimdo.com:443#www.jimdo.com
 pwjbl.me:443#pwjbl.me
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -54,12 +55,12 @@ cf.nyanya.moe:443#cf.nyanya.moe
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
+cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 cf.godns.cc:443#cf.godns.cc
 www.mc.js.cool:443#www.mc.js.cool
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -84,19 +85,18 @@ cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 markmonitor.com:443#markmonitor.com
 dongbanghong.com:443#dongbanghong.com
 www.vastnovel.com:443#www.vastnovel.com
-cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
+doro.lol:443#doro.lol
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-cdn.2158.cc:443#cdn.2158.cc
 run.254301.xyz:443#run.254301.xyz
 cf.1o.ee:443#cf.1o.ee
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-qy.cf.727672.xyz:443#qy.cf.727672.xyz
 cf.090227.xyz:443#cf.090227.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
 saas.sin.fan:443#saas.sin.fan
 www.fastsoso.cn:443#www.fastsoso.cn
+www.sage.com:443#www.sage.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

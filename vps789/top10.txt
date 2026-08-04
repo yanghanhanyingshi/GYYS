@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-04 15:31 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-04 18:38 | 灵鹿优选
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 openai.com:443#openai.com
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 bbs.alipansou.com:443#bbs.alipansou.com
 www.leics.police.uk:443#www.leics.police.uk
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz

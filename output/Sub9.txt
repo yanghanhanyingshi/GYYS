@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#🇺🇸133344 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#🇺🇸US-🚀@VPNine1
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@soskeynets.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#🇺🇸133344 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c0911071-6e87-dfd8-4d8d-92982e4f23dd@dl12sw.cdn-ir-prime.shop:2053?mode=gun&security=reality&encryption=none&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=f1e1aa97#🚀t.me/iProxyChannel
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
@@ -500,6 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.170.185:22223?headerType=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.170.185:22223?headerType=none&type=tcp&security=none&encryption=none#@Alpha_v2rayIP
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.170.185:22224?headerType=none&security=none&type=tcp&encryption=none#@Napsternetvirani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.170.185:22224?headerType=none&type=tcp&security=none&encryption=none#@Alpha_v2rayIP
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@V2rayng_Fast

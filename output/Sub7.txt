@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@VEGAAS_VPN
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮132410 | ⚡️Telegram = t.me/SOSkeyNET
 vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮FI-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#✅  @vistav2ray  👈👈کانال ما ✅
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@prrofile_purple  ♥️👈 تلگرام
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?BIA_TELEGRAMmtmvpn&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@prrofile_purple  ♥️👈 تلگرام

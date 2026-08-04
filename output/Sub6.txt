@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5e3f974b-06fc-4555-907a-6681391b7c17@us2.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#@meliproxyy
 vless://5e3f974b-06fc-4555-907a-6681391b7c17@us2.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#@vmesc
 vless://5e3f974b-06fc-4555-907a-6681391b7c17@us2.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#@ShadowFlux2 | کانال ما در تلگرام
 vless://5e47aede-3cc0-46c5-a41a-1e1b028fb822@31.57.228.37:45503?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪AE-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://87270584-4e33-477e-a05b-6249bdf73bb2@hayabusa.proxy.rlwy.net:56485?encry
 vless://874bac05-f530-406f-a57f-a3b329e18917@51.89.229.26:12345?type=tcp&path=/@Vpn_Mikey،@Vpn_Mikey&headerType=http&security=reality&pbk=cjHs5dUmE_JJisr3JZKEqVk93HoocY_5Vd3baedRrx4&fp=chrome&sni=www.stackoverflow.com&sid=b4d2&spx=/#@Vpn_Mikey 🇬🇧
 vless://87c7fbdb-47d2-4f21-8d8e-04124df819ea@165.232.68.111:32012?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://87c7fbdb-47d2-4f21-8d8e-04124df819ea@207.154.224.244:32012?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
+vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy

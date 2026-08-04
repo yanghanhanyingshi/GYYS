@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?BIA_TELEGRAMmtmvpn&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@prrofile_purple  ♥️👈 تلگرام
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@Unblocked_ir ³
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@v2raybaaz ²
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@v2raybaaz ³
@@ -503,3 +502,4 @@ vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?path=/&security=&
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.56.7:80/?type=ws&encryption=none&flow=&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&packetEncoding=xudp#🇫🇮 FI
 vless://c97b2158-64c9-1f55-8167-72970d347288@157.22.19.5:443?encryption=none&fp=&mode=auto&path=/&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&security=reality&sni=download.nvidia.com&type=xhttp#🛰️60@oneclickvpnkeys
 vless://c998b565-38c7-4bee-a833-d8b479bf5180@i.cafeplusserver.ir:32817?encryption=none&headerType=http&host=telewebion.ir&path=/&security=none&type=tcp#🇩🇪-VEGAAS_VPN
+vless://c998b565-38c7-4bee-a833-d8b479bf5180@u.cafeplusserver.ir:25239?encryption=none&headerType=http&host=telewebion.ir&path=/&security=none&type=tcp#🇺🇸-VEGAAS_VPN

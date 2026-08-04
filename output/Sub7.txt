@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&path=/&security=tls&type=ws#🇨🇦133371 | ⚡️Telegram = t.me/SOSkeyNET
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&path=/&security=tls&type=ws#🤖64@oneclickvpnkeys
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.hoyes.cloudns.ch:2053?encryption=none&path=/&security=tls&type=ws#🇨🇦133371 | ⚡️Telegram = t.me/SOSkeyNET
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@128.140.114.57:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 15
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 19
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 20
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 16
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.47.127:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 13
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 17
@@ -503,3 +497,9 @@ vless://Parsashonam-136@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2
 vless://SoonTeam@ge.imsoon.org:2443?mode=auto&path=/x0netBot&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&fp=chrome&spx=/446d13373223738&type=xhttp&sni=weatherunderground.com&sid=32ac365b183c88#@meliproxyy
 vless://SoonTeam@ge.imsoon.org:2443?mode=auto&path=/x0netBot&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&fp=chrome&spx=/446d13373223738&type=xhttp&sni=weatherunderground.com&sid=32ac365b183c88#[13089] - Telegram : @V2All
 vless://SoonTeam@ge.imsoon.org:443?security=reality&encryption=none&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&headerType=none&fp=chrome&spx=/446d13373223738&type=tcp&sni=wunderstation.com&sid=6636#@meliproxyy
+vless://SoonTeam@ge.imsoon.org:443?security=reality&encryption=none&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&headerType=none&fp=chrome&spx=/446d13373223738&type=tcp&sni=wunderstation.com&sid=6636#[13087] - Telegram : @V2All
+vless://SoonTeam@ge.imsoon.org:8443?encryption=none&security=reality&sni=wxug.com&fp=chrome&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&sid=ce77fcf457&spx=/446d13373223738&type=grpc#@filembad
+vless://SoonTeam@ge.imsoon.org:8443?encryption=none&security=reality&sni=wxug.com&fp=chrome&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&sid=ce77fcf457&spx=/446d13373223738&type=grpc#🇱🇹LT-🚀@VPNine1
+vless://SoonTeam@ge.imsoon.org:8443?encryption=none&type=grpc&security=reality&sni=wxug.com&fp=chrome&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&sid=ce77fcf457&spx=/HesarWeb#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
+vless://SoonTeam@ge.imsoon.org:8443?mode=gun&security=reality&encryption=none&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&fp=chrome&spx=/446d13373223738&type=grpc&sni=wxug.com&sid=ce77fcf457#@FarazV2ray
+vless://SoonTeam@ge.imsoon.org:8443?mode=gun&security=reality&encryption=none&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&fp=chrome&spx=/446d13373223738&type=grpc&sni=wxug.com&sid=ce77fcf457#[13091] - Telegram : @V2All

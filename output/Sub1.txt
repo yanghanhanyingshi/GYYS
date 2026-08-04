@@ -13,18 +13,12 @@
 
 
 
-#È¤J¨9PT,&-ëÙ õeÊ QdØ OjvÆ¢èÀÙ60ã"ïal;i
-
-
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@gr005.bamajobin.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#Server%2014
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%40FarazV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%40proxy_kafee%20%F0%9F%9A%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#%40V2raybaaz%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJob3N0IjoianAyLThzYi42MTIxOTk5LmRwZG5zLm9yZyIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTgwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40V2raysCollector%20%F0%9F%92%96
@@ -503,3 +497,9 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.61.5.244:443#瑞典
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.61.5.244:443#🧬31@SHAHSERVER1
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.62.231.217:443#SE
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.171.111.98:443#🇸🇪
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.125.180:443#SE
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.196.207.151:443#🇺🇸US
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.226.105.188:443#US 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.226.30.144:443#US
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@98.81.132.97:443#US
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANjMuMTc3LjI1Mi40NDo0NDM=#DE

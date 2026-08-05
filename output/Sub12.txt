@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#kurdconfig
+vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#🇺🇸@FreakConfig
+vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#🇺🇸@V2rayng_Fast
+vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
+vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#@KAFING_2
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@185.241.42.81:8443/?type=ws&encryption=none&flow=&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4fp=chrome&security=tls&sni=s5gydl.936.us.ci&fp=chrome&packetEncoding=xudp#🇭🇰
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@23.133.52.10:2053/?type=ws&encryption=none&flow=&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&fp=chrome&packetEncoding=xudp#🇹🇼 TW
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#@Selinc
 vless://f510adea-091b-4563-a54b-dc04e73fd952@46.8.64.147:41617?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
 vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?encryption=none&type=tcp&headerType=http&host=play.google.com#vpnsal
@@ -494,12 +503,3 @@ trojan://UO36402987@many-cricket.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3
 trojan://b1436565-19cf-4dbd-8391-b1e515f21612@104.17.199.194:2053?path=%2Fmatinf13&security=tls&insecure=0&host=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev#%3E%3E%40freeland8%3A%3AUS
 trojan://b1436565-19cf-4dbd-8391-b1e515f21612@104.25.41.89:2053?path=%2Fmatinf13&security=tls&insecure=0&host=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev#%3E%3E%40freeland8%3A%3AUS
 trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3ASG
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#%3E%3E%40configV2rayNG%3A%3AKR
-trojan://QV31589740@great-krill.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://Telegram_healer_config@6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configshub2%3A%3AFR
-trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR

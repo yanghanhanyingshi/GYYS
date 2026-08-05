@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @GozargahVPN
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#119
@@ -503,3 +502,4 @@ vless://56b8b308-b257-47d7-bbee-2fe103f9b3b6@vip.cdkshop.ir:443?security=reality
 vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@173.245.59.15:2087?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=/fp=chrome&security=tls&sni=go.iranfree.de5.net&type=ws#💫30@oneclickvpnkeys
 vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&path=/?ed=2048&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.22.buydeskapp.com.&security=none#@Hope_Net-join-us-on-Telegram
 vless://57A71E7F-E6B5-42BF-A4A6-47ECCBE7F50C@hk1-r.link-t7.com:10126/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#香港
+vless://57A71E7F-E6B5-42BF-A4A6-47ECCBE7F50C@hk2-r.link-t7.com:10127/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#香港

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50055?encryption=none&fp=&pbk=6sVT86DwUajJVKQOcUs6XKoYbZ-G7T_a93KgX-GMin4&security=reality&sid=3c894ab5c82b7f1d&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#🛰️13@SHAHSERVER1
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?encryption=none&security=reality&sni=rubr5.cheburnetnastalgia1998.com&pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&sid=1c52b34d46469887&type=grpc#@Daily_Configs
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?mode=gun&security=reality&encryption=none&authority=JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&type=grpc&sni=rubr5.cheburnetnastalgia1998.com&sid=1c52b34d46469887#@MARAMBASHI 🇳🇱
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?mode=gun&security=reality&encryption=none&pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&type=grpc&sni=rubr5.cheburnetnastalgia1998.com&sid=1c52b34d46469887#@tootffarangi🍓-1
@@ -503,3 +502,4 @@ vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/
 vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#@KAFING_2
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@185.241.42.81:8443/?type=ws&encryption=none&flow=&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4fp=chrome&security=tls&sni=s5gydl.936.us.ci&fp=chrome&packetEncoding=xudp#🇭🇰
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@23.133.52.10:2053/?type=ws&encryption=none&flow=&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&fp=chrome&packetEncoding=xudp#🇹🇼 TW
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#@Selinc

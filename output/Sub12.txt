@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#@Selinc
 vless://f510adea-091b-4563-a54b-dc04e73fd952@46.8.64.147:41617?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
 vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?encryption=none&type=tcp&headerType=http&host=play.google.com#vpnsal
@@ -503,3 +502,4 @@ trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozarg
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR

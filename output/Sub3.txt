@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&host=/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#@MARAMBASHI 👽
 vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@de-sont23oo-mk75gi8a.mobile-shahab.ir:2091?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🦉@FreeConfigForYou
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@fnl-sont23oo-mk75gi8a.mobile-shahab.ir:2090?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&pbk=r_DD5p-yDTK6uYaku6vkyfONKS5QBym7yYhhBL6Xi1E&sid=12d7afc6d9a1aefd#🦉@FreeConfigForYou
@@ -503,3 +502,4 @@ vless://24b38f71-e410-4b29-ac82-5e095adaa122@95.142.46.112:23703?security=realit
 vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=dark-breeze-a59a.494.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://25934f65-801b-13d4-3246-55258dee8fd3@69.46.46.120:443?path=/ws/25934f65-801b-13d4-3246-55258dee8fd3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-56f3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-56f3.up.railway.app#🇺🇸@FreakConfig
 vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?path=/eyJqdW5rIjoiczlRdnZ2OTdrdWFwQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jolly-snowflake-951d.apextunnelnumber3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jOLLY-snOwFlAKE-951d.apExtunNElnumbEr3.WORkERS.deV#TEL;Father_vpn
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=/vless/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:14.61ms

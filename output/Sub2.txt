@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@ghand_sheken
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@hex_proxy ³
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@icv2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#🇬🇧@TASIYANC🔥
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#@hex_proxy ²
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#@hex_proxy ⁴
@@ -498,8 +503,3 @@ vless://00a84cc6-073c-454b-9487-f0b7238e715f@31.56.178.216:443?headerType=none&s
 vless://00d1eaf8-14a6-4ea7-a939-e80ad114a819@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#کانال تلگرام : Free_VPN_CH@
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?encryption=none&security=none&type=xhttp&host=cdn.torexa.ir&path=/?ed=2048&mode=auto#@Daily_Configs
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
-vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple
-vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#@V2rayi_net
-vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://01566881-bc1c-4376-9531-d540963c287b@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=/?ed=2560/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
-vless://0188427e-e55b-49f3-bd4a-1b2e34a87032@fr.fastraytel9880.ir:2087?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Te0ColQDcNHarIngKbt7eBIr1rrZLW3h7UEINhbhHxk&fp=chrome&spx=/0RBRZ8UsYE9C9FV&type=xhttp&sni=www.yahoo.com&sid=5967#MTMVPN 14

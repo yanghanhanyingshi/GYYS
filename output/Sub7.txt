@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://82fdc77c-5def-4930-89a6-afb5cc609d4b@cdn.discordapp.com:8880?path=VPNPROXY?ed=8080&security=none&encryption=none&host=github_vpn_proxy66_marg_bar_khamenei.proxy66.shop.&type=ws#🇨🇦133855 | ⚡️Telegram = t.me/SOSkeyNET
+vless://82fdc77c-5def-4930-89a6-afb5cc609d4b@cdn.discordapp.com:8880?path=VPNPROXY?ed=8080&security=none&encryption=none&host=github_vpn_proxy66_marg_bar_khamenei.proxy66.shop.&type=ws#🇺🇸US-🚀@VPNine1
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-ru-bridge.emrata.top&fp=chrome&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&sid=#🇧🇷巴西
+vless://8339035e-95b8-4d3d-9e7b-8323cce7191e@vpniran.mrconnecte.ir:5039?security=reality&encryption=none&pbk=GgUtX8-KCC9MJZAvDIYjn_aV5FBzxfGS5_18F9A_aQ4&headerType=none&fp=chrome&spx=/EIR6OrVD6SDCRoP&type=tcp&sni=www.sony.com&sid=5eee26#Tel-@ProxyMtAlpha🎪 2
+vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&allowInsecure=0&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#TEL;Father_vpn
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&spx=/@HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#@appsooner کانال تلگرام 🕊️
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🧬27@SHAHSERVER1
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/sg-melbi&security=tls&sni=josni.hoyes.cloudns.ch#تو کانال نتورلد نباشید قطع میشن@networld_vpn
@@ -498,8 +503,3 @@ vless://9bf81377-d077-4569-9fc9-5f0a55180651@104.18.36.122:8880?path=/pyip=Proxy
 vless://9c444a99-da61-4d82-939f-c3dd8fb41e9b@176.108.252.240:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.io.ozone.ru&fp=chrome&security=reality&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&sid=#🇷🇺俄罗斯
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
-vless://9d1d8e70-f9c9-d68d-b4bc-ef851a2f444b@dl12sw.cdn-ir-prime.shop:2053?mode=gun&security=reality&encryption=none&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=f1e1aa97#@icv2ray
-vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray💙
-vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray🩶
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#🧬47@SHAHSERVER1
-vless://9e5e0a3f-0fdc-4272-9c6b-bc6f00000001@173.245.49.116:443?encryption=none&fp=chrome&host=amirweb1388.dpdns.org&path=/mr&security=tls&sni=amirweb1388.dpdns.org&type=ws#🧬54@SHAHSERVER1

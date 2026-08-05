@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://41a96908-a598-4e98-8c2b-65392104f136@nl1.foot8all.ir:80?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9af7c9c0334675be#🇳🇱NL-🚀@VPNine1
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41ceab8f-fa26-4561-bd00-0ab94cf45a4e@pi.paydar.site:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
@@ -502,4 +503,3 @@ vless://52450a53-ac49-42ff-be36-0899178d34b9@172.67.213.26:2053?path=/eyJqdW5rIj
 vless://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfy7c3.freeairlaines.com&type=ws&host=hdfy7c3.freeairlaines.com&path=/IfCDH2usa5hne1e&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 vless://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@52.212.180.87:443?security=tls&sni=hdfy7c4.freeairlaines.com&type=ws&host=hdfy7c4.freeairlaines.com&path=/IfCDH2usa5hne1e&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 vless://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@52.212.180.87:443?security=tls&sni=hdfy7c4.freeairlaines.com&type=ws&host=hdfy7c4.freeairlaines.com&path=/IfCDH2usa5hne1e&fp=chrome&alpn=h2#@v2ray_configs_pools-join-us-on-Telegram
-vless://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@52.212.180.87:443?security=tls&sni=hdfy7c4.freeairlaines.com&type=ws&host=hdfy7c4.freeairlaines.com&path=/IfCDH2usa5hne1e&fp=chrome&alpn=h2#🇮🇪IE-🚀@VPNine1

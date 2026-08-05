@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase#🇺🇸US-🚀@VPNine1
 vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?encryption=none&security=tls&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&path=/eyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#🚀 AnsooyeFilter | CF Auto IP
 vless://cf0310b0-2cd6-4ae1-b4c4-e029e7fb0ee3@cha.kosmosapp.ru:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=chrome&type=grpc&serviceName=neurex&sni=auto.yandex.ru&sid=10ffb85da1c2d986#☬@irconfiig
 vless://cf0310b0-2cd6-4ae1-b4c4-e029e7fb0ee3@ded.kosmosapp.ru:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=chrome&type=grpc&serviceName=neurex&sni=yandex.ru&sid=10ffb85da1c2d986#☬@irconfiig
@@ -502,4 +503,3 @@ vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=non
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?mode=gun&security=reality&encryption=none&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&type=grpc&sni=rubr7.cheburnetnastalgia1998.com&sid=eb3b7e6bbc66552e#@tootffarangi🍓-4
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?encryption=none&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&sid=fcbda044673fdbd1&type=grpc#@Daily_Configs
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?mode=gun&security=reality&encryption=none&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&type=grpc&sni=rubr7.cheburnetnastalgia1998.com&sid=fcbda044673fdbd1#@tootffarangi🍓-2
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50055/?type=grpc&encryption=none&flow=&sni=rubr5.cheburnetnastalgia1998.com&fp=chrome&security=reality&pbk=6sVT86DwUajJVKQOcUs6XKoYbZ-G7T_a93KgX-GMin4&sid=3c894ab5c82b7f1d#土耳其

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-06 04:58 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-06 06:11 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
 pwjbl.me:443#pwjbl.me
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
@@ -9,11 +9,14 @@ cf.yfjc.sbs:443#cf.yfjc.sbs
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+store.ubi.com:443#store.ubi.com
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 eii.at:443#eii.at
@@ -34,9 +37,9 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
@@ -61,7 +64,6 @@ yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.swowd.com:443#www.swowd.com
 cmcc.cc.cd:443#cmcc.cc.cd
-01-cctv.com:443#01-cctv.com
 cfplus.255520.xyz:443#cfplus.255520.xyz
 dongbanghong.com:443#dongbanghong.com
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
@@ -73,22 +75,23 @@ cf.godns.cc:443#cf.godns.cc
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 www.mlkj888.com:443#www.mlkj888.com
+01-cctv.com:443#01-cctv.com
 cdn.wzkf88.com:443#cdn.wzkf88.com
 www.akasantech.com:443#www.akasantech.com
 bbs.alipansou.com:443#bbs.alipansou.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
 run.254301.xyz:443#run.254301.xyz
 markmonitor.com:443#markmonitor.com
 fk.hshwk.org:443#fk.hshwk.org
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
-test.509666.xyz:443#test.509666.xyz
 www.galgamex.net:443#www.galgamex.net
 qy.cf.727672.xyz:443#qy.cf.727672.xyz
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
 ct.090227.xyz:443#ct.090227.xyz
 www.speedtest.net:443#www.speedtest.net
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
@@ -96,7 +99,4 @@ www.speedtest.net:443#www.speedtest.net
 baka.fun:443#baka.fun
 doro.lol:443#doro.lol
 www.giannidelprete.it:443#www.giannidelprete.it
-anycubic.com:443#anycubic.com
-play.mc.js.cool:443#play.mc.js.cool
-cf.xycf.asia:443#cf.xycf.asia
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

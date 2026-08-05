@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-06 06:11 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-06 07:51 | 灵鹿优选
+anycubic.com:443#anycubic.com
 www.shopify.com:443#www.shopify.com
 pwjbl.me:443#pwjbl.me
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
@@ -43,7 +44,6 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-www.mfyx.cn:443#www.mfyx.cn
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cdn.7zz.cn:443#cdn.7zz.cn
 www.sloomb.com:443#www.sloomb.com

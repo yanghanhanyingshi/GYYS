@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-06 06:11 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-06 07:51 | 灵鹿优选
+anycubic.com:443#anycubic.com
 www.shopify.com:443#www.shopify.com
 pwjbl.me:443#pwjbl.me
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
@@ -18,5 +19,4 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
-www.nexusmods.com:443#www.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

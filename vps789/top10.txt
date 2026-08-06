@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-06 18:29 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-06 20:51 | 灵鹿优选
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
-cf.yfjc.sbs:443#cf.yfjc.sbs
 cdn.7zz.cn:443#cdn.7zz.cn
-cdn.2x.nz:443#cdn.2x.nz
+cf.yfjc.sbs:443#cf.yfjc.sbs
 cf.godns.cc:443#cf.godns.cc
 bbs.alipansou.com:443#bbs.alipansou.com
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cfplus.255520.xyz:443#cfplus.255520.xyz

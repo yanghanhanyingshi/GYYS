@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-06 07:51 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-06 09:46 | 灵鹿优选
 anycubic.com:443#anycubic.com
 www.shopify.com:443#www.shopify.com
 pwjbl.me:443#pwjbl.me
@@ -75,7 +75,6 @@ cf.92555.xyz:443#cf.92555.xyz
 cf.godns.cc:443#cf.godns.cc
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-www.mfyx.cn:443#www.mfyx.cn
 www.mlkj888.com:443#www.mlkj888.com
 cdn.wzkf88.com:443#cdn.wzkf88.com
 www.akasantech.com:443#www.akasantech.com
@@ -84,19 +83,20 @@ cfyx.qdqqd.com:443#cfyx.qdqqd.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 run.254301.xyz:443#run.254301.xyz
+www.mfyx.cn:443#www.mfyx.cn
 01-cctv.com:443#01-cctv.com
 markmonitor.com:443#markmonitor.com
 fk.hshwk.org:443#fk.hshwk.org
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
+ct.090227.xyz:443#ct.090227.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 www.galgamex.net:443#www.galgamex.net
 qy.cf.727672.xyz:443#qy.cf.727672.xyz
-ct.090227.xyz:443#ct.090227.xyz
 www.speedtest.net:443#www.speedtest.net
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
+baka.fun:443#baka.fun
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

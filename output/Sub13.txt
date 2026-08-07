@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=direct-nl.bachidze.com&fp=chrome&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=direct-nl.bachidze.com&fp=chrome&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁸ | @BigSmoke_Config
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=direct-nl.bachidze.com&fp=chrome&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&allowinsecure=0&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://f8ac5ad6-d8fc-452e-851b-297a4d994988@89.105.210.99:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#🧬55@SHAHSERVER1
@@ -502,4 +503,3 @@ vless://%58pnTeam-11@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&en
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://29fb68bb-ff05-4fd4-8393-cc6c05d81a79@purple-butterfly-8496.erfannull36.workers.dev:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&path=%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=fans.liverpool.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2053?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiZXlpMnFWRURmWkp5ZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=FaNs.livErpoOl.qZZ.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayngzendegimamad🕊️
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
 trojan://wE0CA+qFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0=@91.107.157.137:35558?security=none&headerType=&type=tcp#nyq0u184n2
@@ -501,5 +503,3 @@ vless://1be42c21-aa6a-4118-80e7-f1fb475b006b@198.41.196.27:2053?encryption=none&
 vless://1be42c21-aa6a-4118-80e7-f1fb475b006b@198.41.196.27:2053?encryption=none&type=grpc&security=tls&serviceName=Brjejdjdj&authority=dash.tigerguard.top&mode=gun&sni=dash.tigerguard.top&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🔵@chillguy_vpn
 vless://1be42c21-aa6a-4118-80e7-f1fb475b006b@198.41.196.27:2053?encryption=none&type=grpc&security=tls&serviceName=Brjejdjdj&authority=dash.tigerguard.top&mode=gun&sni=dash.tigerguard.top&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🚀@VPNine1
 vless://1be42c21-aa6a-4118-80e7-f1fb475b006b@198.41.196.27:8443?encryption=none&type=grpc&security=tls&serviceName=Hokihok&authority=dash1.tigerguard.top&mode=gun&sni=dash1.tigerguard.top&fp=chrome&insecure=0&allowInsecure=0#@freenettir
-vless://1be42c21-aa6a-4118-80e7-f1fb475b006b@198.41.196.27:8443?encryption=none&type=grpc&security=tls&serviceName=Hokihok&authority=dash1.tigerguard.top&mode=gun&sni=dash1.tigerguard.top&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
-vless://1be42c21-aa6a-4118-80e7-f1fb475b006b@198.41.196.27:8443?encryption=none&type=grpc&security=tls&serviceName=Hokihok&authority=dash1.tigerguard.top&mode=gun&sni=dash1.tigerguard.top&fp=chrome&insecure=0&allowInsecure=0#🇨🇦136451 | ⚡️Telegram = t.me/SOSkeyNET

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-11
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-14
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#🔰 @ConfigV2RayNG (تلگرام)
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-12
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
@@ -501,5 +503,3 @@ vless://3a38b35b-7b31-452c-954f-99c2f45dda19@172.66.170.53:8880?encryption=none&
 vless://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=tight-moon-2d50.457.workers.dev&type=ws#%3E%3E%40outline_vpn%3A%3AUS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#%3E%3E%40v2nodes%3A%3AJP
 vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
-vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#%3E%3E%40FreakConfig%3A%3AGB
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATW

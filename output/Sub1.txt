@@ -13,6 +13,8 @@
 
 
 
+#¢é)¡zêëóGA]Ò
+
 vless://0169fc3b-8462-4dc7-bfbd-b09c4451d78c@91.107.252.170:443?security=none&encryption=none&host=www.amzn.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40v2ryNG01%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%D8%A7%DB%8C%D9%81%D8%A7%DB%8C
 vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:26795?security=&encryption=none&headerType=&type=tcp#3gfbn2s2q7
 vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@gr005.bamajobin.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#Server%2014
@@ -501,5 +503,3 @@ ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@antony.athforce
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@antony.athforce.ir:51058#🇫🇷FR-🚀@VPNine1
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@soskeynets.athforce.ir:51058#🇫🇷136405 | ⚡️Telegram = t.me/SOSkeyNET
 ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#❤️‍🔥 کانال تلگرام HiByeVPNN@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵

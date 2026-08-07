@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://99e83819-36cb-439d-b2c7-848e3232b8d2@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VEGAAS_VPN
+vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#⚫ 44 • @spotfyhits ❤
 vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#🧬6@SHAHSERVER1
 vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?encryption=none&type=tcp&headerType=http&host=play.google.com&security=none#@Capoit
 vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
@@ -501,5 +503,3 @@ vless://ad87f38a-f3ff-4018-96e4-6bed6461aad0@img.msjia8844.site:9563?sid=f587ae7
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#@KAFING_2
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#@KAFING_2
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#@v2rayngzendegimamad🕊️
-vless://ad926312-b7ea-41f6-ace4-d01038088653@pro.riziro.ir:50272?encryption=none&fp=chrome&pbk=b-IlSE9kOCkrXuh6ykqhTzEsSpooLZ7tePP2M6LIxEM&security=reality&sid=b07433d5f7213a57&sni=www.intel.com&spx=/kqgDHuLMdNRoMUb&type=tcp#🇫🇮vless
-vless://ad926312-b7ea-41f6-ace4-d01038088653@pro2.riziro.ir:443?encryption=none&fp=chrome&pbk=xYKZqhFmtdVvWN-Zz0dn-sXwBJZ_Uy0HXO7wh7liSFs&security=reality&sid=f27a23d61cff&sni=www.nvidia.com&spx=/iZyGyhRSJ1n5XPr&type=tcp#🇱🇻vless

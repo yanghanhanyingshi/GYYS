@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Tel-@ProxyMtAlpha🥕 10
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇩🇪136967 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🚀@VPNine1
-trojan://humanity@162.159.17.189:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@v2rayng3
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@Selinc
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@V2rayng3
@@ -503,3 +499,7 @@ vless://16985b71-7a9c-43ae-9769-d3b1c045ae85@iri.ginuerzht.ir:2053?security=none
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@217.71.200.132:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&headerType=none&fp=chrome&pbk=7IMomzYtfCCiH3ytALMNYEIJxQBXUhvsrdk9u261DSw&security=reality&sni=sp.cryptoofarm.com&encryption=none&flow=xtls-rprx-vision&sid=9be860ff7908#@GozargahAzad|🇪🇸
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@217.71.200.132:8443?pbk=7IMomzYtfCCiH3ytALMNYEIJxQBXUhvsrdk9u261DSw&flow=xtls-rprx-vision&headerType=none&encryption=none&type=tcp&sid=9be860ff7908&sni=sp.cryptoofarm.com&fp=chrome&security=reality#[16122] - Telegram : @V2All
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@217.71.200.132:8443?pbk=7IMomzYtfCCiH3ytALMNYEIJxQBXUhvsrdk9u261DSw&flow=xtls-rprx-vision&headerType=none&encryption=none&type=tcp&sid=9be860ff7908&sni=sp.cryptoofarm.com&fp=chrome&security=reality#[🇪🇸]t.me/ConfigsHub
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@217.71.200.132:8443?pbk=7IMomzYtfCCiH3ytALMNYEIJxQBXUhvsrdk9u261DSw&flow=xtls-rprx-vision&headerType=none&encryption=none&type=tcp&sid=9be860ff7908&sni=sp.cryptoofarm.com&fp=chrome&security=reality#🇪🇸137062 | ⚡️Telegram = t.me/SOSkeyNET
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@u.cryptoofarm.com:2053?mode=gun&security=reality&encryption=none&authority=grpc-hp-f3r8s1j5xm&pbk=dI6qe814kK8St9M9aINFFu0wfo3RGMKuoe6Qv5RT8iA&fp=chrome&spx=/&type=grpc&serviceName=u.cryptoofarm.com&sni=u.cryptoofarm.com&sid=368f9147679b11d6#@meliproxyy
+vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?security=reality&encryption=none&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ag-03.rita-cloud.com&sid=0b0aa9caed9d011e#@FREE_VPN02
+vless://16b34a60-cb57-4659-b802-da89506c7ff8@pl-2.wrs.tconnect.services:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=EYL4xS6Msvddf6qwmFHfHplw18bmntv98GkoQBK1fhM&sid=71e87186710e710e#🦉@FreeConfigForYou

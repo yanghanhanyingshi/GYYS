@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@203.23.179.151:443?alpn=h2&encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#🧬46@SHAHSERVER1
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-chr2.astralweb.tech&alpn=h2&fp=chrome#🇱🇹立陶宛
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#👁️‍🗨️93@SHAHSERVER1
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ddc-chr.astralweb.tech#@appsooner کانال تلگرام 🕊️
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@sw1-chr.astralweb.tech:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sw1-chr.astralweb.tech&fp=chrome&security=reality&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d#🇸🇪瑞典
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#@v2rayng3
 vless://3b45ea2c-e050-4da6-a2f0-cb9cc2e51699@centerbeam.proxy.rlwy.net:22287?security=reality&encryption=none&pbk=xVINf2LgTotqJIjILeT0fF8GNbELE4ohgeuyjKfwczM&headerType=none&fp=chrome&spx=/x1chc8zX5t6RX8Z&type=tcp&sni=aws-us-east-1.amazon.com&sid=6e58c60b27eb#@Net2ray NL🇳🇱
@@ -503,3 +499,7 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&sec
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&fp=chrome&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#Proxy_mtm 8
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=oekja.megacitylab-nomt.sbs&fp=chrome&type=ws&allowInsecure=0&sni=oekja.megacitylab-nomt.sbs#Channel : @Daily_Configs
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=oekja.megacitylab-nomt.sbs&fp=chrome&type=ws&allowInsecure=0&sni=oekja.megacitylab-nomt.sbs#MTMVPN 24
+vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=xyjuo.skypixelway-fla.sbs&fp=chrome&type=ws&allowInsecure=0&sni=xyjuo.skypixelway-fla.sbs#@vmesskhodam
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=oekja.megacitylab-nomt.sbs&path=/carbon&security=tls&sni=oekja.megacitylab-nomt.sbs&fp=chrome&packetEncoding=xudp#法国
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=uhnjk.greenlionport-fla.sbs&fp=chrome&type=ws&allowInsecure=0&sni=uhnjk.greenlionport-fla.sbs#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #6
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=uhnjk.greenlionport-fla.sbs&fp=chrome&type=ws&allowInsecure=0&sni=uhnjk.greenlionport-fla.sbs#@MARAMBASHI 🇬🇧

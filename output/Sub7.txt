@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@212.233.78.243:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#@prrofile_purple  ♥️👈 تلگرام
-vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#@prrofile_purple  ♥️👈 تلگرام
-vless://68d3fcbe-f025-2710-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#@prrofile_purple  ♥️👈 تلگرام
-vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?security=reality&encryption=none&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&headerType=none&fp=chrome&spx=/FbXJdgEZFzfMMH9&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=61ad#@v2rayng3
-vless://69025202-5091-4893-8930-f530c6fe50e2@3.70.201.52:25332?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://691a9a35-76a6-48ea-9379-4f4f638c2b66@45.59.125.228:443?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=BjickB5Lt_-JIEj40uiaI1Sq4aDh1bzhWI1yBY9nbVc&security=reality&sid=29fcba01&sni=www.amd.com&spx=/eCqQXALOMj68VMF&type=xhttp&x_padding_bytes=100-1000#🦉@FreeConfigForYou
 vless://69310498-49c1-485e-b197-9db9938cceae@49.12.100.150:50399?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#SHOPSEPI🇩🇪-@lionqh50G
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#TEL;Father_vpn
 vless://69794ea1-58df-4a7c-b41b-8e5d2f5ca6d6@194.120.116.157:35551?mode=auto&path=/Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn&security=none&encryption=none&type=xhttp#Arshia
@@ -503,3 +497,9 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053/?type=w
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053/?type=ws&encryption=none&flow=&path=/&security=tls#channel_@networld_vpn
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🧬56@SHAHSERVER1
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@millionaire.levikogjgfdd.ir:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🇨🇦 CDN
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@one-for-all.levikogjgfdd.ir:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-12
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@one-for-all.levikogjgfdd.ir:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🇩🇪 CDN
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@one-for-all.levikogjgfdd.ir:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🇩🇪@V2rayng_Fast
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.hoyes.cloudns.ch:2053/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch#channel_@networld_vpn
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?headerType=http&type=tcp&security=none&host=play.google.com&encryption=none#@meliproxyy
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@vmesc

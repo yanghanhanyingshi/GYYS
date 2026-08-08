@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&security=reality&encryption=none&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&fp=chrome&type=grpc&sni=google.com&sid=4b#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #18
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&security=reality&encryption=none&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&fp=chrome&type=grpc&sni=google.com&sid=4b#@FarazV2ray
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&security=reality&encryption=none&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&type=grpc&sni=google.com&sid=4b#@ | 𝗙𝗮𝗦𝗧 💚
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&security=reality&encryption=none&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&type=grpc&sni=google.com&sid=4b#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -502,4 +503,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.52.174:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.239.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.72.40:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.75.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.14.85:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram

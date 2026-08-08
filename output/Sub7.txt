@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://727fea7a-67d7-4781-9662-661ae14ac949@grmanvip.jahwuw.neninet.ir:51795?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.3pOPMXelNJp1UUcTZdgcQX_k6NN0i5uL6cBiI6rwQTE&pbk=hqdJfTcGLgfGy2DtyZTp7LDU56eY-KltlkaTGSy3Ax8&fp=chrome&type=grpc&sni=play.google.com&sid=2eeb1d23abab6bbb#@icv2ray
 vless://727fea7a-67d7-4781-9662-661ae14ac949@vip.ttrroon.admni.ir:51795?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.3pOPMXelNJp1UUcTZdgcQX_k6NN0i5uL6cBiI6rwQTE&pbk=hqdJfTcGLgfGy2DtyZTp7LDU56eY-KltlkaTGSy3Ax8&fp=chrome&type=grpc&sni=play.google.com&sid=2eeb1d23abab6bbb#@icv2ray
 vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=reality&encryption=none&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&host=PuLaVPN.net&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&sni=play.google.com&sid=0020b2c2d7f87920#@prrofile_purple  ♥️👈 تلگرام
 vless://72c2b7cc-fcd9-494f-8a2e-21dcd062ff11@45.40.150.4:80?encryption=none&host=holy-breeze-0bac.47-dec.workers.dev&path=/pyip=Telegram🇨🇳++&security=none&type=ws#🧬52@SHAHSERVER1
@@ -502,4 +503,3 @@ vless://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?path=/?ed=2082&sec
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:2086?encryption=none&type=xhttp&path=/?ed=2082&host=we.Emirates.havray2025.ir&mode=auto#@meliproxyy
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:2086?encryption=none&type=xhttp&path=/?ed=2082&host=we.Emirates.havray2025.ir&mode=auto#vpnsal
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=SsopsSyois.6.postshup.ir#@meliproxyy
-vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=SsopsSyois.6.postshup.ir#vpnsal

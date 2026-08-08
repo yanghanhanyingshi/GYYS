@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/#@proxy_kafee
 vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@speedtest.net:80?encryption=none&security=none&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/#@Daily_Configs
 vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@speedtest.net:80?encryption=none&security=none&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/#@proxy_kafee
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@hopev2ray🩷
@@ -502,4 +503,3 @@ vless://d067adf8-9adc-4854-990d-f779875a855e@cdn-b305c2ba.glomedia-cdn.com:443?s
 vless://d067adf8-9adc-4854-990d-f779875a855e@cdn-b305c2ba.glomedia-cdn.com:443?security=reality&encryption=none&pbk=OevcHjcNd6P5915hkVd476stUNgpabD_XO9eWtArrls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=f5f36cfd792b1f65#🇳🇱138281 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d078f73a-41cc-7717-8d06-9d3c4ced5ec6@rvg-production-uyh4l.up.railway.app:443?path=/ws/d078f73a-41cc-7717-8d06-9d3c4ced5ec6&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-uyh4l.up.railway.app&fp=chrome&type=ws&sni=rvg-production-uyh4l.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
-vless://d0a076cc-647e-4aa2-a242-d3a78ee93c60@EDG854dw84.zostoree.ir:8080?encryption=none&security=reality&type=xhttp&headerType=none&path=/path&host=EDG854dw84.zostoree.ir&mode=auto&extra={"xPaddingBytes":"100-150"}&sni=www.cloudflare.com&fp=chrome&pbk=x9GnH53KRTxc8AhhQ3I0pZq-rEuXuEZoEyvhyXvqb00&spx=/13bcdef9523477b#🇹🇷138175 | ⚡️Telegram = t.me/SOSkeyNET

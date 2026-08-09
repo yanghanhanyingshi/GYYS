@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-09 17:30 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-09 18:24 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
@@ -8,21 +8,19 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.godns.cc:443#cf.godns.cc
 dnew.cc:443#dnew.cc
+www.sage.com:443#www.sage.com
 www.jimdo.com:443#www.jimdo.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 cmcc.cc.cd:443#cmcc.cc.cd
-www.xflash.vip:443#www.xflash.vip
 api.gzcrtw.com:443#api.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 www.shopify.com:443#www.shopify.com
@@ -33,20 +31,22 @@ www.fastsoso.cn:443#www.fastsoso.cn
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-www.sage.com:443#www.sage.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 cdn.555586.xyz:443#cdn.555586.xyz
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

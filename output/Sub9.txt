@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@KAFING_2
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#@ConfigV2RayNG 🇫🇮
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#@MARAMBASHI 🇫🇮
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#@MARAMBASHI 🫂
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#@musiclovers85ملی شکن
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#@tootffarangi🍓-6
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#🔰 @ConfigV2RayNG
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?path=/download.php&security=tls&encryption=none&insecure=0&host=amphetamine.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=amphetamine.adaspoloandco.com#@tootffarangi🍓-14
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?path=/download.php&security=tls&encryption=none&insecure=0&host=amphetamine.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=amphetamine.adaspoloandco.com#🔰 @ConfigV2RayNG (تلگرام)
@@ -496,10 +503,3 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&s
 vless://ad8d6bc3-7540-459e-a75a-1febfa413f78@162.159.128.233:2082?type=ws&host=C1.unique69.com&path=/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel#@v2ray_configs_pools-join-us-on-Telegram
 vless://ad926312-b7ea-41f6-ace4-d01038088653@pro.riziro.ir:50272?encryption=none&fp=chrome&pbk=b-IlSE9kOCkrXuh6ykqhTzEsSpooLZ7tePP2M6LIxEM&security=reality&sid=b07433d5f7213a57&sni=www.intel.com&spx=/kqgDHuLMdNRoMUb&type=tcp#🇫🇮vless
 vless://ad926312-b7ea-41f6-ace4-d01038088653@pro2.riziro.ir:443?encryption=none&fp=chrome&pbk=xYKZqhFmtdVvWN-Zz0dn-sXwBJZ_Uy0HXO7wh7liSFs&security=reality&sid=f27a23d61cff&sni=www.nvidia.com&spx=/iZyGyhRSJ1n5XPr&type=tcp#🇱🇻vless
-vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?&type=tcp&headerType=none&path=/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?encryption=none&type=tcp&headerType=none#vpnsal
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&headerType=none&type=tcp#☑➜چنلمون: Express_freevpn@
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🇹🇷
-vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=delicate-base-12ed.287-133.workers.dev&type=ws#🚀t.me/iProxyChannel
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.150.224:443?path=/album/bt&security=tls&encryption=none&insecure=0&host=pagescm.freen15.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen15.cc.cd#@v2rayng3

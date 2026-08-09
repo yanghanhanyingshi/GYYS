@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#Channel : @proxy_kafee
+vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#VCONFING
+vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=/?BIA_TELEGRAM@&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#@vmesc
 vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#@MARAMBASHI 🇮🇹
 vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#@tootffarangi🍓-8
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#IR-@V2rayAlpha-6
@@ -500,6 +503,3 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?encryption=none
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&allowinsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#🇩🇪All¹⁰ | @BigSmoke_Config
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&allowinsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#🇩🇪All¹⁵ | @BigSmoke_Config
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&allowinsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#🇩🇪All¹⁶ | @BigSmoke_Config
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&allowinsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#🇩🇪All⁵ | @BigSmoke_Config
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@icv2ray
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@time.is:443?path=/sg-melbi?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=support.zoom.us.yxls.eu.cc.&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc.#@v2ray_phoenix

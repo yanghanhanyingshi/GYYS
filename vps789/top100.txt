@@ -1,10 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-10 04:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-10 05:23 | 灵鹿优选
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.3666888.xyz:443#cf.3666888.xyz
 gh-proxy.com:443#gh-proxy.com
@@ -53,6 +55,7 @@ www.giannidelprete.it:443#www.giannidelprete.it
 fk.hshwk.org:443#fk.hshwk.org
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cdn.wzkf88.com:443#cdn.wzkf88.com
@@ -68,7 +71,6 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 run.254301.xyz:443#run.254301.xyz
 eii.at:443#eii.at
-dongbanghong.com:443#dongbanghong.com
 www.akasantech.com:443#www.akasantech.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
@@ -76,6 +78,7 @@ www.dbs.com.sg:443#www.dbs.com.sg
 cf.v8.longsays.com:443#cf.v8.longsays.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+cdn.2158.cc:443#cdn.2158.cc
 cf.727672.xyz:443#cf.727672.xyz
 hzytjy.cn:443#hzytjy.cn
 openai.com:443#openai.com
@@ -86,17 +89,14 @@ cdn.2020111.xyz:443#cdn.2020111.xyz
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 cfgo.timelate.com:443#cfgo.timelate.com
 markmonitor.com:443#markmonitor.com
-doro.lol:443#doro.lol
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 01-cctv.com:443#01-cctv.com
 ct.721660.xyz:443#ct.721660.xyz
 cf.090227.xyz:443#cf.090227.xyz
 www.5199dy.com:443#www.5199dy.com
+dongbanghong.com:443#dongbanghong.com
 www.visa.com.hk:443#www.visa.com.hk
 nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
 nrtcfdns.zone.id:443#nrtcfdns.zone.id
-mogas.com:443#mogas.com
-isp.254301.xyz:443#isp.254301.xyz
-cf.1o.ee:443#cf.1o.ee
-01-qq.com:443#01-qq.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

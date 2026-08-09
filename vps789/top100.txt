@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-10 05:23 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-10 06:21 | 灵鹿优选
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
@@ -26,6 +26,7 @@ www.nexusmods.com:443#www.nexusmods.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.xflash.vip:443#www.xflash.vip
 www.vastnovel.com:443#www.vastnovel.com
+www.dg22.top:443#www.dg22.top
 api.gzcrtw.com:443#api.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
@@ -93,10 +94,9 @@ cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 01-cctv.com:443#01-cctv.com
 ct.721660.xyz:443#ct.721660.xyz
+www.postman.com:443#www.postman.com
 cf.090227.xyz:443#cf.090227.xyz
 www.5199dy.com:443#www.5199dy.com
 dongbanghong.com:443#dongbanghong.com
 www.visa.com.hk:443#www.visa.com.hk
-nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
-nrtcfdns.zone.id:443#nrtcfdns.zone.id
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

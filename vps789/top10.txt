@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-07 10:10 | 灵鹿优选
-cf.yfjc.sbs:443#cf.yfjc.sbs
-api.gzcrtw.com:443#api.gzcrtw.com
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-09 11:25 | 灵鹿优选
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
-www.swowd.com:443#www.swowd.com
-cdn.7zz.cn:443#cdn.7zz.cn
-cfplus.255520.xyz:443#cfplus.255520.xyz
-cdn.ddeed.de:443#cdn.ddeed.de
-yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
-224322.xyz:443#224322.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
+nexusmods.com:443#nexusmods.com
+www.sage.com:443#www.sage.com
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-07 10:10 | 灵鹿优选
-cf.yfjc.sbs:443#cf.yfjc.sbs
-api.gzcrtw.com:443#api.gzcrtw.com
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-09 11:25 | 灵鹿优选
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
-www.swowd.com:443#www.swowd.com
-cdn.7zz.cn:443#cdn.7zz.cn
-cfplus.255520.xyz:443#cfplus.255520.xyz
-cdn.ddeed.de:443#cdn.ddeed.de
-yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
-224322.xyz:443#224322.xyz
-saas.sin.fan:443#saas.sin.fan
 bbs.alipansou.com:443#bbs.alipansou.com
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+nexusmods.com:443#nexusmods.com
+www.sage.com:443#www.sage.com
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-www.galgamex.net:443#www.galgamex.net
-zeas.top:443#zeas.top
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+www.xflash.vip:443#www.xflash.vip
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

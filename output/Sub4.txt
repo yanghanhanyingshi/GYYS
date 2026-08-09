@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#kurdconfig
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#🇩🇪@FreakConfig
-vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#@Daily_Configs
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#@freenettir
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#@meliproxyy
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#[17487] - Telegram : @V2All
@@ -503,3 +500,6 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=re
 vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=httpupgrade&path=/?ed=2082&host=FFar.9.postshup.ir#@GozargahAzad|🇱🇹
 vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=FFar.9.postshup.ir#[🇱🇹]t.me/ConfigsHub
 vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=FFar.9.postshup.ir#🇱🇹138674 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=FFar.9.postshup.ir#💠🇱🇹LT
+vless://3a3de813-bfaa-4355-bc47-05c7245431d2@94.140.0.1:443?encryption=none&type=ws&security=tls&path=/?ed=2560&host=Australia.havray2025.ir&sni=Australia.havray2025.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#[🇷🇦]t.me/ConfigsHub
+vless://3a3de813-bfaa-4355-bc47-05c7245431d2@94.140.0.1:443?encryption=none&type=ws&security=tls&path=/?ed=2560&host=Australia.havray2025.ir&sni=Australia.havray2025.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇦🇪138675 | ⚡️Telegram = t.me/SOSkeyNET

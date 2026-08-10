@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-10 13:18 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-10 15:13 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-test.509666.xyz:443#test.509666.xyz
 cdn.wzkf88.com:443#cdn.wzkf88.com
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-cf.3666888.xyz:443#cf.3666888.xyz
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
+1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 gh-proxy.com:443#gh-proxy.com
-dnew.cc:443#dnew.cc
-cdn.555586.xyz:443#cdn.555586.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
+cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cf.3666888.xyz:443#cf.3666888.xyz
+dnew.cc:443#dnew.cc
+www.sage.com:443#www.sage.com
+cdn.555586.xyz:443#cdn.555586.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-cdn.ddeed.de:443#cdn.ddeed.de
+www.nexusmods.com:443#www.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
 vless://7f34b2d2-f06c-4c9d-8a40-40aab0f80976@apiapi.gold-temas.com:52632?path=/&security=none&encryption=none&host=www.icloud.com&type=httpupgrade#@NETMelliAnti
 vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#@V2ray_Alpha🧞 6
 vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#@tootffarangi🍓-11
@@ -503,3 +502,4 @@ vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#@Daily_Configs
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#@meliproxyy
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#@proxy_kafee
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.38:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#@FarazV2ray

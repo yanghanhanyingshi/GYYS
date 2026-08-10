@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-11 04:32 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-11 05:33 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cdn.wzkf88.com:443#cdn.wzkf88.com
@@ -8,9 +8,12 @@ saas.sin.fan:443#saas.sin.fan
 www.mfyx.cn:443#www.mfyx.cn
 01-qq.com:443#01-qq.com
 cdn.204910.best:443#cdn.204910.best
+nexusmods.com:443#nexusmods.com
+dnew.cc:443#dnew.cc
 pwjbl.me:443#pwjbl.me
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+cdn.555586.xyz:443#cdn.555586.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
@@ -23,13 +26,17 @@ cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.3666888.xyz:443#cf.3666888.xyz
 gh-proxy.com:443#gh-proxy.com
 www.sage.com:443#www.sage.com
+networksolutions.com:443#networksolutions.com
 www.jimdo.com:443#www.jimdo.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 cf.1o.ee:443#cf.1o.ee
+101yaoye.com:443#101yaoye.com
 cdn.7zz.cn:443#cdn.7zz.cn
+cfplus.255520.xyz:443#cfplus.255520.xyz
+dongbanghong.com:443#dongbanghong.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 zero-trust-client.cloudflareclient.com:443#zero-trust-client.cloudflareclient.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
@@ -46,6 +53,7 @@ uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 cdn.2158.cc:443#cdn.2158.cc
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 kniu.cc:443#kniu.cc
 cmcc.cc.cd:443#cmcc.cc.cd
 www.sloomb.com:443#www.sloomb.com
@@ -56,6 +64,7 @@ cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 yapuyapu.com:443#yapuyapu.com
 investor.apple.com:443#investor.apple.com
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.speedtest.net:443#www.speedtest.net
 www.fastsoso.cn:443#www.fastsoso.cn
 www.mc.js.cool:443#www.mc.js.cool
@@ -63,6 +72,7 @@ dango.co:443#dango.co
 www.leics.police.uk:443#www.leics.police.uk
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 www.galgamex.net:443#www.galgamex.net
@@ -71,32 +81,22 @@ markmonitor.com:443#markmonitor.com
 www.giannidelprete.it:443#www.giannidelprete.it
 www.postman.com:443#www.postman.com
 visa.com.tw:443#visa.com.tw
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 redis.io:443#redis.io
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 api.gzcrtw.com:443#api.gzcrtw.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 cfip.1323123.xyz:443#cfip.1323123.xyz
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
+cu.877774.xyz:443#cu.877774.xyz
+e.lma.de5.net:443#e.lma.de5.net
 cf.727672.xyz:443#cf.727672.xyz
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 ct.721660.xyz:443#ct.721660.xyz
-dongbanghong.com:443#dongbanghong.com
-yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 www.whoer.net:443#www.whoer.net
-www.mlkj888.com:443#www.mlkj888.com
-cf.v8.longsays.com:443#cf.v8.longsays.com
-ping.pe:443#ping.pe
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
-cmcc.hw.090227.xyz:443#cmcc.hw.090227.xyz
-hzytjy.cn:443#hzytjy.cn
-qy.cf.727672.xyz:443#qy.cf.727672.xyz
-1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
-www.ox.ac.uk:443#www.ox.ac.uk
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

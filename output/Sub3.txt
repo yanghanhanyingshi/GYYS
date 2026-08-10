@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://jqTODRjQr1@138.124.92.103:49095?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=xv97ZtwvnqYKL4Ma7iR8eTfBgYPLYT0QTjcaoUXuWjM&fp=chrome&spx=/&type=xhttp&sni=aws.amazon.com&sid=fdd089#@filembad
-trojan://jqTODRjQr1@138.124.92.103:49095?security=reality&sni=aws.amazon.com&fp=chrome&pbk=xv97ZtwvnqYKL4Ma7iR8eTfBgYPLYT0QTjcaoUXuWjM&sid=fdd089&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#@filembad
-trojan://jqTODRjQr1@138.124.92.103:49095?security=reality&sni=aws.amazon.com&fp=chrome&pbk=xv97ZtwvnqYKL4Ma7iR8eTfBgYPLYT0QTjcaoUXuWjM&sid=fdd089&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇫🇷139449 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://jqTODRjQr1@138.124.92.103:49095?security=reality&sni=aws.amazon.com&fp=chrome&pbk=xv97ZtwvnqYKL4Ma7iR8eTfBgYPLYT0QTjcaoUXuWjM&sid=fdd089&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇫🇷FR-🚀@VPNine1
 trojan://jqTODRjQr1@138.124.92.103:49095?security=reality&sni=aws.amazon.com&fp=chrome&pbk=xv97ZtwvnqYKL4Ma7iR8eTfBgYPLYT0QTjcaoUXuWjM&sid=fdd089&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🎀𝑀𝐸𝐻𝒟𝐼🎀
 trojan://k2Go3Q6dN+fFOMdPuCKbPhnmez/2niJCRApdrrVYuws=@65.109.208.236:55877?security=none&headerType=&type=tcp#@v2rayNG_Matsuri
@@ -503,3 +500,6 @@ vless://187cba2e-94df-407e-8d0a-f6d34311fe34@104.18.10.167:8443?path=/&security=
 vless://187cba2e-94df-407e-8d0a-f6d34311fe34@104.18.155.69:2087?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#@skyliink_vpn丨چنل تلگرام 🇩🇪
 vless://187cba2e-94df-407e-8d0a-f6d34311fe34@172.67.225.147:8443?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#@skyliink_vpn丨چنل تلگرام 🇩🇪
 vless://18f71148-a3c7-0032-b02a-be04da72efe3@2.26.78.45:443/?type=tcp&encryption=none&flow=&sni=pro-de.emrata.top&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#比利时
+vless://18f71148-a3c7-40c7-b02a-be04da72efe3@2.26.127.12:443/?type=tcp&encryption=none&flow=&sni=pro-uk.emrata.top&fp=chrome&security=reality&pbk=RYnbBzo-UTB4nVMymzJ5B6TgYed7DfOc6O5Pr_htYSc&sid=#比利时
+vless://19307550-126a-4b8b-a1a3-115197320370@web-production-6ffd7.up.railway.app:443?encryption=none&security=tls&sni=web-production-6ffd7.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-6ffd7.up.railway.app&path=/ws/19307550-126a-4b8b-a1a3-115197320370#@hollowcon
+vless://196fa82c-aa34-4512-8dfa-386391ac8008@47.82.120.47:43630?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-3

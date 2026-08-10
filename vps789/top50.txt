@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-11 06:28 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-11 07:26 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
@@ -23,9 +23,9 @@ yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 01-cctv.com:443#01-cctv.com
 play.mc.js.cool:443#play.mc.js.cool
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
 www.dbs.com.sg:443#www.dbs.com.sg
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.3666888.xyz:443#cf.3666888.xyz
 gh-proxy.com:443#gh-proxy.com

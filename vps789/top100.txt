@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-11 06:28 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-11 07:26 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
@@ -23,9 +23,9 @@ yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 01-cctv.com:443#01-cctv.com
 play.mc.js.cool:443#play.mc.js.cool
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
 www.dbs.com.sg:443#www.dbs.com.sg
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.3666888.xyz:443#cf.3666888.xyz
 gh-proxy.com:443#gh-proxy.com
@@ -85,9 +85,10 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 www.galgamex.net:443#www.galgamex.net
 eii.at:443#eii.at
 markmonitor.com:443#markmonitor.com
+visa.com.tw:443#visa.com.tw
 www.giannidelprete.it:443#www.giannidelprete.it
 www.postman.com:443#www.postman.com
-visa.com.tw:443#visa.com.tw
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
@@ -98,5 +99,4 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 api.gzcrtw.com:443#api.gzcrtw.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

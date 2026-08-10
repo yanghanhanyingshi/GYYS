@@ -22,9 +22,9 @@ yg5.ygkkk.dpdns.org
 01-cctv.com
 play.mc.js.cool
 edgeone.gh-proxy.org
+cf.neko.cloudd.eu.org
 neko.cloudd.eu.org
 www.dbs.com.sg
-cloudflare.182682.xyz
 cf-cname.xingpingcn.top
 cf.3666888.xyz
 gh-proxy.com
@@ -84,9 +84,10 @@ vip.cf.3666888.xyz
 www.galgamex.net
 eii.at
 markmonitor.com
+visa.com.tw
 www.giannidelprete.it
 www.postman.com
-visa.com.tw
+cloudflare.182682.xyz
 cloudflare.cfgo.cc
 cf.godns.cc
 cloudflare.idc.rocks
@@ -113,6 +114,7 @@ ping.pe
 yxip.xxxxxxxx.tk
 cmcc.hw.090227.xyz
 hzytjy.cn
+ctlmt.info
 qy.cf.727672.xyz
 cfip-cu.stoeaves.us.ci
 1.cloudflare.19931110.xyz
@@ -131,8 +133,6 @@ cnllm.com
 china-telecom.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
 vps.cheng2001.top
-cf.neko.cloudd.eu.org
-cf.090227.xyz
 www.shopify.com
 ct.877774.xyz
 da.mfa.gov.ua
@@ -148,7 +148,6 @@ www.visa.com.hk
 www.visa.cn
 zh-wireguard.com
 page.mercer.com
-saas.072159.xyz
 china.mfa.gov.ua
 run.254301.xyz
 www.bangbenjiaju.com
@@ -157,9 +156,9 @@ cf.92555.xyz
 cmcc.877774.xyz
 cloudflare.rainyfall.com
 cfdl.3666888.xyz
+saas.072159.xyz
 qocu.cf.3666888.xyz
 cfgo.timelate.com
-ex.warspite.dpdns.org
 yx.oracle-img.eu.org
 openai.com
 www.5199dy.com
@@ -171,7 +170,7 @@ yd.zhuqq.qzz.io
 cf.neko.cloudflaree.eu.org
 xn--b6gac.eu.org
 ct.090227.xyz
-cf3.996616.xyz
+dash.cloudflare.com
 bestcf.030101.xyz
 www.udacity.com
 test.cloudflare.182682.xyz
@@ -185,8 +184,10 @@ kickstarter.com
 mfa.gov.ua
 fn.130519.xyz
 fbi.gov
+www.hypixel.net
 cf.130519.xyz
 blog.raindew.576555.xyz
+tajikistan.mfa.gov.ua
 dynadot.com
 cfyx.aliyun.20237737.xyz
 cfyx.dnspod.20237737.xyz
@@ -197,4 +198,3 @@ www.dentoncounty.gov
 egov.uscis.gov
 guide.for.edu.sg
 constitution.congress.gov
-help.x.com

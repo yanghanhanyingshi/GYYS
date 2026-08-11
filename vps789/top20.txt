@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-12 02:49 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-12 03:55 | 灵鹿优选
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 www.shopify.com:443#www.shopify.com
 cu.877774.xyz:443#cu.877774.xyz
@@ -8,8 +8,8 @@ keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 cf.1o.ee:443#cf.1o.ee
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.dg22.top:443#www.dg22.top
+prompt.gzcrtw.com:443#prompt.gzcrtw.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan

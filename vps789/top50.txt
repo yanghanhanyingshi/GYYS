@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 02:49 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 03:55 | 灵鹿优选
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 www.shopify.com:443#www.shopify.com
 cu.877774.xyz:443#cu.877774.xyz
@@ -8,8 +8,8 @@ keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 cf.1o.ee:443#cf.1o.ee
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.dg22.top:443#www.dg22.top
+prompt.gzcrtw.com:443#prompt.gzcrtw.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
@@ -22,6 +22,7 @@ youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
@@ -29,24 +30,23 @@ test.509666.xyz:443#test.509666.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
 cfplus.255520.xyz:443#cfplus.255520.xyz
+www.sloomb.com:443#www.sloomb.com
 dongbanghong.com:443#dongbanghong.com
 www.xflash.vip:443#www.xflash.vip
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
+www.vastnovel.com:443#www.vastnovel.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
-oo.xzhi.eu.org:443#oo.xzhi.eu.org
+www.dbs.com.sg:443#www.dbs.com.sg
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
 a.lma.de5.net:443#a.lma.de5.net
 pwjbl.me:443#pwjbl.me
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-www.galgamex.net:443#www.galgamex.net
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

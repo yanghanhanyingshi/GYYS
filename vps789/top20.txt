@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-12 00:48 | 灵鹿优选
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-12 01:50 | 灵鹿优选
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+gh-proxy.com:443#gh-proxy.com
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+cf.1o.ee:443#cf.1o.ee
+www.dg22.top:443#www.dg22.top
+coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cu.877774.xyz:443#cu.877774.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
-www.fastsoso.cn:443#www.fastsoso.cn
-bbs.alipansou.com:443#bbs.alipansou.com
-gh-proxy.com:443#gh-proxy.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
-a.lma.de5.net:443#a.lma.de5.net
+www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

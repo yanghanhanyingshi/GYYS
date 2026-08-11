@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-11 13:53 | 灵鹿优选
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cdn.wzkf88.com:443#cdn.wzkf88.com
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-11 14:51 | 灵鹿优选
 doro.lol:443#doro.lol
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cmcc.vvvv.ee:443#cmcc.vvvv.ee
+cdn.wzkf88.com:443#cdn.wzkf88.com
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cdn.204910.best:443#cdn.204910.best
 store.ubi.com:443#store.ubi.com
 nexusmods.com:443#nexusmods.com
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-www.mfyx.cn:443#www.mfyx.cn
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

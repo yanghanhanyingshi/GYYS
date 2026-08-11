@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-11 17:52 | 灵鹿优选
-doro.lol:443#doro.lol
-cdn.204910.best:443#cdn.204910.best
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-11 18:42 | 灵鹿优选
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
+doro.lol:443#doro.lol
 play.mc.js.cool:443#play.mc.js.cool
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cdn.204910.best:443#cdn.204910.best
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
+dnew.cc:443#dnew.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

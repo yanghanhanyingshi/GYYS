@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 03:55 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 04:35 | 灵鹿优选
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 www.shopify.com:443#www.shopify.com
 cu.877774.xyz:443#cu.877774.xyz
@@ -22,18 +22,20 @@ youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
+cmcc.cc.cd:443#cmcc.cc.cd
 cfplus.255520.xyz:443#cfplus.255520.xyz
+doro.lol:443#doro.lol
 www.sloomb.com:443#www.sloomb.com
 dongbanghong.com:443#dongbanghong.com
 www.xflash.vip:443#www.xflash.vip
 www.vastnovel.com:443#www.vastnovel.com
+fk.hshwk.org:443#fk.hshwk.org
 cdn.ddeed.de:443#cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
@@ -41,12 +43,10 @@ cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 www.dbs.com.sg:443#www.dbs.com.sg
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
-a.lma.de5.net:443#a.lma.de5.net
 pwjbl.me:443#pwjbl.me
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

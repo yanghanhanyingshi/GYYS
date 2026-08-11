@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-11 22:13 | 灵鹿优选
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-www.shopify.com:443#www.shopify.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-11 23:52 | 灵鹿优选
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-doro.lol:443#doro.lol
 play.mc.js.cool:443#play.mc.js.cool
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-www.dbs.com.sg:443#www.dbs.com.sg
-cdns.doon.eu.org:443#cdns.doon.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+openai.com:443#openai.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+store.ubi.com:443#store.ubi.com
 bbs.alipansou.com:443#bbs.alipansou.com
 gh-proxy.com:443#gh-proxy.com
-nexusmods.com:443#nexusmods.com
 dnew.cc:443#dnew.cc
-www.mc.js.cool:443#www.mc.js.cool
-www.sage.com:443#www.sage.com
+youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

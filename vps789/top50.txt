@@ -1,25 +1,32 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 13:27 | 灵鹿优选
-cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 15:11 | 灵鹿优选
+cf.92555.xyz:443#cf.92555.xyz
+cdn.wzkf88.com:443#cdn.wzkf88.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-gh-proxy.com:443#gh-proxy.com
+cf.godns.cc:443#cf.godns.cc
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
+yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 cf.1o.ee:443#cf.1o.ee
+eii.at:443#eii.at
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.xflash.vip:443#www.xflash.vip
 www.dg22.top:443#www.dg22.top
-coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
+cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
+cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cdn.204910.best:443#cdn.204910.best
 store.ubi.com:443#store.ubi.com
-cf.godns.cc:443#cf.godns.cc
+bbs.alipansou.com:443#bbs.alipansou.com
+gh-proxy.com:443#gh-proxy.com
 dnew.cc:443#dnew.cc
 www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -31,11 +38,9 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
-yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.galgamex.net:443#www.galgamex.net
-eii.at:443#eii.at
+cfplus.255520.xyz:443#cfplus.255520.xyz
 www.sloomb.com:443#www.sloomb.com
-www.xflash.vip:443#www.xflash.vip
 www.vastnovel.com:443#www.vastnovel.com
 www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
@@ -43,10 +48,5 @@ fk.hshwk.org:443#fk.hshwk.org
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
-cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
-www.dbs.com.sg:443#www.dbs.com.sg
-cdn.204910.best:443#cdn.204910.best
-cf.3666888.xyz:443#cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

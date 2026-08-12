@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.46:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&packetEncoding=xudp#俄罗斯
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.8:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.8:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#@V2ray_Alpha🕌 7
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
@@ -503,3 +501,5 @@ vless://ac9f2eb3-b9d6-45f3-9f68-7b84df1d91a4@77.110.101.107:443?mode=auto&path=/
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@176.96.138.198:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Oyd0sn1z_6uNSN6AN63Q7aBq7AUQ1bOsB9MT3FyyiRM&security=reality&sid=837fa04e73d6b581&sni=www.ya.ru&type=tcp#🔖65@oneclickvpnkeys
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@185.117.0.127:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Oyd0sn1z_6uNSN6AN63Q7aBq7AUQ1bOsB9MT3FyyiRM&security=reality&sid=837fa04e73d6b581&sni=www.ya.ru&type=tcp#🔖72@oneclickvpnkeys
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@185.117.0.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&pbk=Oyd0sn1z_6uNSN6AN63Q7aBq7AUQ1bOsB9MT3FyyiRM&sid=837fa04e73d6b581&type=tcp&headerType=none#Tel : @Daily_Configs
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@185.117.0.127:443?security=reality&encryption=none&pbk=Oyd0sn1z_6uNSN6AN63Q7aBq7AUQ1bOsB9MT3FyyiRM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=837fa04e73d6b581#@MARAMBASHI 💟

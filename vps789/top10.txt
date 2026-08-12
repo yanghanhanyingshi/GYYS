@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-13 02:50 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-13 03:57 | 灵鹿优选
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

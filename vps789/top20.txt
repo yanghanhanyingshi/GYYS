@@ -1,6 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-12 07:31 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-12 09:09 | 灵鹿优选
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 www.shopify.com:443#www.shopify.com
+openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
@@ -12,11 +13,10 @@ www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.dg22.top:443#www.dg22.top
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
-www.fastsoso.cn:443#www.fastsoso.cn
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

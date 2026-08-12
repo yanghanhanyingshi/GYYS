@@ -1,6 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 07:31 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-12 09:09 | 灵鹿优选
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 www.shopify.com:443#www.shopify.com
+openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
@@ -12,14 +13,14 @@ www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.dg22.top:443#www.dg22.top
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
-www.fastsoso.cn:443#www.fastsoso.cn
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
+www.sage.com:443#www.sage.com
 www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
@@ -29,7 +30,6 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
 cmcc.cc.cd:443#cmcc.cc.cd
 cfplus.255520.xyz:443#cfplus.255520.xyz

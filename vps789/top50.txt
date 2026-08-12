@@ -1,18 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-13 03:57 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-13 04:36 | 灵鹿优选
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+www.shopify.com:443#www.shopify.com
 saas.sin.fan:443#saas.sin.fan
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.mlkj888.com:443#www.mlkj888.com
+cmcc.cc.cd:443#cmcc.cc.cd
 www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
@@ -20,12 +24,12 @@ neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
+bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
@@ -36,6 +40,7 @@ cf.1o.ee:443#cf.1o.ee
 eii.at:443#eii.at
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cnllm.com:443#cnllm.com
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
 01-qq.com:443#01-qq.com
 cfplus.255520.xyz:443#cfplus.255520.xyz
 www.sloomb.com:443#www.sloomb.com
@@ -44,9 +49,4 @@ www.vastnovel.com:443#www.vastnovel.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
-cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-01-cctv.com:443#01-cctv.com
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

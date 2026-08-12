@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-13 03:57 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-13 04:36 | 灵鹿优选
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+www.shopify.com:443#www.shopify.com
 saas.sin.fan:443#saas.sin.fan
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.mlkj888.com:443#www.mlkj888.com
+cmcc.cc.cd:443#cmcc.cc.cd
 www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
-cdn.wzkf88.com:443#cdn.wzkf88.com
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

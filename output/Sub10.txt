@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c327c13a-93c2-4be9-b420-e6837afeb4fd@dezh.dezhawo.ir:8880?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.CtjESeE1qKZPX7AmVz7dwyh4QbCl6Xk4j2QnAABfgzw&pbk=-9mjwbeJdOLbkA7on40npvz5A6kYm2Xfp5bRAlYvSgg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=da678041dc6f3bff#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@hopev2ray🤍
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws@ThePackageCom#🇨🇦141032 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=/udfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#@v2rayng3
@@ -502,4 +503,3 @@ vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?security=none&enc
 vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://de17a7f2-3071-467e-9e19-c6f9f6891475@dashboard.lucypro.ir:550?path=/&security=none&encryption=none&host=play.google.com&type=ws#vip🇩🇪
 vless://de17a7f2-3071-467e-9e19-c6f9f6891475@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
-vless://de17a7f2-3071-467e-9e19-c6f9f6891475@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti

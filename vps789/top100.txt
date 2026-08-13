@@ -1,8 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-14 03:52 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-14 04:32 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -54,9 +55,9 @@ pwjbl.me:443#pwjbl.me
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 www.akasantech.com:443#www.akasantech.com
-api.gzcrtw.com:443#api.gzcrtw.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
+cf.v8.longsays.com:443#cf.v8.longsays.com
 openai.com:443#openai.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 gh-proxy.com:443#gh-proxy.com
@@ -72,7 +73,6 @@ ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
-cf.v8.longsays.com:443#cf.v8.longsays.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -94,9 +94,9 @@ cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.sloomb.com:443#www.sloomb.com
+api.gzcrtw.com:443#api.gzcrtw.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 www.dbs.com.sg:443#www.dbs.com.sg
 isp.254301.xyz:443#isp.254301.xyz
 01-qq.com:443#01-qq.com
-www.speedtest.net:443#www.speedtest.net
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

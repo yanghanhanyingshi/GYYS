@@ -1,8 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-14 03:52 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-14 04:32 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -48,5 +49,4 @@ www.giannidelprete.it:443#www.giannidelprete.it
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cf.xycf.asia:443#cf.xycf.asia
 cdn.wzkf88.com:443#cdn.wzkf88.com
-www.shopify.com:443#www.shopify.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

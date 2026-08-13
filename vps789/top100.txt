@@ -1,7 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-14 06:32 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-14 07:32 | 灵鹿优选
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
+cdn.204910.best:443#cdn.204910.best
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
@@ -41,6 +43,7 @@ cf.1o.ee:443#cf.1o.ee
 www.galgamex.net:443#www.galgamex.net
 eii.at:443#eii.at
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+www.dg22.top:443#www.dg22.top
 www.giannidelprete.it:443#www.giannidelprete.it
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 www.leics.police.uk:443#www.leics.police.uk
@@ -49,7 +52,6 @@ yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 kniu.cc:443#kniu.cc
 www.mlkj888.com:443#www.mlkj888.com
-www.dg22.top:443#www.dg22.top
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 cdn.wzkf88.com:443#cdn.wzkf88.com
@@ -62,6 +64,7 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 dongbanghong.com:443#dongbanghong.com
 www.akasantech.com:443#www.akasantech.com
 fk.hshwk.org:443#fk.hshwk.org
+play.mc.js.cool:443#play.mc.js.cool
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
@@ -69,34 +72,31 @@ neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+dnew.cc:443#dnew.cc
+www.jimdo.com:443#www.jimdo.com
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 run.254301.xyz:443#run.254301.xyz
 doro.lol:443#doro.lol
 www.vastnovel.com:443#www.vastnovel.com
-play.mc.js.cool:443#play.mc.js.cool
+cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 store.ubi.com:443#store.ubi.com
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-dnew.cc:443#dnew.cc
-www.jimdo.com:443#www.jimdo.com
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cnllm.com:443#cnllm.com
 01-cctv.com:443#01-cctv.com
 www.sloomb.com:443#www.sloomb.com
-cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
+www.dbs.com.sg:443#www.dbs.com.sg
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 www.sage.com:443#www.sage.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-api.gzcrtw.com:443#api.gzcrtw.com
-cf.xycf.asia:443#cf.xycf.asia
-www.dbs.com.sg:443#www.dbs.com.sg
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

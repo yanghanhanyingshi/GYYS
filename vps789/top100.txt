@@ -1,7 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-14 02:50 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-14 03:52 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -16,7 +17,6 @@ uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
@@ -37,14 +37,12 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 www.galgamex.net:443#www.galgamex.net
 eii.at:443#eii.at
-www.mlkj888.com:443#www.mlkj888.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-api.gzcrtw.com:443#api.gzcrtw.com
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 www.leics.police.uk:443#www.leics.police.uk
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-www.nexusmods.com:443#www.nexusmods.com
 kniu.cc:443#kniu.cc
+www.mlkj888.com:443#www.mlkj888.com
 www.dg22.top:443#www.dg22.top
 www.giannidelprete.it:443#www.giannidelprete.it
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -54,10 +52,11 @@ www.shopify.com:443#www.shopify.com
 nexusmods.com:443#nexusmods.com
 pwjbl.me:443#pwjbl.me
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
+www.nexusmods.com:443#www.nexusmods.com
 www.akasantech.com:443#www.akasantech.com
+api.gzcrtw.com:443#api.gzcrtw.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
-cf.v8.longsays.com:443#cf.v8.longsays.com
 openai.com:443#openai.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 gh-proxy.com:443#gh-proxy.com
@@ -73,6 +72,7 @@ ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
+cf.v8.longsays.com:443#cf.v8.longsays.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -82,21 +82,21 @@ run.254301.xyz:443#run.254301.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cnllm.com:443#cnllm.com
 01-cctv.com:443#01-cctv.com
-www.sloomb.com:443#www.sloomb.com
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cu.877774.xyz:443#cu.877774.xyz
+www.sage.com:443#www.sage.com
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+www.sloomb.com:443#www.sloomb.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 www.dbs.com.sg:443#www.dbs.com.sg
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
+isp.254301.xyz:443#isp.254301.xyz
 01-qq.com:443#01-qq.com
 www.speedtest.net:443#www.speedtest.net
-isp.254301.xyz:443#isp.254301.xyz
-cdn.2158.cc:443#cdn.2158.cc
-101yaoye.com:443#101yaoye.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

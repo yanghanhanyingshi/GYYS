@@ -1,7 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-14 02:50 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-14 03:52 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -16,7 +17,6 @@ uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
@@ -37,16 +37,16 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 www.galgamex.net:443#www.galgamex.net
 eii.at:443#eii.at
-www.mlkj888.com:443#www.mlkj888.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-api.gzcrtw.com:443#api.gzcrtw.com
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 www.leics.police.uk:443#www.leics.police.uk
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-www.nexusmods.com:443#www.nexusmods.com
 kniu.cc:443#kniu.cc
+www.mlkj888.com:443#www.mlkj888.com
 www.dg22.top:443#www.dg22.top
 www.giannidelprete.it:443#www.giannidelprete.it
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cf.xycf.asia:443#cf.xycf.asia
+cdn.wzkf88.com:443#cdn.wzkf88.com
+www.shopify.com:443#www.shopify.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

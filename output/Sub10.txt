@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=/&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#تلگرام PROXY_MTM-22
-vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=/&security=tls&fragment=20-40,3-8,tlshello&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#@meliproxyy
-vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#@MARAMBASHI 🇫🇮
-vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#@MARAMBASHI 🇹🇷
 vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@one-for-all.levikogjgfdd.ir:8443?path=/&security=tls&encryption=none&host=france-8.psntbt.com.&fp=chrome&type=ws&sni=ssl.psntbt.com.#🇫🇷 CDN
 vless://cc0615e5-cb47-40f2-a06c-d79f594a6fae@2.28.5.45:8443?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=1b2izbhtR6wHXWblNSX8RC_EXajb8_Ux-rFxBc1Q2G0&sid=55824008eed348&spx=/f62ae31c90331d1&type=xhttp&host=www.speedtest.net&path=/foot&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Ap_Ir6
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&type=ws&allowInsecure=0&sni=cyylr.eu.cc#TEL:Father_vpn
@@ -503,3 +499,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22222?headerType=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22222?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?encryption=none&packetEncoding=xudp#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?headerType=none&encryption=none&type=tcp&security=none#@meliproxyy
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?security=none&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?security=none&encryption=none&type=tcp&headerType=none#@Napsternetvirani

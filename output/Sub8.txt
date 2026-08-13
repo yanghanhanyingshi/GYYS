@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@sau.musichubmel.ir:44030?security=none&encryption=none&host=play.googleapis.com&headerType=http&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?fp=chrome&headerType=none&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&security=reality&type=tcp&spx=/#@Alpha_v2rayIP
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#@Begoo_VPN ²⁶³
@@ -503,3 +502,4 @@ vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&e
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.16.121.147:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=9b94d317f693703f.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&fp=chrome&type=ws&sni=f53d749fda28cb85.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=f53d749fda28cb85.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws?ed=2560&security=tls&encryption=none&host=newgen14.hozheen.ir&type=ws&sni=4dcb0d80784f3081.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@

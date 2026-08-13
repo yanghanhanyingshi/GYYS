@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b2424c2b-196c-4924-af15-747d27ef44a1@213.156.152.42:8089?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#@Maznet - SOS515
-vless://b265877c-f9c7-4830-a220-aefda258ea49@88.135.46.45:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@FreakConfig
-vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2083?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@FreakConfig
-vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@FreakConfig
-vless://b2a21714-fd64-461f-9364-49ea2ddc8b59@EN1.ZAG-FA.SOLVETA.IR:9982?security=reality&encryption=none&pbk=mPYP_E1bJqvNXD-uKRU4QFyXk6B9lweXX5cqgbq3l3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=16b3713dce93ee0c#kurdconfig
-vless://b2a21714-fd64-461f-9364-49ea2ddc8b59@EN1.ZAG-FA.SOLVETA.IR:9982?security=reality&encryption=none&pbk=mPYP_E1bJqvNXD-uKRU4QFyXk6B9lweXX5cqgbq3l3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=16b3713dce93ee0c#🇩🇪@FreakConfig
 vless://b2bb6f58-92ab-49a9-85c7-707375c59bf0@unitesstatesmarzconf.net-pluse.ir:7080?security=reality&encryption=none&pbk=AUZq1rnKSMLO25pVxsdlZwF7kyZotzYyzgcrZyHaDTw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#Channel : @Daily_Configs
 vless://b2e66bc9-e9df-4d71-9ae8-b04727b1e617@78.17.107.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.netdrug.ru&fp=chrome&security=reality&pbk=3THysl_wlV09hI961YS_MWZ_8MYjn7LVj9Q7qyKY2jQ&sid=9720904a935e#阿联酋
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@school.fizikade.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&spx=/naranv2ray&allowinsecure=1&type=tcp&headerType=http#🇩🇪All¹¹ | @BigSmoke_Config
@@ -503,3 +496,10 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?path=/GOrbEh&secu
 vless://cf484711-bee2-419f-afd9-c4a4728c0c2a@91.234.39.183:443?path=/&security=none&encryption=none&host=snapp.ir&type=ws#@filembad
 vless://cf484711-bee2-419f-afd9-c4a4728c0c2a@91.234.39.183:443?type=ws&encryption=none&path=/&host=snapp.ir&security=none#🇮🇷141281 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cf868aff-c26c-4a8d-be97-d69401758689@188.245.182.67:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#@V2rayi_net
+vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ꜱɪʟᴇɴᴛ ɴᴇᴛᴡᴏʀᴋ
+vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
+vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@irconfiig
+vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@v2ryNG01
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#کانال تلگرام : Free_VPN_CH@
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=512#کانال تلگرام : Free_VPN_CH@
+vless://d057338f-0f7b-4245-80b3-6bcabd365b84@chatgpt.com:443?encryption=none&security=tls&sni=edgE26-TOPnET.TopnEt1127.wOrkErs.DeV&fp=chrome&type=ws&host=edge26-topnet.topnet1127.workers.dev&path=/eyJqdW5rIjoicVZMOXFIcEN4UkI2azNnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#کانال تلگرام : Free_VPN_CH@

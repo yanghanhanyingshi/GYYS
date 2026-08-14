@@ -1,4 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-14 23:43 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-15 00:41 | 灵鹿优选
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
@@ -7,6 +9,4 @@ cmcc.vvvv.ee:443#cmcc.vvvv.ee
 bbs.alipansou.com:443#bbs.alipansou.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

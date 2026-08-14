@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-15 02:42 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-15 03:43 | 灵鹿优选
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
@@ -65,12 +65,13 @@ www.sloomb.com:443#www.sloomb.com
 www.vastnovel.com:443#www.vastnovel.com
 www.dg22.top:443#www.dg22.top
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
+www.dbs.com.sg:443#www.dbs.com.sg
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
 nexusmods.com:443#nexusmods.com
 www.jimdo.com:443#www.jimdo.com
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
+101yaoye.com:443#101yaoye.com
 www.mlkj888.com:443#www.mlkj888.com
 cmcc.cc.cd:443#cmcc.cc.cd
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
@@ -86,17 +87,16 @@ edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
-www.dbs.com.sg:443#www.dbs.com.sg
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 www.mc.js.cool:443#www.mc.js.cool
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+cdn.2158.cc:443#cdn.2158.cc
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-101yaoye.com:443#101yaoye.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
+chrono24.com:443#chrono24.com
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 cf.1o.ee:443#cf.1o.ee
-chrono24.com:443#chrono24.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
-mogas.com:443#mogas.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

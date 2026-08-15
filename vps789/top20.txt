@@ -1,6 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-15 18:14 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-15 19:12 | 灵鹿优选
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-doro.lol:443#doro.lol
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cdn.204910.best:443#cdn.204910.best
 cf.3666888.xyz:443#cf.3666888.xyz
@@ -10,13 +9,14 @@ sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-cfplus.255520.xyz:443#cfplus.255520.xyz
-cdn.ddeed.de:443#cdn.ddeed.de
+yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

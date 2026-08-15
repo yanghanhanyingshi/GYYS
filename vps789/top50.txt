@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-16 06:12 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-16 07:12 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
@@ -29,8 +29,11 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 run.254301.xyz:443#run.254301.xyz
+cf.1o.ee:443#cf.1o.ee
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.vastnovel.com:443#www.vastnovel.com
+www.akasantech.com:443#www.akasantech.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -46,7 +49,4 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
-api.gzcrtw.com:443#api.gzcrtw.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

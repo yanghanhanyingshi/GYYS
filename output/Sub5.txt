@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@94.198.190.22:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&allowInsecure=1&fp=chrome&security=reality&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&sid=7b&packetEncoding=xudp#罗马尼亚
-vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#TEL:Father_vpn
 vless://47b76c58-8dc1-489b-aa46-2f85a70600b5@de1.prime-net.me:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qgQAQ19q2EhKzfolYMDsvTlmP9EAiCT8kng4uWR4QVg&security=reality&sid=d2d57f733d708acc&sni=de1.prime-net.me&type=tcp#🇩🇪139834 | ⚡️Telegram = t.me/SOSkeyNET
 vless://47ce931e-32e4-4ed8-816c-9447860c70ef@185.146.173.200:8880?path=@mehrosaboran,@mehrosaboran&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir&type=ws#@Hope_Net-join-us-on-Telegram
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori
@@ -503,3 +501,5 @@ vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@nethercitur.hchdhsbs12gd.ir:5051?en
 vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@nethercitur.hchdhsbs12gd.ir:5051?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@meliproxyy
 vless://67face2a-6606-451b-ac55-25b6333e169d@45.76.91.5:443?encryption=none&headerType=http&host=&path=/@napsternetv20&security=none&type=tcp#🇩🇪 DE --Channel_@napsternetv20
 vless://68662961-6c5f-48c1-b807-6398f3287dbc@172.66.170.53:8880?security=&encryption=none&host=polished-meadow-2ac5.228-76d.workers.dev&type=ws#🚀t.me/iProxyChannel
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#@CUSTOMVPNSERVER
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 01:14 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 02:16 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
@@ -7,11 +7,7 @@ dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
-cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
-openai.com:443#openai.com
 saas.sin.fan:443#saas.sin.fan
-store.ubi.com:443#store.ubi.com
 nexusmods.com:443#nexusmods.com
 www.jimdo.com:443#www.jimdo.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
@@ -19,4 +15,8 @@ sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

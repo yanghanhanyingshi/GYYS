@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-16 05:13 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-16 06:12 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
@@ -13,22 +13,27 @@ cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cmcc.cc.cd:443#cmcc.cc.cd
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 saas.sin.fan:443#saas.sin.fan
+cu.877774.xyz:443#cu.877774.xyz
 gh-proxy.com:443#gh-proxy.com
 nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+run.254301.xyz:443#run.254301.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.vastnovel.com:443#www.vastnovel.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
@@ -36,17 +41,12 @@ cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 store.ubi.com:443#store.ubi.com
+www.leics.police.uk:443#www.leics.police.uk
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
-cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
-markmonitor.com:443#markmonitor.com
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
-www.xflash.vip:443#www.xflash.vip
-dongbanghong.com:443#dongbanghong.com
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cf.v8.longsays.com:443#cf.v8.longsays.com
+api.gzcrtw.com:443#api.gzcrtw.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

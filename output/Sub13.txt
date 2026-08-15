@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AFI
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@179.198.50.131:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=firefox&type=xhttp&sni=wikihow.com#%3E%3E%40configV2rayNG%3A%3AFI
 vless://a746a471-0339-41ae-9750-d1f572bde296@172.67.186.142:443?path=%2Fvl%2FlbzuMME2utgQTXnVd5CGjUAy4JtKk9yQ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ydqbcj3ie4sqjux1ah93x.l9yawn7wagnmfd0-cnzjndc1u24q.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=YDqbCJ3IE4sqJux1AH93x.l9yawn7wAgNMFd0-CnzjnDC1U24q.Workers.dEV#%3E%3E%40FreakConfig%3A%3AUS
 vless://b1e6a8df-effc-4b70-9132-4dca98085420@www.speedtest.net:8443?encryption=none&fp=chrome&host=free-irancell.warzonmob.ir&path=%2F&security=tls&sni=free-irancell.warzonmob.ir&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX

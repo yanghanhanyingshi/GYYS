@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20f44487-3735-4b4a-8954-aba28837fddc@104.21.78.194:2087?path=/trialbox&security=tls&encryption=none&insecure=0&host=ist.chalghooz.com&fp=chrome&type=ws&allowInsecure=0&sni=ist.chalghooz.com#@confiig_hub
 vless://21128198-08ce-46e3-b2c0-c075c8ae1d7b@45.89.223.56:19101?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@NETMelliAnti
@@ -503,3 +502,4 @@ vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@Dnss.iraniranshopdashnoard.ir:8443?
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@ip-data.turkserver.ir:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://46102c9e-441e-49b6-9ab6-9de2b585b202@193.181.29.146:443?security=reality&encryption=none&pbk=TK_buEqf86vPwxx15k8BYC2Ln7nkywSQYdLCqDk2KFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=bc29bbdf41ce2bea#🇸🇪@FreakConfig
+vless://4612258c-15e8-4459-a3b6-8b6571699c5f@46.22.216.31:443?security=reality&encryption=none&pbk=NiCJO84l7l--GJ10ggvb6HcOS8qLR30pWTphwvWozhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mail.protech-plus.ee#🇪🇪139885 | ⚡️Telegram = t.me/SOSkeyNET

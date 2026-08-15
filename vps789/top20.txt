@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-15 23:12 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 00:13 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -7,16 +7,16 @@ bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
-cdn.wzkf88.com:443#cdn.wzkf88.com
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
+cf.1o.ee:443#cf.1o.ee
 openai.com:443#openai.com
 saas.sin.fan:443#saas.sin.fan
-cf.godns.cc:443#cf.godns.cc
+cu.877774.xyz:443#cu.877774.xyz
+nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.mc.js.cool:443#www.mc.js.cool
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+www.jimdo.com:443#www.jimdo.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,11 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-15 08:42 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-15 10:09 | 灵鹿优选
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
+cdn.204910.best:443#cdn.204910.best
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.godns.cc:443#cf.godns.cc
 cf.3666888.xyz:443#cf.3666888.xyz

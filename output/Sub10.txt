@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@ConfigV2RayNG
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@IRAN_V2RAY1
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@MDvpnSEC
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@icv2ray
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@meliproxyy
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@outline_ir
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
@@ -503,3 +499,7 @@ vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@animall-zooke.fardaty.ir:8080?mode=
 vless://e9503cee-ae7d-4abe-b6ed-5795458073a4@104.18.16.56:2083?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=prNkjleyvh.olAmpiavaRz.ir&fp=chrome&type=ws&allowInsecure=0&sni=vddhasdasdh.olampiavarz.ir#@v2rayngzendegimamad🕊️
 vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@159.89.111.250:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪143306 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@159.89.111.250:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@161.35.194.85:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪143302 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@161.35.194.85:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@164.90.215.211:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪143320 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@164.90.215.211:12899?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1

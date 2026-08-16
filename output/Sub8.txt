@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@v2rayng3
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@soskeynets.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🌍139786 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?encryption=none&sec
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#@v2rayngzendegimamad🕊️
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@216.24.57.6:443?path=/168.138.171.70=23280&security=tls&encryption=none&insecure=0&host=aquilacalyx.qzz.io&type=ws&allowInsecure=0&sni=aquilacalyx.qzz.io#@v2rayng3

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-16 12:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-16 13:20 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
 cf.3666888.xyz:443#cf.3666888.xyz
-dnew.cc:443#dnew.cc
-www.mc.js.cool:443#www.mc.js.cool
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+ping.ctrl.li:443#ping.ctrl.li
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

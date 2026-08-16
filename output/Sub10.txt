@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#✅  @vistav2ray  👈👈کانال ما ✅
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#@MDvpnSEC
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=/&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#@v2ray_phoenix
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=/&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://d279702d-4d2c-4ff5-ad5e-d1db3fd54cee@185.146.173.58:8080?path=/&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#@Hope_Net-join-us-on-Telegram
@@ -501,5 +503,3 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@one-for-all.levikogjgfdd.ir:443?pat
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
 vless://e5fc79a3-e331-f47d-ac58-ee616dceb901@69.46.46.20:443?path=/ws/e5fc79a3-e331-f47d-ac58-ee616dceb901&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-438b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-438b.up.railway.app#@meliproxyy
 vless://e5fc79a3-e331-f47d-ac58-ee616dceb901@69.46.46.20:443?path=/ws/e5fc79a3-e331-f47d-ac58-ee616dceb901&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-438b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-438b.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://e5fc79a3-e331-f47d-ac58-ee616dceb901@69.46.46.20:443?path=/ws/e5fc79a3-e331-f47d-ac58-ee616dceb901&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-438b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-438b.up.railway.app#Channel : @Daily_Configs
-vless://e6148e57-3b7f-4043-80f2-b0075ad41c73@91.107.242.82:995?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz²

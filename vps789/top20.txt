@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 16:18 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 17:19 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
@@ -8,8 +8,6 @@ uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
-ping.ctrl.li:443#ping.ctrl.li
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cfplus.255520.xyz:443#cfplus.255520.xyz
 www.xflash.vip:443#www.xflash.vip
@@ -19,4 +17,6 @@ neko.cloudd.eu.org:443#neko.cloudd.eu.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
 saas.sin.fan:443#saas.sin.fan
+cu.877774.xyz:443#cu.877774.xyz
+cdn.204910.best:443#cdn.204910.best
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,6 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 20:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 21:25 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -11,12 +13,10 @@ ping.ctrl.li:443#ping.ctrl.li
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cfplus.255520.xyz:443#cfplus.255520.xyz
 www.xflash.vip:443#www.xflash.vip
+cdn.ddeed.de:443#cdn.ddeed.de
+coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-www.shopify.com:443#www.shopify.com
-saas.sin.fan:443#saas.sin.fan
-cdn.204910.best:443#cdn.204910.best
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,8 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-16 10:17 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-16 11:40 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.fastsoso.cn:443#www.fastsoso.cn
 cf.3666888.xyz:443#cf.3666888.xyz
 dnew.cc:443#dnew.cc
@@ -14,11 +13,11 @@ cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cmcc.cc.cd:443#cmcc.cc.cd
 cfplus.255520.xyz:443#cfplus.255520.xyz
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
-neko.cloudd.eu.org:443#neko.cloudd.eu.org
 www.shopify.com:443#www.shopify.com
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 store.ubi.com:443#store.ubi.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
 nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
@@ -41,12 +40,13 @@ cf.1o.ee:443#cf.1o.ee
 eii.at:443#eii.at
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-www.sloomb.com:443#www.sloomb.com
 www.vastnovel.com:443#www.vastnovel.com
-www.akasantech.com:443#www.akasantech.com
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
+www.dg22.top:443#www.dg22.top
 cdn.ddeed.de:443#cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
+cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
+cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
+neko.cloudd.eu.org:443#neko.cloudd.eu.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

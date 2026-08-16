@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-17 06:12 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-17 07:11 | 灵鹿优选
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -24,6 +24,8 @@ avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
@@ -44,9 +46,7 @@ sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.galgamex.net:443#www.galgamex.net
-eii.at:443#eii.at
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

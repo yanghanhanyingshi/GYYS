@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 13:20 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-16 14:24 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
 cf.3666888.xyz:443#cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 ping.ctrl.li:443#ping.ctrl.li
 cfplus.255520.xyz:443#cfplus.255520.xyz
+www.xflash.vip:443#www.xflash.vip
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
-gh-proxy.com:443#gh-proxy.com
-nexusmods.com:443#nexusmods.com
-dnew.cc:443#dnew.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-17 05:12 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-17 06:12 | 灵鹿优选
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -31,7 +31,6 @@ www.xflash.vip:443#www.xflash.vip
 www.dg22.top:443#www.dg22.top
 cdn.ddeed.de:443#cdn.ddeed.de
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
 saas.sin.fan:443#saas.sin.fan
@@ -49,4 +48,5 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.galgamex.net:443#www.galgamex.net
+eii.at:443#eii.at
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp#@configprxy
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp#@erfanandroid
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22224?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22224?security=none&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp#@V2rayng_Fast
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22224?security=none&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp#@erfanandroid
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.99.227:22223?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
@@ -503,3 +500,6 @@ vless://fb1572c8-96c2-4485-9946-4f83b82bd350@185.143.233.5:2095?path=/&security=
 vless://fb1572c8-96c2-4485-9946-4f83b82bd350@31.14.119.198:2053?security=reality&encryption=none&pbk=_Id1_cScFAlYQ3jwK7bTrpWSPtg_RHOXrRx2Y0Tecx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=digikala.com&sid=469fd93b4a2f7da0#@erfanandroid
 vless://fb1572c8-96c2-4485-9946-4f83b82bd350@31.14.119.198:2083?security=reality&encryption=none&pbk=S5FAYmJ0LIVoQJIOzuFt3IzJGIX2bXQ6VzSJ8-aO_B8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=digikala.com&sid=9775c3bbed19dccc#@erfanandroid
 vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@snapp.ir:2095?path=/pgcfws-r4&security=none&encryption=none&host=newcloud.hamrahconff.ir&type=ws#🇮🇷144261 | ⚡️Telegram = t.me/SOSkeyNET
+vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@ssd.netbazshop.ir:33017?security=none&encryption=none&host=mangaarabics.com&headerType=http&type=tcp#[23959] - Telegram : @V2All
+vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@ssd.netbazshop.ir:33017?security=none&encryption=none&host=mangaarabics.com&headerType=http&type=tcp#🇩🇪144259 | ⚡️Telegram = t.me/SOSkeyNET
+vless://fb7becbe-4b6f-4fc2-b586-944a8968be00@xn--de2-x19au306v.netbazshop.ir:33017?security=&encryption=none&host=mangaarabics.com&headerType=http&type=tcp#🇩🇪144265 | ⚡️Telegram = t.me/SOSkeyNET

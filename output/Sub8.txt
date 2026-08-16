@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=icloud-ios-chrome.yas-nowin.ir#@Alfred_Config
-vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#Brayirani
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch: @pPal03🔴⚪️🔵جوین بدید عزیزان🔴⚪️🔵
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch: @pPal03🔴⚪️🔵جوین بدید عزیزان🔴⚪️🔵
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=tcp#⚛️29@oneclickvpnkeys
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#@hex_proxy ⁶
@@ -503,3 +500,6 @@ vless://b0804657-2bd1-4ccd-bdc8-b599b2d2f23d@216.167.37.6:37262?security=reality
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.79:443?encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed&security=tls&sni=cfoo-146.pages.dev&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
+vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
+vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
+vless://b094c2b5-d341-192b-164d-bed33db75f40@x4g-production-efbb.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-efbb.up.railway.app&path=/ws/b094c2b5-d341-192b-164d-bed33db75f40&sni=x4g-production-efbb.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139785 | ⚡️Telegram = t.me/SOSkeyNET

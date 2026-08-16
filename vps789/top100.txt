@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-17 04:12 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-17 05:12 | 灵鹿优选
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -89,13 +89,13 @@ cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 cdn.2158.cc:443#cdn.2158.cc
 run.254301.xyz:443#run.254301.xyz
+cdn.2020111.xyz:443#cdn.2020111.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cnllm.com:443#cnllm.com
 www.giannidelprete.it:443#www.giannidelprete.it
-cdn.2020111.xyz:443#cdn.2020111.xyz
 www.sage.com:443#www.sage.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz

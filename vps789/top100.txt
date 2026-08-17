@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-17 07:11 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-17 08:43 | 灵鹿优选
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -43,7 +43,6 @@ nexusmods.com:443#nexusmods.com
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
@@ -53,6 +52,7 @@ eii.at:443#eii.at
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cdn.7zz.cn:443#cdn.7zz.cn
 cfplus.255520.xyz:443#cfplus.255520.xyz
+doro.lol:443#doro.lol
 dongbanghong.com:443#dongbanghong.com
 www.vastnovel.com:443#www.vastnovel.com
 fk.hshwk.org:443#fk.hshwk.org
@@ -89,7 +89,6 @@ cdn.2020111.xyz:443#cdn.2020111.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 cdn.2158.cc:443#cdn.2158.cc
 run.254301.xyz:443#run.254301.xyz
-ping.ctrl.li:443#ping.ctrl.li
 cf.v8.longsays.com:443#cf.v8.longsays.com
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
@@ -98,5 +97,6 @@ www.giannidelprete.it:443#www.giannidelprete.it
 www.sage.com:443#www.sage.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

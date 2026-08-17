@@ -1,21 +1,21 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-18 00:17 | 灵鹿优选
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-18 01:19 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+openai.com:443#openai.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.godns.cc:443#cf.godns.cc
+www.fastsoso.cn:443#www.fastsoso.cn
 nexusmods.com:443#nexusmods.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 a.lma.de5.net:443#a.lma.de5.net
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf.1o.ee:443#cf.1o.ee
-cfplus.255520.xyz:443#cfplus.255520.xyz
 www.akasantech.com:443#www.akasantech.com
 api.gzcrtw.com:443#api.gzcrtw.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#@v2rayngzendegimamad🕊️
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=none&encryption=none&type=grpc#@appsooner کانال تلگرام 🕊️
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@v2rayng3
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔥 @free_conf_iran 🔥 14
@@ -499,7 +503,3 @@ vless://a8e99622-7407-4597-870e-5b40276abb30@185.126.236.181:443?security=realit
 vless://a933addc-2899-4dc2-8cff-dbcfe696db2b@146.75.119.82:80?path=ws/?ed=2048/@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR/?2048&security=none&encryption=none&host=rb24.ir&type=ws#@spiddy_ir
 vless://a933addc-2899-4dc2-8cff-dbcfe696db2b@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
 vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
-vless://a9a95d7c-ee7e-4ee0-9cbd-89cb566d08e9@[2a01:4f8:1c18:4078::1]:443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=NYZeZKuCbWGJGifmzP4jBqAueCm4iQCifv9gOEBEgnI&host=www.icloud.com&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=b7ff5b90d8#@Alfred_Config
-vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
-vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&spx=&flow=xtls-rprx-vision&fp=chrome&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=tcp#@Ap_Ir6
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?encryption=none&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&insecure=1&allowInsecure=1&type=ws&host=afrcloud22.mmv.kr&path=/#کانال تلگرام : Free_VPN_CH@

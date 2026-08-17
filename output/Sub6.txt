@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5feb264c-abf5-4c26-aeb2-3f598f0ee555@11telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=/xnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#🇩🇪145671 | ⚡️Telegram = t.me/SOSkeyNET
+vless://5feb264c-abf5-4c26-aeb2-3f598f0ee555@11telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=/xnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#🇩🇪DE-🚀@VPNine1
 vless://5feb264c-abf5-4c26-aeb2-3f598f0ee555@12telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=/xnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#🇨🇦145672 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5feb264c-abf5-4c26-aeb2-3f598f0ee555@12telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=/xnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#🚀@VPNine1
 vless://5feb264c-abf5-4c26-aeb2-3f598f0ee555@13telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=/xnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#🇨🇦145673 | ⚡️Telegram = t.me/SOSkeyNET
@@ -501,5 +503,3 @@ vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reali
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ourworldindata.org&sid=c3177d4358119938#@MARAMBASHI 🇬🇧
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ourworldindata.org&sid=c3177d4358119938#@MARAMBASHI 🇮🇹
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2036?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&type=ws&allowInsecure=0&sni=world.ashahan.ir#MTMVPN 61
-vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2077?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=world.ashahan.ir#MTMVPN 62
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@v2rayng3

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://de1e55b3-1cbd-4fae-a3e5-db3430c95b06@marzban-node-production-e828.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-e828.up.railway.app&sni=marzban-node-production-e828.up.railway.app&fp=chrome&alpn=h2#🚀Telegram: PeekConfig
+vless://de221fe4-be98-4e42-a9e3-1a373dfa8662@iman.dexterr.ir:42314?security=reality&encryption=none&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&headerType=none&fp=chrome&spx=/83435e744b592a5&type=tcp&sni=play.google.com&sid=52bdf8ea99#@Capoit
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#泰国
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#🇹🇭 TH
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443/?type=xhttp&encryption=none&flow=&sni=www.google.com&security=reality&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#channel_@networld_vpn
@@ -501,5 +503,3 @@ vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@194.150.166.12:443?flow=xtls-rprx-v
 vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@103.148.73.144:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
 vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
-vless://f2083aa4-f27d-43da-81cf-8bab317304cb@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
-vless://f23fb93e-7668-49f4-935e-dc18b9e18f8e@de.lesss.ir:443?security=reality&encryption=none&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bc7c4660adb53714#@oPeNFre

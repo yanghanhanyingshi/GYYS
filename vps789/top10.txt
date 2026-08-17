@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-17 12:33 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-17 13:27 | 灵鹿优选
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
@@ -8,5 +9,4 @@ cdn.204910.best:443#cdn.204910.best
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
-cf.godns.cc:443#cf.godns.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

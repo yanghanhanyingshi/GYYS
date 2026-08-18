@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.219-0247
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0246
 trojan://FH72359861@national-stingray.rooster465.autos:443?security=tls&sni=national-stingray.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.109-0249
 vmess://ewogICAgImFkZCI6ICJydXNoLXcxbml1LnRlZW9wcC5vbmxpbmUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJydXNoLXcxbml1LnRlZW9wcC5vbmxpbmUiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92aWRlby92NHN4M3Evenh6cnVya2MubTN1OCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjQzLjkyLTA0NDMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:

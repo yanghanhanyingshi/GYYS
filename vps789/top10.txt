@@ -1,9 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-19 04:14 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-19 05:16 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-cf.1o.ee:443#cf.1o.ee
 cdn.7zz.cn:443#cdn.7zz.cn
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+saas.sin.fan:443#saas.sin.fan
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
 www.mc.js.cool:443#www.mc.js.cool

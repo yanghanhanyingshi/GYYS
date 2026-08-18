@@ -1,9 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-18 18:19 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-18 19:17 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cf.1o.ee:443#cf.1o.ee
 api.gzcrtw.com:443#api.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci

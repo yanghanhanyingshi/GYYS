@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN 45
-vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?encryption=none&security=tls&sni=uwu.meowpew.de5.net&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=uwu.meowpew.de5.net&path=/#configprxy
-vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?encryption=none&security=tls&sni=uwu.meowpew.de5.net&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=uwu.meowpew.de5.net&path=/#vpnsal
 vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?encryption=none&security=tls&sni=uwu.meowpew.de5.net&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=uwu.meowpew.de5.net&path=/#🇩🇪All² | @BigSmoke_Config
 vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?encryption=none&security=tls&sni=uwu.meowpew.de5.net&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=uwu.meowpew.de5.net&path=/#🇩🇪All¹² | @BigSmoke_Config
 vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?encryption=none&security=tls&sni=uwu.meowpew.de5.net&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=uwu.meowpew.de5.net&path=/#🇩🇪All⁷ | @BigSmoke_Config
@@ -503,3 +500,6 @@ vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&s
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@filembad
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@freenettir
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@meliproxyy
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#MTMVPN 55
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#🇫🇮
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#🔵@chillguy_vpn

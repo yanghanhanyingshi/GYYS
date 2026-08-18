@@ -1,11 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-18 15:30 | 灵鹿优选
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-18 16:25 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
+www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
-cmcc.cc.cd:443#cmcc.cc.cd
 api.gzcrtw.com:443#api.gzcrtw.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci

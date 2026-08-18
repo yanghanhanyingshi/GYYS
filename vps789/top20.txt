@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-18 16:25 | 灵鹿优选
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-18 17:23 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 api.gzcrtw.com:443#api.gzcrtw.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
-www.dbs.com.sg:443#www.dbs.com.sg
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.godns.cc:443#cf.godns.cc
 nexusmods.com:443#nexusmods.com
 www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
 www.leics.police.uk:443#www.leics.police.uk
 a.lma.de5.net:443#a.lma.de5.net
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

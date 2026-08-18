@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@Alpha_v2rayIP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@FarazV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@Napsternetvirani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@erfanandroid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#@filembad
@@ -501,5 +503,3 @@ trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#@v2rayng3
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸146424 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rayng3
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3

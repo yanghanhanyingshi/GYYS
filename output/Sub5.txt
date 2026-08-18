@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&allowinsecure=1&type=tcp&headerType=none#[25692] - Telegram : @V2All
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&allowinsecure=1&type=tcp&headerType=none#🇩🇪All⁹ | @BigSmoke_Config
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#@hex_proxy ⁴
@@ -503,3 +502,4 @@ vless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.168.91:443?security=tls&alpn
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#Swiss(@proSSH)
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://55ce9e09-5208-541a-29f2-15c35394b168@69.46.46.18:443?path=/ws/55ce9e09-5208-541a-29f2-15c35394b168&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-0a48d.up.railway.app&fp=chrome&type=ws&sni=rvg-production-0a48d.up.railway.app#All Operators @MaSTeRSeRVeR1
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn

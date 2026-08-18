@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?mode=auto&path=/&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=chrome&type=xhttp&sni=ya.ru&sid=72cd47c079c0a3df#@icv2ray
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?mode=auto&path=/&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=chrome&type=xhttp&sni=ya.ru&sid=72cd47c079c0a3df#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?mode=auto&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&type=xhttp&sni=ya.ru&sid=72cd47c079c0a3df#@hex_proxy ³
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?encryption=none&security=reality&sni=google.com&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df&type=xhttp&mode=auto&path=/#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
@@ -503,3 +502,4 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?Telegram=@Gozargah
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/sg-melbi&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🎈19@oneclickvpnkeys
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/sg-melbi#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#@meliproxyy
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws&sni=hhlfy.twiladaphne.ndjp.net#@v2ray_phoenix

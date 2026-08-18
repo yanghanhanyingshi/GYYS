@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://XpnTeam-30@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-30@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-32@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
@@ -501,5 +503,3 @@ vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@109.122.198.243:443?security=realit
 vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@109.122.198.243:443?security=reality&encryption=none&pbk=2W02YfNDSkJAkRpu8t2fOwdcjx9DXr0X6IFp5eCrGDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=info.lagzero.ru#🔵@chillguy_vpn
 vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@193.233.126.97:443?security=reality&encryption=none&pbk=poHAmCMFLY7TOpA9hrI_sJGnXy796PrzQF4DHvpRCi0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#[🏁]t.me/ConfigV2RayNG
 vless://bf923569-ff69-4638-b1d3-38e3348d9571@irm2.server11net.ir:1010?encryption=none&security=none&type=tcp&headerType=http#کانال تلگرام : Free_VPN_CH@
-vless://bfd814a8-d377-4324-b23e-10d9dcd0a988@176.65.151.215:8443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://bfd814a8-d377-4324-b23e-10d9dcd0a988@176.65.151.215:8443?security=none&encryption=none&headerType=none&type=tcp#vpnsal

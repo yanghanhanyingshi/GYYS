@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#• 🇭🇰 | 𝗛𝗼𝗻𝗴 𝗞𝗼𝗻𝗴 - @HesarWeb
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🇩🇪
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🚀t.me/iProxyChannel
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&fp=chrome#channel_@networld_vpn
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=josni.hoyes.cloudns.ch&path=/musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🍏48@oneclickvpnkeys
@@ -501,5 +503,3 @@ vless://My-chanel-1-ATOVPN@138.124.29.81:57021?security=none&encryption=none&hea
 vless://My-chanel-1-ATOVPN@138.124.29.81:57021?security=none&encryption=none&headerType=none&type=tcp@freenettir
 vless://Parsashonam-136@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ParsashonamVPN.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@V2rayi_net
 vless://Parsashonam-9@190.93.247.247:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#@Hope_Net-join-us-on-Telegram
-vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
-vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ رایگان نت ملی . @fastkanfig

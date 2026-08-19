@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-19 08:42 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-19 10:16 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
@@ -9,14 +9,14 @@ saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
-www.mc.js.cool:443#www.mc.js.cool
-www.leics.police.uk:443#www.leics.police.uk
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

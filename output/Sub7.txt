@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?encryption=none&security=none&type=tcp&headerType=none#Telegram : @Daily_Configs
-vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz¹
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:2087?encryption=none&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦139744 | ⚡️Telegram = t.me/SOSkeyNET
-vless://7792c309-4dde-49d9-9f71-bf29611caa52@167.82.76.69:80?mode=auto&security=none&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#🇺🇸US-🚀@VPNine1
-vless://7792c309-4dde-49d9-9f71-bf29611caa52@nansjisiwkkwklowkwkakkwkwk.nenenet1.ir:15657?security=reality&encryption=none&pbk=4erSoBjjNllyViB1lGGtWmygMWohvSfvyoqSDXg7yBM&headerType=none&fp=chrome&type=tcp&sni=skyroom.online&sid=ccb1160f59ef407a#🇳🇱NL-🚀@VPNine1
-vless://7792c309-4dde-49d9-9f71-bf29611caa52@nansjisiwkkwklowkwkakkwkwk.nenenet1.ir:2044?security=reality&encryption=none&pbk=RXV4liHFCDhRHnjTX5QgwNhqzNjGaCuqZDO5iYesYHY&host=rubika.ir&headerType=http&fp=chrome&type=tcp&sni=google.com&sid=ef483dc259395a5f#🇳🇱NL-🚀@VPNine1
-vless://77a89d8d-9de3-cf40-bafb-e68f0000001a@104.16.133.220:443?path=/sync&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ez-5b038e.ezaccess1c7f862.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-5b038e.ezaccess1c7f862.workers.dev#🚀t.me/iProxyChannel
 vless://7812d96c-fbd5-4689-a480-e359dde49b7b@www.speedtest.net:443?path=/eyJqdW5rIjoiWWdUTFZiaTRQU3YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bpb-f23ddedd.jcxkvlndl.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=BPb-F23dDEdd.JCXkvlnDL.WOrkERS.deV#Cloudflare 🌐
 vless://788312f9-b95e-46da-9a39-623d798de761@164.37.100.59:443?encryption=none&security=tls&sni=edge1.numberoneok.com&type=grpc&authority=&serviceName=rpc.v1.SyncService&mode=gun#@Daily_Configs
 vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448/?type=tcp&security=none#-Channel: @VPNLime
@@ -503,3 +496,10 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encry
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#MTMVPN 49
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#bisto4_service
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#• 🇭🇰 | 𝗛𝗼𝗻𝗴 𝗞𝗼𝗻𝗴 - @HesarWeb
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🇩🇪
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🚀t.me/iProxyChannel
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&fp=chrome#channel_@networld_vpn
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=josni.hoyes.cloudns.ch&path=/musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🍏48@oneclickvpnkeys
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@hopev2ray❤️‍🔥
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi_/v2rayNplus--v2rayNplus--v2rayNplus&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@icv2ray

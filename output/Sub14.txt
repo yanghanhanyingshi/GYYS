@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://fg20mtCFHy@137.184.172.41:1921?allowInsecure=1&sni=sfecv.southbyte.xyz#%3E%3E%40v2nodes%3A%3ACA
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#%3E%3E%40configV2rayNG%3A%3ADE
 trojan://QV31589740@great-krill.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://fg20mtCFHy@206.189.7.80:5446?allowInsecure=1&sni=inxgc.southbyte.xyz#%3E%3E%40v2nodes%3A%3ANL
 trojan://fg20mtCFHy@172.234.100.80:5612?allowInsecure=1&sni=yugdv.southbyte.xyz#%3E%3E%40v2nodes%3A%3ASE
@@ -501,5 +503,3 @@ trojan://FH72359861@wise-gibbon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F
 trojan://FH72359861@adapted-quetzal.rooster465.autos:443?security=tls&sni=adapted-quetzal.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.2.92-0156
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0137
 trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0135
-trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.64.255.224-0193
-trojan://FH72359861@welcome-owl.rooster465.autos:443?security=tls&sni=welcome-owl.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.34.5-0169

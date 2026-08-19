@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-20 05:26 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-20 06:15 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
@@ -15,8 +15,10 @@ cf.3666888.xyz:443#cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
@@ -33,10 +35,12 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
+cdn.wzkf88.com:443#cdn.wzkf88.com
 saas.sin.fan:443#saas.sin.fan
 cdn.7zz.cn:443#cdn.7zz.cn
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cf.1o.ee:443#cf.1o.ee
 www.sloomb.com:443#www.sloomb.com
 www.dg22.top:443#www.dg22.top
 p.etime.vip:443#p.etime.vip
@@ -47,18 +51,18 @@ www.xflash.vip:443#www.xflash.vip
 www.giannidelprete.it:443#www.giannidelprete.it
 www.ntu.edu.sg:443#www.ntu.edu.sg
 www.shopify.com:443#www.shopify.com
-cf.1o.ee:443#cf.1o.ee
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.akasantech.com:443#www.akasantech.com
 play.mc.js.cool:443#play.mc.js.cool
 nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
 www.epicgames.com:443#www.epicgames.com
+cf1.v8.longsays.com:443#cf1.v8.longsays.com
 visa.com:443#visa.com
+openai.com:443#openai.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 redis.io:443#redis.io
 www.leics.police.uk:443#www.leics.police.uk
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
 www.vastnovel.com:443#www.vastnovel.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -94,9 +98,5 @@ dynadot.com:443#dynadot.com
 www.jimdo.com:443#www.jimdo.com
 101yaoye.com:443#101yaoye.com
 cdn.091224.xyz:443#cdn.091224.xyz
-cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
-www.sage.com:443#www.sage.com
-www.whoer.net:443#www.whoer.net
-cf.godns.cc:443#cf.godns.cc
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+yd.zhuqq.qzz.io:443#yd.zhuqq.qzz.io
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

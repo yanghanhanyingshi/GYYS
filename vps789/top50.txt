@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-20 05:26 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-20 06:15 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
@@ -15,8 +15,10 @@ cf.3666888.xyz:443#cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
@@ -33,10 +35,12 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
+cdn.wzkf88.com:443#cdn.wzkf88.com
 saas.sin.fan:443#saas.sin.fan
 cdn.7zz.cn:443#cdn.7zz.cn
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cf.1o.ee:443#cf.1o.ee
 www.sloomb.com:443#www.sloomb.com
 www.dg22.top:443#www.dg22.top
 p.etime.vip:443#p.etime.vip
@@ -45,8 +49,4 @@ test.509666.xyz:443#test.509666.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.xflash.vip:443#www.xflash.vip
 www.giannidelprete.it:443#www.giannidelprete.it
-www.ntu.edu.sg:443#www.ntu.edu.sg
-www.shopify.com:443#www.shopify.com
-cf.1o.ee:443#cf.1o.ee
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

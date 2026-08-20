@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@45.131.213.39:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#🇩🇪148196 | ⚡️Telegram = t.me/SOSkeyNET
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@45.131.213.39:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#🇸🇨SC-🚀@VPNine1
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.servers.gracevpnbuy.com&fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&type=tcp&headerType=none#@Daily_Configs
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de.servers.gracevpnbuy.com&fp=chrome&insecure=1&allowInsecure=1&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&flow=xtls-rprx-vision#@meliproxyy
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#@FarazV2ray
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#@V2rayng_Fast
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#@bored_vpn
@@ -499,7 +503,3 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@gr1.levikogjgfdd.ir:20017?encryptio
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#🐦‍🔥7@oneclickvpnkeys
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇩🇪
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#@MDvpnSEC
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=/&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#@Capoit
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=/&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#🇨🇦148229 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=/&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#🇺🇸US-🚀@VPNine1

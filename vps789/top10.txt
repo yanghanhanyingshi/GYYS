@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-20 20:29 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-20 21:39 | 灵鹿优选
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 cdn.204910.best:443#cdn.204910.best
-cf.godns.cc:443#cf.godns.cc
 www.fastsoso.cn:443#www.fastsoso.cn
 cf.3666888.xyz:443#cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

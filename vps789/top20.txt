@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-20 15:33 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-20 16:27 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -6,17 +6,17 @@ cf.godns.cc:443#cf.godns.cc
 www.fastsoso.cn:443#www.fastsoso.cn
 bbs.alipansou.com:443#bbs.alipansou.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 cdn.204910.best:443#cdn.204910.best
 cf.3666888.xyz:443#cf.3666888.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

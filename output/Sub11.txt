@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@icv2ray
-vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@tootffarangi🍓-8
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-TOOTFFARANGI_TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@tootffarangi🍓-4
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-bored_vpn ?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@bored_vpn
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-mehrosaboran ?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@mehrosaboran
@@ -503,3 +501,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?encryption=none&security=none&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22224?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.40.90:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs

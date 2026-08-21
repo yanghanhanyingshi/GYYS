@@ -1,6 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-21 13:24 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-21 14:30 | 灵鹿优选
 www.fastsoso.cn:443#www.fastsoso.cn
-bbs.alipansou.com:443#bbs.alipansou.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
@@ -9,4 +8,5 @@ www.galgamex.net:443#www.galgamex.net
 www.mfyx.cn:443#www.mfyx.cn
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
+bbs.alipansou.com:443#bbs.alipansou.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

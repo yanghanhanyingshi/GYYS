@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-21 08:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-21 10:18 | 灵鹿优选
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.fastsoso.cn:443#www.fastsoso.cn
 bbs.alipansou.com:443#bbs.alipansou.com
@@ -14,9 +14,9 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.galgamex.net:443#www.galgamex.net
 www.mfyx.cn:443#www.mfyx.cn
-cdn.ddeed.de:443#cdn.ddeed.de
 saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
 cf.godns.cc:443#cf.godns.cc
 cf.3666888.xyz:443#cf.3666888.xyz
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

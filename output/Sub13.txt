@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?encryption=none&fp=&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=58fbcddfaae3ade9&sni=s1.test.anti-zapret.com&type=tcp#🐦‍🔥10@oneclickvpnkeys
 vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=&fp=chrome&type=tcp&sni=s1.test.anti-zapret.com&sid=58fbcddfaae3ade9#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=s1.test.anti-zapret.com&sid=58fbcddfaae3ade9#🚀t.me/iProxyChannel
 vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@s1.test.anti-zapret.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&type=tcp&sni=&sid=58fbcddfaae3ade9#@GozargahAzad|🇩🇪
@@ -502,4 +503,3 @@ trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%3E%3E%40oneclickvpnke
 trojan://FH72359861@tough-tuna.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://FH72359861@touching-turtle.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://FH72359861@smiling-fowl.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP

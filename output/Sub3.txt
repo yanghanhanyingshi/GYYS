@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&host=OV-Italy1.09vpn.com&type=ws#@meliproxyy
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=reality&encryption=none&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=9891d7#@v2rayngzendegimamad🕊️
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@fbi.gov:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
@@ -503,3 +502,4 @@ vless://2748ec5d-1f33-4087-aa26-34f6e1066f79@film.turkiyefilm.ir:884?security=tl
 vless://2748ec5d-1f33-4087-aa26-34f6e1066f79@film.turkiyefilm.ir:884?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=dash.turkiyefilm.ir#🇮🇷IR-🚀@VPNine1
 vless://275ee16f-9df8-2933-d942-dc71f0ccfd11@69.46.46.200:443?path=/ws/275ee16f-9df8-2933-d942-dc71f0ccfd11&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-c230.up.railway.app&fp=chrome&type=ws&sni=rvg-production-c230.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://275ee16f-9df8-2933-d942-dc71f0ccfd11@69.46.46.200:443?path=/ws/275ee16f-9df8-2933-d942-dc71f0ccfd11&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-c230.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-c230.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🚀t.me/iProxyChannel

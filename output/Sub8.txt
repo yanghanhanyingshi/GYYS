@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://8e7feb36-3ef5-4e70-a306-4362edd37854@record.sinafc.ir:8086?security=reality&encryption=none&pbk=nnq5J3zXFDHUGvCza7e5CMa34oexEcXUqAfqz_YY7yo&headerType=none&fp=chrome&spx=/438dcec243e4a9e&type=tcp&sni=products.amd.com&sid=64523ae2#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️520🌐🆕️
 vless://8e7feb36-3ef5-4e70-a306-4362edd37854@shop.jarorobo.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=/a28a344d5d91338&type=tcp&sni=www.samsungebiz.com&sid=f4b9e88ba8fe8d#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://8e7feb36-3ef5-4e70-a306-4362edd37854@shop.jarorobo.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=/a28a344d5d91338&type=tcp&sni=www.samsungebiz.com&sid=f4b9e88ba8fe8d#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️519🌐🆕️
@@ -503,3 +502,4 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=rea
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@icv2ray
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@meliproxyy
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@tootffarangi🍓-10
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#Channel : @ConfigV2RayNG

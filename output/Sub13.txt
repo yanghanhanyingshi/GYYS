@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?encryption=none&type=xhttp&path=/&host=chatgpt.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Maznet - SOS522
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=/connect#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&fp=chrome&host=129.121.95.159&path=/connect&security=tls&sni=129.121.95.159&type=ws#🐦‍🔥52@oneclickvpnkeys
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&security=tls&sni=129.121.95.159&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=129.121.95.159&path=/connect#@Daily_Configs
@@ -503,3 +502,4 @@ trojan://AE62539071@54.244.169.225:443?fp=chrome&sni=sharing-duck.rooster465.aut
 trojan://AE62539071@54.188.176.255:443?fp=chrome&sni=arriving-colt.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://AE62539071@54.249.33.71:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://AE62539071@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP

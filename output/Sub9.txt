@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a1bb74cc-38e8-49cf-ab05-59e9bdf7880c@201.24.117.62:14407?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#🇷🇺RU-🚀@VPNine1
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#@TanhaNet⭐️
 vless://a219d501-b239-24e0-352a-553180e0de84@ansooyefilter88.up.railway.app:443?path=/ws/a219d501-b239-24e0-352a-553180e0de84&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ansooyefilter88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter88.up.railway.app#🇺🇸@FreakConfig
 vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.169.13:2053?path=/axch1mttbxz2k55y01&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=inDeX.HaRMONiCA01.WORkers.DeV&type=ws&allowInsecure=0&sni=inDeX.HaRMONiCA01.WORkers.DeV#🚀t.me/iProxyChannel
 vless://a237ca49-48d5-466f-aee5-c44f728a99ab@201.24.53.247:8443?security=reality&encryption=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=4f676caa93313eab#@filembad
@@ -501,5 +503,3 @@ vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.servers.gracevpnbuy.com&sid=b91a73752053b039#@FarazV2ray
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.servers.gracevpnbuy.com&sid=b91a73752053b039#@Napsternetvirani
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.servers.gracevpnbuy.com&sid=b91a73752053b039#@V2rayng_Fast
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.servers.gracevpnbuy.com&sid=b91a73752053b039#@v2ray_phoenix
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@209.50.241.126:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.servers.gracevpnbuy.com&sid=b91a73752053b039#@v2raybaaz

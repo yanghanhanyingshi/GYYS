@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.141.94:22224?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22222?encryption=none&security=none&type=tcp#🇫🇷139799 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22222?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22223?encryption=none&security=none&type=tcp#🇫🇷139800 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22224?encryption=none&security=none&type=tcp#🇫🇷139801 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.80.12:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.80.12:22222?encryption=none&security=none&type=tcp#@filembad
@@ -503,3 +499,7 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.ph
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-TGRVPN?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-TOOTFFARANGI ?ed=512&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-1
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@icv2ray
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-22
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-7
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-bored_vpn?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@bored_vpn

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@KAFING_2
-vless://2626527c-ba9a-4b96-a96e-bfa26e16c0bf@best3.daltoon-server.ir:330?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪@
-vless://2626527c-ba9a-4b96-a96e-bfa26e16c0bf@best3.daltoon-server.ir:330?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@KAFING_2
 vless://264e32bc-51dd-43d8-995e-a090864d8f91@respina.msphnx.ir:2019?encryption=none&fp=chrome&pbk=RYUCFGttyeR0jJRoAwx5RkkT7gVwtaj06hDf66GhuXU&security=reality&sid=35951be3&sni=digikala.com&spx=/2dcf5f7d8ac5e11&type=tcp#🇮🇷149400 | ⚡️Telegram = t.me/SOSkeyNET
 vless://264e32bc-51dd-43d8-995e-a090864d8f91@respina.msphnx.ir:2019?encryption=none&fp=chrome&pbk=RYUCFGttyeR0jJRoAwx5RkkT7gVwtaj06hDf66GhuXU&security=reality&sid=35951be3&sni=digikala.com&spx=/2dcf5f7d8ac5e11&type=tcp#🇮🇷IR-🚀@VPNine1
 vless://2650433b-4ee1-3c57-e3a7-43c678e8068c@x4g-production-ea42.up.railway.app:443?path=/ws/2650433b-4ee1-3c57-e3a7-43c678e8068c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ea42.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ea42.up.railway.app#canfingV2rayNG-104
@@ -503,3 +499,7 @@ vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=realit
 vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7b#MTMVPN 1
 vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7b#[🏁]t.me/ConfigV2RayNG
 vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@94.198.190.22:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&allowInsecure=1&fp=chrome&security=reality&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&sid=7b&packetEncoding=xudp#罗马尼亚
+vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#TEL:Father_vpn
+vless://47a97b7f-044d-43d6-86b0-8b256873d1b5@45.121.50.241:50159?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=E9gCs_C_mSDcHmlCZSMk1kSXpmua48DhgsT_aDpZ1WE&sid=4c3f80051030ba1b&allowInsecure=1#🇹🇼 Join+Telegram:@Farah_VPN 🇹🇼
+vless://47a97b7f-044d-43d6-86b0-8b256873d1b5@45.121.50.241:50159?security=reality&encryption=none&pbk=E9gCs_C_mSDcHmlCZSMk1kSXpmua48DhgsT_aDpZ1WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4c3f80051030ba1b#MTMVPN 17
+vless://47b104e0-59cf-4ec4-a8fd-d080b4a756d6@151.242.160.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=edge-de2.mystatic-cdn.ru&fp=chrome&security=reality&pbk=7vBIjExxrcwTpbknJXdAfpTjddGw8AGww0izaZUU528&sid=313328a7aa886b12#迪拜

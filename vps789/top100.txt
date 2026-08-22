@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 06:12 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 07:12 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 www.5h.com:443#www.5h.com
@@ -23,6 +23,7 @@ cf.godns.cc:443#cf.godns.cc
 linear.app:443#linear.app
 spring.io:443#spring.io
 m.iyf.tv:443#m.iyf.tv
+youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
@@ -40,6 +41,7 @@ www.bangbenjiaju.com:443#www.bangbenjiaju.com
 uspto.gov:443#uspto.gov
 www.blibli.com:443#www.blibli.com
 dongbanghong.com:443#dongbanghong.com
+www.vastnovel.com:443#www.vastnovel.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cf.553314.xyz:443#cf.553314.xyz
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
@@ -80,7 +82,6 @@ cf.468123.xyz:443#cf.468123.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
 cfplus.255520.xyz:443#cfplus.255520.xyz
 www.sloomb.com:443#www.sloomb.com
-www.vastnovel.com:443#www.vastnovel.com
 www.akasantech.com:443#www.akasantech.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
@@ -98,5 +99,4 @@ www.leics.police.uk:443#www.leics.police.uk
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-cf-ip-site.vov.moe:443#cf-ip-site.vov.moe
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

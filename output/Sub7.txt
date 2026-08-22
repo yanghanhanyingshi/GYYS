@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@Iran_v2ray1
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@TEHRANARGO
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@V2rayng_Fast
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@vpnbaz 🍭
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@vpnserverrr🍭
@@ -500,6 +503,3 @@ vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.8:443?flow=xtls-rprx-vis
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://8ff538e4-330c-43c1-97c8-0c90bf989331@77.237.90.67:443?security=reality&encryption=none&pbk=a7eDhoO14l6Tt6oC9Qa2laZkuJlQ8vhDgtE3Ko9aGnw&headerType=none&fp=chrome&spx=/a7a31c8e82daa25&type=tcp&sni=www.samsung.com&sid=fcf239025a00fddd#@Netshot1   🍁 🚀| با ما متصل بمون⚡ 1
 vless://8ff538e4-330c-43c1-97c8-0c90bf989331@81.12.56.132:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shoping2.gfdcty.ir#@appsooner کانال تلگرام 🕊️
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
-vless://901e6dca-1b73-4266-978b-f7dc1266a7f6@153.80.249.125:443?security=reality&encryption=none&pbk=1_a2G1x-DIEjDogZAiV4WFuOczGWcj-3zPiPxenUZhs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=23ae46816e87c7b8#@v2raybaaz
-vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@www.speedtest.net:443?encryption=none&type=ws&security=tls&path=/CMlsadnCISdss#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=2560&host=ptr.cyberbear.io&sni=ptr.cyberbear.io&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy

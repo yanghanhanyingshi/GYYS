@@ -1,8 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-22 12:24 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-22 13:19 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 www.5h.com:443#www.5h.com
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
@@ -12,15 +12,13 @@ cdn.7zz.cn:443#cdn.7zz.cn
 saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
 cf.3666888.xyz:443#cf.3666888.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
 m.iyf.tv:443#m.iyf.tv
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.galgamex.net:443#www.galgamex.net
@@ -28,7 +26,9 @@ ikankeji.com:443#ikankeji.com
 eii.at:443#eii.at
 www.mfyx.cn:443#www.mfyx.cn
 cf.468123.xyz:443#cf.468123.xyz
+api.gzcrtw.com:443#api.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 ip.skk.moe:443#ip.skk.moe
 openai.com:443#openai.com
@@ -36,17 +36,17 @@ fn.130519.xyz:443#fn.130519.xyz
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.130519.xyz:443#cf.130519.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+spring.io:443#spring.io
 guide.for.edu.sg:443#guide.for.edu.sg
 constitution.congress.gov:443#constitution.congress.gov
 www.vmware.com:443#www.vmware.com
 www.leics.police.uk:443#www.leics.police.uk
 pwjbl.me:443#pwjbl.me
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

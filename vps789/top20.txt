@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-23 05:13 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-23 06:12 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 www.5h.com:443#www.5h.com
@@ -11,6 +11,7 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
+cdn.ddeed.de:443#cdn.ddeed.de
 www.090902.xyz:443#www.090902.xyz
 www.udacity.com:443#www.udacity.com
 cf.877771.xyz:443#cf.877771.xyz
@@ -18,5 +19,4 @@ saas.sin.fan:443#saas.sin.fan
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cdn.204910.best:443#cdn.204910.best
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.godns.cc:443#cf.godns.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

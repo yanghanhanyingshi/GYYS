@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-23 05:13 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-23 06:12 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 www.5h.com:443#www.5h.com
@@ -11,6 +11,7 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
+cdn.ddeed.de:443#cdn.ddeed.de
 www.090902.xyz:443#www.090902.xyz
 www.udacity.com:443#www.udacity.com
 cf.877771.xyz:443#cf.877771.xyz
@@ -32,10 +33,12 @@ fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 uspto.gov:443#uspto.gov
+www.blibli.com:443#www.blibli.com
 dongbanghong.com:443#dongbanghong.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cf.553314.xyz:443#cf.553314.xyz
@@ -46,7 +49,4 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 openai.com:443#openai.com
 fn.130519.xyz:443#fn.130519.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
-gh-proxy.com:443#gh-proxy.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

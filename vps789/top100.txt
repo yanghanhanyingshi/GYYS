@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 12:28 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 13:21 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
@@ -65,6 +65,7 @@ sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
@@ -98,5 +99,4 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf-ip-site.vov.moe:443#cf-ip-site.vov.moe
-run.254301.xyz:443#run.254301.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-13
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-6
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-9
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@FarazV2ray
@@ -502,4 +503,3 @@ vless://8e77c52e-e0b1-ee23-9bab-1c6be0144b54@69.46.46.123:443?path=/ws/8e77c52e-
 vless://8e77c52e-e0b1-ee23-9bab-1c6be0144b54@69.46.46.123:443?path=/ws/8e77c52e-e0b1-ee23-9bab-1c6be0144b54&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-ac27.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-ac27.up.railway.app#@freenettir
 vless://8e77c52e-e0b1-ee23-9bab-1c6be0144b54@69.46.46.123:443?path=/ws/8e77c52e-e0b1-ee23-9bab-1c6be0144b54&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-ac27.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-ac27.up.railway.app#@meliproxyy
 vless://8e77c52e-e0b1-ee23-9bab-1c6be0144b54@69.46.46.123:443?path=/ws/8e77c52e-e0b1-ee23-9bab-1c6be0144b54&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-ac27.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-ac27.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
-vless://8e77c52e-e0b1-ee23-9bab-1c6be0144b54@69.46.46.123:443?path=/ws/8e77c52e-e0b1-ee23-9bab-1c6be0144b54&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-ac27.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-ac27.up.railway.app#bisto_service

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a379c14c-20d0-4e87-a230-d5c971ecf404@ch-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e8f4426268c05621#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://a382aa45-22d5-4a8c-86cc-ad11d1f2800f@45.65.112.228:20513?security=reality&encryption=none&pbk=CTfSuRE6fUPYVBJGsmOYnP3UketmmTJSQP45OcoGI2k&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=9f3921483225ccf8#@SPIDDY_IR-1
-vless://a3875c94-e968-404c-b62d-5a292d20e6d8@103.21.244.4:80?encryption=none&security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=/?ed=2560#💟Tel: @pPal03💟جوین بدید عزیزانم💟
-vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?encryption=none&security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=/?ed=2560#💟Tel: @pPal03💟جوین بدید عزیزانم💟
 vless://a473b55e-4449-47dd-8b6b-2b583e659d7a@104.21.45.141:443?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-01z515.zeus-05l98s.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-01z515.zeus-05l98s.workers.dev#@fastkanfig
 vless://a47c49ec-6eaa-44ce-9108-8427426a1123@162.159.253.41:8443?path=/admin.php&security=tls&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#@v2rayngsupbot @ai_duet
 vless://a49e04d8-427e-789a-2ee5-28de156e61a6@69.46.46.104:443?path=/ws/a49e04d8-427e-789a-2ee5-28de156e61a6&security=tls&alpn=http/1.1&encryption=none&host=kho-production.up.railway.app&fp=chrome&type=ws&sni=kho-production.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -503,3 +499,7 @@ vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=none&
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷

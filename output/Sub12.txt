@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch  👑جهت دریافت اشتراک اختصاصی VIP
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.138.74:22222?security=&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻➠@TEHRANARGO
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.160.167:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
@@ -503,3 +502,4 @@ vless://f5293312-411f-4b80-9f55-b2eccb7ae683@am255.amin5646.ir:2082?type=xhttp&e
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🇹🇭 Join+Telegram:@Farah_VPN 🇹🇭
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#@Maznet - SOS521
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?encryption=none&type=tcp&headerType=http&path=/&host=google.com#@Maznet - SOS523
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?encryption=none&type=xhttp&path=/&host=chatgpt.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Maznet - SOS522

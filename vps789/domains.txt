@@ -64,7 +64,6 @@ sanwang.cf.3666888.xyz
 vip.cf.3666888.xyz
 cf.cf.3666888.xyz
 cloudflare.rainyfall.com
-123.cf.3666888.xyz
 2.cf.3666888.xyz
 qocu.cf.3666888.xyz
 hfqek.cf.3666888.xyz
@@ -198,3 +197,4 @@ cmcc.090227.xyz
 v.recipes
 www.epicgames.com
 zabc.net
+api.uniapi.io

@@ -1,18 +1,17 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 08:46 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 10:20 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg4.ygkkk.dpdns.org:443#yg4.ygkkk.dpdns.org
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 cu.877774.xyz:443#cu.877774.xyz
-cf.130519.xyz:443#cf.130519.xyz
 www.5h.com:443#www.5h.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-cdn.ddeed.de:443#cdn.ddeed.de
 www.090902.xyz:443#www.090902.xyz
 www.udacity.com:443#www.udacity.com
 cf.877771.xyz:443#cf.877771.xyz
@@ -20,15 +19,14 @@ saas.sin.fan:443#saas.sin.fan
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cdn.204910.best:443#cdn.204910.best
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+cf.130519.xyz:443#cf.130519.xyz
 cf.godns.cc:443#cf.godns.cc
 linear.app:443#linear.app
-spring.io:443#spring.io
 m.iyf.tv:443#m.iyf.tv
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
@@ -44,17 +42,18 @@ dongbanghong.com:443#dongbanghong.com
 www.vastnovel.com:443#www.vastnovel.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cf.553314.xyz:443#cf.553314.xyz
+cdn.ddeed.de:443#cdn.ddeed.de
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 openai.com:443#openai.com
 fn.130519.xyz:443#fn.130519.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
 gh-proxy.com:443#gh-proxy.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+spring.io:443#spring.io
 constitution.congress.gov:443#constitution.congress.gov
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
@@ -67,6 +66,7 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -89,9 +89,9 @@ cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
 store.ubi.com:443#store.ubi.com
-p.etime.vip:443#p.etime.vip
 nexusmods.com:443#nexusmods.com
 www.dentoncounty.gov:443#www.dentoncounty.gov
 www.leics.police.uk:443#www.leics.police.uk

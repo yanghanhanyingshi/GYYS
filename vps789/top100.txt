@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 13:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-23 15:26 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
@@ -47,6 +47,7 @@ neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cdns.doon.eu.org:443#cdns.doon.eu.org
 openai.com:443#openai.com
 fn.130519.xyz:443#fn.130519.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
@@ -98,5 +99,4 @@ www.leics.police.uk:443#www.leics.police.uk
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-cf-ip-site.vov.moe:443#cf-ip-site.vov.moe
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

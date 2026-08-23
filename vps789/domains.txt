@@ -46,6 +46,7 @@ neko.cloudflaree.eu.org
 oo.xzhi.eu.org
 cdn.wzkf88.com
 cloudflare-ip.mofashi.ltd
+cdns.doon.eu.org
 openai.com
 fn.130519.xyz
 cf.3666888.xyz
@@ -197,4 +198,3 @@ debot.ai
 cmcc.090227.xyz
 v.recipes
 www.epicgames.com
-zabc.net

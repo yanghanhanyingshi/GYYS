@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-24 08:44 | 灵鹿优选
-bestcf.top:443#bestcf.top
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-24 10:18 | 灵鹿优选
+cdn.2020111.xyz:443#cdn.2020111.xyz
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cdns.doon.eu.org:443#cdns.doon.eu.org
+cmcc.090227.xyz:443#cmcc.090227.xyz
 ct.090227.xyz:443#ct.090227.xyz
-cf.v8.longsays.com:443#cf.v8.longsays.com
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+www.shopify.com:443#www.shopify.com
 www.udacity.com:443#www.udacity.com
-test.cloudflare.182682.xyz:443#test.cloudflare.182682.xyz
+www.visa.com.sg:443#www.visa.com.sg
 666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
 openai.com:443#openai.com
-kickstarter.com:443#kickstarter.com
+cf.877771.xyz:443#cf.877771.xyz
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 saas.sin.fan:443#saas.sin.fan
 fn.130519.xyz:443#fn.130519.xyz
 cu.877774.xyz:443#cu.877774.xyz
-www.speedtest.net:443#www.speedtest.net
+b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+cdn.204910.best:443#cdn.204910.best
 fbi.gov:443#fbi.gov
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-www.hypixel.net:443#www.hypixel.net
-cf.godns.cc:443#cf.godns.cc
-linear.app:443#linear.app
-cf.3666888.xyz:443#cf.3666888.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

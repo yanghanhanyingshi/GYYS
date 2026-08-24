@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-24 11:46 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-24 12:37 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.udacity.com:443#www.udacity.com
 openai.com:443#openai.com
-saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
 blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
 p.etime.vip:443#p.etime.vip
 bbs.alipansou.com:443#bbs.alipansou.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
-nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 guide.for.edu.sg:443#guide.for.edu.sg
 www.mastervolt.com:443#www.mastervolt.com
 dnew.cc:443#dnew.cc
 thebeat.gehealthcare.com:443#thebeat.gehealthcare.com
+login.rockwellautomation.com:443#login.rockwellautomation.com
+www.mc.js.cool:443#www.mc.js.cool
+www.jimdo.com:443#www.jimdo.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

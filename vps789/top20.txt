@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-25 00:25 | 灵鹿优选
-www.vmware.com:443#www.vmware.com
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-25 01:23 | 灵鹿优选
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-cf.3666888.xyz:443#cf.3666888.xyz
 p.etime.vip:443#p.etime.vip
 bbs.alipansou.com:443#bbs.alipansou.com
+gh-proxy.com:443#gh-proxy.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+www.vmware.com:443#www.vmware.com
+pwjbl.me:443#pwjbl.me
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
-www.blibli.com:443#www.blibli.com
 api.gzcrtw.com:443#api.gzcrtw.com
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
-play.mc.js.cool:443#play.mc.js.cool
-www.dbs.com.sg:443#www.dbs.com.sg
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.udacity.com:443#www.udacity.com
+cdn.204910.best:443#cdn.204910.best
+cf.3666888.xyz:443#cf.3666888.xyz
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

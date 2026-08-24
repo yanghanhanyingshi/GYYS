@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 19:19 | 灵鹿优选
-b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 20:29 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 guide.for.edu.sg:443#guide.for.edu.sg
 www.jimdo.com:443#www.jimdo.com
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
+cdn.ddeed.de:443#cdn.ddeed.de
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+www.udacity.com:443#www.udacity.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

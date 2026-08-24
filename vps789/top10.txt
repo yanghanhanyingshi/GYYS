@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 21:43 | 灵鹿优选
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
-cdn.ddeed.de:443#cdn.ddeed.de
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 22:33 | 灵鹿优选
 www.udacity.com:443#www.udacity.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 guide.for.edu.sg:443#guide.for.edu.sg
-www.jimdo.com:443#www.jimdo.com
-www.vmware.com:443#www.vmware.com
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
+www.nexusmods.com:443#www.nexusmods.com
+prompt.gzcrtw.com:443#prompt.gzcrtw.com
+cdn.ddeed.de:443#cdn.ddeed.de
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

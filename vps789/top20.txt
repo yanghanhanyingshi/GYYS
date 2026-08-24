@@ -1,17 +1,15 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-24 18:29 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-24 19:19 | 灵鹿优选
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 guide.for.edu.sg:443#guide.for.edu.sg
 www.jimdo.com:443#www.jimdo.com
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-www.sloomb.com:443#www.sloomb.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
@@ -19,4 +17,6 @@ www.dbs.com.sg:443#www.dbs.com.sg
 www.udacity.com:443#www.udacity.com
 saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
+gh-proxy.com:443#gh-proxy.com
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

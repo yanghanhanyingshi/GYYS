@@ -1,5 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-25 01:23 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-25 02:29 | 灵鹿优选
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 p.etime.vip:443#p.etime.vip
 bbs.alipansou.com:443#bbs.alipansou.com
 gh-proxy.com:443#gh-proxy.com
@@ -9,11 +10,12 @@ pwjbl.me:443#pwjbl.me
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
+www.blibli.com:443#www.blibli.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.udacity.com:443#www.udacity.com
 cdn.204910.best:443#cdn.204910.best
 cf.3666888.xyz:443#cf.3666888.xyz
@@ -29,16 +31,17 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
-www.blibli.com:443#www.blibli.com
 www.xflash.vip:443#www.xflash.vip
 www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 play.mc.js.cool:443#play.mc.js.cool
+cf.92555.xyz:443#cf.92555.xyz
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 www.dbs.com.sg:443#www.dbs.com.sg
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+saas.sin.fan:443#saas.sin.fan
 www.fastsoso.cn:443#www.fastsoso.cn
 constitution.congress.gov:443#constitution.congress.gov
 login.rockwellautomation.com:443#login.rockwellautomation.com
@@ -46,7 +49,4 @@ www.mc.js.cool:443#www.mc.js.cool
 www.sage.com:443#www.sage.com
 www.jimdo.com:443#www.jimdo.com
 m.iyf.tv:443#m.iyf.tv
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

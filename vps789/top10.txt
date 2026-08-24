@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 12:37 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 13:31 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-www.udacity.com:443#www.udacity.com
-openai.com:443#openai.com
-cu.877774.xyz:443#cu.877774.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
-p.etime.vip:443#p.etime.vip
+gh-proxy.com:443#gh-proxy.com
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+guide.for.edu.sg:443#guide.for.edu.sg
+constitution.congress.gov:443#constitution.congress.gov
+www.jimdo.com:443#www.jimdo.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

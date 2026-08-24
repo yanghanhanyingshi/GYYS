@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 15:51 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 16:37 | 灵鹿优选
 www.udacity.com:443#www.udacity.com
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+guide.for.edu.sg:443#guide.for.edu.sg
 www.jimdo.com:443#www.jimdo.com
-www.vmware.com:443#www.vmware.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz

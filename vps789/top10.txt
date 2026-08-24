@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 10:18 | 灵鹿优选
-cdn.2020111.xyz:443#cdn.2020111.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-24 11:46 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cmcc.090227.xyz:443#cmcc.090227.xyz
-ct.090227.xyz:443#ct.090227.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-www.shopify.com:443#www.shopify.com
 www.udacity.com:443#www.udacity.com
-www.visa.com.sg:443#www.visa.com.sg
-666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
+openai.com:443#openai.com
+saas.sin.fan:443#saas.sin.fan
+cu.877774.xyz:443#cu.877774.xyz
+b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cmcc.vvvv.ee:443#cmcc.vvvv.ee
+blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

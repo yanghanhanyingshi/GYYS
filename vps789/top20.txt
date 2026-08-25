@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-25 12:31 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-25 13:24 | 灵鹿优选
 guide.for.edu.sg:443#guide.for.edu.sg
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.vmware.com:443#www.vmware.com
+pwjbl.me:443#pwjbl.me
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
-cdn.ddeed.de:443#cdn.ddeed.de
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.udacity.com:443#www.udacity.com
+saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
 cf.3666888.xyz:443#cf.3666888.xyz
 p.etime.vip:443#p.etime.vip
 gh-proxy.com:443#gh-proxy.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 spring.io:443#spring.io
-pwjbl.me:443#pwjbl.me
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

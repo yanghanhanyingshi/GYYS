@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-26 01:24 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-26 02:31 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 spring.io:443#spring.io
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+www.shopify.com:443#www.shopify.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 constitution.congress.gov:443#constitution.congress.gov
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+dnew.cc:443#dnew.cc
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

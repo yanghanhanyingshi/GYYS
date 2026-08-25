@@ -1,10 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-25 18:23 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-25 19:19 | 灵鹿优选
 bbs.alipansou.com:443#bbs.alipansou.com
 guide.for.edu.sg:443#guide.for.edu.sg
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.vmware.com:443#www.vmware.com
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
@@ -19,4 +18,5 @@ cloudflare.idc.rocks:443#cloudflare.idc.rocks
 spring.io:443#spring.io
 login.rockwellautomation.com:443#login.rockwellautomation.com
 m.iyf.tv:443#m.iyf.tv
+pwjbl.me:443#pwjbl.me
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

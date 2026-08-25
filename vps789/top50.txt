@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 05:19 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 06:17 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
@@ -6,7 +6,9 @@ www.dg22.top:443#www.dg22.top
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+linear.app:443#linear.app
 p.etime.vip:443#p.etime.vip
+bbs.alipansou.com:443#bbs.alipansou.com
 gh-proxy.com:443#gh-proxy.com
 spring.io:443#spring.io
 constitution.congress.gov:443#constitution.congress.gov
@@ -15,6 +17,7 @@ www.vmware.com:443#www.vmware.com
 m.iyf.tv:443#m.iyf.tv
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
@@ -30,9 +33,9 @@ fk.hshwk.org:443#fk.hshwk.org
 api.gzcrtw.com:443#api.gzcrtw.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 img.856518.xyz:443#img.856518.xyz
 www.090902.xyz:443#www.090902.xyz
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.udacity.com:443#www.udacity.com
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
@@ -46,7 +49,4 @@ www.leics.police.uk:443#www.leics.police.uk
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

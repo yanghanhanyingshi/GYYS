@@ -1,17 +1,19 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 03:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 04:19 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
-spring.io:443#spring.io
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
 chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 www.dg22.top:443#www.dg22.top
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+p.etime.vip:443#p.etime.vip
+gh-proxy.com:443#gh-proxy.com
+spring.io:443#spring.io
 constitution.congress.gov:443#constitution.congress.gov
 dnew.cc:443#dnew.cc
 www.vmware.com:443#www.vmware.com
 m.iyf.tv:443#m.iyf.tv
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
@@ -34,8 +36,6 @@ cu.877774.xyz:443#cu.877774.xyz
 store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
 cf.3666888.xyz:443#cf.3666888.xyz
-p.etime.vip:443#p.etime.vip
-gh-proxy.com:443#gh-proxy.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 guide.for.edu.sg:443#guide.for.edu.sg
 www.mc.js.cool:443#www.mc.js.cool

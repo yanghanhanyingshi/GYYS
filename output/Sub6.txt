@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@v2ray313 کانالمون ☃️
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@icv2ray
 vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?encryption=none&security=tls&sni=digiac.riziro.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=digiac.riziro.ir&path=/HOLLWOCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🇳🇱@hollowcon-tel@hollowcon
 vless://4c44adcd-d4ff-48fc-a35d-8c882381a9ef@109.169.37.129:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=foodnetwork.com&fp=chrome&security=reality&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&packetEncoding=xudp#英国
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#channel : @freedomofinfor
@@ -503,3 +501,5 @@ vless://6e824377-1f26-46c6-b988-02abc9d9bc5e@146.75.119.82:80?type=ws&encryption
 vless://6eb89edc-6177-40ce-94bf-f3ed6fb60485@web-production-bb1e0.up.railway.app:443?encryption=none&security=tls&sni=web-production-bb1e0.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-bb1e0.up.railway.app&path=/ws/6eb89edc-6177-40ce-94bf-f3ed6fb60485#@hollowcon
 vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.250:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#台湾
 vless://6f50f8c0-9b83-4efa-8333-b82b99b3cb1c@176.65.151.86:37430?type=tcp&encryption=none&security=reality&pbk=2PoRqgcBLnDMICOg1UvlGRjuNTv4qhakrI2uyqRTaEI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#@vpn_kurdnet-با کورد نت رایگان وصل شو
+vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#SPDNET-1 🇳🇱
+vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@91.84.113.126:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#SPDNET-3 🇳🇱

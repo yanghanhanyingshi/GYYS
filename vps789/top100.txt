@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-26 06:17 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-26 07:18 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
@@ -42,7 +42,6 @@ cu.877774.xyz:443#cu.877774.xyz
 store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
 cf.3666888.xyz:443#cf.3666888.xyz
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 guide.for.edu.sg:443#guide.for.edu.sg
 www.mc.js.cool:443#www.mc.js.cool
 www.leics.police.uk:443#www.leics.police.uk
@@ -52,6 +51,7 @@ cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
@@ -63,6 +63,7 @@ cdn.7zz.cn:443#cdn.7zz.cn
 uspto.gov:443#uspto.gov
 cdn.091224.xyz:443#cdn.091224.xyz
 www.blibli.com:443#www.blibli.com
+dongbanghong.com:443#dongbanghong.com
 www.akasantech.com:443#www.akasantech.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -75,11 +76,13 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 fn.130519.xyz:443#fn.130519.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 nexusmods.com:443#nexusmods.com
 www.dentoncounty.gov:443#www.dentoncounty.gov
 www.sage.com:443#www.sage.com
 www.crazygames.fr:443#www.crazygames.fr
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
+isp.254301.xyz:443#isp.254301.xyz
 yg4.ygkkk.dpdns.org:443#yg4.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cmcc.cc.cd:443#cmcc.cc.cd
@@ -91,12 +94,9 @@ cf.v8.longsays.com:443#cf.v8.longsays.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.mastervolt.com:443#www.mastervolt.com
 ahrefs.com:443#ahrefs.com
+w3.org:443#w3.org
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 run.254301.xyz:443#run.254301.xyz
 markmonitor.com:443#markmonitor.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
-neko.cloudd.eu.org:443#neko.cloudd.eu.org
-cf.130519.xyz:443#cf.130519.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
-www.broadcom.com:443#www.broadcom.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

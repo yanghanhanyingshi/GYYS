@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f23fb93e-7668-49f4-935e-dc18b9e18f8e@de.lesss.ir:443?security=reality&encryption=none&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bc7c4660adb53714#@oPeNFre
 vless://f25ee01c-7901-4fec-a582-699132749f14@soskeynets-production.up.railway.app:443?path=/ws/f25ee01c-7901-4fec-a582-699132749f14?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=grovestreetpanellll2-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=grovestreetpanellll2-production.up.railway.app#🇺🇸139737 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none&security=none&type=ws&host=blue-fog-bc9c.seyed-arash.workers.dev&path=/eyJqdW5rIjoiZVE5MVBWYlpVZ2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4OS41OC40MC4xNzciXX0=#t.me/ConfigFori  -  Config 88287
 vless://f2e34580-1238-d1f7-1fc0-180ce34c7903@69.46.46.123:443?path=/ws/f2e34580-1238-d1f7-1fc0-180ce34c7903&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-518a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-518a.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%3E%3E%40V2rayNG3%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#%3E%3E%40oneclickvpnkeys%3A%3ACA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#%3E%3E%40prrofile_purple%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#%3E%3E%40oneclickvpnkeys%3A%3ACA

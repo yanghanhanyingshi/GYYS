@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?security=reality&encryption=none&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c386acc3c7b89538#Channel id: @ConfigV2RayNG 🇺🇸
 vless://dd3ddbbc-8c07-8ce8-3160-df9fe99a0273@69.46.46.10:443?path=/ws/dd3ddbbc-8c07-8ce8-3160-df9fe99a0273&security=tls&alpn=http/1.1&encryption=none&host=kat-production-03cb.up.railway.app&fp=chrome&type=ws&sni=kat-production-03cb.up.railway.app#کانال ما
 vless://dd3ddbbc-8c07-8ce8-3160-df9fe99a0273@69.46.46.10:443?path=/ws/dd3ddbbc-8c07-8ce8-3160-df9fe99a0273&security=tls&alpn=http/1.1&encryption=none&host=kat-production-03cb.up.railway.app&fp=chrome&type=ws&sni=kat-production-03cb.up.railway.app#🇺🇸152128 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ddb4b81b-3c9d-43b9-b854-372cfb5f2bd3@freeiran.lookanet.app:443?mode=auto&path=/php-index&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd-hardcore.esportplusnews.top#@KAFING_2
@@ -503,3 +502,4 @@ vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@103.148.73.167:8443/?type=ws&encryp
 vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
 vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
 vless://f2083aa4-f27d-43da-81cf-8bab317304cb@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
+vless://f23fb93e-7668-49f4-935e-dc18b9e18f8e@de.lesss.ir:443?security=reality&encryption=none&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bc7c4660adb53714#@oPeNFre

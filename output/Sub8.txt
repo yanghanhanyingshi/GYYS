@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@MARAMBASHI 🇸🇪
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@V2rayng_Fast 🇸🇪
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🇨🇦CA_1686_@Surfboardv2ray
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-TOOTFFARANGI?ed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-8
@@ -503,3 +502,4 @@ vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?security=reality
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&host=Join---AliXTso---Join---AliXTso---Join---AliXTso---Join---AliXTso&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#کانال تلگرام : Free_VPN_CH@
 vless://9abe63b7-dc27-4836-8237-1c9f313cc471@irser2.jobwebs.ir:18597?security=reality&encryption=none&pbk=st-ZCgACr63-Bvw5WtNae0Ey0dPeJ_T5328BYfnaG0E&headerType=none&fp=chrome&type=tcp&sni=arvancloud.ir&sid=561543f72a251565#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.135.112:443?security=reality&encryption=none&pbk=TzOfUDe1Pf7GnxEJuK1I6XD8nNe4ZsmRPCxL8aFwCXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v942892.hosted-by-vdsina.com&sid=1e623c6d7f4d01eb#MTMVPN
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@46.8.41.42:443?security=reality&encryption=none&pbk=L5qLDM9pWlBV6gU9yCT4_yc7jz982FiLi2CZWLo3Ki0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.panel11.ru&sid=dcbf3f13ce2dbe37#@hex_proxy ³

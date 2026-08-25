@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&security=none&type=tcp&headerType=http&host=bale.ai#🇩🇪All⁹ | @BigSmoke_Config
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&type=tcp&headerType=http&host=bale.ai#@meliproxyy
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=&encryption=none&host=bale.ai&headerType=http&type=tcp#@B2Hub
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=&encryption=none&host=bale.ai&headerType=http&type=tcp#@TEHRANARGO 🦈
@@ -503,3 +502,4 @@ vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.90:443?security=reality&e
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.90:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#🇳🇱@FreakConfig
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&fp=chrome&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI#@Daily_Configs
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#• 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@Napsternetvirani

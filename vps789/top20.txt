@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-26 19:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-26 20:33 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
 cdn.204910.best:443#cdn.204910.best
 dnew.cc:443#dnew.cc
@@ -13,10 +13,10 @@ www.nexusmods.com:443#www.nexusmods.com
 cf.1o.ee:443#cf.1o.ee
 www.sloomb.com:443#www.sloomb.com
 www.dg22.top:443#www.dg22.top
+www.giannidelprete.it:443#www.giannidelprete.it
 api.gzcrtw.com:443#api.gzcrtw.com
-img.856518.xyz:443#img.856518.xyz
-www.dbs.com.sg:443#www.dbs.com.sg
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+linear.app:443#linear.app
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

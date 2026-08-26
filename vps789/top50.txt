@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 19:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 20:33 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
 cdn.204910.best:443#cdn.204910.best
 dnew.cc:443#dnew.cc
@@ -13,9 +13,8 @@ www.nexusmods.com:443#www.nexusmods.com
 cf.1o.ee:443#cf.1o.ee
 www.sloomb.com:443#www.sloomb.com
 www.dg22.top:443#www.dg22.top
+www.giannidelprete.it:443#www.giannidelprete.it
 api.gzcrtw.com:443#api.gzcrtw.com
-img.856518.xyz:443#img.856518.xyz
-www.dbs.com.sg:443#www.dbs.com.sg
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -27,10 +26,10 @@ gh-proxy.com:443#gh-proxy.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 spring.io:443#spring.io
 ahrefs.com:443#ahrefs.com
+www.sage.com:443#www.sage.com
 www.jimdo.com:443#www.jimdo.com
 m.iyf.tv:443#m.iyf.tv
 www.leics.police.uk:443#www.leics.police.uk
-pwjbl.me:443#pwjbl.me
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
@@ -49,4 +48,5 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cf-ip-site.vov.moe:443#cf-ip-site.vov.moe
+eii.at:443#eii.at
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

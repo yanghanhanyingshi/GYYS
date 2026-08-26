@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-26 10:20 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-26 11:45 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
@@ -6,7 +6,7 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 www.dg22.top:443#www.dg22.top
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
+openai.com:443#openai.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 linear.app:443#linear.app
-p.etime.vip:443#p.etime.vip
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

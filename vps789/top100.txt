@@ -1,6 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-26 08:44 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-26 10:20 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 www.dg22.top:443#www.dg22.top
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
@@ -9,6 +10,7 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 linear.app:443#linear.app
 p.etime.vip:443#p.etime.vip
 bbs.alipansou.com:443#bbs.alipansou.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 spring.io:443#spring.io
 constitution.congress.gov:443#constitution.congress.gov
 dnew.cc:443#dnew.cc
@@ -16,11 +18,13 @@ www.vmware.com:443#www.vmware.com
 m.iyf.tv:443#m.iyf.tv
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 ikankeji.com:443#ikankeji.com
 eii.at:443#eii.at
@@ -45,6 +49,7 @@ gh-proxy.com:443#gh-proxy.com
 guide.for.edu.sg:443#guide.for.edu.sg
 www.mc.js.cool:443#www.mc.js.cool
 www.leics.police.uk:443#www.leics.police.uk
+pwjbl.me:443#pwjbl.me
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
@@ -73,7 +78,6 @@ yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 www.dbs.com.sg:443#www.dbs.com.sg
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-fn.130519.xyz:443#fn.130519.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
@@ -89,14 +93,10 @@ www.carousell.sg:443#www.carousell.sg
 www.vastnovel.com:443#www.vastnovel.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
+fn.130519.xyz:443#fn.130519.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.mastervolt.com:443#www.mastervolt.com
 ahrefs.com:443#ahrefs.com
 w3.org:443#w3.org
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
-run.254301.xyz:443#run.254301.xyz
-markmonitor.com:443#markmonitor.com
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-neko.cloudd.eu.org:443#neko.cloudd.eu.org
-cf.130519.xyz:443#cf.130519.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
+vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@KAFING_2
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php#?ed=512&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#@ConfigV2RayNG 🇫🇮
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&fp=chrome&ech=54.Mk+udp://86.54.11.200&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
@@ -501,5 +503,3 @@ vless://aee570eb-a87f-fb97-ee3b-2be2ce9f7c29@prisonvpnc-production.up.railway.ap
 vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#📡@tanhanet
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=/?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#@NETMelliAnti
-vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnserverrr🍋‍🟩
-vless://af8c4c45-ed83-4d32-83af-da720be0fbef@hazel-otter-95e4.oa225cbhm3.workers.dev:443?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnserverrr🌊

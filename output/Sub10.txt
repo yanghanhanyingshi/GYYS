@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnserverrr🍋‍🟩
+vless://af8c4c45-ed83-4d32-83af-da720be0fbef@hazel-otter-95e4.oa225cbhm3.workers.dev:443?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnserverrr🌊
 vless://afbceea5-b771-4997-9c57-cd33ca370d93@u.mrgang.shop:8443?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#@Cfox_SerVer 🇹🇷
 vless://afcc2147-1350-4155-9ec0-95c4ba4be847@104.18.12.149:443?mode=auto&path=/Meh?di=443&security=tls&alpn=h2&encryption=none&host=fran.sarzamiiinahang.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fran.sarzamiiinahang.ir#@Alpha_V2rayip
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?security=reality&encryption=none&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.pinecloud.net&sid=6a2e3af684799b19#@v2ray313 کانالمون 😈
@@ -501,5 +503,3 @@ vless://ce99a4f9-02a4-4476-d31d-8152b0d999ea@151.101.56.6:443?path=/?TELEGRAM-MA
 vless://ce99a4f9-02a4-4476-d31d-8152b0d999ea@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 💫❤️
 vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@144.31.74.41:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916&type=grpc#کانال تلگرام : Free_VPN_CH@
 vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan-tuel&security=none&encryption=none&host=connect.nyxserver.ir&type=ws#@tanhanet @ai_duet
-vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?path=/eyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&alpn=http/1.1&encryption=none&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&fp=chrome&type=ws&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev#@appsooner کانال تلگرام 🕊️
-vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-26 07:18 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-26 08:44 | 灵鹿优选
 cdn.204910.best:443#cdn.204910.best
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
@@ -9,7 +9,6 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 linear.app:443#linear.app
 p.etime.vip:443#p.etime.vip
 bbs.alipansou.com:443#bbs.alipansou.com
-gh-proxy.com:443#gh-proxy.com
 spring.io:443#spring.io
 constitution.congress.gov:443#constitution.congress.gov
 dnew.cc:443#dnew.cc
@@ -19,4 +18,5 @@ youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

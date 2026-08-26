@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-26 20:33 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-26 21:46 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
-cdn.204910.best:443#cdn.204910.best
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
-www.nexusmods.com:443#www.nexusmods.com
 cf.1o.ee:443#cf.1o.ee
-www.sloomb.com:443#www.sloomb.com
 www.dg22.top:443#www.dg22.top
-www.giannidelprete.it:443#www.giannidelprete.it
 api.gzcrtw.com:443#api.gzcrtw.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
+cu.877774.xyz:443#cu.877774.xyz
+cdn.204910.best:443#cdn.204910.best
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 linear.app:443#linear.app
+cf.3666888.xyz:443#cf.3666888.xyz
+p.etime.vip:443#p.etime.vip
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

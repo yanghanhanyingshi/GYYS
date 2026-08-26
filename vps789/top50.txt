@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-27 02:52 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-27 05:30 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
 dongbanghong.com:443#dongbanghong.com
 www.dbs.com.sg:443#www.dbs.com.sg
@@ -21,6 +21,8 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
@@ -31,6 +33,7 @@ yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.mfyx.cn:443#www.mfyx.cn
 uspto.gov:443#uspto.gov
 www.carousell.sg:443#www.carousell.sg
 www.vastnovel.com:443#www.vastnovel.com
@@ -45,8 +48,5 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 openai.com:443#openai.com
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-nexusmods.com:443#nexusmods.com
-www.mastervolt.com:443#www.mastervolt.com
-thebeat.gehealthcare.com:443#thebeat.gehealthcare.com
-login.rockwellautomation.com:443#login.rockwellautomation.com
+store.ubi.com:443#store.ubi.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

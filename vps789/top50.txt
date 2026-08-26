@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 18:26 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-26 19:21 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
 cdn.204910.best:443#cdn.204910.best
 dnew.cc:443#dnew.cc
@@ -9,6 +9,7 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
+www.nexusmods.com:443#www.nexusmods.com
 cf.1o.ee:443#cf.1o.ee
 www.sloomb.com:443#www.sloomb.com
 www.dg22.top:443#www.dg22.top
@@ -25,8 +26,10 @@ p.etime.vip:443#p.etime.vip
 gh-proxy.com:443#gh-proxy.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 spring.io:443#spring.io
+ahrefs.com:443#ahrefs.com
 www.jimdo.com:443#www.jimdo.com
 m.iyf.tv:443#m.iyf.tv
+www.leics.police.uk:443#www.leics.police.uk
 pwjbl.me:443#pwjbl.me
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -45,8 +48,5 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-www.nexusmods.com:443#www.nexusmods.com
 cf-ip-site.vov.moe:443#cf-ip-site.vov.moe
-eii.at:443#eii.at
-securecircle.com:443#securecircle.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9f225a66-54fc-4a94-8dfd-9f1e3f114a8a@104.21.20.148:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080#@Hope_Net-join-us-on-Telegram
 vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@144.172.119.9:443?security=none&encryption=none&headerType=none&type=tcp#@filembad
 vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@144.172.119.9:443?security=none&encryption=none&headerType=none&type=tcp#[31473] - Telegram : @V2All
 vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@144.172.119.9:443?security=none&encryption=none&headerType=none&type=tcp#کانال ما
@@ -502,4 +503,3 @@ vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=&encr
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@FarazV2ray
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@Nexus_Panell چنل تلگرام
-vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@V2raySaman

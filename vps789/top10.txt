@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-29 10:58 | 灵鹿优选
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
-www.5199dy.com:443#www.5199dy.com
-thebeat.gehealthcare.com:443#thebeat.gehealthcare.com
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
-www.broadcom.com:443#www.broadcom.com
-www.dg22.top:443#www.dg22.top
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-29 17:42 | 灵鹿优选
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+neko.cloudd.eu.org:443#neko.cloudd.eu.org
 openai.com:443#openai.com
+www.5199dy.com:443#www.5199dy.com
+www.dentoncounty.gov:443#www.dentoncounty.gov
+www.sage.com:443#www.sage.com
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

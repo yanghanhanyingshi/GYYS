@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 08-30 02:03 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 08-30 05:25 | 灵鹿优选
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
-openai.com:443#openai.com
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 www.leics.police.uk:443#www.leics.police.uk
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz

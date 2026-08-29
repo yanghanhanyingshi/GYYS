@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-30 05:25 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-30 07:44 | 灵鹿优选
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -12,11 +12,11 @@ qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 imooo.de:443#imooo.de
+cfgo.timelate.com:443#cfgo.timelate.com
 www.blibli.com:443#www.blibli.com
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 www.ntu.edu.sg:443#www.ntu.edu.sg
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-www.shopify.com:443#www.shopify.com
-www.udacity.com:443#www.udacity.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

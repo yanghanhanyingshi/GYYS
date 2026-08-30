@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 08-30 07:44 | 灵鹿优选
-neko.cloudd.eu.org:443#neko.cloudd.eu.org
+saas.sin.fan:443#▼ 优选域名 TOP20 | 08-30 10:35 | 灵鹿优选
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
+neko.cloudd.eu.org:443#neko.cloudd.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
+www.crazygames.fr:443#www.crazygames.fr
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+play.mc.js.cool:443#play.mc.js.cool
+www.udacity.com:443#www.udacity.com
+openai.com:443#openai.com
+linear.app:443#linear.app
+gh-proxy.com:443#gh-proxy.com
+www.mc.js.cool:443#www.mc.js.cool
 www.leics.police.uk:443#www.leics.police.uk
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-imooo.de:443#imooo.de
-cfgo.timelate.com:443#cfgo.timelate.com
-www.blibli.com:443#www.blibli.com
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-play.mc.js.cool:443#play.mc.js.cool
-oo.xzhi.eu.org:443#oo.xzhi.eu.org
-www.ntu.edu.sg:443#www.ntu.edu.sg
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

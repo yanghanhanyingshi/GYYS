@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fr2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951&spx=/#👉@V2RAYNG_IP 🚀(1)
-vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr2.janusgate.org&sid=6ed1d644822b2951#@Nexus_Panell چنل تلگرام
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139864 | ⚡️Telegram = t.me/SOSkeyNET
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139865 | ⚡️Telegram = t.me/SOSkeyNET
 vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:8765?encryption=none&flow=xtls-rprx-vision&security=reality&sni=srv-21bac9.vless.monster&fp=chrome&pbk=M08l5tDmJUYELykZCNYQyFgtR9Zc-A4ZGlUSLcUeS2c&sid=1bcc9177f3124b25&type=tcp&headerType=none#@meliproxyy
@@ -503,3 +501,5 @@ vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app23.jarvestip.ru:443?encryption=n
 vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app23.jarvestip.ru:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#@tootffarangi🍓-14
 vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app23.jarvestip.ru:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app23.jarvestip.ru:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#🚘46@ConfigV2RayNG
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app47.jarvestip.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&security=reality&sid=8ece2039&sni=app15.jarvestip.ru&type=tcp#🚘12@oneclickvpnkeys
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@chmstnd1.jarvesitw.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&security=reality&sid=cf41f778&sni=mst15ch.jarvesitw.ru&type=tcp#🚘47@oneclickvpnkeys

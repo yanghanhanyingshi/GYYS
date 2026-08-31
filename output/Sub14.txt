@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app47.jarvestip.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&security=reality&sid=8ece2039&sni=app15.jarvestip.ru&type=tcp#🚘12@oneclickvpnkeys
-vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@chmstnd1.jarvesitw.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&security=reality&sid=cf41f778&sni=mst15ch.jarvesitw.ru&type=tcp#🚘47@oneclickvpnkeys
 vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@mstndfd3.jarvesitw.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&security=reality&sid=535a3304&sni=app5.jarvesitw.ru&type=tcp#🚘3@oneclickvpnkeys
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#🇫🇷139863 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#🇫🇷139756 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?encryption=none&host=usejh2.neobo-tooth.ru&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?encryption=none&host=pl2.lckdwn.ru&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&security=reality&sni=www.paypal.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE

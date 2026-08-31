@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 08-31 05:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 08-31 08:04 | 灵鹿优选
 constitution.congress.gov:443#constitution.congress.gov
 www.mc.js.cool:443#www.mc.js.cool
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -35,7 +35,6 @@ uspto.gov:443#uspto.gov
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
 www.vastnovel.com:443#www.vastnovel.com
 cf.blogluo.eu.org:443#cf.blogluo.eu.org
-4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 www.ntu.edu.sg:443#www.ntu.edu.sg
@@ -71,11 +70,13 @@ www.akasantech.com:443#www.akasantech.com
 play.mc.js.cool:443#play.mc.js.cool
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 www.deepl.com:443#www.deepl.com
 cf.877771.xyz:443#cf.877771.xyz
 store.ubi.com:443#store.ubi.com
 linear.app:443#linear.app
 p.etime.vip:443#p.etime.vip
+gh-proxy.com:443#gh-proxy.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 nexusmods.com:443#nexusmods.com
 m.iyf.tv:443#m.iyf.tv
@@ -98,5 +99,4 @@ www.blibli.com:443#www.blibli.com
 ct.721660.xyz:443#ct.721660.xyz
 www.sloomb.com:443#www.sloomb.com
 www.xflash.vip:443#www.xflash.vip
-fk.hshwk.org:443#fk.hshwk.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

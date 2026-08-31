@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 08-31 05:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 08-31 08:04 | 灵鹿优选
 constitution.congress.gov:443#constitution.congress.gov
 www.mc.js.cool:443#www.mc.js.cool
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -35,7 +35,6 @@ uspto.gov:443#uspto.gov
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
 www.vastnovel.com:443#www.vastnovel.com
 cf.blogluo.eu.org:443#cf.blogluo.eu.org
-4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 neko.cloudd.eu.org:443#neko.cloudd.eu.org
 neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
 www.ntu.edu.sg:443#www.ntu.edu.sg
@@ -49,4 +48,5 @@ thebeat.gehealthcare.com:443#thebeat.gehealthcare.com
 ahrefs.com:443#ahrefs.com
 www.sage.com:443#www.sage.com
 www.vmware.com:443#www.vmware.com
+www.leics.police.uk:443#www.leics.police.uk
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

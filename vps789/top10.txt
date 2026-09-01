@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-01 08:14 | 灵鹿优选
-cdns.doon.eu.org:443#cdns.doon.eu.org
-gh-proxy.com:443#gh-proxy.com
-thebeat.gehealthcare.com:443#thebeat.gehealthcare.com
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-01 13:54 | 灵鹿优选
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
-cmcc.cc.cd:443#cmcc.cc.cd
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cdns.doon.eu.org:443#cdns.doon.eu.org
+www.shopify.com:443#www.shopify.com
+www.udacity.com:443#www.udacity.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+p.etime.vip:443#p.etime.vip
+gh-proxy.com:443#gh-proxy.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

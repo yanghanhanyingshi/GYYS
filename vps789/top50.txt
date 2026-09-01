@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-02 03:02 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-02 06:13 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+www.shopify.com:443#www.shopify.com
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 www.carousell.sg:443#www.carousell.sg
 www.blibli.com:443#www.blibli.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-www.shopify.com:443#www.shopify.com
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
@@ -17,7 +17,6 @@ pwjbl.me:443#pwjbl.me
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
@@ -30,7 +29,6 @@ cfgo.timelate.com:443#cfgo.timelate.com
 www.sloomb.com:443#www.sloomb.com
 dongbanghong.com:443#dongbanghong.com
 www.vastnovel.com:443#www.vastnovel.com
-www.dg22.top:443#www.dg22.top
 www.giannidelprete.it:443#www.giannidelprete.it
 fk.hshwk.org:443#fk.hshwk.org
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
@@ -49,4 +47,6 @@ cf.3666888.xyz:443#cf.3666888.xyz
 gh-proxy.com:443#gh-proxy.com
 constitution.congress.gov:443#constitution.congress.gov
 dnew.cc:443#dnew.cc
+login.rockwellautomation.com:443#login.rockwellautomation.com
+ahrefs.com:443#ahrefs.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

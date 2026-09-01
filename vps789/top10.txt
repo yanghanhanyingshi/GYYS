@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-01 13:54 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-01 18:49 | 灵鹿优选
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
+www.dentoncounty.gov:443#www.dentoncounty.gov
+www.dg22.top:443#www.dg22.top
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org:443#cdns.doon.eu.org
 www.shopify.com:443#www.shopify.com
-www.udacity.com:443#www.udacity.com
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+openai.com:443#openai.com
+store.ubi.com:443#store.ubi.com
 p.etime.vip:443#p.etime.vip
-gh-proxy.com:443#gh-proxy.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

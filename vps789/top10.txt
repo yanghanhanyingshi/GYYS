@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-02 13:17 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-02 18:14 | 灵鹿优选
 www.carousell.sg:443#www.carousell.sg
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-www.blibli.com:443#www.blibli.com
-neko.cloudflaree.eu.org:443#neko.cloudflaree.eu.org
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.godns.cc:443#cf.godns.cc
-p.etime.vip:443#p.etime.vip
+cdn.555586.xyz:443#cdn.555586.xyz
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+cfgo.timelate.com:443#cfgo.timelate.com
+www.blibli.com:443#www.blibli.com
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

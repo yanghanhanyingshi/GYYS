@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.13:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.13:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB
 vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&host=itproxy4.lockdwn.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
 vless://e7f6f783-6754-4228-a5d0-aeed84b9949a@172.66.214.247:8880?encryption=none&host=sweet-sun-c70f.317-ba5.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

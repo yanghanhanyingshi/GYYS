@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#@meliproxyy
-vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#🇩🇪All⁸ | @BigSmoke_Config
-vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@FreeConfigForYou
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha⛪ 1
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@grl4.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#@FreeConfigForYou
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@itl4.mechanicir.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
@@ -503,3 +500,6 @@ vless://c29a8191-1757-4cf9-b9ae-c033bad76445@sell77n.arakphone.ir:58586?mode=str
 vless://c29a8191-1757-4cf9-b9ae-c033bad76445@sell77n.arakphone.ir:58586?mode=stream-up&path=/&security=reality&encryption=none&pbk=EOdcEpBhgZ6cVpxAc6vyZzRACdu5oFn3gCD6E38Kp08&host=www.shatel.ir&fp=chrome&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=d6d474ff8c187c68#Channel : @proxy_kafee
 vless://c29a8191-1757-4cf9-b9ae-c033bad76445@sell77n.arakphone.ir:58586?mode=stream-up&path=/&security=reality&encryption=none&pbk=EOdcEpBhgZ6cVpxAc6vyZzRACdu5oFn3gCD6E38Kp08&host=www.shatel.ir&fp=chrome&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=d6d474ff8c187c68#‎@VConfing
 vless://c2b0f077-5ef5-462f-b70c-cefb718b1155@165.245.241.161:440?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#@ehsawn8-نامحدود
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@hopev2ray🤍
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@soskeynets.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws@soskeynets#🇨🇦139773 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c3c07679-bddc-4ce8-9cc4-57b550a1c000@104.26.13.140:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram

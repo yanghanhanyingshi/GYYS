@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-05 04:04 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-05 06:39 | 灵鹿优选
 linear.app:443#linear.app
 www.jimdo.com:443#www.jimdo.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
@@ -64,7 +64,6 @@ w3.org:443#w3.org
 www.ntu.edu.sg:443#www.ntu.edu.sg
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 store.ubi.com:443#store.ubi.com
-cf.130519.xyz:443#cf.130519.xyz
 nexusmods.com:443#nexusmods.com
 www.dentoncounty.gov:443#www.dentoncounty.gov
 dnew.cc:443#dnew.cc
@@ -77,6 +76,7 @@ cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 funko.com:443#funko.com
 www.deepl.com:443#www.deepl.com
 www.5199dy.com:443#www.5199dy.com
+cf.130519.xyz:443#cf.130519.xyz
 guide.for.edu.sg:443#guide.for.edu.sg
 constitution.congress.gov:443#constitution.congress.gov
 pwjbl.me:443#pwjbl.me
@@ -88,7 +88,6 @@ www.dg22.top:443#www.dg22.top
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 prizepicks.com:443#prizepicks.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-cf.xreak.top:443#cf.xreak.top
 bestcf.top:443#bestcf.top
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
@@ -99,4 +98,5 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
+cf.998866.top:443#cf.998866.top
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

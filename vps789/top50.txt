@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-05 06:39 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-05 08:30 | 灵鹿优选
 linear.app:443#linear.app
 www.jimdo.com:443#www.jimdo.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
@@ -31,7 +31,6 @@ www.galgamex.net:443#www.galgamex.net
 ikankeji.com:443#ikankeji.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cdn.7zz.cn:443#cdn.7zz.cn
-cf.468123.xyz:443#cf.468123.xyz
 www.sloomb.com:443#www.sloomb.com
 www.akasantech.com:443#www.akasantech.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
@@ -49,4 +48,5 @@ www.vmware.com:443#www.vmware.com
 m.iyf.tv:443#m.iyf.tv
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,7 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-06 02:41 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-06 04:50 | 灵鹿优选
 cf.3666888.xyz:443#cf.3666888.xyz
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+play.mc.js.cool:443#play.mc.js.cool
 cf.v8.longsays.com:443#cf.v8.longsays.com
 cf.godns.cc:443#cf.godns.cc
 p.etime.vip:443#p.etime.vip
@@ -18,5 +19,4 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,9 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-07 02:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-07 04:58 | 灵鹿优选
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
 www.broadcom.com:443#www.broadcom.com
 www.mfyx.cn:443#www.mfyx.cn
 w3.org:443#w3.org
@@ -13,10 +14,9 @@ b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 spring.io:443#spring.io
 www.mc.js.cool:443#www.mc.js.cool
+ahrefs.com:443#ahrefs.com
 www.jimdo.com:443#www.jimdo.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

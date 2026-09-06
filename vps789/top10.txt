@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-07 00:35 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-07 02:45 | 灵鹿优选
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
+cu.877774.xyz:443#cu.877774.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+www.broadcom.com:443#www.broadcom.com
 www.mfyx.cn:443#www.mfyx.cn
 w3.org:443#w3.org
-cu.877774.xyz:443#cu.877774.xyz
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-spring.io:443#spring.io
-guide.for.edu.sg:443#guide.for.edu.sg
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+openai.com:443#openai.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

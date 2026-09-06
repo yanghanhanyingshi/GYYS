@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&encryption=none&security=reality&sni=download.nvidia.com&type=tcp&headerType=none#@v2rayng3
+vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman1.kovira2.ir:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@Maznet - SOS519
+vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman2.kovira2.ir:8443?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=chatgpt.com&type=xhttp#@Maznet - SOS518
 vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman3.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#@Maznet - SOS517
 vless://e741263e-9858-62ee-2e0f-c0805ab17a95@www.speedtest.net:443?path=/v2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree5.workers.dev#کانال ما
 vless://e741263e-9858-62ee-2e0f-c0805ab17a95@www.speedtest.net:443?path=/v2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree5.workers.dev#🇨🇦163361 | ⚡️Telegram = t.me/SOSkeyNET
@@ -500,6 +503,3 @@ vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=
 vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--TOOTFFARANGI&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&fp=chrome&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#@mehrosaboran
 vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--TOOTFFARANGI&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&fp=chrome&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#@tootffarangi🍓-12
 vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--TOOTFFARANGI&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&fp=chrome&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#@tootffarangi🍓-7
-vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--TOOTFFARANGI&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&fp=chrome&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#✅  @vistav2ray  👈👈کانال ما ✅
-vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--madshopx&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&fp=chrome&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#FarazV2ray@
-vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM@MARAMBASHI_MARAMBASHI&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&fp=chrome&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#@MARAMBASHI 🇮🇹

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-07 04:58 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-07 06:40 | 灵鹿优选
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
@@ -30,7 +30,9 @@ www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.vastnovel.com:443#www.vastnovel.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 prizepicks.com:443#prizepicks.com
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf.v8.longsays.com:443#cf.v8.longsays.com
 www.shopify.com:443#www.shopify.com
 store.ubi.com:443#store.ubi.com
@@ -39,6 +41,7 @@ p.etime.vip:443#p.etime.vip
 nexusmods.com:443#nexusmods.com
 dnew.cc:443#dnew.cc
 www.vmware.com:443#www.vmware.com
+www.crazygames.fr:443#www.crazygames.fr
 pwjbl.me:443#pwjbl.me
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
@@ -46,7 +49,4 @@ cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

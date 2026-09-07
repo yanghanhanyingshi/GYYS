@@ -1,16 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-08 04:18 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-08 07:11 | 灵鹿优选
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-nexusmods.com:443#nexusmods.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 www.mfyx.cn:443#www.mfyx.cn
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
+cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 www.dbs.com.sg:443#www.dbs.com.sg
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.udacity.com:443#www.udacity.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.130519.xyz:443#cf.130519.xyz
@@ -41,6 +39,7 @@ ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 www.vastnovel.com:443#www.vastnovel.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
@@ -81,9 +80,12 @@ cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 www.deepl.com:443#www.deepl.com
 www.ntu.edu.sg:443#www.ntu.edu.sg
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.godns.cc:443#cf.godns.cc
+nexusmods.com:443#nexusmods.com
 www.sage.com:443#www.sage.com
 m.iyf.tv:443#m.iyf.tv
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
@@ -91,12 +93,10 @@ www.galgamex.net:443#www.galgamex.net
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 hzytjy.cn:443#hzytjy.cn
 imooo.de:443#imooo.de
-markmonitor.com:443#markmonitor.com
 chrono24.com:443#chrono24.com
 funko.com:443#funko.com
 investor.apple.com:443#investor.apple.com
 tuite-c0f.pages.dev:443#tuite-c0f.pages.dev
 cmcc.090227.xyz:443#cmcc.090227.xyz
 dash.cloudflare.com:443#dash.cloudflare.com
-bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

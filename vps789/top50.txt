@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-10 05:24 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-10 07:42 | 灵鹿优选
 www.mastervolt.com:443#www.mastervolt.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 prizepicks.com:443#prizepicks.com
@@ -13,6 +13,7 @@ www.shopify.com:443#www.shopify.com
 store.ubi.com:443#store.ubi.com
 linear.app:443#linear.app
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+spring.io:443#spring.io
 constitution.congress.gov:443#constitution.congress.gov
 dnew.cc:443#dnew.cc
 ahrefs.com:443#ahrefs.com
@@ -22,6 +23,7 @@ hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.mfyx.cn:443#www.mfyx.cn
@@ -31,6 +33,7 @@ www.carousell.sg:443#www.carousell.sg
 www.blibli.com:443#www.blibli.com
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 cdn.2x.nz:443#cdn.2x.nz
+www.sloomb.com:443#www.sloomb.com
 www.vastnovel.com:443#www.vastnovel.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
@@ -46,7 +49,4 @@ www.vmware.com:443#www.vmware.com
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

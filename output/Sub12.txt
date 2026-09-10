@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@77.232.43.195:443?mode=auto&path=/web/cdn/v2/assets&security=reality&encryption=none&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&fp=chrome&type=xhttp&sni=ya.ru&sid=2b5b1ffa8a6a1a68#@appsooner کانال تلگرام 🕊️
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@nl11.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#🇦🇪AZARBAYJAB1
+vless://b617bcf5-94be-4e33-840f-539738a1f4ae@104.16.22.21:2053?type=ws&encryption=none&host=ca.roomode.ir&security=tls&sni=ca.roomode.ir&path=/&fp=chrome&headerType=none#kurdconfig
+vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#@configprxy
+vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All³ | BigSmoke_Config
 vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&host=map.imisstheoldye.com&mode=auto&path=/GoOgLe&security=tls&sni=map.imisstheoldye.com&type=xhttp#🎡78@oneclickvpnkeys
 vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?mode=auto&path=/GoOgLe&security=tls&encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&insecure=0&host=map.imisstheoldye.com&type=xhttp&allowInsecure=0&sni=map.imisstheoldye.com#@tootffarangi🍓-7
 vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?mode=auto&path=/GoOgLe&security=tls&encryption=none&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}&insecure=0&host=map.imisstheoldye.com&type=xhttp&allowInsecure=0&sni=map.imisstheoldye.com#[🇨🇦]t.me/ConfigV2RayNG
@@ -498,8 +503,3 @@ vless://cf68b72b-b82a-4c0b-aeb0-244cfc484399@play-u1.soft9.ir:12345?security=rea
 vless://cf68b72b-b82a-4c0b-aeb0-244cfc484399@play-u1.soft9.ir:12345?security=reality&alpn=h3,h2,http/1.1&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#Channel : @Daily_Configs
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇩🇪
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#🇩🇪DE_3554_@Surfboardv2ray
-vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#🇩🇪DE_3679_@Surfboardv2ray
-vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.170.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@ww6.levikogjgfdd.ir:443?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@v2ray313 کانالمون 😥
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb55@188.114.98.224:2095?security=none&type=ws&host=DigiV2ray---_-_---DIGIq.radioTehran.org.#@Hope_Net-join-us-on-Telegram
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb55@188.114.98.224:2095?security=none&type=ws&host=DigiV2ray---_-_---DIGIq.radioTehran.org.#کانال ما

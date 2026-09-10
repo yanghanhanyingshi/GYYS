@@ -1,8 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-10 07:42 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-10 10:14 | 灵鹿优选
 www.mastervolt.com:443#www.mastervolt.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 prizepicks.com:443#prizepicks.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+www.mc.js.cool:443#www.mc.js.cool
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
@@ -24,7 +25,6 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 www.mfyx.cn:443#www.mfyx.cn
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
@@ -44,9 +44,9 @@ www.deepl.com:443#www.deepl.com
 www.ntu.edu.sg:443#www.ntu.edu.sg
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cf.godns.cc:443#cf.godns.cc
+cf.3666888.xyz:443#cf.3666888.xyz
 gh-proxy.com:443#gh-proxy.com
 www.vmware.com:443#www.vmware.com
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

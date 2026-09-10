@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-11 03:22 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-11 06:07 | 灵鹿优选
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 securecircle.com:443#securecircle.com
 www.blibli.com:443#www.blibli.com
@@ -56,13 +56,14 @@ markmonitor.com:443#markmonitor.com
 www.carousell.sg:443#www.carousell.sg
 www.vastnovel.com:443#www.vastnovel.com
 www.akasantech.com:443#www.akasantech.com
-funko.com:443#funko.com
+www.deepl.com:443#www.deepl.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 openai.com:443#openai.com
-fn.130519.xyz:443#fn.130519.xyz
+www.5199dy.com:443#www.5199dy.com
 cf.godns.cc:443#cf.godns.cc
 linear.app:443#linear.app
 nexusmods.com:443#nexusmods.com
+www.ox.ac.uk:443#www.ox.ac.uk
 www.vmware.com:443#www.vmware.com
 m.iyf.tv:443#m.iyf.tv
 www.leics.police.uk:443#www.leics.police.uk
@@ -80,23 +81,22 @@ cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 yfvsdf.cf.3666888.xyz:443#yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+fn.130519.xyz:443#fn.130519.xyz
 cu.877774.xyz:443#cu.877774.xyz
-www.5199dy.com:443#www.5199dy.com
 store.ubi.com:443#store.ubi.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 spring.io:443#spring.io
-www.ox.ac.uk:443#www.ox.ac.uk
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg4.ygkkk.dpdns.org:443#yg4.ygkkk.dpdns.org
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
+imooo.de:443#imooo.de
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com:443#www.sloomb.com
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
-cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
-cf.v8.longsays.com:443#cf.v8.longsays.com
 www.udacity.com:443#www.udacity.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

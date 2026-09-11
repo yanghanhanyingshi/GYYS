@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-11 06:07 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-11 08:43 | 灵鹿优选
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 securecircle.com:443#securecircle.com
 www.blibli.com:443#www.blibli.com
@@ -34,7 +34,6 @@ www.090902.xyz:443#www.090902.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.130519.xyz:443#cf.130519.xyz
 guide.for.edu.sg:443#guide.for.edu.sg
 www.mc.js.cool:443#www.mc.js.cool
 ahrefs.com:443#ahrefs.com
@@ -59,7 +58,7 @@ www.akasantech.com:443#www.akasantech.com
 www.deepl.com:443#www.deepl.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 openai.com:443#openai.com
-www.5199dy.com:443#www.5199dy.com
+cf.130519.xyz:443#cf.130519.xyz
 cf.godns.cc:443#cf.godns.cc
 linear.app:443#linear.app
 nexusmods.com:443#nexusmods.com
@@ -67,6 +66,7 @@ www.ox.ac.uk:443#www.ox.ac.uk
 www.vmware.com:443#www.vmware.com
 m.iyf.tv:443#m.iyf.tv
 www.leics.police.uk:443#www.leics.police.uk
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
@@ -81,8 +81,8 @@ cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 yfvsdf.cf.3666888.xyz:443#yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-fn.130519.xyz:443#fn.130519.xyz
 cu.877774.xyz:443#cu.877774.xyz
+www.5199dy.com:443#www.5199dy.com
 store.ubi.com:443#store.ubi.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 spring.io:443#spring.io

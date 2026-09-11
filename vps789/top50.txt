@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-11 06:07 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-11 08:43 | 灵鹿优选
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 securecircle.com:443#securecircle.com
 www.blibli.com:443#www.blibli.com
@@ -34,7 +34,6 @@ www.090902.xyz:443#www.090902.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.130519.xyz:443#cf.130519.xyz
 guide.for.edu.sg:443#guide.for.edu.sg
 www.mc.js.cool:443#www.mc.js.cool
 ahrefs.com:443#ahrefs.com
@@ -49,4 +48,5 @@ fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
+ikankeji.com:443#ikankeji.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

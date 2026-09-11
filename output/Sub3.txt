@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@Iran_v2ray1 🌟
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🌉 11
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🌉 6
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🐿️ 5
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🫚 3
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_confiig
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@configprxy 🌵
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@meliproxyy
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@outline_ir
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@v2ray313 کانالمون  🌵
@@ -503,3 +496,10 @@ vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.114:443?path=/ws/Default&s
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.114:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cls-adf727hjid-62e3c1-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=cls-adf727hjid-62e3c1-production.up.railway.app#@meliproxyy
 vless://10dbfe0d-157f-4e9d-a1f4-fd769b598389@66.33.22.230:18332?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=EWzGh4B1Zm11jd3wjTQAs8W9BEP_oto62u4oUEYZVVQ&fp=chrome&spx=/bf9911fe7284f4c&type=xhttp&sni=yellow.ai&sid=dc8c#@V2ray_confiig
 vless://10e2817c-9a84-4c42-9eff-a8cfd6ec9283@yt.nl.xanka.best:2761?security=reality&alpn=http/1.1&encryption=none&pbk=d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.xanka.best&sid=a4e1fd84#🇳🇱139892 | ⚡️Telegram = t.me/SOSkeyNET
+vless://1104fcb1-5462-4c3a-a4ed-580ba87e615e@66.33.22.238:19763?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=nKXPrMcHnQkDJ3GqXcEkL_cuFM7sNuhLNRSDJ-Esz0E&fp=chrome&spx=/352ea96991855c4&type=xhttp&sni=japantimes.co.jp&sid=0554c48eb11771#@V2ray_confiig
+vless://11855461-c611-44f4-8f1d-53ff6fc667fd@panel.berzulo.ir:8443?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray_phoenix
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&packetEncoding=xudp#意大利
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#🇷🇺RU_408_@Surfboardv2ray
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#🇸🇪 Join+Telegram:@Farah_VPN 🇸🇪
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?encryption=none&security=none&type=ws&path=/#Telegram: @Daily_Configs
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?path=/&security=none&encryption=none&type=ws#کانفیگ رایگان : @fastkanfig

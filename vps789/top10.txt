@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-12 07:43 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-12 10:16 | 灵鹿优选
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 linear.app:443#linear.app
 www.mc.js.cool:443#www.mc.js.cool
-www.vmware.com:443#www.vmware.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

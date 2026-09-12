@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=multi&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@vmesskhodam
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=multi&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#filembad-235
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.243.243:443?security=reality&encryption=none&pbk=RfIQJtD0PVoH_0aKu3-pBd8IOLnRURjmtatrPcoEqyQ&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=cba5422c695303f0#🔵@chillguy_vpn
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia 🇸🇬
@@ -502,4 +503,3 @@ vless://79cb6885-13d6-4d41-8cdf-582674475953@mds2m2tv.danqela.ir:25971?security=
 vless://79f98593-6a21-4783-a425-3d5609a79df1@app.life-pro.ir:8082?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://79f98593-6a21-4783-a425-3d5609a79df1@app.life-pro.ir:8082?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-3
 vless://7a31d541-e885-43d4-81f2-62ac29ecd387@151.242.88.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&pbk=xl3D_xayL74d7uzlV_1EpEWw0BJ52kzEMF8tUGd7vBM&sid=1f6dffff8a&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://7a434161-a605-38c0-1aa6-5ff7a879d5b5@69.46.46.21:443?path=/ws/7a434161-a605-38c0-1aa6-5ff7a879d5b5&security=tls&alpn=http/1.1&encryption=none&host=willow-ember-a62e-production.up.railway.app&fp=chrome&type=ws&sni=willow-ember-a62e-production.up.railway.app#🇩🇪 @V2ngFast

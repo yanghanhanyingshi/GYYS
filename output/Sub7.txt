@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=/4de527ea5ed9&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#configprxy
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=/4de527ea5ed9&security=&encryption=none&type=ws#@Capoit
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=/4de527ea5ed9&security=&encryption=none&type=ws#🔵@chillguy_vpn
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=/4de527ea5ed9&security=none&encryption=none&type=ws#Free x170 @Outline_Vpn
@@ -502,4 +503,3 @@ vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?Telegram=@Gozar
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=gun&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@HoosheMasnui کانال هوش مصنوعی
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=gun&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@v2raybaaz
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=multi&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@ICV2RAY
-vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=multi&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@vmesskhodam

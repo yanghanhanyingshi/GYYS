@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-13 03:54 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-13 05:50 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
 gh-proxy.com:443#gh-proxy.com
 www.giannidelprete.it:443#www.giannidelprete.it
@@ -25,6 +25,7 @@ hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.mfyx.cn:443#www.mfyx.cn
 cmcc.cc.cd:443#cmcc.cc.cd
 uspto.gov:443#uspto.gov
 www.vastnovel.com:443#www.vastnovel.com
@@ -42,7 +43,6 @@ keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org

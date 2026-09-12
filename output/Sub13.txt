@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d057338f-0f7b-4245-80b3-6bcabd365b84@chatgpt.com:443?encryption=none&security=tls&sni=edgE26-TOPnET.TopnEt1127.wOrkErs.DeV&fp=chrome&type=ws&host=edge26-topnet.topnet1127.workers.dev&path=/eyJqdW5rIjoicVZMOXFIcEN4UkI2azNnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#کانال تلگرام : Free_VPN_CH@
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
+vless://d0da19f1-fb05-488e-99c2-262389b3537b@31.58.181.88:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc&type=tcp&path=/#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
+vless://d0ee468a-084b-411d-b2be-b886a61065d1@151.101.56.6:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#ᴬᴸᴸ🇫🇮➣@mainv2ray
+vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#@appsooner کانال تلگرام 🕊️
+vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746.ainl.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇳🇱NL-🚀@VPNine1
+vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746.cnt3.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇩🇪DE-🚀@VPNine1
 vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746@105aa8a2b114a6b5.cnt3.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇩🇪169809 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746@105aa8a2b114a6b5.cnt3.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇩🇪DE-🚀@VPNine1
 vless://d0f7d34c-9c00-4b2f-ab1d-25fbae5cc746@f096aca5fa345cbb.ainl.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇳🇱169808 | ⚡️Telegram = t.me/SOSkeyNET
@@ -496,10 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22223?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.49.52:22222?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.49.52:22223?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.49.52:22223?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.49.52:22223?security=none&encryption=none&headerType=none&type=tcp#Telegram:@v2rayng3
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22222?encryption=none&security=none&type=tcp#🇫🇷139799 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22223?encryption=none&security=none&type=tcp#🇫🇷139800 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22224?encryption=none&security=none&type=tcp#🇫🇷139801 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22222?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22223?encryption=none&security=none&type=tcp#@Napsternetvirani

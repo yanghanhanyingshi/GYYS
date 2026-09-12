@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-12 19:49 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-12 22:41 | 灵鹿优选
+www.giannidelprete.it:443#www.giannidelprete.it
+cdns.doon.eu.org:443#cdns.doon.eu.org
 linear.app:443#linear.app
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
-cf.godns.cc:443#cf.godns.cc
+gh-proxy.com:443#gh-proxy.com
 nexusmods.com:443#nexusmods.com
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-www.dg22.top:443#www.dg22.top
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+cf.468123.xyz:443#cf.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

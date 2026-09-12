@@ -1,5 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-13 05:50 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-13 07:36 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
+store.ubi.com:443#store.ubi.com
 gh-proxy.com:443#gh-proxy.com
 www.giannidelprete.it:443#www.giannidelprete.it
 linear.app:443#linear.app
@@ -35,6 +36,7 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
 fn.130519.xyz:443#fn.130519.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 spring.io:443#spring.io
@@ -46,6 +48,7 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+cdn.091224.xyz:443#cdn.091224.xyz
 cfplus.255520.xyz:443#cfplus.255520.xyz
 www.carousell.sg:443#www.carousell.sg
 www.blibli.com:443#www.blibli.com
@@ -54,7 +57,6 @@ www.sloomb.com:443#www.sloomb.com
 www.akasantech.com:443#www.akasantech.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 www.deepl.com:443#www.deepl.com
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
 dnew.cc:443#dnew.cc
 www.crazygames.fr:443#www.crazygames.fr
@@ -89,6 +91,7 @@ dongbanghong.com:443#dongbanghong.com
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 cf.xreak.top:443#cf.xreak.top
 cmcc.090227.xyz:443#cmcc.090227.xyz
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cf.130519.xyz:443#cf.130519.xyz
 www.sage.com:443#www.sage.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
@@ -96,7 +99,4 @@ www.sage.com:443#www.sage.com
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
-securecircle.com:443#securecircle.com
-hzytjy.cn:443#hzytjy.cn
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

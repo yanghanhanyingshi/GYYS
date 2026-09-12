@@ -1,5 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-13 05:50 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-13 07:36 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
+store.ubi.com:443#store.ubi.com
 gh-proxy.com:443#gh-proxy.com
 www.giannidelprete.it:443#www.giannidelprete.it
 linear.app:443#linear.app
@@ -18,5 +19,4 @@ openai.com:443#openai.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

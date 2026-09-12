@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?path=/websocket?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=150.241.101.243.fwqfw783rg2dad.website#☑➜چنلمون: Express_freevpn@
+vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&fp=chrome&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#@NOFiLTERING2🇩🇪
+vless://4a269a45-a9e3-4272-b04a-1d42d581150f@147.189.141.114:2087/?type=ws&encryption=none&flow=&path=/4de527ea5ed9&packetEncoding=xudp#英国
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=/4de527ea5ed9&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#configprxy
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=/4de527ea5ed9&security=&encryption=none&type=ws#@Capoit
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=/4de527ea5ed9&security=&encryption=none&type=ws#🔵@chillguy_vpn
@@ -500,6 +503,3 @@ vless://606f69ca-ad93-457d-a81c-3d2091ed0d24@151.101.56.6:443?path=/ParSashOnaM?
 vless://606f69ca-ad93-457d-a81c-3d2091ed0d24@151.101.56.6:443?path=/ParSashOnaM?ed=2048&security=tls&encryption=none&insecure=0&host=Zardaloo.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸US-🚀@VPNine1
 vless://60722d6f-8b3a-4295-882b-58ca4185741d@jdzyw.com:443?encryption=mlkem768x25519plus.native.0rtt.55OiC1ErtBIrHTL_KgMG_YKH37Rjicr4b6CS9kO9vHw&security=tls&sni=deh.irandoc.info&fp=chrome&allowinsecure=0&type=httpupgrade&host=deh.irandoc.info&path=/45237/api4#🇩🇪All³ | @BigSmoke_Config
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=multi&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@GozargahAzad|🇩🇪
-vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=gun&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@HoosheMasnui کانال هوش مصنوعی
-vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=gun&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@v2raybaaz
-vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=multi&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#@ICV2RAY

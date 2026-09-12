@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🇪🇪EE-🚀@VPNine1
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#@hopev2ray🧡
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#@hopev2ray❤️
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#@hopev2ray🩵
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=/J5aLQOY1R9ONWYCM#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#[ 🇨🇦 ] | @Cfox_SerVer
@@ -503,3 +501,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22223?security=&encryp
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22223?security=&encryption=none&headerType=&type=tcp#کانال ما
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22224?encryption=none&security=none&type=tcp#@filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22224?encryption=none&security=none&type=tcp#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22224?encryption=none&security=none&type=tcp#🇫🇷169529 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22224?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1

@@ -1,16 +1,18 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-14 03:08 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-14 05:57 | 灵鹿优选
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 www.giannidelprete.it:443#www.giannidelprete.it
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+www.shopify.com:443#www.shopify.com
 store.ubi.com:443#store.ubi.com
 cf.3666888.xyz:443#cf.3666888.xyz
 gh-proxy.com:443#gh-proxy.com
 spring.io:443#spring.io
 www.nexusmods.com:443#www.nexusmods.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.dg22.top:443#www.dg22.top
+play.mc.js.cool:443#play.mc.js.cool
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-www.shopify.com:443#www.shopify.com
 www.udacity.com:443#www.udacity.com
 openai.com:443#openai.com
 m.iyf.tv:443#m.iyf.tv
@@ -18,6 +20,8 @@ cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
@@ -28,25 +32,21 @@ www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cdn.091224.xyz:443#cdn.091224.xyz
 cf.468123.xyz:443#cf.468123.xyz
 markmonitor.com:443#markmonitor.com
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 ct.721660.xyz:443#ct.721660.xyz
-www.dg22.top:443#www.dg22.top
 www.akasantech.com:443#www.akasantech.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
-play.mc.js.cool:443#play.mc.js.cool
 funko.com:443#funko.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 www.5199dy.com:443#www.5199dy.com
 cf.130519.xyz:443#cf.130519.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+www.ox.ac.uk:443#www.ox.ac.uk
 guide.for.edu.sg:443#guide.for.edu.sg
 ahrefs.com:443#ahrefs.com
 www.leics.police.uk:443#www.leics.police.uk
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

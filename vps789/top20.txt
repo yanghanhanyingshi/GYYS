@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-14 00:50 | 灵鹿优选
-gh-proxy.com:443#gh-proxy.com
-www.nexusmods.com:443#www.nexusmods.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-14 03:08 | 灵鹿优选
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
 www.giannidelprete.it:443#www.giannidelprete.it
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 store.ubi.com:443#store.ubi.com
 cf.3666888.xyz:443#cf.3666888.xyz
+gh-proxy.com:443#gh-proxy.com
 spring.io:443#spring.io
+www.nexusmods.com:443#www.nexusmods.com
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+www.shopify.com:443#www.shopify.com
+www.udacity.com:443#www.udacity.com
+openai.com:443#openai.com
 m.iyf.tv:443#m.iyf.tv
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
-yg2.ygkkk.dpdns.org:443#yg2.ygkkk.dpdns.org
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
-cmcc.cc.cd:443#cmcc.cc.cd
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
-cf.468123.xyz:443#cf.468123.xyz
-www.akasantech.com:443#www.akasantech.com
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-16 05:51 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-16 07:51 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
@@ -57,7 +57,6 @@ www.udacity.com:443#www.udacity.com
 cf.godns.cc:443#cf.godns.cc
 dnew.cc:443#dnew.cc
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
@@ -81,6 +80,7 @@ www.5199dy.com:443#www.5199dy.com
 gh-proxy.com:443#gh-proxy.com
 nexusmods.com:443#nexusmods.com
 www.bis.gov:443#www.bis.gov
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -93,10 +93,10 @@ fn.130519.xyz:443#fn.130519.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 cf.998866.top:443#cf.998866.top
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 imooo.de:443#imooo.de
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 www.dg22.top:443#www.dg22.top
 prizepicks.com:443#prizepicks.com
 play.mc.js.cool:443#play.mc.js.cool
+4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

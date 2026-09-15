@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-15 22:01 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-16 02:36 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cf.553314.xyz:443#cf.553314.xyz
-b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
-cf.877771.xyz:443#cf.877771.xyz
-cf.godns.cc:443#cf.godns.cc
-www.vmware.com:443#www.vmware.com
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cdn.555586.xyz:443#cdn.555586.xyz
-www.nexusmods.com:443#www.nexusmods.com
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
+openai.com:443#openai.com
+store.ubi.com:443#store.ubi.com
+www.crazygames.fr:443#www.crazygames.fr
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
+securecircle.com:443#securecircle.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

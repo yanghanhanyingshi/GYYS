@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-15 07:37 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-15 10:35 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 yg4.ygkkk.dpdns.org:443#yg4.ygkkk.dpdns.org
@@ -10,13 +10,13 @@ cf.553314.xyz:443#cf.553314.xyz
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 isp.254301.xyz:443#isp.254301.xyz
 cdn.2x.nz:443#cdn.2x.nz
-yx.cf.090227.xyz:443#yx.cf.090227.xyz
-cdn.ddeed.de:443#cdn.ddeed.de
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
-builtbybuffalo.com:443#builtbybuffalo.com
-visa.com:443#visa.com
+1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 ip.skk.moe:443#ip.skk.moe
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
+visa.com:443#visa.com
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
+builtbybuffalo.com:443#builtbybuffalo.com
+tracker.metricool.com:443#tracker.metricool.com
+www.vmware.com:443#www.vmware.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

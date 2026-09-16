@@ -1,15 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-16 07:51 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-16 10:29 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
 openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
 store.ubi.com:443#store.ubi.com
 linear.app:443#linear.app
 spring.io:443#spring.io
-ahrefs.com:443#ahrefs.com
-www.vmware.com:443#www.vmware.com
 www.crazygames.fr:443#www.crazygames.fr
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
@@ -25,9 +22,10 @@ edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 w3.org:443#w3.org
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 constitution.congress.gov:443#constitution.congress.gov
 www.mc.js.cool:443#www.mc.js.cool
+ahrefs.com:443#ahrefs.com
+www.vmware.com:443#www.vmware.com
 m.iyf.tv:443#m.iyf.tv
 www.leics.police.uk:443#www.leics.police.uk
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
@@ -49,4 +47,6 @@ www.carousell.sg:443#www.carousell.sg
 www.blibli.com:443#www.blibli.com
 www.vastnovel.com:443#www.vastnovel.com
 www.giannidelprete.it:443#www.giannidelprete.it
+prompt.gzcrtw.com:443#prompt.gzcrtw.com
+www.deepl.com:443#www.deepl.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

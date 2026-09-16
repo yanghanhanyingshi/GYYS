@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-17 01:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-17 04:41 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 cf.xycf.asia:443#cf.xycf.asia
 cdns.doon.eu.org:443#cdns.doon.eu.org
+store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 spring.io:443#spring.io
+www.vmware.com:443#www.vmware.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 securecircle.com:443#securecircle.com
+china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+cfgo.timelate.com:443#cfgo.timelate.com
 www.blibli.com:443#www.blibli.com
 funko.com:443#funko.com
 www.ntu.edu.sg:443#www.ntu.edu.sg
 www.shopify.com:443#www.shopify.com
-www.5199dy.com:443#www.5199dy.com
-store.ubi.com:443#store.ubi.com
-cf.godns.cc:443#cf.godns.cc
-www.ox.ac.uk:443#www.ox.ac.uk
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

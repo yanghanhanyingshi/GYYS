@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-18 04:49 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-18 07:17 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -14,9 +14,9 @@ chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
 www.akasantech.com:443#www.akasantech.com
 4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
-www.ntu.edu.sg:443#www.ntu.edu.sg
 openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
 linear.app:443#linear.app
 cf.3666888.xyz:443#cf.3666888.xyz
+nexusmods.com:443#nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

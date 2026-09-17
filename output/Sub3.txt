@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#کانال تلگرام MTMVPN
-trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷@FreakConfig
-trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸@Azaranv2ray
 trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸@FreakConfig
 trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#@AZARBAYJAB1
 trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#@Daily_Configs
@@ -503,3 +500,6 @@ vless://0435b4d2-5ab7-4873-81b9-ff7ad9d7a67c@145.63.139.40:23353?security=realit
 vless://0435b4d2-5ab7-4873-81b9-ff7ad9d7a67c@145.63.139.40:23353?security=reality&encryption=none&pbk=GkVcEhd2eA7gqxBGKHqnkje6albyNVcuG01RIfZ5GS8&headerType=none&fp=chrome&spx=/bb3a69abd125481&type=tcp&sni=play-apps-features.googleusercontent.com&sid=55e574bbea1a651a#@V2ray_Alpha🚊 2
 vless://0435b4d2-5ab7-4873-81b9-ff7ad9d7a67c@145.63.139.40:23353?security=reality&encryption=none&pbk=GkVcEhd2eA7gqxBGKHqnkje6albyNVcuG01RIfZ5GS8&headerType=none&fp=chrome&spx=/bb3a69abd125481&type=tcp&sni=play-apps-features.googleusercontent.com&sid=55e574bbea1a651a#@VConfing
 vless://0435b4d2-5ab7-4873-81b9-ff7ad9d7a67c@145.63.139.40:23353?security=reality&encryption=none&pbk=GkVcEhd2eA7gqxBGKHqnkje6albyNVcuG01RIfZ5GS8&headerType=none&fp=chrome&spx=/bb3a69abd125481&type=tcp&sni=play-apps-features.googleusercontent.com&sid=55e574bbea1a651a#Tel-@ProxyMtAlpha🐙 1
+vless://0435b4d2-5ab7-4873-81b9-ff7ad9d7a67c@145.63.139.40:23353?security=reality&encryption=none&pbk=GkVcEhd2eA7gqxBGKHqnkje6albyNVcuG01RIfZ5GS8&headerType=none&fp=chrome&spx=/bb3a69abd125481&type=tcp&sni=play-apps-features.googleusercontent.com&sid=55e574bbea1a651a#Telegram @mtmvpn
+vless://0435b4d2-5ab7-4873-81b9-ff7ad9d7a67c@145.63.139.40:23353?security=reality&encryption=none&pbk=GkVcEhd2eA7gqxBGKHqnkje6albyNVcuG01RIfZ5GS8&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/bb3a69abd125481&type=tcp&sni=play-apps-features.googleusercontent.com&sid=55e574bbea1a651a#@MARAMBASHI 🇹🇷
+vless://0435b4d2-5ab7-4873-81b9-ff7ad9d7a67c@145.63.139.40:23353?security=reality&encryption=none&pbk=GkVcEhd2eA7gqxBGKHqnkje6albyNVcuG01RIfZ5GS8&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/bb3a69abd125481&type=tcp&sni=play-apps-features.googleusercontent.com&sid=55e574bbea1a651a#@V2rayng_Fast 🇹🇷

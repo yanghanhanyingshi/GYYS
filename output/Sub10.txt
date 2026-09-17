@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8bcabb31-d4d8-4800-a8d5-bcc5e288e996@media-dan1.team-pluss.ir:12345?security=reality&alpn=h3,h2,http/1.1&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#@Shh_Proxy-New²
-vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@104.21.3.219:443?path=/pai50288&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#@v2raybaaz ¹
-vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?encryption=none&security=tls&sni=ccs2g.pai50288.uk&fp=chrome&type=ws&path=/pai50288#@Sparrk_VPN
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=/pai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#@v2ray313 کانالمون 🫪
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=/pai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#🇪🇬 | 15
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=/pai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
@@ -503,3 +500,6 @@ vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encrypt
 vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#VPN @MimiTdl 🔥⚡
 vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op2.x-upload.org#@TanhaNet
 vless://a09315ec-97b2-e8b6-a72d-e5a09585d140@69.46.46.26:443?path=/ws/a09315ec-97b2-e8b6-a72d-e5a09585d140&security=tls&alpn=http/1.1&encryption=none&host=hidden-harbor-2872-production.up.railway.app&fp=chrome&type=ws&sni=hidden-harbor-2872-production.up.railway.app#🇩🇪 @V2ngFast
+vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#@configprxy
+vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&host=/?TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/26efcddfd88f6bc&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
+vless://a0e4f9cd-2602-b061-9c64-00115f6f7fc7@69.46.46.109:443?path=/ws/a0e4f9cd-2602-b061-9c64-00115f6f7fc7&security=tls&alpn=h2&encryption=none&host=cedar-meadow-acc4-production.up.railway.app&fp=chrome&type=ws&sni=cedar-meadow-acc4-production.up.railway.app#All Operators @MaSTeRSeRVeR1

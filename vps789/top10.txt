@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-17 10:34 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-17 16:12 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cdn.555586.xyz:443#cdn.555586.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
-cf.xycf.asia:443#cf.xycf.asia
-cdns.doon.eu.org:443#cdns.doon.eu.org
-store.ubi.com:443#store.ubi.com
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+www.shopify.com:443#www.shopify.com
+cf.godns.cc:443#cf.godns.cc
 spring.io:443#spring.io
-constitution.congress.gov:443#constitution.congress.gov
+www.mastervolt.com:443#www.mastervolt.com
+cdn.555586.xyz:443#cdn.555586.xyz
+yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
+greim.no:443#greim.no
+china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

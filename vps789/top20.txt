@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-17 07:26 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-17 10:34 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
@@ -8,15 +8,15 @@ store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 spring.io:443#spring.io
+constitution.congress.gov:443#constitution.congress.gov
 www.vmware.com:443#www.vmware.com
+youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 securecircle.com:443#securecircle.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 www.blibli.com:443#www.blibli.com
-funko.com:443#funko.com
-www.ntu.edu.sg:443#www.ntu.edu.sg
-www.shopify.com:443#www.shopify.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

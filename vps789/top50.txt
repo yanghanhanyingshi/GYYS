@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-18 01:56 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-18 04:49 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -10,19 +10,26 @@ www.crazygames.fr:443#www.crazygames.fr
 www.leics.police.uk:443#www.leics.police.uk
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
 www.akasantech.com:443#www.akasantech.com
 4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 www.ntu.edu.sg:443#www.ntu.edu.sg
 openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
+linear.app:443#linear.app
 cf.3666888.xyz:443#cf.3666888.xyz
+nexusmods.com:443#nexusmods.com
 spring.io:443#spring.io
+www.mc.js.cool:443#www.mc.js.cool
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+www.nexusmods.com:443#www.nexusmods.com
 securecircle.com:443#securecircle.com
 cdn.7zz.cn:443#cdn.7zz.cn
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+www.carousell.sg:443#www.carousell.sg
 www.blibli.com:443#www.blibli.com
 www.dg22.top:443#www.dg22.top
 www.giannidelprete.it:443#www.giannidelprete.it
@@ -30,23 +37,16 @@ play.mc.js.cool:443#play.mc.js.cool
 cf.xycf.asia:443#cf.xycf.asia
 funko.com:443#funko.com
 www.deepl.com:443#www.deepl.com
+cf.090227.xyz:443#cf.090227.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-linear.app:443#linear.app
 gh-proxy.com:443#gh-proxy.com
-nexusmods.com:443#nexusmods.com
 constitution.congress.gov:443#constitution.congress.gov
-www.mc.js.cool:443#www.mc.js.cool
 m.iyf.tv:443#m.iyf.tv
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cdn.555586.xyz:443#cdn.555586.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
-www.nexusmods.com:443#www.nexusmods.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 markmonitor.com:443#markmonitor.com
-www.carousell.sg:443#www.carousell.sg
-ct.721660.xyz:443#ct.721660.xyz
-top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-18 20:31 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-19 00:50 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 cf.godns.cc:443#cf.godns.cc
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 cdn.2x.nz:443#cdn.2x.nz
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
+b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-cf.877771.xyz:443#cf.877771.xyz
-nexusmods.com:443#nexusmods.com
-www.mc.js.cool:443#www.mc.js.cool
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 cf.553314.xyz:443#cf.553314.xyz
-cf.090227.xyz:443#cf.090227.xyz
-cu.877774.xyz:443#cu.877774.xyz
+youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
+openai.com:443#openai.com
+store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+gh-proxy.com:443#gh-proxy.com
+www.mc.js.cool:443#www.mc.js.cool
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
+cdn.ddeed.de:443#cdn.ddeed.de
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-19 21:44 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-20 00:56 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
-store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
-gh-proxy.com:443#gh-proxy.com
-m.iyf.tv:443#m.iyf.tv
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
-cf.553314.xyz:443#cf.553314.xyz
-cf.xycf.asia:443#cf.xycf.asia
-www.shopify.com:443#www.shopify.com
 www.udacity.com:443#www.udacity.com
-openai.com:443#openai.com
-linear.app:443#linear.app
+yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+www.shopify.com:443#www.shopify.com
+store.ubi.com:443#store.ubi.com
+gh-proxy.com:443#gh-proxy.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
-cfgo.timelate.com:443#cfgo.timelate.com
+m.iyf.tv:443#m.iyf.tv
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+www.broadcom.com:443#www.broadcom.com
+www.giannidelprete.it:443#www.giannidelprete.it
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+cdns.doon.eu.org:443#cdns.doon.eu.org
+openai.com:443#openai.com
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+linear.app:443#linear.app
 nexusmods.com:443#nexusmods.com
-www.vmware.com:443#www.vmware.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 09-19 06:06 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 09-19 08:49 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 cf.553314.xyz:443#cf.553314.xyz
@@ -6,17 +6,17 @@ cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.udacity.com:443#www.udacity.com
-openai.com:443#openai.com
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
-cdn.2x.nz:443#cdn.2x.nz
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
+openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
 linear.app:443#linear.app
+www.mc.js.cool:443#www.mc.js.cool
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

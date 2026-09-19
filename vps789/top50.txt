@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-20 05:58 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-20 07:54 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
@@ -46,7 +46,7 @@ sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+yx.cf.090227.xyz:443#yx.cf.090227.xyz
 www.sloomb.com:443#www.sloomb.com
 www.vastnovel.com:443#www.vastnovel.com
-cf.xycf.asia:443#cf.xycf.asia
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

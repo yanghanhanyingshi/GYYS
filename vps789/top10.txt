@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-20 16:06 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-20 21:21 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.udacity.com:443#www.udacity.com
-cf.godns.cc:443#cf.godns.cc
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+linear.app:443#linear.app
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 openai.com:443#openai.com
+cf.godns.cc:443#cf.godns.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

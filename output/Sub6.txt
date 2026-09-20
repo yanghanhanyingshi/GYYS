@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#TEL;Father_vpn
 vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=none&encryption=none&headerType=none&type=tcp#@Net2ray 2
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@KAFING_2
@@ -503,3 +502,4 @@ vless://4a6013ef-36ed-4db7-9fde-f9a4f3171acf@31.15.16.154:13423?security=&encryp
 vless://4aa4c358-5776-4a70-b472-50439acbe6af@176.65.151.67:57370?authority=&encryption=none&security=none&serviceName=&type=grpc#⚡️ KURDNET | کورد نت
 vless://4af06e6a-63ae-43c1-83c0-f8f613aef263@104.18.12.229:8880?encryption=none&type=ws&host=withered-sea-c187.445-608.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none#[ 🇨🇦 ] | @Cfox_SerVer
 vless://4af481af-0bc3-3511-4c07-c4d6bdbeda11@x4g-production-3704.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=/xhttp-siz10/4af481af-0bc3-3511-4c07-c4d6bdbeda11&host=x4g-production-3704.up.railway.app&mode=auto&sni=x4g-production-3704.up.railway.app&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 10
+vless://4bde8d55-d91c-45e9-9b36-e6448a194527@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn

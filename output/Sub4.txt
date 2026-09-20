@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@alnb.chainmark.ir:44811?encryption=none&type=tcp&security=reality&sni=app.stiga.com&fp=chrome&pbk=5V9UBM3WxVbCvEwW-FOxiBKlQTdMR9aScIfy53zefzM&sid=b53a4597ec327aec&allowInsecure=1#[ 🇬🇧 ] | @Cfox_SerVer
 vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@vbbb.chainmark.ir:11111?encryption=none&type=tcp&security=reality&sni=primevideo.com&fp=chrome&pbk=ADrXq9ZfvfkMCAjtS3G6bskFCuztVbMeIux2po4gGjM&sid=d1967fc42889dd66&allowInsecure=1#[ 🇮🇹 ] | @Cfox_SerVer
 vless://0dea82cd-a030-4c11-bccd-f3c0be845297@201.24.114.60:443?security=reality&encryption=none&pbk=RRawEiil652RhrCcf0Oq94mBii7I21eN3YyOo34NrTY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=47e4cb670b4e547d#@configprxy
 vless://0e6001f1-fe90-4e8c-9f4f-57071268af6e@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=8586&sni=au2-images.shop.samsung.com&spx=/V7frB8cQ8PmGyNp&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-T3@hollowcon
@@ -503,3 +502,4 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&pa
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s2.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=s5.nakosgol.com&type=xhttp#@KAFING_2
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s4.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
+vless://22ac8d19-9eec-493d-a492-e024cdba594b@simia.northforex.ir:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Shh_Proxy-New³

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4bde8d55-d91c-45e9-9b36-e6448a194527@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@164.37.100.194:443?security=reality&encryption=none&pbk=s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=14ang88.snusoed.baby&sid=2e124af254a65e7c#@ICV2RAY
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@Net2ray 1
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@leviconfigs🪐-12
@@ -503,3 +502,4 @@ vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443/?type=tcp
 vless://6433cc6b-2a88-49c9-ac10-a20f6c34abc0@87.76.179.96:48072?mode=gun&security=reality&encryption=none&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&fp=chrome&type=grpc&sni=blog.api.www.cloudflare.com&sid=e50d#filembad-227
 vless://6454f077-7cc8-8294-90e7-336c277ee010@152.42.149.187:1161?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@meliproxyy
 vless://6454f077-7cc8-8294-90e7-336c277ee010@152.42.149.187:1161?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🔵@chillguy_vpn
+vless://6454f077-7cc8-8294-90e7-336c277ee010@152.42.149.187:1161?security=none&encryption=none&host=time.windows.com&headerType=http&type=tcp#@meliproxyy

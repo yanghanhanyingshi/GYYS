@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@89.47.55.8:443?mode=auto&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=xhttp&sni=www.canon.com#@v2ray313 کانالمون 😪
+vless://96eda25e-7f48-4647-ad8b-6f8b2fbe6e3b@cubigatoro-production.up.railway.app:443?encryption=none&security=tls&sni=cubigatoro-production.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cubigatoro-production.up.railway.app&path=/cbgtr-ws-1#🇺🇸176488 | ⚡️Telegram = t.me/SOSkeyNET
+vless://96eda25e-7f48-4647-ad8b-6f8b2fbe6e3b@cubigatoro-production.up.railway.app:443?encryption=none&security=tls&sni=cubigatoro-production.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cubigatoro-production.up.railway.app&path=/cbgtr-ws-1#🇺🇸US-🚀@VPNine1
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
 vless://972dcc50-0258-4fb4-9006-9791a68a3500@65.109.178.205:5434?encryption=mlkem768x25519plus.native.0rtt.QaeIWxL64WjyklnHl9e4y-Jz2P8iEBkzwvSnjtR1QQ4&headerType=http&host=play-apps-features.googleusercontent.com&path=/@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray&security=none&type=tcp#⚡︎🇩🇪@𝙉𝙖𝙥_𝙫2𝙧𝙖𝙮
 vless://97672c17-4b8d-496b-b9b5-c7adc978a8a5@45.81.33.217:443?security=reality&alpn=http/1.1&encryption=none&pbk=sW6eP36wnIB0Q_e6Djmu7_RQ2zUyPzbupAtlg0fKdHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=exton.xanka.best&sid=8b15da3a#🇷🇺139882 | ⚡️Telegram = t.me/SOSkeyNET
@@ -500,6 +503,3 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@144.31.131.38:443?security=reality&
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=&encryption=none&headerType=&type=tcp#🇫🇷139821 | ⚡️Telegram = t.me/SOSkeyNET
 vless://add1864f-48f2-4cb6-a6e1-47b7bb0b55c1@31.57.185.77:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.cmNQRw8jR--DTUIrodycAF9-e2n-13g1IYkPw9nrtVw&headerType=http&type=tcp#@meliproxyy
 vless://add1864f-48f2-4cb6-a6e1-47b7bb0b55c1@31.57.185.77:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.cmNQRw8jR--DTUIrodycAF9-e2n-13g1IYkPw9nrtVw&headerType=http&type=tcp#MTMVPN ♟️
-vless://add1864f-48f2-4cb6-a6e1-47b7bb0b55c1@31.57.185.77:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.cmNQRw8jR--DTUIrodycAF9-e2n-13g1IYkPw9nrtVw&headerType=http&type=tcp#🇺🇸@FreakConfig
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی ۳۵۰۰

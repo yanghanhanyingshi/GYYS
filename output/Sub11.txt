@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://add1864f-48f2-4cb6-a6e1-47b7bb0b55c1@31.57.185.77:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.cmNQRw8jR--DTUIrodycAF9-e2n-13g1IYkPw9nrtVw&headerType=http&type=tcp#🇺🇸@FreakConfig
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی ۳۵۰۰
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
 vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:2086?encryption=none&fp=chrome&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&path=/vl/vuHASprDE9HV8y2BnO7UV?ed=2560&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&type=ws#🇨🇦176624 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:443?alpn=http/1.1&encryption=none&fp=chrome&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&path=/vl/pfi0BD0VoWEgqibmGfPYeH?ed=2560&security=tls&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&type=ws#🇨🇦176623 | ⚡️Telegram = t.me/SOSkeyNET
@@ -500,6 +503,3 @@ vless://c4b13d22-205f-4ed2-a331-bdd912ffb692@Bv2.pconnectq.ir:1151?security=none
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=/ws#/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#@V2ray_Alpha🎪 12
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=/ws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#[🇨🇦]t.me/ConfigV2RayNG
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=/ws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-vless://c525099b-b01d-43f4-bd85-e183dbba35e0@ezaccess1-sulgx-ezaccess1-7eab.up.railway.app:443?path=/ws/c525099b-b01d-43f4-bd85-e183dbba35e0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ezaccess1-sulgx-ezaccess1-7eab.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess1-sulgx-ezaccess1-7eab.up.railway.app#@VConfing
-vless://c543f005-59f7-40c1-9ae6-37505691d5be@51.77.217.70:2053?security=reality&encryption=none&pbk=UKvonm_uE7TSwksQIVQuNYgYwmcidr_g4lDIE2JW_Ag&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=4868e772d098f0af#@hopev2ray💜
-vless://c55c929d-e9d4-45bc-ba53-de4a2cfcabb5@104.21.51.132:8080?encryption=mlkem768x25519plus.native.0rtt.nFI_JgJxT50cFCqg8vIonXbldu6Gufopc4hWwCrVPxw&security=none&type=httpupgrade&host=150.241.94.132.th3store.ir&path=/play#@configprxy

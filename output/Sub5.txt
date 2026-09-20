@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443?security=reality&encryption=none&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=0a427bc3#🔥Join+Telegram:@v2_line
 vless://1ec9239a-4174-4496-800b-5756bdf21041@136.0.116.171:8443?encryption=none&type=grpc&security=reality&sni=cloudflare.com&fp=chrome&pbk=epF9hW_Z8LxlpJzDRXTJrLOFxelXWbAIWlOGPE-MNys&sid=a1b2c3d4e5f67890&spx=/HesarWeb&serviceName=gugfgrpc#• 🇺🇸 | United States - @HesarWeb
 vless://1ec9239a-4174-4496-800b-5756bdf21041@31.56.189.213:8443?mode=auto&path=/update&security=reality&encryption=none&pbk=h-2E_LAldiBAdYvL0T_oyrK05WQsVAaorwnTjIoyA2U&host=yahoo.com&fp=chrome&type=xhttp&sni=yahoo.com#Tel-@ProxyMtAlpha🌰 3
 vless://1ec9239a-4174-4496-800b-5756bdf21041@31.56.189.213:8443?mode=auto&path=/update/?@MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=h-2E_LAldiBAdYvL0T_oyrK05WQsVAaorwnTjIoyA2U&host=yahoo.com&fp=chrome&type=xhttp&sni=yahoo.com#@MARAMBASHI ❤️‍🔥
@@ -503,3 +502,4 @@ vless://34b0cfae-3a54-4b49-a3ce-59e783feb98e@176.65.151.67:48177?security=&encry
 vless://34b36719-7312-4608-ad2f-3776fd004fcc@fin1.apexvpn.space:8443?security=reality&encryption=none&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&headerType=none&fp=chrome&spx=/7NBi5gASiWBYoyY&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=086007#@v2ray313 کانالمون 🩵
 vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@Nexus_Panell چنل تلگرام
 vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.3:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@Nexus_Panell چنل تلگرام
+vless://35360464-29ac-4c06-93aa-f9af6d4964f4@193.134.209.62:40514?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=Tu3JZDib7rpQqzzRbr-8RnG2JoncA2y4g30GT8PBnx8&type=tcp&headerType=none#@Sparrk_VPN

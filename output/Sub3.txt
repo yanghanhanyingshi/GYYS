@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Free x215 @Outline_Vpn
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Free x245 @Outline_Vpn
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Free x307 @Outline_Vpn
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Tel-@ProxyMtAlpha🐅 2
@@ -503,3 +502,4 @@ vless://0c217232-8d94-4aab-a961-4bbdc963d004@104.17.108.1:443?encryption=none&ty
 vless://0c350e60-b7b4-4061-bd70-02280be45b09@p1real2.greewebservices.ir:1240?type=tcp&headerType=none&security=reality&fp=chrome&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🌕🇩🇪همه نت ها
 vless://0c5e5c45-b5b9-4b62-b852-d39404c77c26@go.lumen.com:2052?path=/&security=&encryption=none&host=fin.v2shop.xyz&type=ws#🇫🇮 FIN _ CDN Cloud ایرانسل (5191973) [VLESS - ws]
 vless://0c9b603a-a90a-4e59-85c1-d3915456a727@amern.pages.dev:443/?type=ws&encryption=none&flow=&host=amern.pages.dev&path=/&security=tls&sni=amern.pages.dev&fp=chrome#嘎
+vless://0c9f19ac-d2fb-4ddb-81e4-c96501ac964c@158.160.144.108:7443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=7755e972daf8eec8#@FarazV2ray

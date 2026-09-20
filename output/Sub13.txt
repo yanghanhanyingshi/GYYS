@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d8d23e60-d5aa-4556-b513-875e1e85d924@apps.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#2--Tel-@V2rayAlpha
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@apps.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#@meliproxyy
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@apps.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#@𝙑𝙀𝙂𝘼𝘼𝙎_𝙑𝙋𝙉🇩🇪
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@edge.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#Tel-@ProxyMtAlpha🐰
@@ -503,3 +502,4 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@Capoit
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@FarazV2ray
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@ICV2RAY
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@TEHRANARGO

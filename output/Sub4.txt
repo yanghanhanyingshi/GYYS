@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0c9f19ac-d2fb-4ddb-81e4-c96501ac964c@158.160.144.108:7443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=7755e972daf8eec8#@FarazV2ray
 vless://0c9f19ac-d2fb-4ddb-81e4-c96501ac964c@158.160.144.108:7443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=7755e972daf8eec8#@V2raySaman
 vless://0c9f19ac-d2fb-4ddb-81e4-c96501ac964c@158.160.144.108:7443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=7755e972daf8eec8#✅ t.me/bigAVPN ایران آزاد 👑
 vless://0ca2dfa0-c6fb-47d6-94de-1f35b95bbb0b@95.182.93.92:58582?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&pbk=zcIOzb_4k_qiXl_Q-7H77H2ZuA-hKerL-KZd_xFhtV0&fp=chrome&spx=/557d6c321729295&type=xhttp&sni=goo.gl&sid=b7fd7feac3da78#@V2ray_Alpha🥶 12
@@ -503,3 +502,4 @@ vless://1e4668ca-6526-84ac-2a53-28bbc209da13@89.47.55.5:443?mode=auto&path=/&sec
 vless://1e4668ca-6526-84ac-2a53-28bbc209da13@89.47.55.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#@vasl_bashim
 vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://1eba8f10-8e16-484b-be7a-613327727d4d@91.98.27.174:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#Arshiavpn12
+vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443?security=reality&encryption=none&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=0a427bc3#🔥Join+Telegram:@v2_line

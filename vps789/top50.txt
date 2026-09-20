@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-21 04:01 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-21 06:49 | 灵鹿优选
 linear.app:443#linear.app
 www.udacity.com:443#www.udacity.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -6,6 +6,7 @@ gh-proxy.com:443#gh-proxy.com
 spring.io:443#spring.io
 www.mc.js.cool:443#www.mc.js.cool
 greim.no:443#greim.no
+markmonitor.com:443#markmonitor.com
 www.blibli.com:443#www.blibli.com
 www.giannidelprete.it:443#www.giannidelprete.it
 www.deepl.com:443#www.deepl.com
@@ -45,8 +46,7 @@ cu.877774.xyz:443#cu.877774.xyz
 cf.130519.xyz:443#cf.130519.xyz
 ahrefs.com:443#ahrefs.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

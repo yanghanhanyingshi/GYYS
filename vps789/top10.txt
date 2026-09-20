@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-21 04:01 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-21 06:49 | 灵鹿优选
 linear.app:443#linear.app
 www.udacity.com:443#www.udacity.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -6,7 +6,7 @@ gh-proxy.com:443#gh-proxy.com
 spring.io:443#spring.io
 www.mc.js.cool:443#www.mc.js.cool
 greim.no:443#greim.no
+markmonitor.com:443#markmonitor.com
 www.blibli.com:443#www.blibli.com
 www.giannidelprete.it:443#www.giannidelprete.it
-www.deepl.com:443#www.deepl.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

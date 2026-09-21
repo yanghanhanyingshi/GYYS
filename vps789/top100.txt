@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-21 06:49 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-21 08:41 | 灵鹿优选
 linear.app:443#linear.app
 www.udacity.com:443#www.udacity.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -73,7 +73,7 @@ www.mlkj888.com:443#www.mlkj888.com
 hzytjy.cn:443#hzytjy.cn
 dongbanghong.com:443#dongbanghong.com
 www.xflash.vip:443#www.xflash.vip
-gitlab.com:443#gitlab.com
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 www.elysee.fr:443#www.elysee.fr
 qoj.ac:443#qoj.ac
 a.pub.network:443#a.pub.network
@@ -82,7 +82,6 @@ digitalocean.com:443#digitalocean.com
 bestcf.top:443#bestcf.top
 cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
 bestcf.030101.xyz:443#bestcf.030101.xyz
-ip.skk.moe:443#ip.skk.moe
 fbi.gov:443#fbi.gov
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 www.ox.ac.uk:443#www.ox.ac.uk
@@ -90,13 +89,14 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 cf.vvhan.com:443#cf.vvhan.com
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 kick.com:443#kick.com
 api.producthunt.com:443#api.producthunt.com
 videodelivery.net:443#videodelivery.net
 cdnjs.com:443#cdnjs.com
+gitlab.com:443#gitlab.com
 codeforces.com:443#codeforces.com
 yg4.ygkkk.dpdns.org:443#yg4.ygkkk.dpdns.org
 api.cloudflare.com:443#api.cloudflare.com
 registry.npmjs.org:443#registry.npmjs.org
+nodejs.org:443#nodejs.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

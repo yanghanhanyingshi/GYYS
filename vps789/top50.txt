@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-22 05:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-22 08:25 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.5199dy.com:443#www.5199dy.com
 ahrefs.com:443#ahrefs.com
@@ -31,6 +31,7 @@ www.giannidelprete.it:443#www.giannidelprete.it
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 www.deepl.com:443#www.deepl.com
 cf.xreak.top:443#cf.xreak.top
+ip.skk.moe:443#ip.skk.moe
 cf.877771.xyz:443#cf.877771.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
@@ -48,5 +49,4 @@ www.akasantech.com:443#www.akasantech.com
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 nexusmods.com:443#nexusmods.com
 spring.io:443#spring.io
-www.vmware.com:443#www.vmware.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

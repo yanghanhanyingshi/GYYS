@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 09-22 05:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 09-22 08:25 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.5199dy.com:443#www.5199dy.com
 ahrefs.com:443#ahrefs.com
@@ -31,6 +31,7 @@ www.giannidelprete.it:443#www.giannidelprete.it
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 www.deepl.com:443#www.deepl.com
 cf.xreak.top:443#cf.xreak.top
+ip.skk.moe:443#ip.skk.moe
 cf.877771.xyz:443#cf.877771.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.3666888.xyz:443#cf.3666888.xyz
@@ -48,6 +49,7 @@ www.akasantech.com:443#www.akasantech.com
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 nexusmods.com:443#nexusmods.com
 spring.io:443#spring.io
+www.mc.js.cool:443#www.mc.js.cool
 www.vmware.com:443#www.vmware.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
@@ -59,14 +61,11 @@ uspto.gov:443#uspto.gov
 cf.468123.xyz:443#cf.468123.xyz
 www.sloomb.com:443#www.sloomb.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
-ip.skk.moe:443#ip.skk.moe
 icook.tw:443#icook.tw
 www.blibli.com:443#www.blibli.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 digitalocean.com:443#digitalocean.com
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
-fn.130519.xyz:443#fn.130519.xyz
 cf.130519.xyz:443#cf.130519.xyz
 da.mfa.gov.ua:443#da.mfa.gov.ua
 mskcc.org:443#mskcc.org
@@ -76,14 +75,19 @@ api.cloudflare.com:443#api.cloudflare.com
 cf.xycf.asia:443#cf.xycf.asia
 cloudflare.com:443#cloudflare.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
-cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
 www.postman.com:443#www.postman.com
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 www.ventusky.com:443#www.ventusky.com
+yg4.ygkkk.dpdns.org:443#yg4.ygkkk.dpdns.org
+cf1.v8.longsays.com:443#cf1.v8.longsays.com
 tracker.metricool.com:443#tracker.metricool.com
 bestcf.top:443#bestcf.top
+cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
 videodelivery.net:443#videodelivery.net
+fn.130519.xyz:443#fn.130519.xyz
+gitlab.com:443#gitlab.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+coreweave.com:443#coreweave.com
 mvnrepository.com:443#mvnrepository.com
 tinyurl.com:443#tinyurl.com
 cdnjs.cloudflare.com:443#cdnjs.cloudflare.com
@@ -91,12 +95,8 @@ cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
-yg4.ygkkk.dpdns.org:443#yg4.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 www.hdmoli.com:443#www.hdmoli.com
 dns.163189.xyz:443#dns.163189.xyz
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
 dongbanghong.com:443#dongbanghong.com
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-play.mc.js.cool:443#play.mc.js.cool
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@𝐕𝟐𝐗𝐍𝐄𝐓
-vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#VPN @MimiTdl 🔥⚡
-vless://a01188c6-9bdb-4701-ba8a-befed3cd54f1@31.77.7.139:2055?mode=gun&security=reality&encryption=none&pbk=0yCWCRmVV5ETDy8NwQX-Bv2o6gfDBfUtXtTEs3qqXwc&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=www.ibm.com&sid=dfe9fa5fff4a3457#Channel : @Daily_Configs
 vless://a01188c6-9bdb-4701-ba8a-befed3cd54f1@31.77.7.139:2055?mode=gun&security=reality&encryption=none&pbk=0yCWCRmVV5ETDy8NwQX-Bv2o6gfDBfUtXtTEs3qqXwc&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=www.ibm.com&sid=dfe9fa5fff4a3457#kurdconfig
 vless://a01188c6-9bdb-4701-ba8a-befed3cd54f1@31.77.7.139:2055?mode=gun&security=reality&encryption=none&pbk=0yCWCRmVV5ETDy8NwQX-Bv2o6gfDBfUtXtTEs3qqXwc&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=www.ibm.com&sid=dfe9fa5fff4a3457#🇺🇸@FreakConfig
 vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.58:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#@Daily_Configs
@@ -503,3 +500,6 @@ vless://b41e32ce-426d-46a2-8c27-98024bd1e9a4@vip2.fi.veraxideas.ir:20900?securit
 vless://b41e32ce-426d-46a2-8c27-98024bd1e9a4@vip2.fi.veraxideas.ir:20900?security=reality&encryption=none&pbk=U_zWBuV0CelAASAwIcHjnJT90YHywsLgWoAKKCKwHUI&headerType=none&fp=chrome&spx=/8185a1f4497d49f&type=tcp&sni=play.google.com&sid=2e172098d41cd3#🇮🇷179068 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b4232e57-46bd-4490-9e29-7b6683c66c72@51.254.211.52:443?security=reality&encryption=none&pbk=tGKPIClxh5UrLDCEzcCSque9EIE9yQKu0gdO3yIEoFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com&sid=f35ec2ab265c5afd#[ 🇫🇷 ] | @Cfox_SerVer
 vless://b4cc322a-36c7-40b7-ad76-ad1e21bb4d18@104.16.22.21:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#@v2mystery 👈 عضو شو
+vless://b4cc322a-36c7-40b7-ad76-ad1e21bb4d18@162.159.82.123:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
+vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@gr34.starzone.ir:10235?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9b98825681aba023#@Shh_Proxy-New¹
+vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@nl1z.starzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=delivery.mp.microsoft.com&sid=c077229044b68285#Tel-@ProxyMtAlpha🦌 7

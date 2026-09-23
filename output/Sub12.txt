@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=178.105.61.61&fp=chrome&security=reality&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&packetEncoding=xudp#咕
-vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=chrome&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&sid=c17f1d8951b3bf90&type=tcp&headerType=none#Telegram: @Daily_Configs
-vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?security=reality&encryption=none&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=c17f1d8951b3bf90#5
 vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?security=reality&encryption=none&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=c17f1d8951b3bf90#@ICV2RAY
 vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?security=reality&encryption=none&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=c17f1d8951b3bf90#@V2ray_Alpha🕰️ 10
 vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?security=reality&encryption=none&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=c17f1d8951b3bf90#@meliproxyy
@@ -503,3 +500,6 @@ vless://d9eda159-18d6-4457-8983-55523a21658c@151.101.56.6:443?path=/?TELEGRAM--K
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#🇮🇷139735 | ⚡️Telegram = t.me/SOSkeyNET
 vless://da3f2db5-f621-41ad-8761-2f80375197c8@pass.speedoraa.ir:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.JgBGQxcFxZdwwvHJgyYQ9Qw8ezpz532ZMa6I4XEadAo&insecure=0&host=pas.speedoraa.ir&type=ws&allowInsecure=0&sni=pas.speedoraa.ir#@v2mystery 👈 عضو شو
 vless://da462d02-eb32-51c6-a1f5-bb6938e03091@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/da462d02-eb32-51c6-a1f5-bb6938e03091#111
+vless://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?path=/&host=play.google.com&encryption=none&security=none&type=ws#@v2rayng3
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@hopev2ray

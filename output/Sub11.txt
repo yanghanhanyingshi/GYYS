@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b4cc322a-36c7-40b7-ad76-ad1e21bb4d18@162.159.82.123:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
-vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@gr34.starzone.ir:10235?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9b98825681aba023#@Shh_Proxy-New¹
-vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@nl1z.starzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=delivery.mp.microsoft.com&sid=c077229044b68285#Tel-@ProxyMtAlpha🦌 7
 vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@tuss.starzone.ir:443?security=reality&encryption=none&pbk=-Nw4pIuzq_vnQiII34vwq-_Hot3THgvXB6teTaX1jiQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=56c0d432cdf36f66#[ 🌐 ] | @Cfox_SerVer
 vless://b55dd203-630d-46a3-b506-c52ebcafa77c@154.222.9.98:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=8d3293f0066e129a#@leviconfigs🪐-1
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?mode=auto&path=/?@leviconfigs_leviconfigs?ed=2048&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#@leviconfigs🪐-2
@@ -503,3 +500,6 @@ vless://caee82bb-5a8a-4314-83ef-6167825aaf4d@178.105.245.46:443?security=&encryp
 vless://caee82bb-5a8a-4314-83ef-6167825aaf4d@178.105.245.46:443?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#𝗚𝗲𝗿𝗺𝗮𝗻𝘆@v2ryNG01🇩🇪پرقدرت
 vless://caee82bb-5a8a-4314-83ef-6167825aaf4d@178.105.245.46:443?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#🇩🇪179180 | ⚡️Telegram = t.me/SOSkeyNET
 vless://caee82bb-5a8a-4314-83ef-6167825aaf4d@178.105.245.46:443?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=178.105.61.61&fp=chrome&security=reality&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&packetEncoding=xudp#咕
+vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=chrome&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&sid=c17f1d8951b3bf90&type=tcp&headerType=none#Telegram: @Daily_Configs
+vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?security=reality&encryption=none&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=c17f1d8951b3bf90#5

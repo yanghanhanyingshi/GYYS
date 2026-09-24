@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-25 03:38 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-25 06:51 | 灵鹿优选
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.vastnovel.com:443#www.vastnovel.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
@@ -6,7 +6,7 @@ cfgo.timelate.com:443#cfgo.timelate.com
 markmonitor.com:443#markmonitor.com
 ct.721660.xyz:443#ct.721660.xyz
 www.sloomb.com:443#www.sloomb.com
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 www.ntu.edu.sg:443#www.ntu.edu.sg
-w3.org:443#w3.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

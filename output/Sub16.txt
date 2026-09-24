@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%3E%3E%40FreakConfig%3A%3AIT
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%3E%3E%40outline_vpn%3A%3ACA
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%3E%3E%40configV2rayNG%3A%3AIT
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%3E%3E%40configV2rayNG%3A%3AXX
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%3E%3E%40FreakConfig%3A%3APL
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#%3E%3E%40shadowproxy66%3A%3AXX
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%3E%3E%40freeland8%3A%3AUS
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%3E%3E%40configV2rayNG%3A%3AUS
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#%3E%3E%40freeland8%3A%3ACA
@@ -503,3 +495,9 @@ vmess://ewogICAgImFkZCI6ICIxNDYuNTYuNDAuMTE3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICIxNDYuNTYuNDAuMTE3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIwNTNjYTBmNC0wNTdlLTQ5M2QtYWQzMC01YmE1MWYwMGY1OWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjc2NzUsCiAgICAicHMiOiAi8J+HsPCfh7dLUi0xNDYuNTYuNDAuMTE3LTAyMzciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@195.12.49.82:802#%F0%9F%87%AC%F0%9F%87%A7GB-195.12.49.82-0238
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.143:805#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-0240
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.93:6379#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.93-0241
+ss://YWVzLTI1Ni1nY206YkJFWElx@183.240.209.15:31905#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.209.15-0242
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.19:5000#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.19-0243
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@169.197.143.232:7307#%F0%9F%87%BA%F0%9F%87%B8US-169.197.143.232-0244
+vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
+vless://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN | 01 🇩🇪⚡️

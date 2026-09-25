@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://@Cooonfig@Cooonfig@N@188.114.97.6:80?encryption=none&security=none&type=ws&host=guji.azazilvpn.sbs.&path=/#@Daily_Configs
-vless://@Cooonfig@Cooonfig@N@188.114.97.6:80?path=/&security=&encryption=none&host=guji.azazilvpn.sbs.&type=ws#@tootffarangi🍓-8
-vless://@Net2ray@38.207.169.83:17396?security=none&encryption=none&host=divar.ir&headerType=none&type=tcp#@Net2ray USA🇺🇸
-vless://@ZhilaVPN@78.46.216.132:19395?security=none&encryption=none&host=google.com&headerType=none&type=tcp#@VEGAAS_VPN
 vless://@ZhilaVPN@78.46.216.132:19395?security=none&encryption=none&host=google.com&headerType=none&type=tcp#@outline_ir
 vless://@awlix_ir@213.163.207.91:443?type=tcp&encryption=none&path=/&headerType=http&security=none#@awlix_ir-bogszwn8
 vless://@awlix_ir@awlix.pcjxq.digital:19713?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=FXCTsmL3_wS7Nbvd14wzf052DnZNee38R24th52GaUw&sid=1973cc4e234ad5&spx=/&type=tcp&headerType=none#@awlix_ir
@@ -503,3 +499,7 @@ vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&en
 vless://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
 vless://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
 vless://af11a901-92bb-a9d2-a17c-f9a38c4fd33b@soliconf.dpdns.org:443?path=/ws/af11a901-92bb-a9d2-a17c-f9a38c4fd33b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=soliconf.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=soliconf.dpdns.org#استفاده بدون جوین حرام@Soliconf
+vless://af2a0c18-b08c-471f-baa3-259ac2ce3a85@tr3.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tr3.wba-pn.ru#@ICV2RAY
+vless://af2a0c18-b08c-471f-baa3-259ac2ce3a85@tr3.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tr3.wba-pn.ru#@Shh_Proxy-New⁷
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=chrome&spx=/&type=tcp&sni=status.play.google.com&sid=5030#Telegram:@v2rayng3
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.242:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#@Tarkshodeh 🇷🇴

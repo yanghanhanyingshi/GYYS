@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 09-26 21:30 | 灵鹿优选
-www.udacity.com:443#www.udacity.com
-linear.app:443#linear.app
-www.sage.com:443#www.sage.com
-test.509666.xyz:443#test.509666.xyz
-greim.no:443#greim.no
-ctlmt.info:443#ctlmt.info
+saas.sin.fan:443#▼ 优选域名 TOP10 | 09-27 01:30 | 灵鹿优选
 4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
-openai.com:443#openai.com
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cf.godns.cc:443#cf.godns.cc
+linear.app:443#linear.app
+greim.no:443#greim.no
+cfgo.timelate.com:443#cfgo.timelate.com
+www.udacity.com:443#www.udacity.com
+constitution.congress.gov:443#constitution.congress.gov
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+www.broadcom.com:443#www.broadcom.com
+www.akasantech.com:443#www.akasantech.com
+funko.com:443#funko.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

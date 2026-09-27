@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.241.240:440?encryption=none&type=tcp&headerType=http&path=/&host=store.steampowered.com#✈️ @FreeConfigForYou
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.241.240:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Shh_Proxy-New³
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.45.85:440?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.45.85:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇺🇲
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.45.85:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Free x332 @Outline_Vpn
@@ -503,3 +501,5 @@ vless://72c9846e-3cef-4454-83f4-59a7e5d8841e@unitedkingdom-sgood.wopd.butnorwa.b
 vless://72c9846e-3cef-4454-83f4-59a7e5d8841e@unitedstates-sgood.wopd.butnorwa.butter.melon.shoes.bye.whooisthebest.ir:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#@V2ray_confiig
 vless://72c9846e-3cef-4454-83f4-59a7e5d8841e@unitedstates-sgood.wopd.butnorwa.butter.melon.shoes.bye.whooisthebest.ir:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#@meliproxyy
 vless://72d334af-a4e9-ed8f-cbec-75317ce0b463@122.8.44.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&spx=/HesarWeb&type=xhttp&sni=download.nvidia.com#• 🇫🇮 | 𝗙𝗶𝗻𝗹𝗮𝗻𝗱 - @HesarWeb
+vless://72d334af-a4e9-ed8f-cbec-75317ce0b463@122.8.44.9:443?path=/&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#@Shh_Proxy-New⁸
+vless://72e69627-2463-4607-88d9-0b2fa9539f32@87.121.47.89:443?encryption=none&security=reality&sni=news.samsung.com&fp=chrome&pbk=InDEMZiOVU0PYMes4fDh_NALMAjVmWmtlNp2VpNNz3w&sid=8fe3c7&type=xhttp&path=/&mode=auto#Telegram: @Daily_Configs

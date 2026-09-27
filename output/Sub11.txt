@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@MARAMBASHI 💜
-vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#[56644] - Telegram : @V2All
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@filembad
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#🔵@chillguy_vpn
 vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.193.170:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#@configprxy : چنل کانفیگ
@@ -503,3 +501,5 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-3.moritech.net:443?security
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-3.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#@i10VPN🧭
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norway.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#@Shh_Proxy-New⁵
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=pl3.moritech.net&alpn=h2&fp=chrome&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#@V2ray_Alpha🍨 9
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#@hex_proxy ⁵

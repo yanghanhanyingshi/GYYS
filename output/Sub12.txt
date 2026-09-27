@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#@V2ray_Alpha🍨 9
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#@hex_proxy ⁵
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#Free x313 @Outline_Vpn
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#Free x339 @Outline_Vpn
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#Tel-@ProxyMtAlpha🐌 4
@@ -503,3 +501,5 @@ vless://dfbbf980-22c6-ee71-34b9-5b70fe9b792a@69.46.46.93:443?path=/ws/dfbbf980-2
 vless://dfbbf980-22c6-ee71-34b9-5b70fe9b792a@69.46.46.94:443?path=/ws/dfbbf980-22c6-ee71-34b9-5b70fe9b792a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=solipanelwodi-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanelwodi-production.up.railway.app#استفاده بدون جوین حرام-@Soliconf
 vless://dfbbf980-22c6-ee71-34b9-5b70fe9b792a@69.46.46.96:443?path=/ws/dfbbf980-22c6-ee71-34b9-5b70fe9b792a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=solipanelwodi-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanelwodi-production.up.railway.app#استفاده بدون جوین حرام-@Soliconf
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#TEL;Father_vpn
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🏁 Reality | https://t.me/FREECONFIGSPLUS ✨
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#@MARAMBASHI 🇧🇷

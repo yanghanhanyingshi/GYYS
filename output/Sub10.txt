@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmesskhodam
-vless://XpnTeam-28@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-28@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🌞 11
 vless://XpnTeam-28@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-28@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
@@ -503,3 +501,5 @@ vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=real
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#🇩🇪181894 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#🇩🇪DE-🚀@VPNine1
 vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#🔵@chillguy_vpn
+vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@MARAMBASHI 💜
+vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#[56644] - Telegram : @V2All

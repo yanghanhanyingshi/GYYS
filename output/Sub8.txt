@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.26.230:2053?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#7
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.54.188:2096?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#6
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.18.33.162:2083?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#11
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.19.144.99:8443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#8
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.26.0.32:443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#9
@@ -501,5 +503,3 @@ vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&
 vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality&encryption=none&pbk=z5ey3dBNwJciLD1_V2P_rKYGEd2Lk_V1IOl2uRDZwhQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=blog.jetbrains.com&sid=f5b880a0529326c1#@Begoo_VPN ²⁸⁸
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://8ff746cc-0264-b1f0-1035-98bf7be3de0e@69.46.46.25:443?path=/ws/8ff746cc-0264-b1f0-1035-98bf7be3de0e&security=tls&alpn=http/1.1&encryption=none&host=cobalt-ember-6fbb-production.up.railway.app&fp=chrome&type=ws&sni=cobalt-ember-6fbb-production.up.railway.app#🇩🇪 @V2ngFast
-vless://900e2cca-4798-47f6-b972-5288a77c8093@45.150.192.26:42411?mode=auto&path=/&security=reality&encryption=none&pbk=r3JIlDorHc3OSNWDPs4ZqJ-HbNj5JVPvSKP_fuU1Fw4&host=www.oracle.com&fp=chrome&spx=/&type=xhttp&sni=www.oracle.com&sid=f578f2a1#@vmesskhodam
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sid=85c86a9863&spx=/ozks0ksxmyHue4v&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn

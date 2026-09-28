@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://XpnTeam-23@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-23@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-24@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-24@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-24@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
@@ -501,5 +503,3 @@ vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=non
 vless://b6621c85-2b69-42e0-8067-8823659bdcb5@darsadgir.ir:443?encryption=none&security=tls&sni=map.imisstheoldye.com&fp=chrome&type=xhttp&host=map.imisstheoldye.com&path=/GoOgLe&mode=auto&extra={"xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish"}#@Daily_Configs
 vless://b6c94a66-0d8c-34dd-a671-4e84a9e5e123@freef35panel-production.up.railway.app:443?encryption=none&security=tls&sni=freef35panel-production.up.railway.app&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=freef35panel-production.up.railway.app&path=/ws/b6c94a66-0d8c-34dd-a671-4e84a9e5e123#🇩🇪All⁵ | @BigSmoke_Config
 vless://b6f4cdf1-e223-4c79-a0d5-c18a184947f1@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@confiig_hub
-vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@FarazV2ray
-vless://b706bd4d-14d5-48dd-9fe3-1d79ecfeed17@188.137.231.200:24562?security=reality&encryption=none&pbk=0Ke_kOZwpSESFBQCfYWn7pDY_tJyv8gsWX6fXbO7Zyo&headerType=none&fp=chrome&spx=/02f0044e62f61cc&type=tcp&sni=android.com&sid=6279cd#@V2rayng_Fast

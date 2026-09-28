@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://900e2cca-4798-47f6-b972-5288a77c8093@45.150.192.26:42411?mode=auto&path=/&security=reality&encryption=none&pbk=r3JIlDorHc3OSNWDPs4ZqJ-HbNj5JVPvSKP_fuU1Fw4&host=www.oracle.com&fp=chrome&spx=/&type=xhttp&sni=www.oracle.com&sid=f578f2a1#@vmesskhodam
+vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sid=85c86a9863&spx=/ozks0ksxmyHue4v&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://903cbea5-278a-4f9b-b841-e97077d94633@66.33.22.238:49194?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=oho2ZfrpJKDlXr9w4VsAE-61QJLG_y070pOMvEzHzyY&fp=chrome&spx=/65252048ef0ebb8&type=xhttp&sni=yellow.ai&sid=6b58f6#@Shh_Proxy-New²
 vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@www.speedtest.net:443?path=/CMlsadnCISdss#TELEGRAM-leviconfigs?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ptr.cyberbear.io&fp=chrome&type=ws&allowInsecure=0&sni=ptr.cyberbear.io#@leviconfigs🪐-19
 vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&security=reality&serviceName=grpc&sni=speed.cloudflare.com&type=grpc#🇳🇱139846 | ⚡️Telegram = t.me/SOSkeyNET
@@ -501,5 +503,3 @@ vless://XpnTeam-22@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-22@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-23@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-12
 vless://XpnTeam-23@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
-vless://XpnTeam-23@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-23@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran

@@ -1,8 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 09-30 06:52 | 灵鹿优选
-funko.com:443#funko.com
+saas.sin.fan:443#▼ 优选域名 TOP50 | 09-30 09:46 | 灵鹿优选
 greim.no:443#greim.no
 cfgo.timelate.com:443#cfgo.timelate.com
 markmonitor.com:443#markmonitor.com
+funko.com:443#funko.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 www.broadcom.com:443#www.broadcom.com
@@ -27,7 +27,6 @@ m.iyf.tv:443#m.iyf.tv
 www.leics.police.uk:443#www.leics.police.uk
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 cmcc.cc.cd:443#cmcc.cc.cd
 ctlmt.info:443#ctlmt.info
@@ -38,6 +37,7 @@ www.sloomb.com:443#www.sloomb.com
 prizepicks.com:443#prizepicks.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 liz.us.ci:443#liz.us.ci
 cu.877774.xyz:443#cu.877774.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
@@ -45,8 +45,8 @@ linear.app:443#linear.app
 nexusmods.com:443#nexusmods.com
 spring.io:443#spring.io
 dnew.cc:443#dnew.cc
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-01 07:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-01 11:14 | 灵鹿优选
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 greim.no:443#greim.no
 merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 nexusmods.com:443#nexusmods.com
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+www.nexusmods.com:443#www.nexusmods.com
 cfgo.timelate.com:443#cfgo.timelate.com
 www.dg22.top:443#www.dg22.top
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
-ChinaTelecom.youxuan.zmxf.cc.cd:443#ChinaTelecom.youxuan.zmxf.cc.cd
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

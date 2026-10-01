@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-01 18:36 | 灵鹿优选
-openai.com:443#openai.com
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-imooo.de:443#imooo.de
-cfgo.timelate.com:443#cfgo.timelate.com
-merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-linear.app:443#linear.app
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-02 01:13 | 灵鹿优选
 nexusmods.com:443#nexusmods.com
-ahrefs.com:443#ahrefs.com
+yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
+cmcc.cc.cd:443#cmcc.cc.cd
+markmonitor.com:443#markmonitor.com
+www.deepl.com:443#www.deepl.com
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+cf.godns.cc:443#cf.godns.cc
+linear.app:443#linear.app
 www.crazygames.fr:443#www.crazygames.fr
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

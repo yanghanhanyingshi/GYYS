@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-02 09:54 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-02 15:46 | 灵鹿优选
 openai.com:443#openai.com
 nexusmods.com:443#nexusmods.com
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
-cmcc.cc.cd:443#cmcc.cc.cd
+www.dg22.top:443#www.dg22.top
 prizepicks.com:443#prizepicks.com
+cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.godns.cc:443#cf.godns.cc
-www.vmware.com:443#www.vmware.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,8 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 10-04 05:55 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 10-04 08:15 | 灵鹿优选
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.udacity.com:443#www.udacity.com
 openai.com:443#openai.com
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 www.sloomb.com:443#www.sloomb.com
 www.akasantech.com:443#www.akasantech.com
@@ -49,4 +48,5 @@ merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 fn.130519.xyz:443#fn.130519.xyz
+gh-proxy.com:443#gh-proxy.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

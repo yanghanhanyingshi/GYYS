@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 10-05 04:41 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 10-05 07:44 | 灵鹿优选
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 openai.com:443#openai.com
 cf.130519.xyz:443#cf.130519.xyz
@@ -13,6 +13,8 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 gh-proxy.com:443#gh-proxy.com
 m.iyf.tv:443#m.iyf.tv
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 img.css.sd:443#img.css.sd
@@ -24,16 +26,20 @@ prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
+www.090902.xyz:443#www.090902.xyz
+cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 liz.us.ci:443#liz.us.ci
 down.anycast.mom:443#down.anycast.mom
 cdns.doon.eu.org:443#cdns.doon.eu.org
+nexusmods.com:443#nexusmods.com
 ahrefs.com:443#ahrefs.com
-www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 www.galgamex.net:443#www.galgamex.net
 cf.468123.xyz:443#cf.468123.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+www.xflash.vip:443#www.xflash.vip
 www.giannidelprete.it:443#www.giannidelprete.it
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
@@ -41,12 +47,6 @@ cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 cf.xycf.asia:443#cf.xycf.asia
 funko.com:443#funko.com
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
-www.090902.xyz:443#www.090902.xyz
 merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 ip.skk.moe:443#ip.skk.moe
-cf.877771.xyz:443#cf.877771.xyz
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-store.ubi.com:443#store.ubi.com
-nexusmods.com:443#nexusmods.com
-spring.io:443#spring.io
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

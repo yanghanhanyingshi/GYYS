@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-05 07:44 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-05 11:09 | 灵鹿优选
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 openai.com:443#openai.com
 cf.130519.xyz:443#cf.130519.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
 www.mc.js.cool:443#www.mc.js.cool
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
-yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-cf.xreak.top:443#cf.xreak.top
 w3.org:443#w3.org
+b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

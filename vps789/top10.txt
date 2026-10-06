@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-05 19:00 | 灵鹿优选
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
-cdn.091224.xyz:443#cdn.091224.xyz
-w3.org:443#w3.org
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-06 09:03 | 灵鹿优选
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
+www.carousell.sg:443#www.carousell.sg
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-www.udacity.com:443#www.udacity.com
 openai.com:443#openai.com
-cf.130519.xyz:443#cf.130519.xyz
-gh-proxy.com:443#gh-proxy.com
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+ikankeji.com:443#ikankeji.com
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+yx.cf.090227.xyz:443#yx.cf.090227.xyz
+www.akasantech.com:443#www.akasantech.com
+cf.v8.longsays.com:443#cf.v8.longsays.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
-vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
-vless://d99bcdb7-13b3-46da-822e-788f04afb614@pp.tr.f.k.n.vpxpp.ir:2053?mode=auto&path=/nwbsjzhshzbdbzhhsbsuvejdgebddnxjdbx&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Thost.zerossrz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tls.zerossrz.ir#kurdconfig
 vless://d99bcdb7-13b3-46da-822e-788f04afb614@pp.tr.f.k.n.vpxpp.ir:2053?mode=auto&path=/nwbsjzhshzbdbzhhsbsuvejdgebddnxjdbx&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Thost.zerossrz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tls.zerossrz.ir#🇹🇷@FreakConfig
 vless://d9ad5acb-f0c1-4d11-a122-878b70f34201@mazandaran.up.railway.app:443?path=/ws/d9ad5acb-f0c1-4d11-a122-878b70f34201&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mazandaran.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mazandaran.up.railway.app#@ICV2RAY
 vless://d9c7ec1f-5aa3-469a-b860-760c686806b0@70.34.252.154:80?type=ws&security=none&path=/#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
@@ -503,3 +500,6 @@ vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.44:2083?alpn=http/1.1&encr
 vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.44:2083?path=/vless-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=crt.viktorthebest.lol#🇫🇷@FreakConfig
 vless://ecb9ab47-31aa-4dd9-92eb-191047b353bd@172.67.130.159:2096?path=/f7i3lo6xbs&security=tls&encryption=none&insecure=0&host=cdn-hk.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-hk.skyvora.app#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12

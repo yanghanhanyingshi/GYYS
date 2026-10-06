@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#Telegram : @Daily_Configs
-trojan://jY580HxXNstpwrxM7nrmhMCJzq_Vc6ri@h.pasmazy.ir:1015?security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=iEM6VK7Av04Xexg3r-i9YCbO5Eap-3NsGx31-E3syC8&sid=afa5272008dd2be9#🇳🇱187892 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://jY580HxXNstpwrxM7nrmhMCJzq_Vc6ri@h.pasmazy.ir:1015?security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=iEM6VK7Av04Xexg3r-i9YCbO5Eap-3NsGx31-E3syC8&sid=afa5272008dd2be9#🇳🇱NL-🚀@VPNine1
 trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
 trojan://l6R5znJSPJ@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://miTivpn@151.101.56.90:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -503,3 +500,6 @@ vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@chatgpt.com:2052?path=/?ed=2560&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.www.speedtest.net.chatgpt.com.icloud.com.fiNeArTSnEt.COm.persianclouding.ir.&type=httpupgrade#@fastkanfig رایگان کانفیگ
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?security=reality&encryption=mlkem768x25519plus.native.0rtt.X0T35qBzCwxVDx5oRhPb26SJGDrcpw_-jWzDs-3tORk&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&headerType=none&fp=chrome&spx=/8ac5f1907f28212&type=tcp&sni=amp-api-edge.apps.apple.com&sid=45#بیا کانال : @fastkanfig
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:35468?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#کانفیگ های رایگان در تلگرام : @fastkanfig
+vless://122b8a33-d923-48a6-8f1b-e721cf842864@turkey.daltoon-cloud.ir:2083?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=daltoon.persianclouding.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=daltoon.persianclouding.ir#@fastkanfig کانال تلگرام
+vless://1240607b-86ed-4ef1-9123-8061144cbdbf@65.109.208.97:28243?security=none&encryption=none&headerType=http&type=tcp#Tel-@ProxyMtAlpha🔮 5
+vless://1240607b-86ed-4ef1-9123-8061144cbdbf@65.109.208.97:47851?encryption=none&type=http&method=GET&packetEncoding=xudp#• 🇫🇮 | Finland - @HesarWeb

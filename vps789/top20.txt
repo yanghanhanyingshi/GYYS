@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-07 14:43 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-07 22:04 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cf.090227.xyz:443#cf.090227.xyz
+securecircle.com:443#securecircle.com
+yx.cf.090227.xyz:443#yx.cf.090227.xyz
+cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
+cf.130519.xyz:443#cf.130519.xyz
 nexusmods.com:443#nexusmods.com
+youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
+markmonitor.com:443#markmonitor.com
+www.blibli.com:443#www.blibli.com
+funko.com:443#funko.com
+cdn.aneko.ink:443#cdn.aneko.ink
+openai.com:443#openai.com
+gh-proxy.com:443#gh-proxy.com
 www.mc.js.cool:443#www.mc.js.cool
 www.leics.police.uk:443#www.leics.police.uk
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-securecircle.com:443#securecircle.com
-greim.no:443#greim.no
-markmonitor.com:443#markmonitor.com
-yx.cf.090227.xyz:443#yx.cf.090227.xyz
-www.sloomb.com:443#www.sloomb.com
-www.deepl.com:443#www.deepl.com
-cf.130519.xyz:443#cf.130519.xyz
-gh-proxy.com:443#gh-proxy.com
-www.dentoncounty.gov:443#www.dentoncounty.gov
-constitution.congress.gov:443#constitution.congress.gov
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-www.carousell.sg:443#www.carousell.sg
-www.blibli.com:443#www.blibli.com
-www.akasantech.com:443#www.akasantech.com
+yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
+china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+play.mc.js.cool:443#play.mc.js.cool
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

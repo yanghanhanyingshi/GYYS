@@ -1,15 +1,17 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 10-08 04:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 10-08 08:37 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cf.130519.xyz:443#cf.130519.xyz
 securecircle.com:443#securecircle.com
 m.iyf.tv:443#m.iyf.tv
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 cf.xreak.top:443#cf.xreak.top
 cdn.aneko.ink:443#cdn.aneko.ink
 fn.130519.xyz:443#fn.130519.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-cdn.2x.nz:443#cdn.2x.nz
+cf.92555.xyz:443#cf.92555.xyz
 funko.com:443#funko.com
 www.deepl.com:443#www.deepl.com
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
@@ -20,6 +22,7 @@ openai.com:443#openai.com
 nexusmods.com:443#nexusmods.com
 spring.io:443#spring.io
 www.leics.police.uk:443#www.leics.police.uk
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 imooo.de:443#imooo.de
@@ -29,10 +32,8 @@ yx.cf.090227.xyz:443#yx.cf.090227.xyz
 www.carousell.sg:443#www.carousell.sg
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
-www.090902.xyz:443#www.090902.xyz
 gh-proxy.com:443#gh-proxy.com
 www.mastervolt.com:443#www.mastervolt.com
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 greim.no:443#greim.no
 www.blibli.com:443#www.blibli.com
 liz.us.ci:443#liz.us.ci
@@ -44,9 +45,8 @@ www.mc.js.cool:443#www.mc.js.cool
 ahrefs.com:443#ahrefs.com
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-cmcc.cc.cd:443#cmcc.cc.cd
 cfgo.timelate.com:443#cfgo.timelate.com
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
+www.090902.xyz:443#www.090902.xyz
 cf.blog.646474.xyz:443#cf.blog.646474.xyz
-www.ntu.edu.sg:443#www.ntu.edu.sg
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

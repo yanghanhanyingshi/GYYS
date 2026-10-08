@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-08 04:21 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-08 08:37 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cf.130519.xyz:443#cf.130519.xyz
 securecircle.com:443#securecircle.com
 m.iyf.tv:443#m.iyf.tv
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 cf.xreak.top:443#cf.xreak.top
 cdn.aneko.ink:443#cdn.aneko.ink
 fn.130519.xyz:443#fn.130519.xyz
-yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

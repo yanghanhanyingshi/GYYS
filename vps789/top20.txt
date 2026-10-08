@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-08 14:51 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-08 22:15 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
-cf.xreak.top:443#cf.xreak.top
-cf.130519.xyz:443#cf.130519.xyz
-m.iyf.tv:443#m.iyf.tv
-securecircle.com:443#securecircle.com
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
+cf.xreak.top:443#cf.xreak.top
+ip.skk.moe:443#ip.skk.moe
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-spring.io:443#spring.io
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-yx.cf.090227.xyz:443#yx.cf.090227.xyz
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-ip.skk.moe:443#ip.skk.moe
 openai.com:443#openai.com
 fn.130519.xyz:443#fn.130519.xyz
+cf.130519.xyz:443#cf.130519.xyz
+m.iyf.tv:443#m.iyf.tv
+yx.cf.090227.xyz:443#yx.cf.090227.xyz
+down.anycast.mom:443#down.anycast.mom
+cdn.aneko.ink:443#cdn.aneko.ink
 nexusmods.com:443#nexusmods.com
-cdn.2x.nz:443#cdn.2x.nz
+constitution.congress.gov:443#constitution.congress.gov
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

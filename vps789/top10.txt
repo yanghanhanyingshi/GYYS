@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-09 15:00 | 灵鹿优选
-cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-09 22:14 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
-ip.skk.moe:443#ip.skk.moe
-openai.com:443#openai.com
+cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 cf.130519.xyz:443#cf.130519.xyz
-yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cf.553314.xyz:443#cf.553314.xyz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
+cf.090227.xyz:443#cf.090227.xyz
+openai.com:443#openai.com
+cf.3666888.xyz:443#cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

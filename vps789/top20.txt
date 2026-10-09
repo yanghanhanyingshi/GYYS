@@ -1,21 +1,21 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-10 03:56 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-10 07:44 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 cf.090227.xyz:443#cf.090227.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
+fn.130519.xyz:443#fn.130519.xyz
 cf.130519.xyz:443#cf.130519.xyz
 constitution.congress.gov:443#constitution.congress.gov
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-uspto.gov:443#uspto.gov
-cdn.091224.xyz:443#cdn.091224.xyz
+test.509666.xyz:443#test.509666.xyz
 cf.553314.xyz:443#cf.553314.xyz
 down.anycast.mom:443#down.anycast.mom
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 openai.com:443#openai.com
 cf.3666888.xyz:443#cf.3666888.xyz
 spring.io:443#spring.io
-test.509666.xyz:443#test.509666.xyz
 securecircle.com:443#securecircle.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.blibli.com:443#www.blibli.com

@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-11 08:00 | 灵鹿优选
-cdn.ddeed.de:443#cdn.ddeed.de
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-11 12:50 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
-cf.xreak.top:443#cf.xreak.top
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+greim.no:443#greim.no
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-11 19:07 | 灵鹿优选
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-12 01:04 | 灵鹿优选
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
-cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-greim.no:443#greim.no
-yx.cf.090227.xyz:443#yx.cf.090227.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+ikankeji.com:443#ikankeji.com
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 cf.xreak.top:443#cf.xreak.top
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
-www.carousell.sg:443#www.carousell.sg
-cf.553314.xyz:443#cf.553314.xyz
-liz.us.ci:443#liz.us.ci
+comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
+cf.130519.xyz:443#cf.130519.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
+cf.090227.xyz:443#cf.090227.xyz
+cf.3666888.xyz:443#cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+markmonitor.com:443#markmonitor.com
+cfplus.255520.xyz:443#cfplus.255520.xyz
 cdn.aneko.ink:443#cdn.aneko.ink
-cf.v8.longsays.com:443#cf.v8.longsays.com
+openai.com:443#openai.com
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+greim.no:443#greim.no
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

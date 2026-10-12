@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-12 14:49 | 灵鹿优选
-comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-13 00:21 | 灵鹿优选
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-ikankeji.com:443#ikankeji.com
-cf.xreak.top:443#cf.xreak.top
-cf.090227.xyz:443#cf.090227.xyz
-cf.130519.xyz:443#cf.130519.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+www.leics.police.uk:443#www.leics.police.uk
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
+www.galgamex.net:443#www.galgamex.net
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
+video.ouo.chat:443#video.ouo.chat
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

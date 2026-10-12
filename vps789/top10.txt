@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-12 08:52 | 灵鹿优选
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-ikankeji.com:443#ikankeji.com
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-cf.xreak.top:443#cf.xreak.top
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-12 14:49 | 灵鹿优选
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+ikankeji.com:443#ikankeji.com
+cf.xreak.top:443#cf.xreak.top
+cf.090227.xyz:443#cf.090227.xyz
 cf.130519.xyz:443#cf.130519.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

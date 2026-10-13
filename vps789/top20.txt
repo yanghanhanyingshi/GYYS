@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-13 07:24 | 灵鹿优选
-cf.godns.cc:443#cf.godns.cc
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-13 12:40 | 灵鹿优选
+m.iyf.tv:443#m.iyf.tv
 greim.no:443#greim.no
+china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+midjourney.com:443#midjourney.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cf.godns.cc:443#cf.godns.cc
 blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
-m.iyf.tv:443#m.iyf.tv
+nexusmods.com:443#nexusmods.com
 www.leics.police.uk:443#www.leics.police.uk
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+img.css.sd:443#img.css.sd
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
+yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 www.galgamex.net:443#www.galgamex.net
-china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-www.oopt.eu.cc:443#www.oopt.eu.cc
-cf.553314.xyz:443#cf.553314.xyz
-cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
-down.anycast.mom:443#down.anycast.mom
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+uspto.gov:443#uspto.gov
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

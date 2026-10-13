@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-14 03:41 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-14 07:32 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
@@ -8,5 +8,5 @@ www.mc.js.cool:443#www.mc.js.cool
 jobsdb.com:443#jobsdb.com
 ikankeji.com:443#ikankeji.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
-markmonitor.com:443#markmonitor.com
+cfgo.timelate.com:443#cfgo.timelate.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

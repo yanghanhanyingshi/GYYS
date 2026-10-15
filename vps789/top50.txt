@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 10-15 06:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 10-15 09:07 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.2x.nz:443#cdn.2x.nz
 www.oopt.eu.cc:443#www.oopt.eu.cc
@@ -21,10 +21,8 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
-www.deepl.com:443#www.deepl.com
 lt.1930812.xyz:443#lt.1930812.xyz
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
-www.wto.org:443#www.wto.org
 cf.3666888.xyz:443#cf.3666888.xyz
 dianomi.com:443#dianomi.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
@@ -38,15 +36,17 @@ greim.no:443#greim.no
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-ct.721660.xyz:443#ct.721660.xyz
 www.dg22.top:443#www.dg22.top
 cf.92555.xyz:443#cf.92555.xyz
+www.deepl.com:443#www.deepl.com
 mail.notion.com:443#mail.notion.com
+www.wto.org:443#www.wto.org
 coreweave.com:443#coreweave.com
 kickstarter.com:443#kickstarter.com
-mfa.gov.ua:443#mfa.gov.ua
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.130519.xyz:443#cf.130519.xyz
 linear.app:443#linear.app
+da.mfa.gov.ua:443#da.mfa.gov.ua
+constitution.congress.gov:443#constitution.congress.gov
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

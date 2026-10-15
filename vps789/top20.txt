@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-15 20:19 | 灵鹿优选
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
-cf.xreak.top:443#cf.xreak.top
-ip.skk.moe:443#ip.skk.moe
-cf.godns.cc:443#cf.godns.cc
-blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-cdn.2x.nz:443#cdn.2x.nz
-cdn.ddeed.de:443#cdn.ddeed.de
-yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-yx.cf.090227.xyz:443#yx.cf.090227.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-16 01:31 | 灵鹿优选
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cf.090227.xyz:443#cf.090227.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cf.godns.cc:443#cf.godns.cc
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
-cf.877771.xyz:443#cf.877771.xyz
+yx.cf.090227.xyz:443#yx.cf.090227.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
+blog.646474.xyz:443#blog.646474.xyz
+blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
+cf.553314.xyz:443#cf.553314.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+ip.skk.moe:443#ip.skk.moe
+youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+cdn.2x.nz:443#cdn.2x.nz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
+cf.xreak.top:443#cf.xreak.top
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

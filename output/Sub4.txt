@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://090da6a8-69f7-4b49-8af9-a8f8bfb07f17@app-stw-129.ecom-ai-solutions.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=assets-stw-129.ecom-ai-solutions.com&fp=chrome&pbk=gMa9oEtHaXgDr4h7DCJgHkFrWlwIhreQDMu73TWg-QI&sid=a4d098efe4a9ff4e&spx=/HesarWeb#• 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb
 vless://090da6a8-69f7-4b49-8af9-a8f8bfb07f17@app-stw-129.ecom-ai-solutions.com:443?security=reality&encryption=none&pbk=gMa9oEtHaXgDr4h7DCJgHkFrWlwIhreQDMu73TWg-QI&headerType=&fp=chrome&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=assets-stw-129.ecom-ai-solutions.com&sid=a4d098efe4a9ff4e#10346@proxy_online_net
 vless://0931e682-88d2-4eaf-de9e-b9b9768fd178@game.celvixo.ir:2087?path=/&security=&encryption=none&host=cp.xelzano.ir&type=ws#@Tarkshodeh 🇳🇬
 vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&host=www.linkedin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#TEL:Father_vpn
@@ -502,4 +503,3 @@ vless://2968eb62-dd97-4c8f-fbca-d69388f1b572@ansooyefilter-telegram.arshia-nova.
 vless://2968eb62-dd97-4c8f-fbca-d69388f1b572@ansooyefilter-telegram.arshia-nova.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?ed=2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mr_anonoijji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#@ansooyefilter ⚡️💔
 vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@NETMelliAnti
 vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@daredevill_404
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.william.us.ci!txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@hopev2ray💛

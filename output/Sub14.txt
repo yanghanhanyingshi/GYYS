@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩
 vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#✅  @vistav2ray کانال ما ✅
 vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#@vmesskhodam
 vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#@VConfing ❤️‍🔥
@@ -502,4 +503,3 @@ vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?mode=auto
 vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=/?Telegram---bored_vpn&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#@V2raySaman
 vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=/?Telegram---bored_vpn&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#@V2ray_confiig
 vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=/?Telegram---bored_vpn&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#@bored_vpn
-vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=/?Telegram---bored_vpn&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#Channel : @Daily_Configs

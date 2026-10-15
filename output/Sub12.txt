@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@194.5.248.93:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=roma1.moritech.net#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇷🇴
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇬🇧S2 @ELiV2Ray
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇬🇧@ELiV2Ray
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-2.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇺🇸
@@ -502,4 +503,3 @@ vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?security=real
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de2.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de2.edge-9d7c.com&sid=9d84de9d9f7b85e9#@i10VPN¹
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de3.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de3.edge-9d7c.com&sid=9d84de9d9f7b85e9#@i10VPN²
 vless://de178eba-d2c0-419b-849c-d66dcc0c0e3d@91.107.191.110:443?security=reality&encryption=none&pbk=AUlUBgfu10aO2aTaT-YwKbdh00NU1SP4uzZVt6Q0Th8&headerType=none&fp=chrome&spx=/583c1d205c1b22e&type=tcp&sni=es-us.vida-estilo.yahoo.com&sid=ee93f78385e68258#@Selinc
-vless://de178eba-d2c0-419b-849c-d66dcc0c0e3d@91.107.191.110:443?security=reality&encryption=none&pbk=AUlUBgfu10aO2aTaT-YwKbdh00NU1SP4uzZVt6Q0Th8&headerType=none&fp=chrome&spx=/583c1d205c1b22e&type=tcp&sni=es-us.vida-estilo.yahoo.com&sid=ee93f78385e68258#@daredevill_404

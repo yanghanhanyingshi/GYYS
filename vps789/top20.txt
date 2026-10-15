@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-15 14:45 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-15 20:19 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cf.xreak.top:443#cf.xreak.top
 ip.skk.moe:443#ip.skk.moe
 cf.godns.cc:443#cf.godns.cc
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-cdn.2x.nz:443#cdn.2x.nz
-cdn.ddeed.de:443#cdn.ddeed.de
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
+blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
+cdn.2x.nz:443#cdn.2x.nz
+cdn.ddeed.de:443#cdn.ddeed.de
+yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
+chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-www.oopt.eu.cc:443#www.oopt.eu.cc
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
-imooo.de:443#imooo.de
 131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
+cf.877771.xyz:443#cf.877771.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

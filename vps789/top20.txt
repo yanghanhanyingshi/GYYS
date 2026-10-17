@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-17 19:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-17 22:42 | 灵鹿优选
 ip.skk.moe:443#ip.skk.moe
 cf.godns.cc:443#cf.godns.cc
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
 blog.646474.xyz:443#blog.646474.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+www.galgamex.net:443#www.galgamex.net
+cf.xreak.top:443#cf.xreak.top
 www.shopify.com:443#www.shopify.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
-www.galgamex.net:443#www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
-ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-cf.xreak.top:443#cf.xreak.top
+cdn.ddeed.de:443#cdn.ddeed.de
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cdn.sjzhk.top:443#cdn.sjzhk.top
 jobsdb.com:443#jobsdb.com
-dnew.cc:443#dnew.cc
-www.leics.police.uk:443#www.leics.police.uk
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-cdn.555586.xyz:443#cdn.555586.xyz
-cf.468123.xyz:443#cf.468123.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cf.877771.xyz:443#cf.877771.xyz
+fn.130519.xyz:443#fn.130519.xyz
+nexusmods.com:443#nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

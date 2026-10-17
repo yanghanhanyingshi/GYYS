@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-17 15:21 | 灵鹿优选
-cf.godns.cc:443#cf.godns.cc
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-17 19:53 | 灵鹿优选
 ip.skk.moe:443#ip.skk.moe
+cf.godns.cc:443#cf.godns.cc
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+blog.646474.xyz:443#blog.646474.xyz
+www.shopify.com:443#www.shopify.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
-ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-cf.xreak.top:443#cf.xreak.top
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 www.galgamex.net:443#www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

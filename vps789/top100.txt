@@ -1,7 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 10-18 05:54 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 10-18 07:40 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 ip.skk.moe:443#ip.skk.moe
+cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 www.shopify.com:443#www.shopify.com
 linear.app:443#linear.app
 www.galgamex.net:443#www.galgamex.net
@@ -41,7 +42,9 @@ yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 wppaunz.com:443#wppaunz.com
 cu.877774.xyz:443#cu.877774.xyz
 w3.org:443#w3.org
+m.iyf.tv:443#m.iyf.tv
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
@@ -60,20 +63,25 @@ openai.com:443#openai.com
 mfa.gov.ua:443#mfa.gov.ua
 cf.130519.xyz:443#cf.130519.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
+cf.3666888.xyz:443#cf.3666888.xyz
+gh-proxy.com:443#gh-proxy.com
 spring.io:443#spring.io
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 imooo.de:443#imooo.de
+uspto.gov:443#uspto.gov
 cfgo.timelate.com:443#cfgo.timelate.com
 markmonitor.com:443#markmonitor.com
 www.blibli.com:443#www.blibli.com
 www.giannidelprete.it:443#www.giannidelprete.it
 prizepicks.com:443#prizepicks.com
 play.mc.js.cool:443#play.mc.js.cool
+top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
 www.wto.org:443#www.wto.org
 china.mfa.gov.ua:443#china.mfa.gov.ua
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
@@ -88,15 +96,7 @@ greim.no:443#greim.no
 shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
 cf.553314.xyz:443#cf.553314.xyz
 www.deepl.com:443#www.deepl.com
-cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
-top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
 midjourney.com:443#midjourney.com
 tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 cf.090227.xyz:443#cf.090227.xyz
-cf.877771.xyz:443#cf.877771.xyz
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-www.mc.js.cool:443#www.mc.js.cool
-www.jimdo.com:443#www.jimdo.com
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

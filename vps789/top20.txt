@@ -1,7 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-18 05:54 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-18 07:40 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 ip.skk.moe:443#ip.skk.moe
+cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 www.shopify.com:443#www.shopify.com
 linear.app:443#linear.app
 www.galgamex.net:443#www.galgamex.net
@@ -18,5 +19,4 @@ china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.46812
 www.dg22.top:443#www.dg22.top
 cf.xreak.top:443#cf.xreak.top
 merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
-jobsdb.com:443#jobsdb.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

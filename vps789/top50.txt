@@ -1,9 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 10-18 03:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 10-18 05:54 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 ip.skk.moe:443#ip.skk.moe
 www.shopify.com:443#www.shopify.com
-cf.godns.cc:443#cf.godns.cc
+linear.app:443#linear.app
 www.galgamex.net:443#www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
@@ -21,6 +21,7 @@ merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 jobsdb.com:443#jobsdb.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+dnew.cc:443#dnew.cc
 www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -29,16 +30,17 @@ cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cdn.555586.xyz:443#cdn.555586.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
+www.sloomb.com:443#www.sloomb.com
 www.akasantech.com:443#www.akasantech.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cf.92555.xyz:443#cf.92555.xyz
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
-w3.org:443#w3.org
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 wppaunz.com:443#wppaunz.com
 cu.877774.xyz:443#cu.877774.xyz
+w3.org:443#w3.org
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
@@ -47,6 +49,4 @@ img.css.sd:443#img.css.sd
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
-cdn.2x.nz:443#cdn.2x.nz
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,9 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 10-18 03:53 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 10-18 05:54 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 ip.skk.moe:443#ip.skk.moe
 www.shopify.com:443#www.shopify.com
-cf.godns.cc:443#cf.godns.cc
+linear.app:443#linear.app
 www.galgamex.net:443#www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
@@ -21,6 +21,7 @@ merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 jobsdb.com:443#jobsdb.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+dnew.cc:443#dnew.cc
 www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -29,16 +30,17 @@ cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cdn.555586.xyz:443#cdn.555586.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
+www.sloomb.com:443#www.sloomb.com
 www.akasantech.com:443#www.akasantech.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cf.92555.xyz:443#cf.92555.xyz
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
-w3.org:443#w3.org
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 wppaunz.com:443#wppaunz.com
 cu.877774.xyz:443#cu.877774.xyz
+w3.org:443#w3.org
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
@@ -48,10 +50,12 @@ yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
 cdn.2x.nz:443#cdn.2x.nz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 video.ouo.chat:443#video.ouo.chat
 down.anycast.mom:443#down.anycast.mom
 cdn.aneko.ink:443#cdn.aneko.ink
+www.sofi.com:443#www.sofi.com
 openai.com:443#openai.com
 mfa.gov.ua:443#mfa.gov.ua
 cf.130519.xyz:443#cf.130519.xyz
@@ -63,6 +67,7 @@ qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
+imooo.de:443#imooo.de
 cfgo.timelate.com:443#cfgo.timelate.com
 markmonitor.com:443#markmonitor.com
 www.blibli.com:443#www.blibli.com
@@ -70,16 +75,18 @@ www.giannidelprete.it:443#www.giannidelprete.it
 prizepicks.com:443#prizepicks.com
 play.mc.js.cool:443#play.mc.js.cool
 www.wto.org:443#www.wto.org
+china.mfa.gov.ua:443#china.mfa.gov.ua
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-imooo.de:443#imooo.de
 cf.468123.xyz:443#cf.468123.xyz
 store.ubi.com:443#store.ubi.com
+ahrefs.com:443#ahrefs.com
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 ct.hw.090227.xyz:443#ct.hw.090227.xyz
 greim.no:443#greim.no
 shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
+cf.553314.xyz:443#cf.553314.xyz
 www.deepl.com:443#www.deepl.com
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
@@ -92,11 +99,4 @@ www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-cfplus.255520.xyz:443#cfplus.255520.xyz
-cf.553314.xyz:443#cf.553314.xyz
-xbjzcdn.sjzhk.top:443#xbjzcdn.sjzhk.top
-sb3cdn.sjzhk.top:443#sb3cdn.sjzhk.top
-www.aneko.ink:443#www.aneko.ink
-kickstarter.com:443#kickstarter.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

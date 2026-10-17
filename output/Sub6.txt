@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl4.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
 vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl5.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
 vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl6.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
 vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl7.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
@@ -503,3 +502,4 @@ vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&en
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&host=?TELEGRAM--@CONFIG7X--@CONFIG7X--@CONFIG7X&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#YFZ 68 @Outline_Vpn
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&host=?TELEGRAM--@V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#@V2ray_confiig
 vless://4da2b397-98db-4aaa-aa24-321f478f5f61@dash.mobiza.ir:2052?path=/&security=none&encryption=none&host=dash.mobiza.ir&type=ws#@v2ray_phoenix
+vless://4dafabda-33e9-4535-e1c4-fafc98cb0553@game.celvixo.ir:2087?path=/&security=&encryption=none&host=cp.xelzano.ir&type=ws#@Tarkshodeh 🇳🇬

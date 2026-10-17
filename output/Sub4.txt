@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#🇸🇬 | 11
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@152.232.57.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.videobereg.cc&security=reality&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@152.232.57.10:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🫑71@oneclickvpnkeys
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
@@ -503,3 +502,4 @@ vless://247396b2-12d9-4744-8203-9cd761a1117a@soskeynets.srtongston.ir:2096?path=
 vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@84.200.62.50:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#@ICV2RAY
 vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@84.200.62.53:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#@irdusti(36)🇩🇪¹
 vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@84.200.62.56:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#@ICV2RAY
+vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@de2.my-cdn.org:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#Telegram @mtmvpn

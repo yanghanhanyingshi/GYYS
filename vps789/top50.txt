@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 10-18 07:40 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 10-18 10:15 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 ip.skk.moe:443#ip.skk.moe
@@ -11,6 +11,7 @@ cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.carousell.sg:443#www.carousell.sg
 cdn.sjzhk.top:443#cdn.sjzhk.top
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.udacity.com:443#www.udacity.com
 nexusmods.com:443#nexusmods.com
 www.mastervolt.com:443#www.mastervolt.com
@@ -20,15 +21,16 @@ www.dg22.top:443#www.dg22.top
 cf.xreak.top:443#cf.xreak.top
 merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 jobsdb.com:443#jobsdb.com
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 dnew.cc:443#dnew.cc
+m.iyf.tv:443#m.iyf.tv
 www.leics.police.uk:443#www.leics.police.uk
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-cdn.555586.xyz:443#cdn.555586.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com:443#www.sloomb.com
@@ -37,16 +39,14 @@ prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cdn.ddeed.de:443#cdn.ddeed.de
 cf.92555.xyz:443#cf.92555.xyz
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
-cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
+sb3cdn.sjzhk.top:443#sb3cdn.sjzhk.top
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 wppaunz.com:443#wppaunz.com
 cu.877774.xyz:443#cu.877774.xyz
 w3.org:443#w3.org
-m.iyf.tv:443#m.iyf.tv
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+cdn.555586.xyz:443#cdn.555586.xyz
 isp.254301.xyz:443#isp.254301.xyz
-img.css.sd:443#img.css.sd
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

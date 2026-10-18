@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-18 07:40 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-18 10:15 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 ip.skk.moe:443#ip.skk.moe
@@ -11,6 +11,7 @@ cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.carousell.sg:443#www.carousell.sg
 cdn.sjzhk.top:443#cdn.sjzhk.top
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.udacity.com:443#www.udacity.com
 nexusmods.com:443#nexusmods.com
 www.mastervolt.com:443#www.mastervolt.com
@@ -18,5 +19,4 @@ china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 www.dg22.top:443#www.dg22.top
 cf.xreak.top:443#cf.xreak.top
-merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

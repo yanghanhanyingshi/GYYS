@@ -1,7 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 10-19 03:07 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 10-19 06:05 | 灵鹿优选
+ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 www.galgamex.net:443#www.galgamex.net
 chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 cdn.aneko.ink:443#cdn.aneko.ink
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
 blog.646474.xyz:443#blog.646474.xyz
@@ -20,6 +20,7 @@ cf.godns.cc:443#cf.godns.cc
 china.mfa.gov.ua:443#china.mfa.gov.ua
 yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 111.cf.cname.vvhan.com:443#111.cf.cname.vvhan.com
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 cf.92555.xyz:443#cf.92555.xyz
 131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
@@ -38,11 +39,14 @@ img.css.sd:443#img.css.sd
 c-power.com.cn:443#c-power.com.cn
 shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
 markmonitor.com:443#markmonitor.com
+cfplus.255520.xyz:443#cfplus.255520.xyz
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 funko.com:443#funko.com
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 cf.090227.xyz:443#cf.090227.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
+openai.com:443#openai.com
+cu.877774.xyz:443#cu.877774.xyz
 da.mfa.gov.ua:443#da.mfa.gov.ua
 spring.io:443#spring.io
 www.wto.org:443#www.wto.org
@@ -51,6 +55,7 @@ m.iyf.tv:443#m.iyf.tv
 www.leics.police.uk:443#www.leics.police.uk
 jobsdb.com:443#jobsdb.com
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
@@ -74,29 +79,24 @@ cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
 www.mastervolt.com:443#www.mastervolt.com
 dnew.cc:443#dnew.cc
+coreweave.com:443#coreweave.com
 dianomi.com:443#dianomi.com
 ahrefs.com:443#ahrefs.com
 www.sage.com:443#www.sage.com
 www.bis.gov:443#www.bis.gov
+www.vmware.com:443#www.vmware.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 www.sofi.com:443#www.sofi.com
 greim.no:443#greim.no
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 www.carousell.sg:443#www.carousell.sg
 www.blibli.com:443#www.blibli.com
 www.dg22.top:443#www.dg22.top
 www.giannidelprete.it:443#www.giannidelprete.it
 prizepicks.com:443#prizepicks.com
-mail.notion.com:443#mail.notion.com
-cf.yj250.bond:443#cf.yj250.bond
-doordash.com:443#doordash.com
-coreweave.com:443#coreweave.com
-w3.org:443#w3.org
-cf.v8.longsays.com:443#cf.v8.longsays.com
-cmcc.vvvv.ee:443#cmcc.vvvv.ee
-www.jimdo.com:443#www.jimdo.com
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

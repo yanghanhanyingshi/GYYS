@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#@ICV2RAY
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@ICV2RAY
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🀄 10
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🀄 5
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🀄 7
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🀄 9
@@ -500,6 +503,3 @@ vless://0dea82cd-a030-4c11-bccd-f3c0be845297@201.24.114.60:443?security=reality&
 vless://0e46345c-f33b-4f9b-b8ec-90e7c986af7e@mg1.zhujue.us:11000?security=reality&encryption=none&pbk=sFRyah8EOSGcab8TfIdkq53c5HBSwAVfYQCyvZ0_BG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#@irdusti(41)🇺🇸¹
 vless://0e6001f1-fe90-4e8c-9f4f-57071268af6e@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=8586&sni=au2-images.shop.samsung.com&spx=/V7frB8cQ8PmGyNp&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-T3@hollowcon
 vless://0e6001f1-fe90-4e8c-9f4f-57071268af6e@hollowcon.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=c664c8be&sni=au2-images.shop.samsung.com&spx=/tGkMYNH4GUFk9m2&type=xhttp&x_padding_bytes=100-1000#🇳🇱hollowcon-T3@hollowcon
-vless://0e619c18-1a38-2a7b-94b8-86acccaa806e@render.com:2083?vcn=dns.google&mode=auto&pcs=1E487BB8C66822D4BCB4CB4744A7317208D9E6C2454853BC32C2E589A85F67D6&path=/?ed=2056&security=tls&encryption=none&insecure=0&host=33ferclud1.varzeshfotsal.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=33ferclud1.varzeshfotsal.ir#@Nexus_Panell چنل تلگرام
-vless://0e619c18-1a38-2a7b-94b8-86acccaa806e@render.com:2087?vcn=dns.google&mode=auto&pcs=9D61D81DB7D647CE12D592EDC7466588942D4F4C0B3E5BAEF54995A061590434&path=/?ed=2056&security=tls&encryption=none&insecure=0&host=microsoftstore-germany.ip-venzo.com&fp=chrome&type=xhttp&allowInsecure=0&sni=microsoftstore-germany.ip-venzo.com#@Nexus_Panell چنل تلگرام
-vless://0e961427-c505-406b-8156-fbd6c1ea2afc@api.apira98.org:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#🇩🇪All¹⁰ | @BigSmoke_Config

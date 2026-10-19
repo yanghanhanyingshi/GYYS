@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-19 06:05 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-19 08:38 | 灵鹿优选
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 www.galgamex.net:443#www.galgamex.net
 chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
@@ -17,6 +17,6 @@ yx.cf.090227.xyz:443#yx.cf.090227.xyz
 cf.vvhan.com:443#cf.vvhan.com
 ip.skk.moe:443#ip.skk.moe
 cf.godns.cc:443#cf.godns.cc
+blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
 china.mfa.gov.ua:443#china.mfa.gov.ua
-yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

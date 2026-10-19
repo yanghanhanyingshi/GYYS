@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-19 19:38 | 灵鹿优选
-blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
-www.galgamex.net:443#www.galgamex.net
-ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
-blog.646474.xyz:443#blog.646474.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-20 02:00 | 灵鹿优选
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 ip.skk.moe:443#ip.skk.moe
-cf.877771.xyz:443#cf.877771.xyz
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cf.godns.cc:443#cf.godns.cc
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
-chinwa.cf.090227.xyz:443#chinwa.cf.090227.xyz
+666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
+111.cf.cname.vvhan.com:443#111.cf.cname.vvhan.com
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
-cf.vvhan.com:443#cf.vvhan.com
-cf.xreak.top:443#cf.xreak.top
-cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
-cf.yj250.bond:443#cf.yj250.bond
+cdn.ddeed.de:443#cdn.ddeed.de
 www.aneko.ink:443#www.aneko.ink
 cdn.aneko.ink:443#cdn.aneko.ink
-comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
+www.galgamex.net:443#www.galgamex.net
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
+www.oopt.eu.cc:443#www.oopt.eu.cc
+blog.646474.xyz:443#blog.646474.xyz
 www.shopify.com:443#www.shopify.com
+blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

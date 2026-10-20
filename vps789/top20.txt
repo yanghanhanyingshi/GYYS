@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 10-20 14:54 | 灵鹿优选
-666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 10-20 20:26 | 灵鹿优选
 cf.godns.cc:443#cf.godns.cc
+666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-cdn.ddeed.de:443#cdn.ddeed.de
+yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
+yx.cf.090227.xyz:443#yx.cf.090227.xyz
+cf.yj250.bond:443#cf.yj250.bond
+video.ouo.chat:443#video.ouo.chat
 www.aneko.ink:443#www.aneko.ink
+cdns.doon.eu.org:443#cdns.doon.eu.org
 ip.skk.moe:443#ip.skk.moe
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+jobsdb.com:443#jobsdb.com
 youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 111.cf.cname.vvhan.com:443#111.cf.cname.vvhan.com
 www.galgamex.net:443#www.galgamex.net
-china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
-yx.cf.090227.xyz:443#yx.cf.090227.xyz
-video.ouo.chat:443#video.ouo.chat
-cdn.aneko.ink:443#cdn.aneko.ink
-cdns.doon.eu.org:443#cdns.doon.eu.org
-jobsdb.com:443#jobsdb.com
-test.509666.xyz:443#test.509666.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
+cdn.2x.nz:443#cdn.2x.nz
+cdn.ddeed.de:443#cdn.ddeed.de
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

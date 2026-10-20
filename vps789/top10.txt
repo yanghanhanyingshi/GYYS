@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-20 14:54 | 灵鹿优选
-666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-20 20:26 | 灵鹿优选
 cf.godns.cc:443#cf.godns.cc
-ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-cdn.ddeed.de:443#cdn.ddeed.de
-www.aneko.ink:443#www.aneko.ink
-ip.skk.moe:443#ip.skk.moe
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
+yx.cf.090227.xyz:443#yx.cf.090227.xyz
+cf.yj250.bond:443#cf.yj250.bond
+video.ouo.chat:443#video.ouo.chat
+www.aneko.ink:443#www.aneko.ink
+cdns.doon.eu.org:443#cdns.doon.eu.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

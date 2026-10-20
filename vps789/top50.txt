@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 10-20 06:06 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 10-20 09:23 | 灵鹿优选
 cf.godns.cc:443#cf.godns.cc
 ip.skk.moe:443#ip.skk.moe
 666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
@@ -13,16 +13,13 @@ yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 www.galgamex.net:443#www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
-www.oopt.eu.cc:443#www.oopt.eu.cc
 cdn.aneko.ink:443#cdn.aneko.ink
-blog.646474.xyz:443#blog.646474.xyz
-www.shopify.com:443#www.shopify.com
 blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cdn.2x.nz:443#cdn.2x.nz
 www.sloomb.com:443#www.sloomb.com
-131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
+www.shopify.com:443#www.shopify.com
 guide.for.edu.sg:443#guide.for.edu.sg
 serviceshub.samsclub.com:443#serviceshub.samsclub.com
 www.leics.police.uk:443#www.leics.police.uk
@@ -36,17 +33,20 @@ cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cfplus.255520.xyz:443#cfplus.255520.xyz
 www.vastnovel.com:443#www.vastnovel.com
 cf.vvhan.com:443#cf.vvhan.com
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
+cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
-cf.090227.xyz:443#cf.090227.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-www.udacity.com:443#www.udacity.com
 cf.877771.xyz:443#cf.877771.xyz
 fn.130519.xyz:443#fn.130519.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.3666888.xyz:443#cf.3666888.xyz
 da.mfa.gov.ua:443#da.mfa.gov.ua
 gh-proxy.com:443#gh-proxy.com
+spring.io:443#spring.io
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+cdn.555586.xyz:443#cdn.555586.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

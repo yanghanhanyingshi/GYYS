@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?&sni=45.144.234.157&type=ws&headerType=none&host=45.144.234.157&path=/vless#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
 vless://5a201de9-624a-4b58-b62e-32756556cdfc@s1d.syslogd.ir:443?path=/pa-m-v2&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=prx.nikpush.ir&type=ws&allowInsecure=0&sni=1fe60fe05d84ecc3.nikpush.ir#@Selinc
 vless://5a201de9-624a-4b58-b62e-32756556cdfc@s1d.syslogd.ir:443?path=/pa-m-v2&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=prx.nikpush.ir&type=ws&allowInsecure=0&sni=1fe60fe05d84ecc3.nikpush.ir#🇨🇭 Switzerland @sora1co
 vless://5a5fba4d-6ae8-4975-936d-bb643fb15957@104.21.69.130:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&alpn=http/1.1&encryption=none&fp=chrome&host=biyapain.biyapainbache.workers.dev&path=/eyJqdW5rIjoiV0lISkpXU0trWFI4OGdUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19&security=tls&sni=biyapain.biyapainbache.workers.dev&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
@@ -503,3 +502,4 @@ vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?path=/&
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sino.bestsellers1.site#@ICV2RAY
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sino.bestsellers1.site#[75166] - Telegram : @V2All
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@V2ray_Alpha🦒🦉 1
+vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@meliproxyy

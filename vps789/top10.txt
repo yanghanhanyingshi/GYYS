@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 10-21 01:39 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 10-21 05:02 | 灵鹿优选
 cf.godns.cc:443#cf.godns.cc
-cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
+cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 cf.090227.xyz:443#cf.090227.xyz
-cdns.doon.eu.org:443#cdns.doon.eu.org
 666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
-cu.877774.xyz:443#cu.877774.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
+yg8.ygkkk.dpdns.org:443#yg8.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,7 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 10-21 05:02 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP100 | 10-21 08:15 | 灵鹿优选
 cf.godns.cc:443#cf.godns.cc
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+www.oopt.eu.cc:443#www.oopt.eu.cc
 cloudflare.19931110.xyz:443#cloudflare.19931110.xyz
 cf.090227.xyz:443#cf.090227.xyz
 666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
@@ -27,6 +28,7 @@ yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 www.galgamex.net:443#www.galgamex.net
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 cf.468123.xyz:443#cf.468123.xyz
+shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
 cdn.2x.nz:443#cdn.2x.nz
 ct.721660.xyz:443#ct.721660.xyz
@@ -59,6 +61,7 @@ cf.92555.xyz:443#cf.92555.xyz
 cdn.jwcmdr.top:443#cdn.jwcmdr.top
 down.anycast.mom:443#down.anycast.mom
 www.aneko.ink:443#www.aneko.ink
+blog.646474.xyz:443#blog.646474.xyz
 cf.legspcpd.top:443#cf.legspcpd.top
 www.shopify.com:443#www.shopify.com
 kickstarter.com:443#kickstarter.com
@@ -84,7 +87,6 @@ yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 c-power.com.cn:443#c-power.com.cn
 ct.hw.090227.xyz:443#ct.hw.090227.xyz
 uspto.gov:443#uspto.gov
-www.oopt.eu.cc:443#www.oopt.eu.cc
 www.sloomb.com:443#www.sloomb.com
 www.akasantech.com:443#www.akasantech.com
 www.giannidelprete.it:443#www.giannidelprete.it
@@ -97,6 +99,4 @@ cdn.aneko.ink:443#cdn.aneko.ink
 midjourney.com:443#midjourney.com
 w3.org:443#w3.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-www.udacity.com:443#www.udacity.com
-cf.877771.xyz:443#cf.877771.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

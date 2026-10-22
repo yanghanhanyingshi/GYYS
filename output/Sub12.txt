@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@v2ray313 کانالمون 😀
-vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/fp#TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vpnsal
-vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/fp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY
-vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY
 vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY
 vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@V2ray_Alpha🦉 2
 vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@VConfing 👁️
@@ -503,3 +499,7 @@ vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@78.141.221.126:25585?security=none&
 vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?security=none&encryption=none&headerType=none&type=tcp#✨ @NOFiLTER
 vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?security=none&encryption=none&headerType=none&type=tcp#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@discord.gg:80?path=/&security=none&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws#🇩🇪@Hatunnel_vpn+|+MCI
+vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=/alibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#Telegram:@v2rayng3
+vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoid2wiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-f62c30.pages.dev&sni=ezaccess-project-f62c30.pages.dev&fp=chrome#vpnsal
+vless://e5c5c006-facc-45be-99bc-20d772372d5c@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pane3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🐅 1
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?path=/fp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#@V2ray_confiig

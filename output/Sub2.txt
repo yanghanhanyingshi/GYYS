@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#@CUSTOMVPNSERVER
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#@vpnbaz🦄
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#YFZ 53 @Outline_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#@v2rayng3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#@vasl_bashim
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#@FarazV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#@V2raySaman
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#@V2raySamanbot
@@ -496,10 +503,3 @@ trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
 trojan://@ZhilaVPN@91.107.174.133:14639?mode=auto&path=/&security=reality&pbk=E7nNU4kKyWD1oPuKzzXKsAhc8ZFWxBQuQf_xocrmdTk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=2f368a9b67#@leviconfigs🪐-7
-trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=0d12eb289946de9b#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#TEL;Father_vpn
-trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#@i10VPN¹
-trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none&type=tcp#@SylphNet | 2026-07-12 21:36
-trojan://MITIVPN@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7102f0c3-1964-47f1-936b-26b8caee9aba@166.0.22.244:2053?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=jp8.netease.uz&type=tcp#🇯🇵05 | ⚡Telegram = t.me/ex_proxies
 vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@212.46.33.5:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#@Tarkshodeh 🇧🇲
 vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@212.46.33.90:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#@hopev2ray🧡
 vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@slowkd.sadiepinki.com:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#@Tarkshodeh 🇧🇲
@@ -502,4 +503,3 @@ vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?encryption=none&
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?encryption=none&fp=chrome&host=finalnsdger.global.ssl.fastly.net.&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🤍
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&fp=chrome&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=netherboijji.global.ssl.fastly.net.&path=/#Channel : @Daily_Configs
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=finalnsdger.global.ssl.fastly.net.&fp=chrome&type=ws&sni=cdn.akamai.steamstatic.com#@tootffarangi🍓
-vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=finalnsdger.global.ssl.fastly.net.&fp=chrome&type=ws&sni=cdn.akamai.steamstatic.com#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🏉

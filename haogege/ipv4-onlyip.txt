@@ -1,0 +1,21 @@
+<!DOCTYPE html><html lang="en"  data-adblockkey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANnylWw2vLY4hUn9w06zQKbhKBfvjFUCsdFlb6TdQhxb9RXWXuI4t31c+o8fYOv/s8q1LGPga3DE1L/tHU4LENMCAwEAAQ==_oe9ILLgB/D6qkgQF97H5h8lsc39mEUdpx817DCA63+XLLd5qQ2TnW0RYK7EALYzTXzzfUnVzlYB0Md2/M1T6Tw==><head><meta charset="utf-8"><title>haogege.xyz&nbsp;-&nbsp;This website is for sale!&nbsp;-&nbsp;haogege Resources and Information.</title><meta name="viewport" content="width=device-width
+initial-scale=1.0
+maximum-scale=1.0
+user-scalable=0"><meta name="description" content="This website is for sale! haogege.xyz is your first and best source for information about haogege. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!"><link
+        rel="icon"
+        type="image/png"
+        href="//img.sedoparking.com/templates/logos/sedo_logo.png"
+/></head><body><img width="16" height="16" src="https://img.sedoparking.com/images/js_preloader.gif" alt="" /><script type="text/javascript">
+    function doRedirect() {
+        const request = new XMLHttpRequest();
+        request.open('GET'
+ "\/\/ip.haogege.xyz/search/tsc.php?ses\u003DogcaJ2cE2XgEzRPThM18s53SZ2Hg552I0kaxBrdouPvnVpSjfgwbZ7UWI\u002Dzfr90OjMtToKc1w5Klgj56kQ7AYAuAXl\u002DPDcLx3BCWRnkZV7VeGg1YF5VLTCuCbldli6H4A_iZF6ccFL1ZJdG2JGXRtIq3EzeZOopDfXUDIMTh9zUBXFARKmJ9IVXoke41UfrQqxpnuMrbTBXZYNKA_BlQscVQrT\u002DwoI0WbE0SfHbUx446rmFk5nUsnlyKJF9QmsCMsjJOgE1x72cpCkZZbOVvJwh_0A5O8MoNgKZZZdKSbwplvU2NiVTqUocrPGhL83HQMlonVYYTuHjmkP_VW8oUDs6O3vpmjjrUxCEzhMfx_NvRmdZDJEdz4OPaUKeaheVwg\u0026cv\u003D2");
+        request.send();
+                request.onreadystatechange = function () {
+            if (request.readyState === 4 && request.status === 200) {
+                window.location = "\/\/ip.haogege.xyz\/search\/redirect.php\u003Ff\u003Dhttp\u00253A\u00252F\u00252Fresultlookup.com\u00253Fdn\u00253Dhaogege.xyz\u002526sksubid\u00253D253786\u002526_slsen\u00253D1\u0026v\u003Dogc48kdxKAY23CvFvPESANdhxuXs0vBhPPa_hdlW\u002DZzLbI3ekq_dqbiODbMaL0FPKV6NBEii88W07\u002DMO8hZsLlgEgyaeS4ngPuWeM69VbW5oQe\u002DYMa0l5a\u002DvPhswXrwx0Yyxgdznqvb9C2WbHihOTTRpSrhTySn0ciY3YApm_FZjNe56YCBo0iAPdH_nNXeI\u002D5oWP4\u0026l\u003DogcJgH6D6iiPSrZqiohenlkGsYlrA40vpEYvisjP6ZfUzjpqP0rMR7ect_6qxnEJqRec5YEDlCYl7HASKy7TZiuYd3e2bYAeen6Z7zNIPa_ueWHoRuf7xPxA\u002Drx_NLJaY8HNJVjW8hVurzcEsBR\u002DP5xNVdlbOv5hZYdcfhvHY74RdYjwH\u002Dn5plQakYfp\u002DGSIv7V\u002D0MN3QYrdqEBqxb7ok3_NGIyMj4wCgnGCYmIgUvblj\u002DtU7S2fH0lJnqCsKieDWFVhEdw7dic40oQXuNp23fwSP_B3ny1BeQG\u002D3cS3GpnXtwdyMJif0HG_ZnFyA2VkjJMTqO4QIi3tEIJU44Hztqbd6ANa6cO\u002DFk86wf7s3ORdD1Ug4rzFXBcWoIeRV15d0bQxmHEecFS2KamwJk37w0jlke\u002DTbrdOjkT1NtsJGFgEPWVoUjSl1lAHSLaYz4pp3PjxSjkfcbZJlmd4X1RE32mmbnyT4FjKEYbgwG_oF6NADi325DPOEZASafxzvgo_bANROi_7iL7G7gEkrHX33Yl4La1gHBwKIdo\u002DQJWEfK\u002DM4isqVCMVZoVW_3VWrMUX6Q94zqk9jP0ujKv8vcHcwEaazHAcRcbXIfMdtA7UCfZCmRwTVVQO6ZRBoxytza_bN8HZ8j3eiZSjrIdHY3wo2pZ4jO40gIyPulZe7Gy9\u002DAec7eXuWLdfbm_eDDXY8dH59E3PebWXCzzsMNC";
+            }
+        };
+            }
+    doRedirect();
+</script></body></html>

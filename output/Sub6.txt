@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#@cnetvpn
+trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#🇩🇪@Azaranv2ray
+trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=chrome#[132150]
+trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+trojan://nzrc4ma4087c1ukr@188.114.96.1:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+trojan://nzrc4ma4087c1ukr@188.114.96.4:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 trojan://nzrc4ma4087c1ukr@188.114.96.5:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 trojan://og85o9QeVVvtMD2sxPjO@sonau.yaremonta.loc.cc:8444?security=none&headerType=&type=tcp#@v2ray_configs_pools 🌍 🔥
 trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@sw100.marshonet.store:8228/?type=grpc&serviceName=trgrpc&security=tls&sni=sw100.marshonet.store&alpn=h2&fp=chrome#@OutlineReleasedKey
@@ -496,10 +503,3 @@ vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&e
 vless://18baf01c-99b2-4675-997c-1ec73e3eadff@45.158.197.237:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#🔷3@oneclickvpnkeys
 vless://18baf01c-99b2-4675-997c-1ec73e3eadff@45.158.197.237:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#@ConfigV2RayNG
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=/vless/&security=none&encryption=none&type=ws#🇺🇸 | @ELiV2Ray
-vless://18d817c9-0dfc-4fa9-8214-2df503f0b6eb@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇧🇬 @UpsetVPN (به پینگ توجه نکن وصله)
-vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.44.179:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
-vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.99.211:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
-vless://18fe142e-1522-47ae-af55-bd8daf6273df@mail3.besttotaldns.com:443?security=tls&fp=chrome&alpn=http/1.1&sni=mail3.besttotaldns.com&type=ws&headerType=none&host=mail3.besttotaldns.com&path=/wo9a5v3jcz#🇫🇮FI-🚀@VPNine1
-vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://19841976-1b67-49e4-9f21-804d10b2fd00@89.116.72.217:8880?encryption=mlkem768x25519plus.native.0rtt.U8fzW-FW7FJZpf3gVKExdUeArvvW5R7Yvtl7w2m0kUg&fp=&pbk=OjDDQkw-g0y3OGcZUgsT_k4N_QtBDjgcjYF9it6Nyz4&security=reality&sid=cb4a2e4c&sni=www.microsoft.com&type=tcp#filembad-95
-vless://19841976-1b67-49e4-9f21-804d10b2fd00@89.116.72.217:8880?encryption=mlkem768x25519plus.native.0rtt.U8fzW-FW7FJZpf3gVKExdUeArvvW5R7Yvtl7w2m0kUg&fp=&pbk=OjDDQkw-g0y3OGcZUgsT_k4N_QtBDjgcjYF9it6Nyz4&security=reality&sid=cb4a2e4c&sni=www.microsoft.com&type=tcp#🈸32@oneclickvpnkeys
